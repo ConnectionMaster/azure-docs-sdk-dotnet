@@ -6,20 +6,16 @@
   <TypeSignature Language="F#" Value="type SearchModelFactory = class" />
   <AssemblyInfo>
     <AssemblyName>Azure.Search.Documents</AssemblyName>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <AssemblyVersion>11.0.0.0</AssemblyVersion>
-    <AssemblyVersion>11.1.0.0</AssemblyVersion>
-    <AssemblyVersion>11.1.1.0</AssemblyVersion>
     <AssemblyVersion>11.2.0.0</AssemblyVersion>
+    <AssemblyVersion>11.2.1.0</AssemblyVersion>
+    <AssemblyVersion>11.3.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
   </Base>
   <Interfaces />
   <Docs>
-    <summary>
-            Helps mock the types in Azure.Search.Documents.Models.
-            </summary>
+    <summary> Model factory for read-only models. </summary>
     <remarks>To be added.</remarks>
   </Docs>
   <Members>
@@ -32,11 +28,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.AnalyzedTokenInfo</ReturnType>
@@ -66,11 +60,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Models.AutocompleteItem</ReturnType>
@@ -96,11 +88,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Models.AutocompleteResults</ReturnType>
@@ -127,6 +117,8 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.CharFilter</ReturnType>
@@ -153,6 +145,8 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.CognitiveServicesAccount</ReturnType>
@@ -179,6 +173,8 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.DataChangeDetectionPolicy</ReturnType>
@@ -203,6 +199,8 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.DataDeletionDetectionPolicy</ReturnType>
@@ -226,11 +224,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Models.FacetResult</ReturnType>
@@ -256,11 +252,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Models.IndexDocumentsResult</ReturnType>
@@ -284,11 +278,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.IndexerExecutionResult</ReturnType>
@@ -330,11 +322,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Models.IndexingResult</ReturnType>
@@ -365,6 +355,8 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.LexicalAnalyzer</ReturnType>
@@ -391,6 +383,8 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.LexicalTokenizer</ReturnType>
@@ -417,6 +411,8 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.ScoringFunction</ReturnType>
@@ -446,11 +442,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.SearchIndexerError</ReturnType>
@@ -484,11 +478,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.SearchIndexerLimits</ReturnType>
@@ -517,6 +509,8 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.SearchIndexerSkill</ReturnType>
@@ -550,11 +544,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.SearchIndexerStatus</ReturnType>
@@ -584,11 +576,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.SearchIndexerWarning</ReturnType>
@@ -620,11 +610,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.SearchIndexStatistics</ReturnType>
@@ -650,11 +638,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.SearchResourceCounter</ReturnType>
@@ -680,11 +666,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Models.SearchResult&lt;T&gt;</ReturnType>
@@ -726,11 +710,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Models.SearchResults&lt;T&gt;</ReturnType>
@@ -769,11 +751,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Models.SearchResultsPage&lt;T&gt;</ReturnType>
@@ -804,11 +784,16 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <Attributes>
+        <Attribute>
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.SearchServiceCounters</ReturnType>
       </ReturnValue>
@@ -832,6 +817,42 @@
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
+    <Member MemberName="SearchServiceCounters">
+      <MemberSignature Language="C#" Value="public static Azure.Search.Documents.Indexes.Models.SearchServiceCounters SearchServiceCounters (Azure.Search.Documents.Indexes.Models.SearchResourceCounter documentCounter, Azure.Search.Documents.Indexes.Models.SearchResourceCounter indexCounter, Azure.Search.Documents.Indexes.Models.SearchResourceCounter indexerCounter, Azure.Search.Documents.Indexes.Models.SearchResourceCounter dataSourceCounter, Azure.Search.Documents.Indexes.Models.SearchResourceCounter storageSizeCounter, Azure.Search.Documents.Indexes.Models.SearchResourceCounter synonymMapCounter, Azure.Search.Documents.Indexes.Models.SearchResourceCounter skillsetCounter);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Azure.Search.Documents.Indexes.Models.SearchServiceCounters SearchServiceCounters(class Azure.Search.Documents.Indexes.Models.SearchResourceCounter documentCounter, class Azure.Search.Documents.Indexes.Models.SearchResourceCounter indexCounter, class Azure.Search.Documents.Indexes.Models.SearchResourceCounter indexerCounter, class Azure.Search.Documents.Indexes.Models.SearchResourceCounter dataSourceCounter, class Azure.Search.Documents.Indexes.Models.SearchResourceCounter storageSizeCounter, class Azure.Search.Documents.Indexes.Models.SearchResourceCounter synonymMapCounter, class Azure.Search.Documents.Indexes.Models.SearchResourceCounter skillsetCounter) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Search.Documents.Models.SearchModelFactory.SearchServiceCounters(Azure.Search.Documents.Indexes.Models.SearchResourceCounter,Azure.Search.Documents.Indexes.Models.SearchResourceCounter,Azure.Search.Documents.Indexes.Models.SearchResourceCounter,Azure.Search.Documents.Indexes.Models.SearchResourceCounter,Azure.Search.Documents.Indexes.Models.SearchResourceCounter,Azure.Search.Documents.Indexes.Models.SearchResourceCounter,Azure.Search.Documents.Indexes.Models.SearchResourceCounter)" />
+      <MemberSignature Language="VB.NET" Value="Public Shared Function SearchServiceCounters (documentCounter As SearchResourceCounter, indexCounter As SearchResourceCounter, indexerCounter As SearchResourceCounter, dataSourceCounter As SearchResourceCounter, storageSizeCounter As SearchResourceCounter, synonymMapCounter As SearchResourceCounter, skillsetCounter As SearchResourceCounter) As SearchServiceCounters" />
+      <MemberSignature Language="F#" Value="static member SearchServiceCounters : Azure.Search.Documents.Indexes.Models.SearchResourceCounter * Azure.Search.Documents.Indexes.Models.SearchResourceCounter * Azure.Search.Documents.Indexes.Models.SearchResourceCounter * Azure.Search.Documents.Indexes.Models.SearchResourceCounter * Azure.Search.Documents.Indexes.Models.SearchResourceCounter * Azure.Search.Documents.Indexes.Models.SearchResourceCounter * Azure.Search.Documents.Indexes.Models.SearchResourceCounter -&gt; Azure.Search.Documents.Indexes.Models.SearchServiceCounters" Usage="Azure.Search.Documents.Models.SearchModelFactory.SearchServiceCounters (documentCounter, indexCounter, indexerCounter, dataSourceCounter, storageSizeCounter, synonymMapCounter, skillsetCounter)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Search.Documents</AssemblyName>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Search.Documents.Indexes.Models.SearchServiceCounters</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="documentCounter" Type="Azure.Search.Documents.Indexes.Models.SearchResourceCounter" />
+        <Parameter Name="indexCounter" Type="Azure.Search.Documents.Indexes.Models.SearchResourceCounter" />
+        <Parameter Name="indexerCounter" Type="Azure.Search.Documents.Indexes.Models.SearchResourceCounter" />
+        <Parameter Name="dataSourceCounter" Type="Azure.Search.Documents.Indexes.Models.SearchResourceCounter" />
+        <Parameter Name="storageSizeCounter" Type="Azure.Search.Documents.Indexes.Models.SearchResourceCounter" />
+        <Parameter Name="synonymMapCounter" Type="Azure.Search.Documents.Indexes.Models.SearchResourceCounter" />
+        <Parameter Name="skillsetCounter" Type="Azure.Search.Documents.Indexes.Models.SearchResourceCounter" />
+      </Parameters>
+      <Docs>
+        <param name="documentCounter"> Total number of documents across all indexes in the service. </param>
+        <param name="indexCounter"> Total number of indexes. </param>
+        <param name="indexerCounter"> Total number of indexers. </param>
+        <param name="dataSourceCounter"> Total number of data sources. </param>
+        <param name="storageSizeCounter"> Total size of used storage in bytes. </param>
+        <param name="synonymMapCounter"> Total number of synonym maps. </param>
+        <param name="skillsetCounter"> Total number of skillsets. </param>
+        <summary> Initializes a new instance of SearchServiceCounters. </summary>
+        <returns> A new SearchServiceCounters instance for mocking. </returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
     <Member MemberName="SearchServiceLimits">
       <MemberSignature Language="C#" Value="public static Azure.Search.Documents.Indexes.Models.SearchServiceLimits SearchServiceLimits (int? maxFieldsPerIndex, int? maxFieldNestingDepthPerIndex, int? maxComplexCollectionFieldsPerIndex, int? maxComplexObjectsInCollectionsPerDocument);" />
       <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Azure.Search.Documents.Indexes.Models.SearchServiceLimits SearchServiceLimits(valuetype System.Nullable`1&lt;int32&gt; maxFieldsPerIndex, valuetype System.Nullable`1&lt;int32&gt; maxFieldNestingDepthPerIndex, valuetype System.Nullable`1&lt;int32&gt; maxComplexCollectionFieldsPerIndex, valuetype System.Nullable`1&lt;int32&gt; maxComplexObjectsInCollectionsPerDocument) cil managed" />
@@ -841,11 +862,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.SearchServiceLimits</ReturnType>
@@ -875,11 +894,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.SearchServiceStatistics</ReturnType>
@@ -905,11 +922,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Models.SearchSuggestion&lt;T&gt;</ReturnType>
@@ -943,6 +958,8 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.SimilarityAlgorithm</ReturnType>
@@ -966,10 +983,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Models.SuggestResults&lt;T&gt;</ReturnType>
@@ -1008,6 +1024,8 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.TokenFilter</ReturnType>

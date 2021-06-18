@@ -6,7 +6,7 @@
   <TypeSignature Language="F#" Value="type ChaosParameters = class&#xA;    inherit ByteSerializable" />
   <AssemblyInfo>
     <AssemblyName>System.Fabric</AssemblyName>
-    <AssemblyVersion>7.0.0.0</AssemblyVersion>
+    <AssemblyVersion>8.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Fabric.ByteSerializable</BaseTypeName>
@@ -33,7 +33,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -53,7 +53,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="maxConcurrentFaults" Type="System.Int64" />
@@ -79,7 +79,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="maxClusterStabilizationTimeout" Type="System.TimeSpan" />
@@ -91,7 +91,7 @@
         <param name="maxClusterStabilizationTimeout">The maximum amount of time to wait for the entire cluster to stabilize after a fault iteration; cannot exceed TimeSpan.FromSeconds(uint.MaxValue)</param>
         <param name="maxConcurrentFaults">Maximum number of concurrent faults induced per iteration with the lowest being 1. The higher the concurrency the more aggressive the failovers
             thus inducing more complex series of failures to uncover bugs. using 2 or 3 for this is recommended.</param>
-        <param name="enableMoveReplicaFaults">Enables or disables the MovePrimary and MoveSecondary faults.</param>
+        <param name="enableMoveReplicaFaults">Enables or disables the MovePrimary, MoveSecondary and MoveInstance faults.</param>
         <param name="timeToRun">Total time Chaos should run; maximum allowed value is TimeSpan.FromSeconds(uint.MaxValue)</param>
         <summary>
           <para>Initializes a new instance of the <see cref="T:System.Fabric.Chaos.DataStructures.ChaosParameters" /> class.</para>
@@ -109,7 +109,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="maxClusterStabilizationTimeout" Type="System.TimeSpan" />
@@ -122,7 +122,7 @@
         <param name="maxClusterStabilizationTimeout">The maximum amount of time to wait for the entire cluster to stabilize after a fault iteration; cannot exceed TimeSpan.FromSeconds(uint.MaxValue)</param>
         <param name="maxConcurrentFaults">Maximum number of concurrent faults induced per iteration with the lowest being 1. The higher the concurrency the more aggressive the failovers
             thus inducing more complex series of failures to uncover bugs. using 2 or 3 for this is recommended.</param>
-        <param name="enableMoveReplicaFaults">Enables or disables the MovePrimary and MoveSecondary faults.</param>
+        <param name="enableMoveReplicaFaults">Enables or disables the MovePrimary, MoveSecondary and MoveInstance faults.</param>
         <param name="timeToRun">After running for this much time, Chaos will stop; cannot exceed TimeSpan.FromSeconds(uint.MaxValue)</param>
         <param name="context">This is a bag of (key, value) pairs. This can be used to record detailed context about why Chaos is being started for example.</param>
         <summary>
@@ -141,7 +141,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="maxClusterStabilizationTimeout" Type="System.TimeSpan" />
@@ -156,7 +156,7 @@
         <param name="maxClusterStabilizationTimeout">The maximum amount of time to wait for the entire cluster to stabilize after a fault iteration; cannot exceed TimeSpan.FromSeconds(uint.MaxValue)</param>
         <param name="maxConcurrentFaults">Maximum number of concurrent faults induced per iteration with the lowest being 1. The higher the concurrency the more aggressive the failovers
             thus inducing more complex series of failures to uncover bugs. using 2 or 3 for this is recommended.</param>
-        <param name="enableMoveReplicaFaults">Enables or disables the MovePrimary and MoveSecondary faults.</param>
+        <param name="enableMoveReplicaFaults">Enables or disables the MovePrimary, MoveSecondary and MoveInstance faults.</param>
         <param name="timeToRun">After running for this much time, Chaos will stop; cannot exceed TimeSpan.FromSeconds(uint.MaxValue)</param>
         <param name="context">This is a bag of (key, value) pairs. This can be used to record detailed context about why Chaos is being started for example.</param>
         <param name="waitTimeBetweenIterations">This is the amount of pause between two consecutive iterations of fault inducing. The more the pause, the less is the rate of faults over time; cannot exceed TimeSpan.FromSeconds(uint.MaxValue)</param>
@@ -176,7 +176,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="maxClusterStabilizationTimeout" Type="System.TimeSpan" />
@@ -192,7 +192,7 @@
         <param name="maxClusterStabilizationTimeout">The maximum amount of time to wait for the entire cluster to stabilize after a fault iteration; cannot exceed TimeSpan.FromSeconds(uint.MaxValue)</param>
         <param name="maxConcurrentFaults">Maximum number of concurrent faults induced per iteration with the lowest being 1. The higher the concurrency the more aggressive the failovers
             thus inducing more complex series of failures to uncover bugs. using 2 or 3 for this is recommended.</param>
-        <param name="enableMoveReplicaFaults">Enables or disables the MovePrimary and MoveSecondary faults.</param>
+        <param name="enableMoveReplicaFaults">Enables or disables the MovePrimary, MoveSecondary and MoveInstance faults.</param>
         <param name="timeToRun">After running for this much time, Chaos will stop; cannot exceed TimeSpan.FromSeconds(uint.MaxValue)</param>
         <param name="context">This is a bag of (key, value) pairs. This can be used to record detailed context about why Chaos is being started for example.</param>
         <param name="waitTimeBetweenIterations">This is the amount of pause between two consecutive iterations of fault inducing. The more the pause, the less is the rate of faults over time; cannot exceed TimeSpan.FromSeconds(uint.MaxValue)</param>
@@ -213,7 +213,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Fabric.Chaos.DataStructures.ChaosTargetFilter</ReturnType>
@@ -236,7 +236,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -268,7 +268,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -296,7 +296,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -309,7 +309,7 @@
       </ReturnValue>
       <Docs>
         <summary>
-            Enables or disables the MovePrimary and MoveSecondary faults.
+            Enables or disables the MovePrimary, MoveSecondary and MoveInstance faults.
             </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
@@ -324,7 +324,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -354,7 +354,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -383,7 +383,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -410,7 +410,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -435,7 +435,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -465,7 +465,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -488,7 +488,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -518,7 +518,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -548,7 +548,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>

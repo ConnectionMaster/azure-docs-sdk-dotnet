@@ -6,15 +6,9 @@
   <TypeSignature Language="F#" Value="type SamlConditions = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.IdentityModel.Tokens.Saml</AssemblyName>
-    <AssemblyVersion>5.6.0.0</AssemblyVersion>
-    <AssemblyVersion>6.5.0.0</AssemblyVersion>
-    <AssemblyVersion>6.5.1.0</AssemblyVersion>
-    <AssemblyVersion>6.6.0.0</AssemblyVersion>
-    <AssemblyVersion>6.7.0.0</AssemblyVersion>
-    <AssemblyVersion>6.7.1.0</AssemblyVersion>
-    <AssemblyVersion>6.8.0.0</AssemblyVersion>
-    <AssemblyVersion>6.9.0.0</AssemblyVersion>
-    <AssemblyVersion>6.10.0.0</AssemblyVersion>
+    <AssemblyVersion>6.10.2.0</AssemblyVersion>
+    <AssemblyVersion>6.11.0.0</AssemblyVersion>
+    <AssemblyVersion>6.11.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -36,15 +30,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Tokens.Saml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="notBefore" Type="System.DateTime" />
@@ -68,15 +56,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Tokens.Saml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="notBefore" Type="System.DateTime" />
@@ -103,15 +85,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Tokens.Saml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.ICollection&lt;Microsoft.IdentityModel.Tokens.Saml.SamlCondition&gt;</ReturnType>
@@ -133,15 +109,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Tokens.Saml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.DateTime</ReturnType>
@@ -163,15 +133,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Tokens.Saml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.DateTime</ReturnType>

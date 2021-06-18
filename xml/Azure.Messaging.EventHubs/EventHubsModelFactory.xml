@@ -6,9 +6,9 @@
   <TypeSignature Language="F#" Value="type EventHubsModelFactory = class" />
   <AssemblyInfo>
     <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-    <AssemblyVersion>5.3.0.0</AssemblyVersion>
-    <AssemblyVersion>5.3.1.0</AssemblyVersion>
     <AssemblyVersion>5.4.0.0</AssemblyVersion>
+    <AssemblyVersion>5.4.1.0</AssemblyVersion>
+    <AssemblyVersion>5.5.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -31,9 +31,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Messaging.EventHubs.EventData</ReturnType>
@@ -71,9 +71,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Messaging.EventHubs.Producer.EventDataBatch</ReturnType>
@@ -105,9 +105,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Messaging.EventHubs.EventHubProperties</ReturnType>
@@ -137,9 +137,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Messaging.EventHubs.Consumer.LastEnqueuedEventProperties</ReturnType>
@@ -171,9 +171,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Messaging.EventHubs.Consumer.PartitionContext</ReturnType>
@@ -201,9 +201,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Messaging.EventHubs.PartitionProperties</ReturnType>

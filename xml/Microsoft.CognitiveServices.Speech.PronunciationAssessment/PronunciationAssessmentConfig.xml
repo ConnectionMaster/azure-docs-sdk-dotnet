@@ -6,9 +6,8 @@
   <TypeSignature Language="F#" Value="type PronunciationAssessmentConfig = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-    <AssemblyVersion>1.14.0.28</AssemblyVersion>
-    <AssemblyVersion>1.15.0.28</AssemblyVersion>
     <AssemblyVersion>1.16.0.28</AssemblyVersion>
+    <AssemblyVersion>1.17.0.28</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -16,7 +15,7 @@
   <Interfaces />
   <Docs>
     <summary>
-            Class that configures a pronunciation assessment.
+            Configures a pronunciation assessment.
             Added in 1.14.0
             </summary>
     <remarks>
@@ -33,9 +32,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="referenceText" Type="System.String" />
@@ -66,9 +64,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -93,9 +90,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.CognitiveServices.Speech.PronunciationAssessment.PronunciationAssessmentConfig</ReturnType>
@@ -125,9 +121,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -149,9 +144,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

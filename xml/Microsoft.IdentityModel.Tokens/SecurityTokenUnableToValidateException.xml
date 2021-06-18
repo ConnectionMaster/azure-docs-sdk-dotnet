@@ -1,15 +1,17 @@
 <Type Name="SecurityTokenUnableToValidateException" FullName="Microsoft.IdentityModel.Tokens.SecurityTokenUnableToValidateException">
-  <TypeSignature Language="C#" Value="public class SecurityTokenUnableToValidateException : Microsoft.IdentityModel.Tokens.SecurityTokenException" />
-  <TypeSignature Language="ILAsm" Value=".class public auto ansi serializable beforefieldinit SecurityTokenUnableToValidateException extends Microsoft.IdentityModel.Tokens.SecurityTokenException" />
+  <TypeSignature Language="C#" Value="public class SecurityTokenUnableToValidateException : Microsoft.IdentityModel.Tokens.SecurityTokenInvalidSignatureException" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi serializable beforefieldinit SecurityTokenUnableToValidateException extends Microsoft.IdentityModel.Tokens.SecurityTokenInvalidSignatureException" />
   <TypeSignature Language="DocId" Value="T:Microsoft.IdentityModel.Tokens.SecurityTokenUnableToValidateException" />
-  <TypeSignature Language="VB.NET" Value="Public Class SecurityTokenUnableToValidateException&#xA;Inherits SecurityTokenException" />
-  <TypeSignature Language="F#" Value="type SecurityTokenUnableToValidateException = class&#xA;    inherit SecurityTokenException" />
+  <TypeSignature Language="VB.NET" Value="Public Class SecurityTokenUnableToValidateException&#xA;Inherits SecurityTokenInvalidSignatureException" />
+  <TypeSignature Language="F#" Value="type SecurityTokenUnableToValidateException = class&#xA;    inherit SecurityTokenInvalidSignatureException" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.IdentityModel.Tokens</AssemblyName>
-    <AssemblyVersion>6.10.0.0</AssemblyVersion>
+    <AssemblyVersion>6.10.2.0</AssemblyVersion>
+    <AssemblyVersion>6.11.0.0</AssemblyVersion>
+    <AssemblyVersion>6.11.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
-    <BaseTypeName>Microsoft.IdentityModel.Tokens.SecurityTokenException</BaseTypeName>
+    <BaseTypeName>Microsoft.IdentityModel.Tokens.SecurityTokenInvalidSignatureException</BaseTypeName>
   </Base>
   <Interfaces />
   <Attributes>
@@ -35,7 +37,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Tokens</AssemblyName>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -54,7 +58,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Tokens</AssemblyName>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="message" Type="System.String" />
@@ -76,7 +82,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Tokens</AssemblyName>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="validationFailure" Type="Microsoft.IdentityModel.Tokens.ValidationFailure" />
@@ -100,7 +108,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Tokens</AssemblyName>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="info" Type="System.Runtime.Serialization.SerializationInfo" />
@@ -124,7 +134,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Tokens</AssemblyName>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="message" Type="System.String" />
@@ -148,7 +160,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Tokens</AssemblyName>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -174,7 +188,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Tokens</AssemblyName>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.IdentityModel.Tokens.ValidationFailure</ReturnType>

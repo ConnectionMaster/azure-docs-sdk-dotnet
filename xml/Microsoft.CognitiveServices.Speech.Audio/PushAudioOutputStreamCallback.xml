@@ -6,16 +6,8 @@
   <TypeSignature Language="F#" Value="type PushAudioOutputStreamCallback = class&#xA;    interface IDisposable" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-    <AssemblyVersion>1.8.0.28</AssemblyVersion>
-    <AssemblyVersion>1.9.0.28</AssemblyVersion>
-    <AssemblyVersion>1.10.0.28</AssemblyVersion>
-    <AssemblyVersion>1.11.0.28</AssemblyVersion>
-    <AssemblyVersion>1.12.0.28</AssemblyVersion>
-    <AssemblyVersion>1.12.1.28</AssemblyVersion>
-    <AssemblyVersion>1.13.0.28</AssemblyVersion>
-    <AssemblyVersion>1.14.0.28</AssemblyVersion>
-    <AssemblyVersion>1.15.0.28</AssemblyVersion>
     <AssemblyVersion>1.16.0.28</AssemblyVersion>
+    <AssemblyVersion>1.17.0.28</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -27,8 +19,8 @@
   </Interfaces>
   <Docs>
     <summary>
-            An abstract base class that defines callback methods (Write() and Close()) for custom audio output streams).
-            Added in version 1.4.0
+            Abstract base class that defines callback methods (Write() and Close()) for custom audio output streams).
+            Added in 1.4.0
             </summary>
     <remarks>
             See also: [Recognize from in-memory stream](/azure/cognitive-services/speech-service/get-started-speech-to-text#recognize-from-in-memory-stream)
@@ -43,16 +35,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.8.0.28</AssemblyVersion>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -69,16 +53,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.8.0.28</AssemblyVersion>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -104,16 +80,8 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.8.0.28</AssemblyVersion>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -136,16 +104,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.8.0.28</AssemblyVersion>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -173,16 +133,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.8.0.28</AssemblyVersion>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.UInt32</ReturnType>

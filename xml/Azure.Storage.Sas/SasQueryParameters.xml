@@ -6,21 +6,8 @@
   <TypeSignature Language="F#" Value="type SasQueryParameters = class" />
   <AssemblyInfo>
     <AssemblyName>Azure.Storage.Common</AssemblyName>
-    <AssemblyVersion>12.0.0.0</AssemblyVersion>
-    <AssemblyVersion>12.1.0.0</AssemblyVersion>
-    <AssemblyVersion>12.1.1.0</AssemblyVersion>
-    <AssemblyVersion>12.2.0.0</AssemblyVersion>
-    <AssemblyVersion>12.3.0.0</AssemblyVersion>
-    <AssemblyVersion>12.4.0.0</AssemblyVersion>
-    <AssemblyVersion>12.4.1.0</AssemblyVersion>
-    <AssemblyVersion>12.4.2.0</AssemblyVersion>
-    <AssemblyVersion>12.4.3.0</AssemblyVersion>
-    <AssemblyVersion>12.5.0.0</AssemblyVersion>
-    <AssemblyVersion>12.5.1.0</AssemblyVersion>
-    <AssemblyVersion>12.5.2.0</AssemblyVersion>
-    <AssemblyVersion>12.6.0.0</AssemblyVersion>
-    <AssemblyVersion>12.7.0.0</AssemblyVersion>
-    <AssemblyVersion>12.7.1.0</AssemblyVersion>
+    <AssemblyVersion>12.7.2.0</AssemblyVersion>
+    <AssemblyVersion>12.7.3.0</AssemblyVersion>
     <AssemblyVersion>12.8.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
@@ -49,20 +36,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
@@ -82,20 +57,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -121,20 +84,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -187,9 +138,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -250,9 +200,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -281,9 +230,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -311,21 +259,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -349,21 +284,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -387,21 +309,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -425,21 +334,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -463,21 +359,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -501,9 +384,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -528,20 +410,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -571,20 +441,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -647,9 +505,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -714,21 +571,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -750,9 +594,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -778,21 +621,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -815,21 +645,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -853,21 +670,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -892,21 +696,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -931,21 +722,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -971,9 +749,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1004,21 +781,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1042,21 +806,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1079,21 +830,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1116,21 +854,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1154,21 +879,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1194,21 +906,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1234,21 +933,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1274,21 +960,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.3.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.1.0</AssemblyVersion>
-        <AssemblyVersion>12.5.2.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.0.0</AssemblyVersion>
-        <AssemblyVersion>12.7.1.0</AssemblyVersion>
+        <AssemblyVersion>12.7.2.0</AssemblyVersion>
+        <AssemblyVersion>12.7.3.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>

@@ -6,8 +6,9 @@
   <TypeSignature Language="F#" Value="type WorkspacePurgeOperationsExtensions = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-    <AssemblyVersion>0.20.0.0</AssemblyVersion>
     <AssemblyVersion>0.21.0.0</AssemblyVersion>
+    <AssemblyVersion>0.22.0.0</AssemblyVersion>
+    <AssemblyVersion>0.23.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -29,8 +30,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.OperationalInsights.Models.WorkspacePurgeStatusResponse</ReturnType>
@@ -71,8 +73,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.OperationalInsights.Models.WorkspacePurgeStatusResponse&gt;</ReturnType>
@@ -117,8 +120,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.OperationalInsights.Models.WorkspacePurgeResponse</ReturnType>
@@ -166,8 +170,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.OperationalInsights.Models.WorkspacePurgeResponse&gt;</ReturnType>

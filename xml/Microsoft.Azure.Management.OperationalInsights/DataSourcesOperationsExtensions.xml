@@ -6,9 +6,9 @@
   <TypeSignature Language="F#" Value="type DataSourcesOperationsExtensions = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-    <AssemblyVersion>0.19.0.0</AssemblyVersion>
-    <AssemblyVersion>0.20.0.0</AssemblyVersion>
     <AssemblyVersion>0.21.0.0</AssemblyVersion>
+    <AssemblyVersion>0.22.0.0</AssemblyVersion>
+    <AssemblyVersion>0.23.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -30,9 +30,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.19.0.0</AssemblyVersion>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.OperationalInsights.Models.DataSource</ReturnType>
@@ -76,9 +76,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.19.0.0</AssemblyVersion>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.OperationalInsights.Models.DataSource&gt;</ReturnType>
@@ -126,9 +126,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.19.0.0</AssemblyVersion>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -167,9 +167,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.19.0.0</AssemblyVersion>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -213,9 +213,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.19.0.0</AssemblyVersion>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.OperationalInsights.Models.DataSource</ReturnType>
@@ -255,9 +255,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.19.0.0</AssemblyVersion>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.OperationalInsights.Models.DataSource&gt;</ReturnType>
@@ -301,9 +301,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.19.0.0</AssemblyVersion>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.OperationalInsights.Models.DataSource&gt;</ReturnType>
@@ -348,9 +348,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.19.0.0</AssemblyVersion>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.OperationalInsights.Models.DataSource&gt;&gt;</ReturnType>
@@ -399,9 +399,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.19.0.0</AssemblyVersion>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.OperationalInsights.Models.DataSource&gt;</ReturnType>
@@ -434,9 +434,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.19.0.0</AssemblyVersion>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.OperationalInsights.Models.DataSource&gt;&gt;</ReturnType>

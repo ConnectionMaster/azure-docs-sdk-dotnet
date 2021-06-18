@@ -6,23 +6,9 @@
   <TypeSignature Language="F#" Value="type IVirtualMachineScaleSetsOperations = interface" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-    <AssemblyVersion>30.0.0.0</AssemblyVersion>
-    <AssemblyVersion>31.0.0.0</AssemblyVersion>
-    <AssemblyVersion>32.0.0.0</AssemblyVersion>
-    <AssemblyVersion>33.0.0.0</AssemblyVersion>
-    <AssemblyVersion>34.0.0.0</AssemblyVersion>
-    <AssemblyVersion>35.0.0.0</AssemblyVersion>
-    <AssemblyVersion>35.2.0.0</AssemblyVersion>
-    <AssemblyVersion>36.0.0.0</AssemblyVersion>
-    <AssemblyVersion>37.0.0.0</AssemblyVersion>
-    <AssemblyVersion>38.0.0.0</AssemblyVersion>
-    <AssemblyVersion>38.1.0.0</AssemblyVersion>
-    <AssemblyVersion>39.0.0.0</AssemblyVersion>
-    <AssemblyVersion>41.0.0.0</AssemblyVersion>
-    <AssemblyVersion>42.0.0.0</AssemblyVersion>
-    <AssemblyVersion>43.0.0.1</AssemblyVersion>
-    <AssemblyVersion>44.0.0.0</AssemblyVersion>
-    <AssemblyVersion>45.0.0.0</AssemblyVersion>
+    <AssemblyVersion>45.0.0.1</AssemblyVersion>
+    <AssemblyVersion>46.0.0.0</AssemblyVersion>
+    <AssemblyVersion>47.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Interfaces />
   <Docs>
@@ -41,23 +27,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt;</ReturnType>
@@ -110,23 +82,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -181,8 +139,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -237,8 +196,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -289,23 +249,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -340,7 +286,7 @@
             set. Operation on instances which are not eligible for perform
             maintenance will be failed. Please refer to best practices for more
             details:
-            https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-maintenance-notifications
+            https://docs.microsoft.com/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-maintenance-notifications
             </summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
@@ -353,31 +299,17 @@
       </Docs>
     </Member>
     <Member MemberName="BeginPowerOffWithHttpMessagesAsync">
-      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt; BeginPowerOffWithHttpMessagesAsync (string resourceGroupName, string vmScaleSetName, bool? skipShutdown = false, System.Collections.Generic.IList&lt;string&gt; instanceIds = default, System.Collections.Generic.Dictionary&lt;string,System.Collections.Generic.List&lt;string&gt;&gt; customHeaders = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt; BeginPowerOffWithHttpMessagesAsync (string resourceGroupName, string vmScaleSetName, bool? skipShutdown = False, System.Collections.Generic.IList&lt;string&gt; instanceIds = default, System.Collections.Generic.Dictionary&lt;string,System.Collections.Generic.List&lt;string&gt;&gt; customHeaders = default, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Microsoft.Rest.Azure.AzureOperationResponse&gt; BeginPowerOffWithHttpMessagesAsync(string resourceGroupName, string vmScaleSetName, valuetype System.Nullable`1&lt;bool&gt; skipShutdown, class System.Collections.Generic.IList`1&lt;string&gt; instanceIds, class System.Collections.Generic.Dictionary`2&lt;string, class System.Collections.Generic.List`1&lt;string&gt;&gt; customHeaders, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Compute.IVirtualMachineScaleSetsOperations.BeginPowerOffWithHttpMessagesAsync(System.String,System.String,System.Nullable{System.Boolean},System.Collections.Generic.IList{System.String},System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.List{System.String}},System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Function BeginPowerOffWithHttpMessagesAsync (resourceGroupName As String, vmScaleSetName As String, Optional skipShutdown As Nullable(Of Boolean) = false, Optional instanceIds As IList(Of String) = Nothing, Optional customHeaders As Dictionary(Of String, List(Of String)) = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of AzureOperationResponse)" />
+      <MemberSignature Language="VB.NET" Value="Public Function BeginPowerOffWithHttpMessagesAsync (resourceGroupName As String, vmScaleSetName As String, Optional skipShutdown As Nullable(Of Boolean) = False, Optional instanceIds As IList(Of String) = Nothing, Optional customHeaders As Dictionary(Of String, List(Of String)) = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of AzureOperationResponse)" />
       <MemberSignature Language="F#" Value="abstract member BeginPowerOffWithHttpMessagesAsync : string * string * Nullable&lt;bool&gt; * System.Collections.Generic.IList&lt;string&gt; * System.Collections.Generic.Dictionary&lt;string, System.Collections.Generic.List&lt;string&gt;&gt; * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;" Usage="iVirtualMachineScaleSetsOperations.BeginPowerOffWithHttpMessagesAsync (resourceGroupName, vmScaleSetName, skipShutdown, instanceIds, customHeaders, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -438,23 +370,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -507,23 +425,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -577,23 +481,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -646,23 +536,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -714,18 +590,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -775,23 +642,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -843,23 +696,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -910,23 +749,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt;</ReturnType>
@@ -979,23 +804,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -1050,23 +861,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt;</ReturnType>
@@ -1119,23 +916,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -1190,8 +973,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -1246,8 +1030,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -1298,23 +1083,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Compute.Models.RecoveryWalkResponse&gt;&gt;</ReturnType>
@@ -1369,23 +1140,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSetInstanceView&gt;&gt;</ReturnType>
@@ -1434,23 +1191,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.UpgradeOperationHistoricalStatusInfo&gt;&gt;&gt;</ReturnType>
@@ -1495,23 +1238,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.UpgradeOperationHistoricalStatusInfo&gt;&gt;&gt;</ReturnType>
@@ -1552,6 +1281,92 @@
       </Docs>
     </Member>
     <Member MemberName="GetWithHttpMessagesAsync">
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt; GetWithHttpMessagesAsync (string resourceGroupName, string vmScaleSetName);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Microsoft.Rest.Azure.AzureOperationResponse`1&lt;class Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt; GetWithHttpMessagesAsync(string resourceGroupName, string vmScaleSetName) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Compute.IVirtualMachineScaleSetsOperations.GetWithHttpMessagesAsync(System.String,System.String)" />
+      <MemberSignature Language="VB.NET" Value="Public Function GetWithHttpMessagesAsync (resourceGroupName As String, vmScaleSetName As String) As Task(Of AzureOperationResponse(Of VirtualMachineScaleSet))" />
+      <MemberSignature Language="F#" Value="abstract member GetWithHttpMessagesAsync : string * string -&gt; System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt;" Usage="iVirtualMachineScaleSetsOperations.GetWithHttpMessagesAsync (resourceGroupName, vmScaleSetName)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="resourceGroupName" Type="System.String" />
+        <Parameter Name="vmScaleSetName" Type="System.String" />
+      </Parameters>
+      <Docs>
+        <param name="resourceGroupName">
+            The name of the resource group.
+            </param>
+        <param name="vmScaleSetName">
+            The name of the VM scale set.
+            </param>
+        <summary>
+            Display information about a virtual machine scale set.
+            </summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Microsoft.Rest.Azure.CloudException">
+            Thrown when the operation returned an invalid status code
+            </exception>
+        <exception cref="T:Microsoft.Rest.SerializationException">
+            Thrown when unable to deserialize the response
+            </exception>
+        <exception cref="T:Microsoft.Rest.ValidationException">
+            Thrown when a required parameter is null
+            </exception>
+      </Docs>
+    </Member>
+    <Member MemberName="GetWithHttpMessagesAsync">
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt; GetWithHttpMessagesAsync (string resourceGroupName, string vmScaleSetName, System.Collections.Generic.Dictionary&lt;string,System.Collections.Generic.List&lt;string&gt;&gt; customHeaders = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Microsoft.Rest.Azure.AzureOperationResponse`1&lt;class Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt; GetWithHttpMessagesAsync(string resourceGroupName, string vmScaleSetName, class System.Collections.Generic.Dictionary`2&lt;string, class System.Collections.Generic.List`1&lt;string&gt;&gt; customHeaders) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Compute.IVirtualMachineScaleSetsOperations.GetWithHttpMessagesAsync(System.String,System.String,System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.List{System.String}})" />
+      <MemberSignature Language="VB.NET" Value="Public Function GetWithHttpMessagesAsync (resourceGroupName As String, vmScaleSetName As String, Optional customHeaders As Dictionary(Of String, List(Of String)) = Nothing) As Task(Of AzureOperationResponse(Of VirtualMachineScaleSet))" />
+      <MemberSignature Language="F#" Value="abstract member GetWithHttpMessagesAsync : string * string * System.Collections.Generic.Dictionary&lt;string, System.Collections.Generic.List&lt;string&gt;&gt; -&gt; System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt;" Usage="iVirtualMachineScaleSetsOperations.GetWithHttpMessagesAsync (resourceGroupName, vmScaleSetName, customHeaders)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="resourceGroupName" Type="System.String" />
+        <Parameter Name="vmScaleSetName" Type="System.String" />
+        <Parameter Name="customHeaders" Type="System.Collections.Generic.Dictionary&lt;System.String,System.Collections.Generic.List&lt;System.String&gt;&gt;" />
+      </Parameters>
+      <Docs>
+        <param name="resourceGroupName">
+            The name of the resource group.
+            </param>
+        <param name="vmScaleSetName">
+            The name of the VM scale set.
+            </param>
+        <param name="customHeaders">
+            The headers that will be added to request.
+            </param>
+        <summary>
+            Display information about a virtual machine scale set.
+            </summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Microsoft.Rest.Azure.CloudException">
+            Thrown when the operation returned an invalid status code
+            </exception>
+        <exception cref="T:Microsoft.Rest.SerializationException">
+            Thrown when unable to deserialize the response
+            </exception>
+        <exception cref="T:Microsoft.Rest.ValidationException">
+            Thrown when a required parameter is null
+            </exception>
+      </Docs>
+    </Member>
+    <Member MemberName="GetWithHttpMessagesAsync">
       <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt; GetWithHttpMessagesAsync (string resourceGroupName, string vmScaleSetName, System.Collections.Generic.Dictionary&lt;string,System.Collections.Generic.List&lt;string&gt;&gt; customHeaders = default, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Microsoft.Rest.Azure.AzureOperationResponse`1&lt;class Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt; GetWithHttpMessagesAsync(string resourceGroupName, string vmScaleSetName, class System.Collections.Generic.Dictionary`2&lt;string, class System.Collections.Generic.List`1&lt;string&gt;&gt; customHeaders, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Compute.IVirtualMachineScaleSetsOperations.GetWithHttpMessagesAsync(System.String,System.String,System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.List{System.String}},System.Threading.CancellationToken)" />
@@ -1560,23 +1375,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt;</ReturnType>
@@ -1616,6 +1417,62 @@
             </exception>
       </Docs>
     </Member>
+    <Member MemberName="GetWithHttpMessagesAsync">
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt; GetWithHttpMessagesAsync (string resourceGroupName, string vmScaleSetName, string expand = default, System.Collections.Generic.Dictionary&lt;string,System.Collections.Generic.List&lt;string&gt;&gt; customHeaders = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Microsoft.Rest.Azure.AzureOperationResponse`1&lt;class Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt; GetWithHttpMessagesAsync(string resourceGroupName, string vmScaleSetName, string expand, class System.Collections.Generic.Dictionary`2&lt;string, class System.Collections.Generic.List`1&lt;string&gt;&gt; customHeaders, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Compute.IVirtualMachineScaleSetsOperations.GetWithHttpMessagesAsync(System.String,System.String,System.String,System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.List{System.String}},System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Function GetWithHttpMessagesAsync (resourceGroupName As String, vmScaleSetName As String, Optional expand As String = Nothing, Optional customHeaders As Dictionary(Of String, List(Of String)) = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of AzureOperationResponse(Of VirtualMachineScaleSet))" />
+      <MemberSignature Language="F#" Value="abstract member GetWithHttpMessagesAsync : string * string * string * System.Collections.Generic.Dictionary&lt;string, System.Collections.Generic.List&lt;string&gt;&gt; * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt;" Usage="iVirtualMachineScaleSetsOperations.GetWithHttpMessagesAsync (resourceGroupName, vmScaleSetName, expand, customHeaders, cancellationToken)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="resourceGroupName" Type="System.String" />
+        <Parameter Name="vmScaleSetName" Type="System.String" />
+        <Parameter Name="expand" Type="System.String" />
+        <Parameter Name="customHeaders" Type="System.Collections.Generic.Dictionary&lt;System.String,System.Collections.Generic.List&lt;System.String&gt;&gt;" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
+      </Parameters>
+      <Docs>
+        <param name="resourceGroupName">
+            The name of the resource group.
+            </param>
+        <param name="vmScaleSetName">
+            The name of the VM scale set.
+            </param>
+        <param name="expand">
+            The expand expression to apply on the operation. 'UserData'
+            retrieves the UserData property of the VM scale set that was
+            provided by the user during the VM scale set Create/Update
+            operation. Possible values include: 'userData'
+            </param>
+        <param name="customHeaders">
+            The headers that will be added to request.
+            </param>
+        <param name="cancellationToken">
+            The cancellation token.
+            </param>
+        <summary>
+            Display information about a virtual machine scale set.
+            </summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Microsoft.Rest.Azure.CloudException">
+            Thrown when the operation returned an invalid status code
+            </exception>
+        <exception cref="T:Microsoft.Rest.SerializationException">
+            Thrown when unable to deserialize the response
+            </exception>
+        <exception cref="T:Microsoft.Rest.ValidationException">
+            Thrown when a required parameter is null
+            </exception>
+      </Docs>
+    </Member>
     <Member MemberName="ListAllNextWithHttpMessagesAsync">
       <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt;&gt; ListAllNextWithHttpMessagesAsync (string nextPageLink, System.Collections.Generic.Dictionary&lt;string,System.Collections.Generic.List&lt;string&gt;&gt; customHeaders = default, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Microsoft.Rest.Azure.AzureOperationResponse`1&lt;class Microsoft.Rest.Azure.IPage`1&lt;class Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt;&gt; ListAllNextWithHttpMessagesAsync(string nextPageLink, class System.Collections.Generic.Dictionary`2&lt;string, class System.Collections.Generic.List`1&lt;string&gt;&gt; customHeaders, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
@@ -1625,23 +1482,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt;&gt;</ReturnType>
@@ -1689,23 +1532,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt;&gt;</ReturnType>
@@ -1749,8 +1578,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt;&gt;</ReturnType>
@@ -1796,8 +1626,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt;&gt;</ReturnType>
@@ -1844,23 +1675,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt;&gt;</ReturnType>
@@ -1905,23 +1722,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSetSku&gt;&gt;&gt;</ReturnType>
@@ -1967,23 +1770,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSetSku&gt;&gt;&gt;</ReturnType>
@@ -2033,23 +1822,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt;&gt;</ReturnType>
@@ -2094,23 +1869,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -2145,7 +1906,7 @@
             set. Operation on instances which are not eligible for perform
             maintenance will be failed. Please refer to best practices for more
             details:
-            https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-maintenance-notifications
+            https://docs.microsoft.com/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-maintenance-notifications
             </summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
@@ -2158,31 +1919,17 @@
       </Docs>
     </Member>
     <Member MemberName="PowerOffWithHttpMessagesAsync">
-      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt; PowerOffWithHttpMessagesAsync (string resourceGroupName, string vmScaleSetName, bool? skipShutdown = false, System.Collections.Generic.IList&lt;string&gt; instanceIds = default, System.Collections.Generic.Dictionary&lt;string,System.Collections.Generic.List&lt;string&gt;&gt; customHeaders = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt; PowerOffWithHttpMessagesAsync (string resourceGroupName, string vmScaleSetName, bool? skipShutdown = False, System.Collections.Generic.IList&lt;string&gt; instanceIds = default, System.Collections.Generic.Dictionary&lt;string,System.Collections.Generic.List&lt;string&gt;&gt; customHeaders = default, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Microsoft.Rest.Azure.AzureOperationResponse&gt; PowerOffWithHttpMessagesAsync(string resourceGroupName, string vmScaleSetName, valuetype System.Nullable`1&lt;bool&gt; skipShutdown, class System.Collections.Generic.IList`1&lt;string&gt; instanceIds, class System.Collections.Generic.Dictionary`2&lt;string, class System.Collections.Generic.List`1&lt;string&gt;&gt; customHeaders, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Compute.IVirtualMachineScaleSetsOperations.PowerOffWithHttpMessagesAsync(System.String,System.String,System.Nullable{System.Boolean},System.Collections.Generic.IList{System.String},System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.List{System.String}},System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Function PowerOffWithHttpMessagesAsync (resourceGroupName As String, vmScaleSetName As String, Optional skipShutdown As Nullable(Of Boolean) = false, Optional instanceIds As IList(Of String) = Nothing, Optional customHeaders As Dictionary(Of String, List(Of String)) = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of AzureOperationResponse)" />
+      <MemberSignature Language="VB.NET" Value="Public Function PowerOffWithHttpMessagesAsync (resourceGroupName As String, vmScaleSetName As String, Optional skipShutdown As Nullable(Of Boolean) = False, Optional instanceIds As IList(Of String) = Nothing, Optional customHeaders As Dictionary(Of String, List(Of String)) = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of AzureOperationResponse)" />
       <MemberSignature Language="F#" Value="abstract member PowerOffWithHttpMessagesAsync : string * string * Nullable&lt;bool&gt; * System.Collections.Generic.IList&lt;string&gt; * System.Collections.Generic.Dictionary&lt;string, System.Collections.Generic.List&lt;string&gt;&gt; * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;" Usage="iVirtualMachineScaleSetsOperations.PowerOffWithHttpMessagesAsync (resourceGroupName, vmScaleSetName, skipShutdown, instanceIds, customHeaders, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -2243,23 +1990,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -2312,23 +2045,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -2382,23 +2101,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -2451,23 +2156,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -2519,18 +2210,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -2580,23 +2262,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -2648,23 +2316,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -2715,23 +2369,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Compute.Models.VirtualMachineScaleSet&gt;&gt;</ReturnType>

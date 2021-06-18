@@ -6,17 +6,8 @@
   <TypeSignature Language="F#" Value="type DataLakeModelFactory = class" />
   <AssemblyInfo>
     <AssemblyName>Azure.Storage.Files.DataLake</AssemblyName>
-    <AssemblyVersion>12.0.0.0</AssemblyVersion>
-    <AssemblyVersion>12.1.0.0</AssemblyVersion>
-    <AssemblyVersion>12.2.0.0</AssemblyVersion>
-    <AssemblyVersion>12.2.1.0</AssemblyVersion>
-    <AssemblyVersion>12.2.2.0</AssemblyVersion>
-    <AssemblyVersion>12.3.0.0</AssemblyVersion>
-    <AssemblyVersion>12.3.1.0</AssemblyVersion>
-    <AssemblyVersion>12.4.0.0</AssemblyVersion>
-    <AssemblyVersion>12.5.0.0</AssemblyVersion>
-    <AssemblyVersion>12.6.0.0</AssemblyVersion>
     <AssemblyVersion>12.6.1.0</AssemblyVersion>
+    <AssemblyVersion>12.6.2.0</AssemblyVersion>
     <AssemblyVersion>12.7.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
@@ -39,12 +30,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Files.DataLake</AssemblyName>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -77,17 +64,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Files.DataLake</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.2.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -154,17 +132,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Files.DataLake</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.2.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -197,17 +166,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Files.DataLake</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.2.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -236,21 +196,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Files.DataLake</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.2.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
-        <Attribute FrameworkAlternate="azure-dotnet-preview">
+        <Attribute>
           <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
           <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
         </Attribute>
@@ -287,10 +238,10 @@
         <ReturnType>Azure.Storage.Files.DataLake.Models.FileSystemItem</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="name" Type="System.String" Index="0" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="isDeleted" Type="System.Nullable&lt;System.Boolean&gt;" Index="1" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="versionId" Type="System.String" Index="2" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="properties" Type="Azure.Storage.Files.DataLake.Models.FileSystemProperties" Index="3" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="name" Type="System.String" />
+        <Parameter Name="isDeleted" Type="System.Nullable&lt;System.Boolean&gt;" />
+        <Parameter Name="versionId" Type="System.String" />
+        <Parameter Name="properties" Type="Azure.Storage.Files.DataLake.Models.FileSystemProperties" />
       </Parameters>
       <Docs>
         <param name="name">To be added.</param>
@@ -313,21 +264,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Files.DataLake</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.2.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
-        <Attribute FrameworkAlternate="azure-dotnet-preview">
+        <Attribute>
           <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
           <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
         </Attribute>
@@ -376,17 +318,17 @@
         <ReturnType>Azure.Storage.Files.DataLake.Models.FileSystemProperties</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="lastModified" Type="System.DateTimeOffset" Index="0" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="leaseStatus" Type="System.Nullable&lt;Azure.Storage.Files.DataLake.Models.DataLakeLeaseStatus&gt;" Index="1" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="leaseState" Type="System.Nullable&lt;Azure.Storage.Files.DataLake.Models.DataLakeLeaseState&gt;" Index="2" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="leaseDuration" Type="System.Nullable&lt;Azure.Storage.Files.DataLake.Models.DataLakeLeaseDuration&gt;" Index="3" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="publicAccess" Type="System.Nullable&lt;Azure.Storage.Files.DataLake.Models.PublicAccessType&gt;" Index="4" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="hasImmutabilityPolicy" Type="System.Nullable&lt;System.Boolean&gt;" Index="5" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="hasLegalHold" Type="System.Nullable&lt;System.Boolean&gt;" Index="6" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="eTag" Type="Azure.ETag" Index="7" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="metadata" Type="System.Collections.Generic.IDictionary&lt;System.String,System.String&gt;" Index="8" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="deletedOn" Type="System.Nullable&lt;System.DateTimeOffset&gt;" Index="9" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="remainingRetentionDays" Type="System.Nullable&lt;System.Int32&gt;" Index="10" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="lastModified" Type="System.DateTimeOffset" />
+        <Parameter Name="leaseStatus" Type="System.Nullable&lt;Azure.Storage.Files.DataLake.Models.DataLakeLeaseStatus&gt;" />
+        <Parameter Name="leaseState" Type="System.Nullable&lt;Azure.Storage.Files.DataLake.Models.DataLakeLeaseState&gt;" />
+        <Parameter Name="leaseDuration" Type="System.Nullable&lt;Azure.Storage.Files.DataLake.Models.DataLakeLeaseDuration&gt;" />
+        <Parameter Name="publicAccess" Type="System.Nullable&lt;Azure.Storage.Files.DataLake.Models.PublicAccessType&gt;" />
+        <Parameter Name="hasImmutabilityPolicy" Type="System.Nullable&lt;System.Boolean&gt;" />
+        <Parameter Name="hasLegalHold" Type="System.Nullable&lt;System.Boolean&gt;" />
+        <Parameter Name="eTag" Type="Azure.ETag" />
+        <Parameter Name="metadata" Type="System.Collections.Generic.IDictionary&lt;System.String,System.String&gt;" />
+        <Parameter Name="deletedOn" Type="System.Nullable&lt;System.DateTimeOffset&gt;" />
+        <Parameter Name="remainingRetentionDays" Type="System.Nullable&lt;System.Int32&gt;" />
       </Parameters>
       <Docs>
         <param name="lastModified">To be added.</param>
@@ -416,17 +358,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Files.DataLake</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.2.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -459,17 +392,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Files.DataLake</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.2.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -502,17 +426,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Files.DataLake</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.2.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -561,17 +476,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Files.DataLake</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.2.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -600,17 +506,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Files.DataLake</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.2.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -639,17 +536,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Files.DataLake</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.2.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -690,17 +578,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Files.DataLake</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.2.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -785,16 +664,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Files.DataLake</AssemblyName>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.2.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -875,17 +746,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Files.DataLake</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.2.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.2.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>

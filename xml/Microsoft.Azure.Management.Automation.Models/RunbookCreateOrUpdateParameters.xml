@@ -11,7 +11,7 @@
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
     <AssemblyVersion>2.0.0.0</AssemblyVersion>
-    <AssemblyVersion>3.0.1.0</AssemblyVersion>
+    <AssemblyVersion>3.0.2.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Microsoft.Azure.Management.Automation.Models.ResourceCreateOrUpdateParameterBase</BaseTypeName>
@@ -40,7 +40,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
         <AssemblyVersion>2.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -80,7 +80,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="runbookType" Type="System.String" Index="0" FrameworkAlternate="azure-dotnet-preview" />
@@ -129,7 +129,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute FrameworkAlternate="azure-dotnet-preview">
@@ -157,7 +157,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute FrameworkAlternate="azure-dotnet-preview">
@@ -185,7 +185,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute FrameworkAlternate="azure-dotnet-preview">
@@ -213,7 +213,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute FrameworkAlternate="azure-dotnet-preview">
@@ -241,7 +241,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute FrameworkAlternate="azure-dotnet-preview">
@@ -269,7 +269,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute FrameworkAlternate="azure-dotnet-preview">
@@ -297,7 +297,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute FrameworkAlternate="azure-dotnet-preview">
@@ -345,7 +345,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute FrameworkAlternate="azure-dotnet-preview">
@@ -373,7 +373,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute FrameworkAlternate="azure-dotnet-preview">
@@ -403,7 +403,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute FrameworkAlternate="azure-dotnet-preview">
@@ -431,7 +431,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>

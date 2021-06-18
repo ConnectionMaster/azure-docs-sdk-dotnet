@@ -6,19 +6,10 @@
   <TypeSignature Language="F#" Value="type ProvisioningServiceClient = class&#xA;    interface IDisposable" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-    <AssemblyVersion>1.5.0.0</AssemblyVersion>
-    <AssemblyVersion>1.5.1.0</AssemblyVersion>
-    <AssemblyVersion>1.5.2.0</AssemblyVersion>
-    <AssemblyVersion>1.6.0.0</AssemblyVersion>
-    <AssemblyVersion>1.6.1.0</AssemblyVersion>
-    <AssemblyVersion>1.6.2.0</AssemblyVersion>
-    <AssemblyVersion>1.6.3.0</AssemblyVersion>
-    <AssemblyVersion>1.7.0.0</AssemblyVersion>
-    <AssemblyVersion>1.16.0.0</AssemblyVersion>
-    <AssemblyVersion>1.16.1.0</AssemblyVersion>
-    <AssemblyVersion>1.16.2.0</AssemblyVersion>
     <AssemblyVersion>1.16.3.0</AssemblyVersion>
     <AssemblyVersion>1.17.0.0</AssemblyVersion>
+    <AssemblyVersion>1.17.1.0</AssemblyVersion>
+    <AssemblyVersion>1.18.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -92,19 +83,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.Query</ReturnType>
@@ -137,19 +119,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.Query</ReturnType>
@@ -184,19 +157,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.Query</ReturnType>
@@ -235,19 +199,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.Query</ReturnType>
@@ -282,19 +237,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.Query</ReturnType>
@@ -335,19 +281,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.Query</ReturnType>
@@ -388,19 +325,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.Query</ReturnType>
@@ -434,19 +362,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.Query</ReturnType>
@@ -482,19 +401,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.Query</ReturnType>
@@ -535,19 +445,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.Query</ReturnType>
@@ -583,19 +484,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.Query</ReturnType>
@@ -638,19 +530,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.Query</ReturnType>
@@ -693,19 +576,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.ProvisioningServiceClient</ReturnType>
@@ -736,19 +610,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.ProvisioningServiceClient</ReturnType>
@@ -781,19 +646,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.Query</ReturnType>
@@ -826,19 +682,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.Query</ReturnType>
@@ -873,19 +720,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.Query</ReturnType>
@@ -924,19 +762,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.Query</ReturnType>
@@ -971,19 +800,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.Query</ReturnType>
@@ -1024,19 +844,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Provisioning.Service.Query</ReturnType>
@@ -1077,19 +888,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Provisioning.Service.EnrollmentGroup&gt;</ReturnType>
@@ -1126,19 +928,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Provisioning.Service.EnrollmentGroup&gt;</ReturnType>
@@ -1177,19 +970,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Provisioning.Service.IndividualEnrollment&gt;</ReturnType>
@@ -1296,19 +1080,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Provisioning.Service.IndividualEnrollment&gt;</ReturnType>
@@ -1336,19 +1111,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -1383,19 +1149,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -1428,19 +1185,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -1477,19 +1225,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -1527,19 +1266,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -1574,19 +1304,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -1626,19 +1347,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -1675,19 +1387,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -1722,19 +1425,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -1773,19 +1467,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -1824,19 +1509,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -1873,19 +1549,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -1926,19 +1593,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -1977,19 +1635,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -2026,19 +1675,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -2066,19 +1706,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -2120,19 +1751,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -2171,19 +1793,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -2216,19 +1829,10 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -2250,19 +1854,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -2287,19 +1882,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Provisioning.Service.DeviceRegistrationState&gt;</ReturnType>
@@ -2332,19 +1918,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Provisioning.Service.DeviceRegistrationState&gt;</ReturnType>
@@ -2379,19 +1956,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Provisioning.Service.EnrollmentGroup&gt;</ReturnType>
@@ -2424,19 +1992,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Provisioning.Service.EnrollmentGroup&gt;</ReturnType>
@@ -2471,12 +2030,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Provisioning.Service.AttestationMechanism&gt;</ReturnType>
@@ -2506,19 +2063,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Provisioning.Service.IndividualEnrollment&gt;</ReturnType>
@@ -2553,19 +2101,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Provisioning.Service.IndividualEnrollment&gt;</ReturnType>
@@ -2575,7 +2114,7 @@
         <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
-        <param name="registrationId">The registration ID.</param>
+        <param name="registrationId">The registration Id.</param>
         <param name="cancellationToken">The cancellation token.</param>
         <summary>
             Gets the individual enrollment object.
@@ -2593,12 +2132,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Provisioning.Service.AttestationMechanism&gt;</ReturnType>
@@ -2628,19 +2165,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Provisioning.Service.BulkEnrollmentOperationResult&gt;</ReturnType>
@@ -2674,19 +2202,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Provisioning.Service</AssemblyName>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.6.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.2.0</AssemblyVersion>
-        <AssemblyVersion>1.6.3.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.16.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.3.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.17.1.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Provisioning.Service.BulkEnrollmentOperationResult&gt;</ReturnType>

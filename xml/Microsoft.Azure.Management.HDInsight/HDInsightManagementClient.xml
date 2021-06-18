@@ -7,8 +7,8 @@
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
     <AssemblyVersion>3.0.0.0</AssemblyVersion>
-    <AssemblyVersion>5.0.0.0</AssemblyVersion>
     <AssemblyVersion>6.0.0.0</AssemblyVersion>
+    <AssemblyVersion>7.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Microsoft.Rest.ServiceClient&lt;Microsoft.Azure.Management.HDInsight.HDInsightManagementClient&gt;</BaseTypeName>
@@ -44,8 +44,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="handlers" Type="System.Net.Http.DelegatingHandler[]">
@@ -77,8 +77,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="credentials" Type="Microsoft.Rest.ServiceClientCredentials" />
@@ -116,8 +116,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="httpClient" Type="System.Net.Http.HttpClient" Index="0" FrameworkAlternate="azure-dotnet" />
@@ -145,8 +145,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="rootHandler" Type="System.Net.Http.HttpClientHandler" />
@@ -182,8 +182,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="baseUri" Type="System.Uri" />
@@ -221,8 +221,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="credentials" Type="Microsoft.Rest.ServiceClientCredentials" Index="0" FrameworkAlternate="azure-dotnet" />
@@ -257,8 +257,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="credentials" Type="Microsoft.Rest.ServiceClientCredentials" />
@@ -301,8 +301,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="baseUri" Type="System.Uri" />
@@ -345,8 +345,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="baseUri" Type="System.Uri" />
@@ -389,8 +389,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="baseUri" Type="System.Uri" />
@@ -440,8 +440,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -464,8 +464,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -488,8 +488,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.HDInsight.IApplicationsOperations</ReturnType>
@@ -515,8 +515,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Uri</ReturnType>
@@ -539,8 +539,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.HDInsight.IClustersOperations</ReturnType>
@@ -563,8 +563,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.HDInsight.IConfigurationsOperations</ReturnType>
@@ -587,8 +587,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.ServiceClientCredentials</ReturnType>
@@ -611,8 +611,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Newtonsoft.Json.JsonSerializerSettings</ReturnType>
@@ -656,8 +656,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.HDInsight.IExtensionsOperations</ReturnType>
@@ -684,8 +684,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Boolean&gt;</ReturnType>
@@ -710,8 +710,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.TransientFaultHandling.RetryPolicy</ReturnType>
@@ -734,8 +734,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.HDInsight.ILocationsOperations</ReturnType>
@@ -762,8 +762,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int32&gt;</ReturnType>
@@ -787,8 +787,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.HDInsight.IOperations</ReturnType>
@@ -811,8 +811,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.HDInsight.IScriptActionsOperations</ReturnType>
@@ -835,8 +835,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.HDInsight.IScriptExecutionHistoryOperations</ReturnType>
@@ -859,8 +859,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Newtonsoft.Json.JsonSerializerSettings</ReturnType>
@@ -886,8 +886,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -911,8 +911,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.HDInsight</AssemblyName>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.HDInsight.IVirtualMachinesOperations</ReturnType>

@@ -6,8 +6,8 @@
   <TypeSignature Language="F#" Value="type SiteLoadBalancing = " />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Websites</AssemblyName>
-    <AssemblyVersion>2.0.0.0</AssemblyVersion>
     <AssemblyVersion>3.1.0.0</AssemblyVersion>
+    <AssemblyVersion>3.1.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Enum</BaseTypeName>
@@ -34,8 +34,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Websites</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -60,8 +60,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Websites</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -77,6 +77,31 @@
         <summary>To be added.</summary>
       </Docs>
     </Member>
+    <Member MemberName="PerSiteRoundRobin">
+      <MemberSignature Language="C#" Value="PerSiteRoundRobin" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Microsoft.Azure.Management.WebSites.Models.SiteLoadBalancing PerSiteRoundRobin = int32(5)" />
+      <MemberSignature Language="DocId" Value="F:Microsoft.Azure.Management.WebSites.Models.SiteLoadBalancing.PerSiteRoundRobin" />
+      <MemberSignature Language="VB.NET" Value="PerSiteRoundRobin" />
+      <MemberSignature Language="F#" Value="PerSiteRoundRobin = 5" Usage="Microsoft.Azure.Management.WebSites.Models.SiteLoadBalancing.PerSiteRoundRobin" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Azure.Management.Websites</AssemblyName>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Attributes>
+        <Attribute>
+          <AttributeName Language="C#">[System.Runtime.Serialization.EnumMember(Value="PerSiteRoundRobin")]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.Runtime.Serialization.EnumMember(Value="PerSiteRoundRobin")&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
+      <ReturnValue>
+        <ReturnType>Microsoft.Azure.Management.WebSites.Models.SiteLoadBalancing</ReturnType>
+      </ReturnValue>
+      <MemberValue>5</MemberValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
     <Member MemberName="RequestHash">
       <MemberSignature Language="C#" Value="RequestHash" />
       <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Microsoft.Azure.Management.WebSites.Models.SiteLoadBalancing RequestHash = int32(4)" />
@@ -86,8 +111,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Websites</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -112,8 +137,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Websites</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -138,8 +163,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Websites</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>

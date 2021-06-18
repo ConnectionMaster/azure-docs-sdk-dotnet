@@ -6,10 +6,8 @@
   <TypeSignature Language="F#" Value="type ITableOperations = interface" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-    <AssemblyVersion>17.0.0.0</AssemblyVersion>
-    <AssemblyVersion>18.0.0.0</AssemblyVersion>
-    <AssemblyVersion>19.0.0.0</AssemblyVersion>
-    <AssemblyVersion>20.0.0.0</AssemblyVersion>
+    <AssemblyVersion>21.0.0.0</AssemblyVersion>
+    <AssemblyVersion>22.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Interfaces />
   <Docs>
@@ -28,10 +26,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Storage.Models.Table&gt;&gt;</ReturnType>
@@ -91,10 +87,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -151,10 +145,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Storage.Models.Table&gt;&gt;</ReturnType>
@@ -214,10 +206,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Storage.Models.Table&gt;&gt;&gt;</ReturnType>
@@ -262,10 +252,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Storage.Models.Table&gt;&gt;&gt;</ReturnType>
@@ -317,10 +305,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.Storage.Models.Table&gt;&gt;</ReturnType>

@@ -6,8 +6,7 @@
   <TypeSignature Language="F#" Value="type ITargetingContext = interface" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.FeatureManagement</AssemblyName>
-    <AssemblyVersion>2.1.0.0</AssemblyVersion>
-    <AssemblyVersion>2.2.0.0</AssemblyVersion>
+    <AssemblyVersion>2.3.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Interfaces />
   <Docs>
@@ -26,8 +25,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.FeatureManagement</AssemblyName>
-        <AssemblyVersion>2.1.0.0</AssemblyVersion>
-        <AssemblyVersion>2.2.0.0</AssemblyVersion>
+        <AssemblyVersion>2.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IEnumerable&lt;System.String&gt;</ReturnType>
@@ -49,8 +47,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.FeatureManagement</AssemblyName>
-        <AssemblyVersion>2.1.0.0</AssemblyVersion>
-        <AssemblyVersion>2.2.0.0</AssemblyVersion>
+        <AssemblyVersion>2.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

@@ -6,9 +6,9 @@
   <TypeSignature Language="F#" Value="type ContentKeyPolicyRsaTokenKey = class&#xA;    inherit ContentKeyPolicyRestrictionTokenKey" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-    <AssemblyVersion>2.0.1.0</AssemblyVersion>
-    <AssemblyVersion>3.0.3.0</AssemblyVersion>
     <AssemblyVersion>3.0.4.0</AssemblyVersion>
+    <AssemblyVersion>3.0.5.0</AssemblyVersion>
+    <AssemblyVersion>4.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Microsoft.Azure.Management.Media.Models.ContentKeyPolicyRestrictionTokenKey</BaseTypeName>
@@ -35,9 +35,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -57,9 +57,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="exponent" Type="System.Byte[]" />
@@ -84,9 +84,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -114,9 +114,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -144,9 +144,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>

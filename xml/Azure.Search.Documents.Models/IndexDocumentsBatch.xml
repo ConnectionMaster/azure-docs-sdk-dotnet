@@ -6,11 +6,9 @@
   <TypeSignature Language="F#" Value="type IndexDocumentsBatch = class" />
   <AssemblyInfo>
     <AssemblyName>Azure.Search.Documents</AssemblyName>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <AssemblyVersion>11.0.0.0</AssemblyVersion>
-    <AssemblyVersion>11.1.0.0</AssemblyVersion>
-    <AssemblyVersion>11.1.1.0</AssemblyVersion>
     <AssemblyVersion>11.2.0.0</AssemblyVersion>
+    <AssemblyVersion>11.2.1.0</AssemblyVersion>
+    <AssemblyVersion>11.3.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -33,11 +31,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Models.IndexDocumentsBatch&lt;T&gt;</ReturnType>
@@ -48,7 +44,7 @@
       <Parameters>
         <Parameter Name="actions" Type="Azure.Search.Documents.Models.IndexDocumentsAction&lt;T&gt;[]">
           <Attributes>
-            <Attribute FrameworkAlternate="azure-dotnet">
+            <Attribute>
               <AttributeName Language="C#">[System.ParamArray]</AttributeName>
               <AttributeName Language="F#">[&lt;System.ParamArray&gt;]</AttributeName>
             </Attribute>
@@ -80,11 +76,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Models.IndexDocumentsBatch&lt;Azure.Search.Documents.Models.SearchDocument&gt;</ReturnType>
@@ -120,11 +114,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Models.IndexDocumentsBatch&lt;T&gt;</ReturnType>
@@ -159,11 +151,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Models.IndexDocumentsBatch&lt;T&gt;</ReturnType>
@@ -198,11 +188,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Models.IndexDocumentsBatch&lt;T&gt;</ReturnType>
@@ -237,11 +225,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Models.IndexDocumentsBatch&lt;T&gt;</ReturnType>

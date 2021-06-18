@@ -6,15 +6,9 @@
   <TypeSignature Language="F#" Value="type PrivateEndpointConnection = class&#xA;    interface IResource" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-    <AssemblyVersion>37.0.0.0</AssemblyVersion>
-    <AssemblyVersion>38.0.0.0</AssemblyVersion>
-    <AssemblyVersion>38.1.0.0</AssemblyVersion>
-    <AssemblyVersion>39.0.0.0</AssemblyVersion>
-    <AssemblyVersion>41.0.0.0</AssemblyVersion>
-    <AssemblyVersion>42.0.0.0</AssemblyVersion>
-    <AssemblyVersion>43.0.0.1</AssemblyVersion>
-    <AssemblyVersion>44.0.0.0</AssemblyVersion>
-    <AssemblyVersion>45.0.0.0</AssemblyVersion>
+    <AssemblyVersion>45.0.0.1</AssemblyVersion>
+    <AssemblyVersion>46.0.0.0</AssemblyVersion>
+    <AssemblyVersion>47.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -45,15 +39,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -72,15 +60,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="privateLinkServiceConnectionState" Type="Microsoft.Azure.Management.Compute.Models.PrivateLinkServiceConnectionState" />
@@ -117,15 +99,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -153,15 +129,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -181,23 +151,17 @@
       </Docs>
     </Member>
     <Member MemberName="PrivateEndpoint">
-      <MemberSignature Language="C#" Value="public Microsoft.Azure.Management.Compute.Models.PrivateEndpoint PrivateEndpoint { get; set; }" />
+      <MemberSignature Language="C#" Value="public Microsoft.Azure.Management.Compute.Models.PrivateEndpoint PrivateEndpoint { get; }" />
       <MemberSignature Language="ILAsm" Value=".property instance class Microsoft.Azure.Management.Compute.Models.PrivateEndpoint PrivateEndpoint" />
       <MemberSignature Language="DocId" Value="P:Microsoft.Azure.Management.Compute.Models.PrivateEndpointConnection.PrivateEndpoint" />
-      <MemberSignature Language="VB.NET" Value="Public Property PrivateEndpoint As PrivateEndpoint" />
-      <MemberSignature Language="F#" Value="member this.PrivateEndpoint : Microsoft.Azure.Management.Compute.Models.PrivateEndpoint with get, set" Usage="Microsoft.Azure.Management.Compute.Models.PrivateEndpointConnection.PrivateEndpoint" />
+      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property PrivateEndpoint As PrivateEndpoint" />
+      <MemberSignature Language="F#" Value="member this.PrivateEndpoint : Microsoft.Azure.Management.Compute.Models.PrivateEndpoint" Usage="Microsoft.Azure.Management.Compute.Models.PrivateEndpointConnection.PrivateEndpoint" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -210,7 +174,7 @@
       </ReturnValue>
       <Docs>
         <summary>
-            Gets or sets the resource of private end point.
+            Gets the resource of private end point.
             </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
@@ -225,15 +189,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -262,15 +220,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -300,15 +252,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -336,15 +282,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>

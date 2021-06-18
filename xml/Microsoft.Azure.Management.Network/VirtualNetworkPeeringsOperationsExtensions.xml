@@ -6,9 +6,6 @@
   <TypeSignature Language="F#" Value="type VirtualNetworkPeeringsOperationsExtensions = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-    <AssemblyVersion>20.0.0.0</AssemblyVersion>
-    <AssemblyVersion>20.0.1.0</AssemblyVersion>
-    <AssemblyVersion>20.0.2.0</AssemblyVersion>
     <AssemblyVersion>20.0.3.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
@@ -23,17 +20,14 @@
   </Docs>
   <Members>
     <Member MemberName="BeginCreateOrUpdate">
-      <MemberSignature Language="C#" Value="public static Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering BeginCreateOrUpdate (this Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations operations, string resourceGroupName, string virtualNetworkName, string virtualNetworkPeeringName, Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering virtualNetworkPeeringParameters);" />
-      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering BeginCreateOrUpdate(class Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations operations, string resourceGroupName, string virtualNetworkName, string virtualNetworkPeeringName, class Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering virtualNetworkPeeringParameters) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Network.VirtualNetworkPeeringsOperationsExtensions.BeginCreateOrUpdate(Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations,System.String,System.String,System.String,Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering)" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function BeginCreateOrUpdate (operations As IVirtualNetworkPeeringsOperations, resourceGroupName As String, virtualNetworkName As String, virtualNetworkPeeringName As String, virtualNetworkPeeringParameters As VirtualNetworkPeering) As VirtualNetworkPeering" />
-      <MemberSignature Language="F#" Value="static member BeginCreateOrUpdate : Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations * string * string * string * Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering -&gt; Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering" Usage="Microsoft.Azure.Management.Network.VirtualNetworkPeeringsOperationsExtensions.BeginCreateOrUpdate (operations, resourceGroupName, virtualNetworkName, virtualNetworkPeeringName, virtualNetworkPeeringParameters)" />
+      <MemberSignature Language="C#" Value="public static Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering BeginCreateOrUpdate (this Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations operations, string resourceGroupName, string virtualNetworkName, string virtualNetworkPeeringName, Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering virtualNetworkPeeringParameters, string syncRemoteAddressSpace = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering BeginCreateOrUpdate(class Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations operations, string resourceGroupName, string virtualNetworkName, string virtualNetworkPeeringName, class Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering virtualNetworkPeeringParameters, string syncRemoteAddressSpace) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Network.VirtualNetworkPeeringsOperationsExtensions.BeginCreateOrUpdate(Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations,System.String,System.String,System.String,Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering,System.String)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function BeginCreateOrUpdate (operations As IVirtualNetworkPeeringsOperations, resourceGroupName As String, virtualNetworkName As String, virtualNetworkPeeringName As String, virtualNetworkPeeringParameters As VirtualNetworkPeering, Optional syncRemoteAddressSpace As String = Nothing) As VirtualNetworkPeering" />
+      <MemberSignature Language="F#" Value="static member BeginCreateOrUpdate : Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations * string * string * string * Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering * string -&gt; Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering" Usage="Microsoft.Azure.Management.Network.VirtualNetworkPeeringsOperationsExtensions.BeginCreateOrUpdate (operations, resourceGroupName, virtualNetworkName, virtualNetworkPeeringName, virtualNetworkPeeringParameters, syncRemoteAddressSpace)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -45,6 +39,7 @@
         <Parameter Name="virtualNetworkName" Type="System.String" />
         <Parameter Name="virtualNetworkPeeringName" Type="System.String" />
         <Parameter Name="virtualNetworkPeeringParameters" Type="Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering" />
+        <Parameter Name="syncRemoteAddressSpace" Type="System.String" />
       </Parameters>
       <Docs>
         <param name="operations">
@@ -63,6 +58,11 @@
             Parameters supplied to the create or update virtual network peering
             operation.
             </param>
+        <param name="syncRemoteAddressSpace">
+            Parameter indicates the intention to sync the peering with the current
+            address space on the remote vNet after it's updated. Possible values
+            include: 'true'
+            </param>
         <summary>
             Creates or updates a peering in the specified virtual network.
             </summary>
@@ -71,17 +71,14 @@
       </Docs>
     </Member>
     <Member MemberName="BeginCreateOrUpdateAsync">
-      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering&gt; BeginCreateOrUpdateAsync (this Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations operations, string resourceGroupName, string virtualNetworkName, string virtualNetworkPeeringName, Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering virtualNetworkPeeringParameters, System.Threading.CancellationToken cancellationToken = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;class Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering&gt; BeginCreateOrUpdateAsync(class Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations operations, string resourceGroupName, string virtualNetworkName, string virtualNetworkPeeringName, class Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering virtualNetworkPeeringParameters, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Network.VirtualNetworkPeeringsOperationsExtensions.BeginCreateOrUpdateAsync(Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations,System.String,System.String,System.String,Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function BeginCreateOrUpdateAsync (operations As IVirtualNetworkPeeringsOperations, resourceGroupName As String, virtualNetworkName As String, virtualNetworkPeeringName As String, virtualNetworkPeeringParameters As VirtualNetworkPeering, Optional cancellationToken As CancellationToken = Nothing) As Task(Of VirtualNetworkPeering)" />
-      <MemberSignature Language="F#" Value="static member BeginCreateOrUpdateAsync : Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations * string * string * string * Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering&gt;" Usage="Microsoft.Azure.Management.Network.VirtualNetworkPeeringsOperationsExtensions.BeginCreateOrUpdateAsync (operations, resourceGroupName, virtualNetworkName, virtualNetworkPeeringName, virtualNetworkPeeringParameters, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering&gt; BeginCreateOrUpdateAsync (this Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations operations, string resourceGroupName, string virtualNetworkName, string virtualNetworkPeeringName, Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering virtualNetworkPeeringParameters, string syncRemoteAddressSpace = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;class Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering&gt; BeginCreateOrUpdateAsync(class Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations operations, string resourceGroupName, string virtualNetworkName, string virtualNetworkPeeringName, class Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering virtualNetworkPeeringParameters, string syncRemoteAddressSpace, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Network.VirtualNetworkPeeringsOperationsExtensions.BeginCreateOrUpdateAsync(Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations,System.String,System.String,System.String,Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering,System.String,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function BeginCreateOrUpdateAsync (operations As IVirtualNetworkPeeringsOperations, resourceGroupName As String, virtualNetworkName As String, virtualNetworkPeeringName As String, virtualNetworkPeeringParameters As VirtualNetworkPeering, Optional syncRemoteAddressSpace As String = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of VirtualNetworkPeering)" />
+      <MemberSignature Language="F#" Value="static member BeginCreateOrUpdateAsync : Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations * string * string * string * Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering * string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering&gt;" Usage="Microsoft.Azure.Management.Network.VirtualNetworkPeeringsOperationsExtensions.BeginCreateOrUpdateAsync (operations, resourceGroupName, virtualNetworkName, virtualNetworkPeeringName, virtualNetworkPeeringParameters, syncRemoteAddressSpace, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -93,6 +90,7 @@
         <Parameter Name="virtualNetworkName" Type="System.String" />
         <Parameter Name="virtualNetworkPeeringName" Type="System.String" />
         <Parameter Name="virtualNetworkPeeringParameters" Type="Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering" />
+        <Parameter Name="syncRemoteAddressSpace" Type="System.String" />
         <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
@@ -111,6 +109,11 @@
         <param name="virtualNetworkPeeringParameters">
             Parameters supplied to the create or update virtual network peering
             operation.
+            </param>
+        <param name="syncRemoteAddressSpace">
+            Parameter indicates the intention to sync the peering with the current
+            address space on the remote vNet after it's updated. Possible values
+            include: 'true'
             </param>
         <param name="cancellationToken">
             The cancellation token.
@@ -131,9 +134,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -173,9 +173,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -212,17 +209,14 @@
       </Docs>
     </Member>
     <Member MemberName="CreateOrUpdate">
-      <MemberSignature Language="C#" Value="public static Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering CreateOrUpdate (this Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations operations, string resourceGroupName, string virtualNetworkName, string virtualNetworkPeeringName, Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering virtualNetworkPeeringParameters);" />
-      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering CreateOrUpdate(class Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations operations, string resourceGroupName, string virtualNetworkName, string virtualNetworkPeeringName, class Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering virtualNetworkPeeringParameters) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Network.VirtualNetworkPeeringsOperationsExtensions.CreateOrUpdate(Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations,System.String,System.String,System.String,Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering)" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function CreateOrUpdate (operations As IVirtualNetworkPeeringsOperations, resourceGroupName As String, virtualNetworkName As String, virtualNetworkPeeringName As String, virtualNetworkPeeringParameters As VirtualNetworkPeering) As VirtualNetworkPeering" />
-      <MemberSignature Language="F#" Value="static member CreateOrUpdate : Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations * string * string * string * Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering -&gt; Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering" Usage="Microsoft.Azure.Management.Network.VirtualNetworkPeeringsOperationsExtensions.CreateOrUpdate (operations, resourceGroupName, virtualNetworkName, virtualNetworkPeeringName, virtualNetworkPeeringParameters)" />
+      <MemberSignature Language="C#" Value="public static Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering CreateOrUpdate (this Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations operations, string resourceGroupName, string virtualNetworkName, string virtualNetworkPeeringName, Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering virtualNetworkPeeringParameters, string syncRemoteAddressSpace = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering CreateOrUpdate(class Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations operations, string resourceGroupName, string virtualNetworkName, string virtualNetworkPeeringName, class Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering virtualNetworkPeeringParameters, string syncRemoteAddressSpace) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Network.VirtualNetworkPeeringsOperationsExtensions.CreateOrUpdate(Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations,System.String,System.String,System.String,Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering,System.String)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function CreateOrUpdate (operations As IVirtualNetworkPeeringsOperations, resourceGroupName As String, virtualNetworkName As String, virtualNetworkPeeringName As String, virtualNetworkPeeringParameters As VirtualNetworkPeering, Optional syncRemoteAddressSpace As String = Nothing) As VirtualNetworkPeering" />
+      <MemberSignature Language="F#" Value="static member CreateOrUpdate : Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations * string * string * string * Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering * string -&gt; Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering" Usage="Microsoft.Azure.Management.Network.VirtualNetworkPeeringsOperationsExtensions.CreateOrUpdate (operations, resourceGroupName, virtualNetworkName, virtualNetworkPeeringName, virtualNetworkPeeringParameters, syncRemoteAddressSpace)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -234,6 +228,7 @@
         <Parameter Name="virtualNetworkName" Type="System.String" />
         <Parameter Name="virtualNetworkPeeringName" Type="System.String" />
         <Parameter Name="virtualNetworkPeeringParameters" Type="Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering" />
+        <Parameter Name="syncRemoteAddressSpace" Type="System.String" />
       </Parameters>
       <Docs>
         <param name="operations">
@@ -252,6 +247,11 @@
             Parameters supplied to the create or update virtual network peering
             operation.
             </param>
+        <param name="syncRemoteAddressSpace">
+            Parameter indicates the intention to sync the peering with the current
+            address space on the remote vNet after it's updated. Possible values
+            include: 'true'
+            </param>
         <summary>
             Creates or updates a peering in the specified virtual network.
             </summary>
@@ -260,17 +260,14 @@
       </Docs>
     </Member>
     <Member MemberName="CreateOrUpdateAsync">
-      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering&gt; CreateOrUpdateAsync (this Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations operations, string resourceGroupName, string virtualNetworkName, string virtualNetworkPeeringName, Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering virtualNetworkPeeringParameters, System.Threading.CancellationToken cancellationToken = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;class Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering&gt; CreateOrUpdateAsync(class Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations operations, string resourceGroupName, string virtualNetworkName, string virtualNetworkPeeringName, class Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering virtualNetworkPeeringParameters, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Network.VirtualNetworkPeeringsOperationsExtensions.CreateOrUpdateAsync(Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations,System.String,System.String,System.String,Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function CreateOrUpdateAsync (operations As IVirtualNetworkPeeringsOperations, resourceGroupName As String, virtualNetworkName As String, virtualNetworkPeeringName As String, virtualNetworkPeeringParameters As VirtualNetworkPeering, Optional cancellationToken As CancellationToken = Nothing) As Task(Of VirtualNetworkPeering)" />
-      <MemberSignature Language="F#" Value="static member CreateOrUpdateAsync : Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations * string * string * string * Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering&gt;" Usage="Microsoft.Azure.Management.Network.VirtualNetworkPeeringsOperationsExtensions.CreateOrUpdateAsync (operations, resourceGroupName, virtualNetworkName, virtualNetworkPeeringName, virtualNetworkPeeringParameters, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering&gt; CreateOrUpdateAsync (this Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations operations, string resourceGroupName, string virtualNetworkName, string virtualNetworkPeeringName, Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering virtualNetworkPeeringParameters, string syncRemoteAddressSpace = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;class Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering&gt; CreateOrUpdateAsync(class Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations operations, string resourceGroupName, string virtualNetworkName, string virtualNetworkPeeringName, class Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering virtualNetworkPeeringParameters, string syncRemoteAddressSpace, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Network.VirtualNetworkPeeringsOperationsExtensions.CreateOrUpdateAsync(Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations,System.String,System.String,System.String,Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering,System.String,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function CreateOrUpdateAsync (operations As IVirtualNetworkPeeringsOperations, resourceGroupName As String, virtualNetworkName As String, virtualNetworkPeeringName As String, virtualNetworkPeeringParameters As VirtualNetworkPeering, Optional syncRemoteAddressSpace As String = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of VirtualNetworkPeering)" />
+      <MemberSignature Language="F#" Value="static member CreateOrUpdateAsync : Microsoft.Azure.Management.Network.IVirtualNetworkPeeringsOperations * string * string * string * Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering * string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering&gt;" Usage="Microsoft.Azure.Management.Network.VirtualNetworkPeeringsOperationsExtensions.CreateOrUpdateAsync (operations, resourceGroupName, virtualNetworkName, virtualNetworkPeeringName, virtualNetworkPeeringParameters, syncRemoteAddressSpace, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -282,6 +279,7 @@
         <Parameter Name="virtualNetworkName" Type="System.String" />
         <Parameter Name="virtualNetworkPeeringName" Type="System.String" />
         <Parameter Name="virtualNetworkPeeringParameters" Type="Microsoft.Azure.Management.Network.Models.VirtualNetworkPeering" />
+        <Parameter Name="syncRemoteAddressSpace" Type="System.String" />
         <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
@@ -300,6 +298,11 @@
         <param name="virtualNetworkPeeringParameters">
             Parameters supplied to the create or update virtual network peering
             operation.
+            </param>
+        <param name="syncRemoteAddressSpace">
+            Parameter indicates the intention to sync the peering with the current
+            address space on the remote vNet after it's updated. Possible values
+            include: 'true'
             </param>
         <param name="cancellationToken">
             The cancellation token.
@@ -320,9 +323,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -362,9 +362,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -409,9 +406,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -452,9 +446,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -499,9 +490,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -538,9 +526,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -581,9 +566,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -616,9 +598,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>

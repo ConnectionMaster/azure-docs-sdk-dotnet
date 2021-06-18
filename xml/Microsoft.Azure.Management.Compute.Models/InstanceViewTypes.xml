@@ -6,23 +6,9 @@
   <TypeSignature Language="F#" Value="type InstanceViewTypes = " />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-    <AssemblyVersion>30.0.0.0</AssemblyVersion>
-    <AssemblyVersion>31.0.0.0</AssemblyVersion>
-    <AssemblyVersion>32.0.0.0</AssemblyVersion>
-    <AssemblyVersion>33.0.0.0</AssemblyVersion>
-    <AssemblyVersion>34.0.0.0</AssemblyVersion>
-    <AssemblyVersion>35.0.0.0</AssemblyVersion>
-    <AssemblyVersion>35.2.0.0</AssemblyVersion>
-    <AssemblyVersion>36.0.0.0</AssemblyVersion>
-    <AssemblyVersion>37.0.0.0</AssemblyVersion>
-    <AssemblyVersion>38.0.0.0</AssemblyVersion>
-    <AssemblyVersion>38.1.0.0</AssemblyVersion>
-    <AssemblyVersion>39.0.0.0</AssemblyVersion>
-    <AssemblyVersion>41.0.0.0</AssemblyVersion>
-    <AssemblyVersion>42.0.0.0</AssemblyVersion>
-    <AssemblyVersion>43.0.0.1</AssemblyVersion>
-    <AssemblyVersion>44.0.0.0</AssemblyVersion>
-    <AssemblyVersion>45.0.0.0</AssemblyVersion>
+    <AssemblyVersion>45.0.0.1</AssemblyVersion>
+    <AssemblyVersion>46.0.0.0</AssemblyVersion>
+    <AssemblyVersion>47.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Enum</BaseTypeName>
@@ -49,23 +35,9 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -77,6 +49,31 @@
         <ReturnType>Microsoft.Azure.Management.Compute.Models.InstanceViewTypes</ReturnType>
       </ReturnValue>
       <MemberValue>0</MemberValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="UserData">
+      <MemberSignature Language="C#" Value="UserData" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Microsoft.Azure.Management.Compute.Models.InstanceViewTypes UserData = int32(1)" />
+      <MemberSignature Language="DocId" Value="F:Microsoft.Azure.Management.Compute.Models.InstanceViewTypes.UserData" />
+      <MemberSignature Language="VB.NET" Value="UserData" />
+      <MemberSignature Language="F#" Value="UserData = 1" Usage="Microsoft.Azure.Management.Compute.Models.InstanceViewTypes.UserData" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Attributes>
+        <Attribute>
+          <AttributeName Language="C#">[System.Runtime.Serialization.EnumMember(Value="userData")]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.Runtime.Serialization.EnumMember(Value="userData")&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
+      <ReturnValue>
+        <ReturnType>Microsoft.Azure.Management.Compute.Models.InstanceViewTypes</ReturnType>
+      </ReturnValue>
+      <MemberValue>1</MemberValue>
       <Docs>
         <summary>To be added.</summary>
       </Docs>

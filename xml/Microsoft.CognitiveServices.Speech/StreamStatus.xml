@@ -6,24 +6,16 @@
   <TypeSignature Language="F#" Value="type StreamStatus = " />
   <AssemblyInfo>
     <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-    <AssemblyVersion>1.8.0.28</AssemblyVersion>
-    <AssemblyVersion>1.9.0.28</AssemblyVersion>
-    <AssemblyVersion>1.10.0.28</AssemblyVersion>
-    <AssemblyVersion>1.11.0.28</AssemblyVersion>
-    <AssemblyVersion>1.12.0.28</AssemblyVersion>
-    <AssemblyVersion>1.12.1.28</AssemblyVersion>
-    <AssemblyVersion>1.13.0.28</AssemblyVersion>
-    <AssemblyVersion>1.14.0.28</AssemblyVersion>
-    <AssemblyVersion>1.15.0.28</AssemblyVersion>
     <AssemblyVersion>1.16.0.28</AssemblyVersion>
+    <AssemblyVersion>1.17.0.28</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Enum</BaseTypeName>
   </Base>
   <Docs>
     <summary>
-            Defines the possible status of audio data stream.
-            Added in version 1.4.0
+            Lists possible status values of an audio data stream.
+            Added in 1.4.0
             </summary>
     <remarks>To be added.</remarks>
   </Docs>
@@ -37,16 +29,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.8.0.28</AssemblyVersion>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.CognitiveServices.Speech.StreamStatus</ReturnType>
@@ -54,7 +38,7 @@
       <MemberValue>3</MemberValue>
       <Docs>
         <summary>
-            The audio data stream contains all data of a speak request
+            The audio data stream contains all data of a speak request.
             </summary>
       </Docs>
     </Member>
@@ -67,16 +51,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.8.0.28</AssemblyVersion>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.CognitiveServices.Speech.StreamStatus</ReturnType>
@@ -84,7 +60,7 @@
       <MemberValue>4</MemberValue>
       <Docs>
         <summary>
-            The audio data stream was cancelled
+            The audio data stream was cancelled.
             </summary>
       </Docs>
     </Member>
@@ -97,16 +73,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.8.0.28</AssemblyVersion>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.CognitiveServices.Speech.StreamStatus</ReturnType>
@@ -114,7 +82,7 @@
       <MemberValue>1</MemberValue>
       <Docs>
         <summary>
-            The audio data stream contains no data
+            The audio data stream contains no data.
             </summary>
       </Docs>
     </Member>
@@ -127,16 +95,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.8.0.28</AssemblyVersion>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.CognitiveServices.Speech.StreamStatus</ReturnType>
@@ -144,7 +104,7 @@
       <MemberValue>2</MemberValue>
       <Docs>
         <summary>
-            The audio data stream contains partial data of a speak request
+            The audio data stream contains partial data of a speak request.
             </summary>
       </Docs>
     </Member>
@@ -157,16 +117,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.8.0.28</AssemblyVersion>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.CognitiveServices.Speech.StreamStatus</ReturnType>
@@ -174,7 +126,7 @@
       <MemberValue>0</MemberValue>
       <Docs>
         <summary>
-            The audio data stream status is unknown
+            The audio data stream status is unknown.
             </summary>
       </Docs>
     </Member>

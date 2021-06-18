@@ -6,8 +6,10 @@
   <TypeSignature Language="F#" Value="type BlobServiceClient = class" />
   <AssemblyInfo>
     <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-    <AssemblyVersion>12.8.0.0</AssemblyVersion>
     <AssemblyVersion>12.8.1.0</AssemblyVersion>
+    <AssemblyVersion>12.8.2.0</AssemblyVersion>
+    <AssemblyVersion>12.8.3.0</AssemblyVersion>
+    <AssemblyVersion>12.8.4.0</AssemblyVersion>
     <AssemblyVersion>12.9.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
@@ -31,8 +33,10 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
@@ -53,8 +57,10 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -84,8 +90,10 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -123,8 +131,10 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -157,8 +167,10 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -198,8 +210,10 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -236,8 +250,10 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -274,8 +290,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -290,18 +308,18 @@
       </Docs>
     </Member>
     <Member MemberName="CanGenerateAccountSasUri">
-      <MemberSignature Language="C#" Value="public bool CanGenerateAccountSasUri { get; }" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="C#" Value="public virtual bool CanGenerateAccountSasUri { get; }" />
       <MemberSignature Language="ILAsm" Value=".property instance bool CanGenerateAccountSasUri" />
       <MemberSignature Language="DocId" Value="P:Azure.Storage.Blobs.BlobServiceClient.CanGenerateAccountSasUri" />
-      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property CanGenerateAccountSasUri As Boolean" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property CanGenerateAccountSasUri As Boolean" />
       <MemberSignature Language="F#" Value="member this.CanGenerateAccountSasUri : bool" Usage="Azure.Storage.Blobs.BlobServiceClient.CanGenerateAccountSasUri" />
-      <MemberSignature Language="C#" Value="public virtual bool CanGenerateAccountSasUri { get; }" FrameworkAlternate="azure-dotnet-preview" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property CanGenerateAccountSasUri As Boolean" FrameworkAlternate="azure-dotnet-preview" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -325,8 +343,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -390,8 +410,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -455,8 +477,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -506,8 +530,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -557,8 +583,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -608,8 +636,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -658,8 +688,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -708,8 +740,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -752,8 +786,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -808,8 +844,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -849,8 +887,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -890,8 +930,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -919,8 +961,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -954,8 +998,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -1013,8 +1059,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1070,8 +1118,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -1129,8 +1179,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1186,8 +1238,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1215,8 +1269,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1244,8 +1300,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1287,8 +1345,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1330,8 +1390,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1375,8 +1437,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1420,8 +1484,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1469,8 +1535,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1518,8 +1586,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1566,8 +1636,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1606,18 +1678,70 @@
       </Docs>
     </Member>
     <Member MemberName="UndeleteBlobContainer">
-      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.Storage.Blobs.BlobContainerClient&gt; UndeleteBlobContainer (string deletedContainerName, string deletedContainerVersion, string destinationContainerName = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.Storage.Blobs.BlobContainerClient&gt; UndeleteBlobContainer (string deletedContainerName, string deletedContainerVersion, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.Storage.Blobs.BlobContainerClient&gt; UndeleteBlobContainer(string deletedContainerName, string deletedContainerVersion, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Storage.Blobs.BlobServiceClient.UndeleteBlobContainer(System.String,System.String,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function UndeleteBlobContainer (deletedContainerName As String, deletedContainerVersion As String, Optional cancellationToken As CancellationToken = Nothing) As Response(Of BlobContainerClient)" />
+      <MemberSignature Language="F#" Value="abstract member UndeleteBlobContainer : string * string * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.Storage.Blobs.BlobContainerClient&gt;&#xA;override this.UndeleteBlobContainer : string * string * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.Storage.Blobs.BlobContainerClient&gt;" Usage="blobServiceClient.UndeleteBlobContainer (deletedContainerName, deletedContainerVersion, cancellationToken)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Storage.Blobs</AssemblyName>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Response&lt;Azure.Storage.Blobs.BlobContainerClient&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="deletedContainerName" Type="System.String" />
+        <Parameter Name="deletedContainerVersion" Type="System.String" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
+      </Parameters>
+      <Docs>
+        <param name="deletedContainerName">
+            The name of the previously deleted container.
+            </param>
+        <param name="deletedContainerVersion">
+            The version of the previously deleted container.
+            </param>
+        <param name="cancellationToken">
+            Optional <see cref="T:System.Threading.CancellationToken" /> to propagate
+            notifications that the operation should be cancelled.
+            </param>
+        <summary>
+            Restores a previously deleted container.
+            This API is only functional is Container Soft Delete is enabled
+            for the storage account associated with the container.
+            </summary>
+        <returns>
+            A <see cref="T:Azure.Response`1" /> pointed at the undeleted container.
+            </returns>
+        <remarks>
+            A <see cref="T:Azure.RequestFailedException" /> will be thrown if
+            a failure occurs.
+            </remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="UndeleteBlobContainer">
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.Storage.Blobs.BlobContainerClient&gt; UndeleteBlobContainer (string deletedContainerName, string deletedContainerVersion, string destinationContainerName, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.Storage.Blobs.BlobContainerClient&gt; UndeleteBlobContainer(string deletedContainerName, string deletedContainerVersion, string destinationContainerName, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Azure.Storage.Blobs.BlobServiceClient.UndeleteBlobContainer(System.String,System.String,System.String,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function UndeleteBlobContainer (deletedContainerName As String, deletedContainerVersion As String, Optional destinationContainerName As String = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Response(Of BlobContainerClient)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function UndeleteBlobContainer (deletedContainerName As String, deletedContainerVersion As String, destinationContainerName As String, Optional cancellationToken As CancellationToken = Nothing) As Response(Of BlobContainerClient)" />
       <MemberSignature Language="F#" Value="abstract member UndeleteBlobContainer : string * string * string * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.Storage.Blobs.BlobContainerClient&gt;&#xA;override this.UndeleteBlobContainer : string * string * string * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.Storage.Blobs.BlobContainerClient&gt;" Usage="blobServiceClient.UndeleteBlobContainer (deletedContainerName, deletedContainerVersion, destinationContainerName, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <Attributes>
+        <Attribute>
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Blobs.BlobContainerClient&gt;</ReturnType>
       </ReturnValue>
@@ -1657,18 +1781,70 @@
       </Docs>
     </Member>
     <Member MemberName="UndeleteBlobContainerAsync">
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.BlobContainerClient&gt;&gt; UndeleteBlobContainerAsync (string deletedContainerName, string deletedContainerVersion, string destinationContainerName = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.BlobContainerClient&gt;&gt; UndeleteBlobContainerAsync (string deletedContainerName, string deletedContainerVersion, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.Storage.Blobs.BlobContainerClient&gt;&gt; UndeleteBlobContainerAsync(string deletedContainerName, string deletedContainerVersion, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Storage.Blobs.BlobServiceClient.UndeleteBlobContainerAsync(System.String,System.String,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function UndeleteBlobContainerAsync (deletedContainerName As String, deletedContainerVersion As String, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of BlobContainerClient))" />
+      <MemberSignature Language="F#" Value="abstract member UndeleteBlobContainerAsync : string * string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.BlobContainerClient&gt;&gt;&#xA;override this.UndeleteBlobContainerAsync : string * string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.BlobContainerClient&gt;&gt;" Usage="blobServiceClient.UndeleteBlobContainerAsync (deletedContainerName, deletedContainerVersion, cancellationToken)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Storage.Blobs</AssemblyName>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.BlobContainerClient&gt;&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="deletedContainerName" Type="System.String" />
+        <Parameter Name="deletedContainerVersion" Type="System.String" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
+      </Parameters>
+      <Docs>
+        <param name="deletedContainerName">
+            The name of the previously deleted container.
+            </param>
+        <param name="deletedContainerVersion">
+            The version of the previously deleted container.
+            </param>
+        <param name="cancellationToken">
+            Optional <see cref="T:System.Threading.CancellationToken" /> to propagate
+            notifications that the operation should be cancelled.
+            </param>
+        <summary>
+            Restores a previously deleted container.
+            This API is only functional is Container Soft Delete is enabled
+            for the storage account associated with the container.
+            </summary>
+        <returns>
+            A <see cref="T:Azure.Response`1" /> pointed at the undeleted container.
+            </returns>
+        <remarks>
+            A <see cref="T:Azure.RequestFailedException" /> will be thrown if
+            a failure occurs.
+            </remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="UndeleteBlobContainerAsync">
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.BlobContainerClient&gt;&gt; UndeleteBlobContainerAsync (string deletedContainerName, string deletedContainerVersion, string destinationContainerName, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.Storage.Blobs.BlobContainerClient&gt;&gt; UndeleteBlobContainerAsync(string deletedContainerName, string deletedContainerVersion, string destinationContainerName, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Azure.Storage.Blobs.BlobServiceClient.UndeleteBlobContainerAsync(System.String,System.String,System.String,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function UndeleteBlobContainerAsync (deletedContainerName As String, deletedContainerVersion As String, Optional destinationContainerName As String = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of BlobContainerClient))" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function UndeleteBlobContainerAsync (deletedContainerName As String, deletedContainerVersion As String, destinationContainerName As String, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of BlobContainerClient))" />
       <MemberSignature Language="F#" Value="abstract member UndeleteBlobContainerAsync : string * string * string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.BlobContainerClient&gt;&gt;&#xA;override this.UndeleteBlobContainerAsync : string * string * string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.BlobContainerClient&gt;&gt;" Usage="blobServiceClient.UndeleteBlobContainerAsync (deletedContainerName, deletedContainerVersion, destinationContainerName, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <Attributes>
+        <Attribute>
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.BlobContainerClient&gt;&gt;</ReturnType>
       </ReturnValue>
@@ -1716,8 +1892,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>

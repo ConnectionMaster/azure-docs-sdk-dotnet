@@ -6,15 +6,9 @@
   <TypeSignature Language="F#" Value="type IntegrationRuntimesOperationsExtensions = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-    <AssemblyVersion>4.3.0.0</AssemblyVersion>
-    <AssemblyVersion>4.9.0.0</AssemblyVersion>
-    <AssemblyVersion>4.10.0.0</AssemblyVersion>
-    <AssemblyVersion>4.11.0.0</AssemblyVersion>
-    <AssemblyVersion>4.12.0.0</AssemblyVersion>
-    <AssemblyVersion>4.13.0.0</AssemblyVersion>
-    <AssemblyVersion>4.14.0.0</AssemblyVersion>
-    <AssemblyVersion>4.15.0.0</AssemblyVersion>
-    <AssemblyVersion>4.16.0.0</AssemblyVersion>
+    <AssemblyVersion>4.17.1.0</AssemblyVersion>
+    <AssemblyVersion>4.18.0.0</AssemblyVersion>
+    <AssemblyVersion>4.19.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -36,15 +30,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeStatusResponse</ReturnType>
@@ -84,15 +72,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeStatusResponse&gt;</ReturnType>
@@ -136,15 +118,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -183,15 +159,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -235,15 +205,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeStatusResponse</ReturnType>
@@ -287,15 +251,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeStatusResponse&gt;</ReturnType>
@@ -343,15 +301,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeResource</ReturnType>
@@ -401,15 +353,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeResource&gt;</ReturnType>
@@ -463,15 +409,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -510,15 +450,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -562,15 +496,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeResource</ReturnType>
@@ -616,15 +544,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeResource&gt;</ReturnType>
@@ -674,15 +596,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeConnectionInfo</ReturnType>
@@ -723,15 +639,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeConnectionInfo&gt;</ReturnType>
@@ -776,15 +686,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeMonitoringData</ReturnType>
@@ -825,15 +729,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeMonitoringData&gt;</ReturnType>
@@ -878,15 +776,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeStatusResponse</ReturnType>
@@ -926,15 +818,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeStatusResponse&gt;</ReturnType>
@@ -978,15 +864,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeAuthKeys</ReturnType>
@@ -1026,15 +906,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeAuthKeys&gt;</ReturnType>
@@ -1078,15 +952,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeResource&gt;</ReturnType>
@@ -1122,15 +990,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeResource&gt;&gt;</ReturnType>
@@ -1170,15 +1032,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeResource&gt;</ReturnType>
@@ -1210,15 +1066,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeResource&gt;&gt;</ReturnType>
@@ -1254,15 +1104,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeAuthKeys</ReturnType>
@@ -1306,15 +1150,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeAuthKeys&gt;</ReturnType>
@@ -1362,15 +1200,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -1414,15 +1246,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -1471,15 +1297,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeStatusResponse</ReturnType>
@@ -1519,15 +1339,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeStatusResponse&gt;</ReturnType>
@@ -1571,15 +1385,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -1618,15 +1426,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -1670,15 +1472,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -1721,15 +1517,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -1777,15 +1567,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeResource</ReturnType>
@@ -1829,15 +1613,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeResource&gt;</ReturnType>
@@ -1885,15 +1663,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -1932,15 +1704,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>

@@ -6,15 +6,9 @@
   <TypeSignature Language="F#" Value="type XmlUtil = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.IdentityModel.Xml</AssemblyName>
-    <AssemblyVersion>5.6.0.0</AssemblyVersion>
-    <AssemblyVersion>6.5.0.0</AssemblyVersion>
-    <AssemblyVersion>6.5.1.0</AssemblyVersion>
-    <AssemblyVersion>6.6.0.0</AssemblyVersion>
-    <AssemblyVersion>6.7.0.0</AssemblyVersion>
-    <AssemblyVersion>6.7.1.0</AssemblyVersion>
-    <AssemblyVersion>6.8.0.0</AssemblyVersion>
-    <AssemblyVersion>6.9.0.0</AssemblyVersion>
-    <AssemblyVersion>6.10.0.0</AssemblyVersion>
+    <AssemblyVersion>6.10.2.0</AssemblyVersion>
+    <AssemblyVersion>6.11.0.0</AssemblyVersion>
+    <AssemblyVersion>6.11.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -36,15 +30,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Xml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -73,15 +61,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Xml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -112,15 +94,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Xml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -150,15 +126,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Xml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Xml.XmlQualifiedName</ReturnType>
@@ -186,15 +156,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Xml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -221,15 +185,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Xml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -260,15 +218,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Xml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Exception</ReturnType>
@@ -303,15 +255,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Xml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Exception</ReturnType>
@@ -348,15 +294,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Xml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Exception</ReturnType>
@@ -391,15 +331,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Xml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Exception</ReturnType>
@@ -436,15 +370,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Xml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Exception</ReturnType>
@@ -479,15 +407,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Xml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Exception</ReturnType>
@@ -524,15 +446,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Xml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -558,15 +474,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Xml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Xml.XmlQualifiedName</ReturnType>
@@ -595,15 +505,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Xml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -634,15 +538,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Xml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>

@@ -6,8 +6,7 @@
   <TypeSignature Language="F#" Value="type EndpointAlreadyExistsException = class&#xA;    inherit RelayException" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Relay</AssemblyName>
-    <AssemblyVersion>2.0.1.0</AssemblyVersion>
-    <AssemblyVersion>2.0.1523.4</AssemblyVersion>
+    <AssemblyVersion>2.0.1559.6</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Microsoft.Azure.Relay.RelayException</BaseTypeName>
@@ -34,8 +33,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Relay</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>2.0.1523.4</AssemblyVersion>
+        <AssemblyVersion>2.0.1559.6</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -54,8 +52,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Relay</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>2.0.1523.4</AssemblyVersion>
+        <AssemblyVersion>2.0.1559.6</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="message" Type="System.String" />
@@ -77,8 +74,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Relay</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>2.0.1523.4</AssemblyVersion>
+        <AssemblyVersion>2.0.1559.6</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="info" Type="System.Runtime.Serialization.SerializationInfo" />
@@ -102,8 +98,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Relay</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>2.0.1523.4</AssemblyVersion>
+        <AssemblyVersion>2.0.1559.6</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="message" Type="System.String" />

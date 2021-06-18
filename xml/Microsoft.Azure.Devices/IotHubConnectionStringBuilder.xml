@@ -6,23 +6,11 @@
   <TypeSignature Language="F#" Value="type IotHubConnectionStringBuilder = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Devices</AssemblyName>
-    <AssemblyVersion>1.18.2.0</AssemblyVersion>
-    <AssemblyVersion>1.18.3.0</AssemblyVersion>
-    <AssemblyVersion>1.18.4.0</AssemblyVersion>
-    <AssemblyVersion>1.19.0.0</AssemblyVersion>
-    <AssemblyVersion>1.20.0.0</AssemblyVersion>
-    <AssemblyVersion>1.20.1.0</AssemblyVersion>
-    <AssemblyVersion>1.21.0.0</AssemblyVersion>
-    <AssemblyVersion>1.22.0.0</AssemblyVersion>
-    <AssemblyVersion>1.27.0.0</AssemblyVersion>
-    <AssemblyVersion>1.27.1.0</AssemblyVersion>
-    <AssemblyVersion>1.27.2.0</AssemblyVersion>
-    <AssemblyVersion>1.27.3.0</AssemblyVersion>
-    <AssemblyVersion>1.28.0.0</AssemblyVersion>
-    <AssemblyVersion>1.28.1.0</AssemblyVersion>
-    <AssemblyVersion>1.29.0.0</AssemblyVersion>
-    <AssemblyVersion>1.30.0.0</AssemblyVersion>
     <AssemblyVersion>1.31.0.0</AssemblyVersion>
+    <AssemblyVersion>1.32.0.0</AssemblyVersion>
+    <AssemblyVersion>1.33.0.0</AssemblyVersion>
+    <AssemblyVersion>1.34.0.0</AssemblyVersion>
+    <AssemblyVersion>1.35.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -44,23 +32,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices</AssemblyName>
-        <AssemblyVersion>1.18.2.0</AssemblyVersion>
-        <AssemblyVersion>1.18.3.0</AssemblyVersion>
-        <AssemblyVersion>1.18.4.0</AssemblyVersion>
-        <AssemblyVersion>1.19.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.1.0</AssemblyVersion>
-        <AssemblyVersion>1.21.0.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.1.0</AssemblyVersion>
-        <AssemblyVersion>1.27.2.0</AssemblyVersion>
-        <AssemblyVersion>1.27.3.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.1.0</AssemblyVersion>
-        <AssemblyVersion>1.29.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
         <AssemblyVersion>1.31.0.0</AssemblyVersion>
+        <AssemblyVersion>1.32.0.0</AssemblyVersion>
+        <AssemblyVersion>1.33.0.0</AssemblyVersion>
+        <AssemblyVersion>1.34.0.0</AssemblyVersion>
+        <AssemblyVersion>1.35.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.IAuthenticationMethod</ReturnType>
@@ -82,23 +58,11 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices</AssemblyName>
-        <AssemblyVersion>1.18.2.0</AssemblyVersion>
-        <AssemblyVersion>1.18.3.0</AssemblyVersion>
-        <AssemblyVersion>1.18.4.0</AssemblyVersion>
-        <AssemblyVersion>1.19.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.1.0</AssemblyVersion>
-        <AssemblyVersion>1.21.0.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.1.0</AssemblyVersion>
-        <AssemblyVersion>1.27.2.0</AssemblyVersion>
-        <AssemblyVersion>1.27.3.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.1.0</AssemblyVersion>
-        <AssemblyVersion>1.29.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
         <AssemblyVersion>1.31.0.0</AssemblyVersion>
+        <AssemblyVersion>1.32.0.0</AssemblyVersion>
+        <AssemblyVersion>1.33.0.0</AssemblyVersion>
+        <AssemblyVersion>1.34.0.0</AssemblyVersion>
+        <AssemblyVersion>1.35.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.IotHubConnectionStringBuilder</ReturnType>
@@ -124,23 +88,11 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices</AssemblyName>
-        <AssemblyVersion>1.18.2.0</AssemblyVersion>
-        <AssemblyVersion>1.18.3.0</AssemblyVersion>
-        <AssemblyVersion>1.18.4.0</AssemblyVersion>
-        <AssemblyVersion>1.19.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.1.0</AssemblyVersion>
-        <AssemblyVersion>1.21.0.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.1.0</AssemblyVersion>
-        <AssemblyVersion>1.27.2.0</AssemblyVersion>
-        <AssemblyVersion>1.27.3.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.1.0</AssemblyVersion>
-        <AssemblyVersion>1.29.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
         <AssemblyVersion>1.31.0.0</AssemblyVersion>
+        <AssemblyVersion>1.32.0.0</AssemblyVersion>
+        <AssemblyVersion>1.33.0.0</AssemblyVersion>
+        <AssemblyVersion>1.34.0.0</AssemblyVersion>
+        <AssemblyVersion>1.35.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.IotHubConnectionStringBuilder</ReturnType>
@@ -168,23 +120,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices</AssemblyName>
-        <AssemblyVersion>1.18.2.0</AssemblyVersion>
-        <AssemblyVersion>1.18.3.0</AssemblyVersion>
-        <AssemblyVersion>1.18.4.0</AssemblyVersion>
-        <AssemblyVersion>1.19.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.1.0</AssemblyVersion>
-        <AssemblyVersion>1.21.0.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.1.0</AssemblyVersion>
-        <AssemblyVersion>1.27.2.0</AssemblyVersion>
-        <AssemblyVersion>1.27.3.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.1.0</AssemblyVersion>
-        <AssemblyVersion>1.29.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
         <AssemblyVersion>1.31.0.0</AssemblyVersion>
+        <AssemblyVersion>1.32.0.0</AssemblyVersion>
+        <AssemblyVersion>1.33.0.0</AssemblyVersion>
+        <AssemblyVersion>1.34.0.0</AssemblyVersion>
+        <AssemblyVersion>1.35.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -206,23 +146,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices</AssemblyName>
-        <AssemblyVersion>1.18.2.0</AssemblyVersion>
-        <AssemblyVersion>1.18.3.0</AssemblyVersion>
-        <AssemblyVersion>1.18.4.0</AssemblyVersion>
-        <AssemblyVersion>1.19.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.1.0</AssemblyVersion>
-        <AssemblyVersion>1.21.0.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.1.0</AssemblyVersion>
-        <AssemblyVersion>1.27.2.0</AssemblyVersion>
-        <AssemblyVersion>1.27.3.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.1.0</AssemblyVersion>
-        <AssemblyVersion>1.29.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
         <AssemblyVersion>1.31.0.0</AssemblyVersion>
+        <AssemblyVersion>1.32.0.0</AssemblyVersion>
+        <AssemblyVersion>1.33.0.0</AssemblyVersion>
+        <AssemblyVersion>1.34.0.0</AssemblyVersion>
+        <AssemblyVersion>1.35.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -244,23 +172,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices</AssemblyName>
-        <AssemblyVersion>1.18.2.0</AssemblyVersion>
-        <AssemblyVersion>1.18.3.0</AssemblyVersion>
-        <AssemblyVersion>1.18.4.0</AssemblyVersion>
-        <AssemblyVersion>1.19.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.1.0</AssemblyVersion>
-        <AssemblyVersion>1.21.0.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.1.0</AssemblyVersion>
-        <AssemblyVersion>1.27.2.0</AssemblyVersion>
-        <AssemblyVersion>1.27.3.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.1.0</AssemblyVersion>
-        <AssemblyVersion>1.29.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
         <AssemblyVersion>1.31.0.0</AssemblyVersion>
+        <AssemblyVersion>1.32.0.0</AssemblyVersion>
+        <AssemblyVersion>1.33.0.0</AssemblyVersion>
+        <AssemblyVersion>1.34.0.0</AssemblyVersion>
+        <AssemblyVersion>1.35.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -282,23 +198,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices</AssemblyName>
-        <AssemblyVersion>1.18.2.0</AssemblyVersion>
-        <AssemblyVersion>1.18.3.0</AssemblyVersion>
-        <AssemblyVersion>1.18.4.0</AssemblyVersion>
-        <AssemblyVersion>1.19.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.1.0</AssemblyVersion>
-        <AssemblyVersion>1.21.0.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.1.0</AssemblyVersion>
-        <AssemblyVersion>1.27.2.0</AssemblyVersion>
-        <AssemblyVersion>1.27.3.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.1.0</AssemblyVersion>
-        <AssemblyVersion>1.29.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
         <AssemblyVersion>1.31.0.0</AssemblyVersion>
+        <AssemblyVersion>1.32.0.0</AssemblyVersion>
+        <AssemblyVersion>1.33.0.0</AssemblyVersion>
+        <AssemblyVersion>1.34.0.0</AssemblyVersion>
+        <AssemblyVersion>1.35.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -320,23 +224,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices</AssemblyName>
-        <AssemblyVersion>1.18.2.0</AssemblyVersion>
-        <AssemblyVersion>1.18.3.0</AssemblyVersion>
-        <AssemblyVersion>1.18.4.0</AssemblyVersion>
-        <AssemblyVersion>1.19.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.1.0</AssemblyVersion>
-        <AssemblyVersion>1.21.0.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.1.0</AssemblyVersion>
-        <AssemblyVersion>1.27.2.0</AssemblyVersion>
-        <AssemblyVersion>1.27.3.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.1.0</AssemblyVersion>
-        <AssemblyVersion>1.29.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
         <AssemblyVersion>1.31.0.0</AssemblyVersion>
+        <AssemblyVersion>1.32.0.0</AssemblyVersion>
+        <AssemblyVersion>1.33.0.0</AssemblyVersion>
+        <AssemblyVersion>1.34.0.0</AssemblyVersion>
+        <AssemblyVersion>1.35.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -358,23 +250,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices</AssemblyName>
-        <AssemblyVersion>1.18.2.0</AssemblyVersion>
-        <AssemblyVersion>1.18.3.0</AssemblyVersion>
-        <AssemblyVersion>1.18.4.0</AssemblyVersion>
-        <AssemblyVersion>1.19.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.1.0</AssemblyVersion>
-        <AssemblyVersion>1.21.0.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.1.0</AssemblyVersion>
-        <AssemblyVersion>1.27.2.0</AssemblyVersion>
-        <AssemblyVersion>1.27.3.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.1.0</AssemblyVersion>
-        <AssemblyVersion>1.29.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
         <AssemblyVersion>1.31.0.0</AssemblyVersion>
+        <AssemblyVersion>1.32.0.0</AssemblyVersion>
+        <AssemblyVersion>1.33.0.0</AssemblyVersion>
+        <AssemblyVersion>1.34.0.0</AssemblyVersion>
+        <AssemblyVersion>1.35.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -396,23 +276,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices</AssemblyName>
-        <AssemblyVersion>1.18.2.0</AssemblyVersion>
-        <AssemblyVersion>1.18.3.0</AssemblyVersion>
-        <AssemblyVersion>1.18.4.0</AssemblyVersion>
-        <AssemblyVersion>1.19.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.1.0</AssemblyVersion>
-        <AssemblyVersion>1.21.0.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.1.0</AssemblyVersion>
-        <AssemblyVersion>1.27.2.0</AssemblyVersion>
-        <AssemblyVersion>1.27.3.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.1.0</AssemblyVersion>
-        <AssemblyVersion>1.29.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
         <AssemblyVersion>1.31.0.0</AssemblyVersion>
+        <AssemblyVersion>1.32.0.0</AssemblyVersion>
+        <AssemblyVersion>1.33.0.0</AssemblyVersion>
+        <AssemblyVersion>1.34.0.0</AssemblyVersion>
+        <AssemblyVersion>1.35.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -434,23 +302,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices</AssemblyName>
-        <AssemblyVersion>1.18.2.0</AssemblyVersion>
-        <AssemblyVersion>1.18.3.0</AssemblyVersion>
-        <AssemblyVersion>1.18.4.0</AssemblyVersion>
-        <AssemblyVersion>1.19.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.1.0</AssemblyVersion>
-        <AssemblyVersion>1.21.0.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.1.0</AssemblyVersion>
-        <AssemblyVersion>1.27.2.0</AssemblyVersion>
-        <AssemblyVersion>1.27.3.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.1.0</AssemblyVersion>
-        <AssemblyVersion>1.29.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
         <AssemblyVersion>1.31.0.0</AssemblyVersion>
+        <AssemblyVersion>1.32.0.0</AssemblyVersion>
+        <AssemblyVersion>1.33.0.0</AssemblyVersion>
+        <AssemblyVersion>1.34.0.0</AssemblyVersion>
+        <AssemblyVersion>1.35.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -472,23 +328,11 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices</AssemblyName>
-        <AssemblyVersion>1.18.2.0</AssemblyVersion>
-        <AssemblyVersion>1.18.3.0</AssemblyVersion>
-        <AssemblyVersion>1.18.4.0</AssemblyVersion>
-        <AssemblyVersion>1.19.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.1.0</AssemblyVersion>
-        <AssemblyVersion>1.21.0.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.1.0</AssemblyVersion>
-        <AssemblyVersion>1.27.2.0</AssemblyVersion>
-        <AssemblyVersion>1.27.3.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.1.0</AssemblyVersion>
-        <AssemblyVersion>1.29.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
         <AssemblyVersion>1.31.0.0</AssemblyVersion>
+        <AssemblyVersion>1.32.0.0</AssemblyVersion>
+        <AssemblyVersion>1.33.0.0</AssemblyVersion>
+        <AssemblyVersion>1.34.0.0</AssemblyVersion>
+        <AssemblyVersion>1.35.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

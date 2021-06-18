@@ -6,8 +6,9 @@
   <TypeSignature Language="F#" Value="type WorkspaceSkuNameEnum = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-    <AssemblyVersion>0.20.0.0</AssemblyVersion>
     <AssemblyVersion>0.21.0.0</AssemblyVersion>
+    <AssemblyVersion>0.22.0.0</AssemblyVersion>
+    <AssemblyVersion>0.23.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -29,8 +30,9 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -49,8 +51,29 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.String</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="LACluster">
+      <MemberSignature Language="C#" Value="public const string LACluster;" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal string LACluster" />
+      <MemberSignature Language="DocId" Value="F:Microsoft.Azure.Management.OperationalInsights.Models.WorkspaceSkuNameEnum.LACluster" />
+      <MemberSignature Language="VB.NET" Value="Public Const LACluster As String " />
+      <MemberSignature Language="F#" Value="val mutable LACluster : string" Usage="Microsoft.Azure.Management.OperationalInsights.Models.WorkspaceSkuNameEnum.LACluster" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -69,8 +92,9 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -89,8 +113,9 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -109,8 +134,9 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -129,8 +155,9 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -149,8 +176,9 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

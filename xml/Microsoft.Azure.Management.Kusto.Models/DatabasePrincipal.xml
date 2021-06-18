@@ -7,10 +7,7 @@
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Kusto</AssemblyName>
     <AssemblyVersion>3.0.0.0</AssemblyVersion>
-    <AssemblyVersion>4.0.0.0</AssemblyVersion>
-    <AssemblyVersion>5.0.0.0</AssemblyVersion>
-    <AssemblyVersion>6.0.0.0</AssemblyVersion>
-    <AssemblyVersion>7.0.0.0</AssemblyVersion>
+    <AssemblyVersion>8.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -32,10 +29,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Kusto</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>6.0.0.0</AssemblyVersion>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -55,10 +49,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Kusto</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>6.0.0.0</AssemblyVersion>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="role" Type="System.String" />
@@ -72,7 +63,7 @@
       <Docs>
         <param name="role">Database principal role. Possible values
             include: 'Admin', 'Ingestor', 'Monitor', 'User',
-            'UnrestrictedViewers', 'Viewer'</param>
+            'UnrestrictedViewer', 'Viewer'</param>
         <param name="name">Database principal name.</param>
         <param name="type">Database principal type. Possible values
             include: 'App', 'Group', 'User'</param>
@@ -97,10 +88,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Kusto</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>6.0.0.0</AssemblyVersion>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -130,10 +118,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Kusto</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>6.0.0.0</AssemblyVersion>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -162,10 +147,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Kusto</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>6.0.0.0</AssemblyVersion>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -194,10 +176,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Kusto</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>6.0.0.0</AssemblyVersion>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -226,10 +205,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Kusto</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>6.0.0.0</AssemblyVersion>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -243,7 +219,7 @@
       <Docs>
         <summary>
             Gets or sets database principal role. Possible values include:
-            'Admin', 'Ingestor', 'Monitor', 'User', 'UnrestrictedViewers',
+            'Admin', 'Ingestor', 'Monitor', 'User', 'UnrestrictedViewer',
             'Viewer'
             </summary>
         <value>To be added.</value>
@@ -260,10 +236,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Kusto</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>6.0.0.0</AssemblyVersion>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -292,10 +265,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Kusto</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>6.0.0.0</AssemblyVersion>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -325,10 +295,7 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Kusto</AssemblyName>
         <AssemblyVersion>3.0.0.0</AssemblyVersion>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>6.0.0.0</AssemblyVersion>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>

@@ -6,7 +6,7 @@
   <TypeSignature Language="F#" Value="type OperationData = class&#xA;    inherit Collection&lt;ArraySegment&lt;byte&gt;&gt;&#xA;    interface IOperationData&#xA;    interface seq&lt;ArraySegment&lt;byte&gt;&gt;&#xA;    interface IEnumerable" />
   <AssemblyInfo>
     <AssemblyName>System.Fabric</AssemblyName>
-    <AssemblyVersion>7.0.0.0</AssemblyVersion>
+    <AssemblyVersion>8.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Collections.ObjectModel.Collection&lt;System.ArraySegment&lt;System.Byte&gt;&gt;</BaseTypeName>
@@ -44,7 +44,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -63,7 +63,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="operationData" Type="System.ArraySegment&lt;System.Byte&gt;" />
@@ -87,7 +87,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="operationData" Type="System.Byte[]" />
@@ -111,18 +111,18 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="operationData" Type="System.Collections.Generic.IEnumerable&lt;System.ArraySegment&lt;System.Byte&gt;&gt;" />
       </Parameters>
       <Docs>
         <param name="operationData">
-          <para>The bytes from which to create 
+          <para>The bytes from which to create
             the <see cref="T:System.Fabric.OperationData" /> object.</para>
         </param>
         <summary>
-          <para>Initializes a new instance of the <see cref="T:System.Fabric.OperationData" /> class from the specified collection of 
+          <para>Initializes a new instance of the <see cref="T:System.Fabric.OperationData" /> class from the specified collection of
             <see cref="T:System.ArraySegment`1" /> of bytes.</para>
         </summary>
         <remarks>To be added.</remarks>
@@ -137,7 +137,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="operationData" Type="System.Collections.Generic.IEnumerable&lt;System.Byte[]&gt;" />
@@ -161,7 +161,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Fabric.IMemoryManagedOperationData</ReturnType>
@@ -173,8 +173,8 @@
             </summary>
         <returns>
             A valid <see cref="T:System.Fabric.MemoryManagedOperationData" /> instance, or null if this instance was not
-            acquired via <see cref="M:System.Fabric.MemoryManagedOperationData.AsOperationData" /> or
-            <see cref="M:System.Fabric.IOperationStream3.GetMemoryManagedOperationAsync(System.Threading.CancellationToken)" />.
+            acquired via <see cref="M:System.Fabric.MemoryManagedOperationData.AsOperationData" />
+            or <see cref="M:System.Fabric.IOperationStream3.GetMemoryManagedOperationAsync(System.Threading.CancellationToken)" />.
             </returns>
         <remarks>To be added.</remarks>
       </Docs>
@@ -188,7 +188,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Fabric.OperationData</ReturnType>
@@ -214,7 +214,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Fabric.OperationData</ReturnType>

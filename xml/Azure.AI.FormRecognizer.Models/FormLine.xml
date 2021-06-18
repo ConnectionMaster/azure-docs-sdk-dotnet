@@ -6,9 +6,9 @@
   <TypeSignature Language="F#" Value="type FormLine = class&#xA;    inherit FormElement" />
   <AssemblyInfo>
     <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <AssemblyVersion>3.0.0.0</AssemblyVersion>
+    <AssemblyVersion>3.0.1.0</AssemblyVersion>
     <AssemblyVersion>3.1.0.0</AssemblyVersion>
+    <AssemblyVersion>3.1.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.AI.FormRecognizer.Models.FormElement</BaseTypeName>
@@ -16,7 +16,7 @@
   <Interfaces />
   <Docs>
     <summary>
-            Represents a line of text  and its appearance.
+            Represents a line of text and its appearance.
             </summary>
     <remarks>To be added.</remarks>
   </Docs>
@@ -31,6 +31,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AI.FormRecognizer.Models.TextAppearance</ReturnType>
@@ -40,7 +41,9 @@
             An object representing the appearance of the text line.
             </summary>
         <value>To be added.</value>
-        <remarks>To be added.</remarks>
+        <remarks>
+            This property only has value for <see cref="F:Azure.AI.FormRecognizer.FormRecognizerClientOptions.ServiceVersion.V2_1" /> and up.
+            </remarks>
       </Docs>
     </Member>
     <Member MemberName="Words">
@@ -52,9 +55,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IReadOnlyList&lt;Azure.AI.FormRecognizer.Models.FormWord&gt;</ReturnType>

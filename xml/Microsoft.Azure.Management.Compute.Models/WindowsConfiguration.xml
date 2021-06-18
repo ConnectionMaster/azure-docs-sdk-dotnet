@@ -6,23 +6,9 @@
   <TypeSignature Language="F#" Value="type WindowsConfiguration = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-    <AssemblyVersion>30.0.0.0</AssemblyVersion>
-    <AssemblyVersion>31.0.0.0</AssemblyVersion>
-    <AssemblyVersion>32.0.0.0</AssemblyVersion>
-    <AssemblyVersion>33.0.0.0</AssemblyVersion>
-    <AssemblyVersion>34.0.0.0</AssemblyVersion>
-    <AssemblyVersion>35.0.0.0</AssemblyVersion>
-    <AssemblyVersion>35.2.0.0</AssemblyVersion>
-    <AssemblyVersion>36.0.0.0</AssemblyVersion>
-    <AssemblyVersion>37.0.0.0</AssemblyVersion>
-    <AssemblyVersion>38.0.0.0</AssemblyVersion>
-    <AssemblyVersion>38.1.0.0</AssemblyVersion>
-    <AssemblyVersion>39.0.0.0</AssemblyVersion>
-    <AssemblyVersion>41.0.0.0</AssemblyVersion>
-    <AssemblyVersion>42.0.0.0</AssemblyVersion>
-    <AssemblyVersion>43.0.0.1</AssemblyVersion>
-    <AssemblyVersion>44.0.0.0</AssemblyVersion>
-    <AssemblyVersion>45.0.0.0</AssemblyVersion>
+    <AssemblyVersion>45.0.0.1</AssemblyVersion>
+    <AssemblyVersion>46.0.0.0</AssemblyVersion>
+    <AssemblyVersion>47.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -43,23 +29,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -78,14 +50,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="provisionVMAgent" Type="System.Nullable&lt;System.Boolean&gt;" />
@@ -110,9 +77,9 @@
         <param name="timeZone">Specifies the time zone of the virtual
             machine. e.g. "Pacific Standard Time". &lt;br&gt;&lt;br&gt;
             Possible values can be
-            [TimeZoneInfo.Id](https://docs.microsoft.com/en-us/dotnet/api/system.timezoneinfo.id?#System_TimeZoneInfo_Id)
+            [TimeZoneInfo.Id](https://docs.microsoft.com/dotnet/api/system.timezoneinfo.id?#System_TimeZoneInfo_Id)
             value from time zones returned by
-            [TimeZoneInfo.GetSystemTimeZones](https://docs.microsoft.com/en-us/dotnet/api/system.timezoneinfo.getsystemtimezones).</param>
+            [TimeZoneInfo.GetSystemTimeZones](https://docs.microsoft.com/dotnet/api/system.timezoneinfo.getsystemtimezones).</param>
         <param name="additionalUnattendContent">Specifies additional
             base-64 encoded XML formatted information that can be included in
             the Unattend.xml file, which is used by Windows Setup.</param>
@@ -135,23 +102,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -181,23 +134,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -229,14 +168,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -265,23 +199,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -314,23 +234,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -346,9 +252,9 @@
             Gets or sets specifies the time zone of the virtual machine. e.g.
             "Pacific Standard Time". &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
             Possible values can be
-            [TimeZoneInfo.Id](https://docs.microsoft.com/en-us/dotnet/api/system.timezoneinfo.id?#System_TimeZoneInfo_Id)
+            [TimeZoneInfo.Id](https://docs.microsoft.com/dotnet/api/system.timezoneinfo.id?#System_TimeZoneInfo_Id)
             value from time zones returned by
-            [TimeZoneInfo.GetSystemTimeZones](https://docs.microsoft.com/en-us/dotnet/api/system.timezoneinfo.getsystemtimezones).
+            [TimeZoneInfo.GetSystemTimeZones](https://docs.microsoft.com/dotnet/api/system.timezoneinfo.getsystemtimezones).
             </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
@@ -363,23 +269,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>

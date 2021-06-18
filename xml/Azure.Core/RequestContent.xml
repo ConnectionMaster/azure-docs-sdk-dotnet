@@ -6,20 +6,9 @@
   <TypeSignature Language="F#" Value="type RequestContent = class&#xA;    interface IDisposable" />
   <AssemblyInfo>
     <AssemblyName>Azure.Core</AssemblyName>
-    <AssemblyVersion>1.2.1.0</AssemblyVersion>
-    <AssemblyVersion>1.2.2.0</AssemblyVersion>
-    <AssemblyVersion>1.3.0.0</AssemblyVersion>
-    <AssemblyVersion>1.4.0.0</AssemblyVersion>
-    <AssemblyVersion>1.4.1.0</AssemblyVersion>
-    <AssemblyVersion>1.5.0.0</AssemblyVersion>
-    <AssemblyVersion>1.5.1.0</AssemblyVersion>
-    <AssemblyVersion>1.6.0.0</AssemblyVersion>
-    <AssemblyVersion>1.7.0.0</AssemblyVersion>
-    <AssemblyVersion>1.8.0.0</AssemblyVersion>
-    <AssemblyVersion>1.8.1.0</AssemblyVersion>
-    <AssemblyVersion>1.9.0.0</AssemblyVersion>
-    <AssemblyVersion>1.10.0.0</AssemblyVersion>
-    <AssemblyVersion>1.11.0.0</AssemblyVersion>
+    <AssemblyVersion>1.13.0.0</AssemblyVersion>
+    <AssemblyVersion>1.14.0.0</AssemblyVersion>
+    <AssemblyVersion>1.15.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -44,20 +33,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.2.1.0</AssemblyVersion>
-        <AssemblyVersion>1.2.2.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
-        <AssemblyVersion>1.10.0.0</AssemblyVersion>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -74,7 +52,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.RequestContent</ReturnType>
@@ -100,20 +80,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.2.1.0</AssemblyVersion>
-        <AssemblyVersion>1.2.2.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
-        <AssemblyVersion>1.10.0.0</AssemblyVersion>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.RequestContent</ReturnType>
@@ -139,20 +108,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.2.1.0</AssemblyVersion>
-        <AssemblyVersion>1.2.2.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
-        <AssemblyVersion>1.10.0.0</AssemblyVersion>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.RequestContent</ReturnType>
@@ -178,20 +136,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.2.1.0</AssemblyVersion>
-        <AssemblyVersion>1.2.2.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
-        <AssemblyVersion>1.10.0.0</AssemblyVersion>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.RequestContent</ReturnType>
@@ -217,20 +164,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.2.1.0</AssemblyVersion>
-        <AssemblyVersion>1.2.2.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
-        <AssemblyVersion>1.10.0.0</AssemblyVersion>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.RequestContent</ReturnType>
@@ -256,7 +192,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.RequestContent</ReturnType>
@@ -282,7 +220,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.RequestContent</ReturnType>
@@ -292,7 +232,7 @@
         <Parameter Name="serializer" Type="Azure.Core.Serialization.ObjectSerializer" />
       </Parameters>
       <Docs>
-        <param name="serializable">The <see cref="T:System.Object" /> to serilaize.</param>
+        <param name="serializable">The <see cref="T:System.Object" /> to serialize.</param>
         <param name="serializer">The <see cref="T:Azure.Core.Serialization.ObjectSerializer" /> to use to convert the object to bytes. If not provided, <see cref="T:Azure.Core.Serialization.JsonObjectSerializer" /> is used.</param>
         <summary>
             Creates an instance of <see cref="T:Azure.Core.RequestContent" /> that wraps a serialized version of an object.
@@ -310,20 +250,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.2.1.0</AssemblyVersion>
-        <AssemblyVersion>1.2.2.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
-        <AssemblyVersion>1.10.0.0</AssemblyVersion>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.RequestContent</ReturnType>
@@ -356,20 +285,9 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.2.1.0</AssemblyVersion>
-        <AssemblyVersion>1.2.2.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
-        <AssemblyVersion>1.10.0.0</AssemblyVersion>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -391,7 +309,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.RequestContent</ReturnType>
@@ -417,7 +337,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.RequestContent</ReturnType>
@@ -443,20 +365,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.2.1.0</AssemblyVersion>
-        <AssemblyVersion>1.2.2.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
-        <AssemblyVersion>1.10.0.0</AssemblyVersion>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -482,20 +393,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.2.1.0</AssemblyVersion>
-        <AssemblyVersion>1.2.2.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
-        <AssemblyVersion>1.10.0.0</AssemblyVersion>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -522,20 +422,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.2.1.0</AssemblyVersion>
-        <AssemblyVersion>1.2.2.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
-        <AssemblyVersion>1.10.0.0</AssemblyVersion>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>

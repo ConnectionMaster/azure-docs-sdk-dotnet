@@ -6,7 +6,6 @@
   <TypeSignature Language="F#" Value="type QueryResults = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.OperationalInsights</AssemblyName>
-    <AssemblyVersion>0.10.0.0</AssemblyVersion>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
@@ -31,7 +30,6 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.10.0.0</AssemblyVersion>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
@@ -51,7 +49,6 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.10.0.0</AssemblyVersion>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -74,7 +71,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.10.0.0</AssemblyVersion>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -97,7 +93,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.10.0.0</AssemblyVersion>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -106,8 +101,8 @@
           <AttributeName Language="F#">[&lt;Newtonsoft.Json.JsonProperty(PropertyName="results")&gt;]</AttributeName>
         </Attribute>
         <Attribute>
-          <AttributeName Language="C#">[get: System.Runtime.CompilerServices.IteratorStateMachine(typeof(Microsoft.Azure.OperationalInsights.Models.QueryResults/&lt;get_Results&gt;d__1))]</AttributeName>
-          <AttributeName Language="F#">[&lt;get: System.Runtime.CompilerServices.IteratorStateMachine(typeof(Microsoft.Azure.OperationalInsights.Models.QueryResults/&lt;get_Results&gt;d__1))&gt;]</AttributeName>
+          <AttributeName Language="C#">[get: System.Runtime.CompilerServices.IteratorStateMachine(typeof(Microsoft.Azure.OperationalInsights.Models.QueryResults+&lt;get_Results&gt;d__1))]</AttributeName>
+          <AttributeName Language="F#">[&lt;get: System.Runtime.CompilerServices.IteratorStateMachine(typeof(Microsoft.Azure.OperationalInsights.Models.QueryResults+&lt;get_Results&gt;d__1))&gt;]</AttributeName>
         </Attribute>
       </Attributes>
       <ReturnValue>
@@ -130,7 +125,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.10.0.0</AssemblyVersion>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -153,7 +147,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.10.0.0</AssemblyVersion>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -182,7 +175,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.10.0.0</AssemblyVersion>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>

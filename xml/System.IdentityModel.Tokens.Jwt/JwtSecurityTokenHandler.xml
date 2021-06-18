@@ -6,15 +6,9 @@
   <TypeSignature Language="F#" Value="type JwtSecurityTokenHandler = class&#xA;    inherit SecurityTokenHandler" />
   <AssemblyInfo>
     <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-    <AssemblyVersion>5.6.0.0</AssemblyVersion>
-    <AssemblyVersion>6.5.0.0</AssemblyVersion>
-    <AssemblyVersion>6.5.1.0</AssemblyVersion>
-    <AssemblyVersion>6.6.0.0</AssemblyVersion>
-    <AssemblyVersion>6.7.0.0</AssemblyVersion>
-    <AssemblyVersion>6.7.1.0</AssemblyVersion>
-    <AssemblyVersion>6.8.0.0</AssemblyVersion>
-    <AssemblyVersion>6.9.0.0</AssemblyVersion>
-    <AssemblyVersion>6.10.0.0</AssemblyVersion>
+    <AssemblyVersion>6.10.2.0</AssemblyVersion>
+    <AssemblyVersion>6.11.0.0</AssemblyVersion>
+    <AssemblyVersion>6.11.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Microsoft.IdentityModel.Tokens.SecurityTokenHandler</BaseTypeName>
@@ -35,15 +29,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -62,15 +50,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -101,15 +83,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -131,15 +107,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -161,15 +131,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -199,15 +163,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Security.Claims.ClaimsIdentity</ReturnType>
@@ -237,15 +195,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -272,15 +224,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -319,15 +265,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -369,12 +309,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -418,15 +355,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.IdentityModel.Tokens.Jwt.JwtSecurityToken</ReturnType>
@@ -453,15 +384,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.IdentityModel.Tokens.Jwt.JwtSecurityToken</ReturnType>
@@ -501,15 +426,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.IdentityModel.Tokens.Jwt.JwtSecurityToken</ReturnType>
@@ -551,12 +470,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.IdentityModel.Tokens.Jwt.JwtSecurityToken</ReturnType>
@@ -600,15 +516,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.IdentityModel.Tokens.SecurityToken</ReturnType>
@@ -635,15 +545,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -675,15 +579,9 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.ISet&lt;System.String&gt;</ReturnType>
@@ -704,15 +602,9 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IDictionary&lt;System.String,System.String&gt;</ReturnType>
@@ -733,15 +625,9 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -762,15 +648,9 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IDictionary&lt;System.String,System.String&gt;</ReturnType>
@@ -791,15 +671,9 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IDictionary&lt;System.String,System.String&gt;</ReturnType>
@@ -820,15 +694,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.ISet&lt;System.String&gt;</ReturnType>
@@ -851,15 +719,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IDictionary&lt;System.String,System.String&gt;</ReturnType>
@@ -882,15 +744,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -913,15 +769,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -943,15 +793,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IDictionary&lt;System.String,System.String&gt;</ReturnType>
@@ -973,15 +817,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IDictionary&lt;System.String,System.String&gt;</ReturnType>
@@ -1006,15 +844,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.IdentityModel.Tokens.Jwt.JwtSecurityToken</ReturnType>
@@ -1046,15 +878,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.IdentityModel.Tokens.SecurityToken</ReturnType>
@@ -1086,15 +912,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.IdentityModel.Tokens.SecurityToken</ReturnType>
@@ -1123,15 +943,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.IdentityModel.Tokens.SecurityKey</ReturnType>
@@ -1161,15 +975,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.IdentityModel.Tokens.SecurityKey</ReturnType>
@@ -1199,15 +1007,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -1230,15 +1032,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Type</ReturnType>
@@ -1261,15 +1057,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -1299,15 +1089,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -1339,15 +1123,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -1376,15 +1154,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -1417,15 +1189,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.IdentityModel.Tokens.Jwt.JwtSecurityToken</ReturnType>
@@ -1468,15 +1234,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Security.Claims.ClaimsPrincipal</ReturnType>
@@ -1534,15 +1294,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Security.Claims.ClaimsPrincipal</ReturnType>
@@ -1570,15 +1324,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -1608,15 +1356,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -1652,15 +1394,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.IdentityModel.Tokens.Jwt</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>

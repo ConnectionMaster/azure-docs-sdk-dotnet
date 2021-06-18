@@ -6,23 +6,9 @@
   <TypeSignature Language="F#" Value="type DiffDiskSettings = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-    <AssemblyVersion>30.0.0.0</AssemblyVersion>
-    <AssemblyVersion>31.0.0.0</AssemblyVersion>
-    <AssemblyVersion>32.0.0.0</AssemblyVersion>
-    <AssemblyVersion>33.0.0.0</AssemblyVersion>
-    <AssemblyVersion>34.0.0.0</AssemblyVersion>
-    <AssemblyVersion>35.0.0.0</AssemblyVersion>
-    <AssemblyVersion>35.2.0.0</AssemblyVersion>
-    <AssemblyVersion>36.0.0.0</AssemblyVersion>
-    <AssemblyVersion>37.0.0.0</AssemblyVersion>
-    <AssemblyVersion>38.0.0.0</AssemblyVersion>
-    <AssemblyVersion>38.1.0.0</AssemblyVersion>
-    <AssemblyVersion>39.0.0.0</AssemblyVersion>
-    <AssemblyVersion>41.0.0.0</AssemblyVersion>
-    <AssemblyVersion>42.0.0.0</AssemblyVersion>
-    <AssemblyVersion>43.0.0.1</AssemblyVersion>
-    <AssemblyVersion>44.0.0.0</AssemblyVersion>
-    <AssemblyVersion>45.0.0.0</AssemblyVersion>
+    <AssemblyVersion>45.0.0.1</AssemblyVersion>
+    <AssemblyVersion>46.0.0.0</AssemblyVersion>
+    <AssemblyVersion>47.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -45,23 +31,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -80,18 +52,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="option" Type="System.String" />
@@ -107,11 +70,11 @@
             is configured for the VM size otherwise **ResourceDisk** is
             used.&lt;br&gt;&lt;br&gt; Refer to VM size documentation for
             Windows VM at
-            https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes
-            and Linux VM at
-            https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes
-            to check which VM sizes exposes a cache disk. Possible values
-            include: 'CacheDisk', 'ResourceDisk'</param>
+            https://docs.microsoft.com/azure/virtual-machines/windows/sizes and
+            Linux VM at
+            https://docs.microsoft.com/azure/virtual-machines/linux/sizes to
+            check which VM sizes exposes a cache disk. Possible values include:
+            'CacheDisk', 'ResourceDisk'</param>
         <summary>
             Initializes a new instance of the DiffDiskSettings class.
             </summary>
@@ -127,23 +90,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>30.0.0.0</AssemblyVersion>
-        <AssemblyVersion>31.0.0.0</AssemblyVersion>
-        <AssemblyVersion>32.0.0.0</AssemblyVersion>
-        <AssemblyVersion>33.0.0.0</AssemblyVersion>
-        <AssemblyVersion>34.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -172,18 +121,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
-        <AssemblyVersion>35.0.0.0</AssemblyVersion>
-        <AssemblyVersion>35.2.0.0</AssemblyVersion>
-        <AssemblyVersion>36.0.0.0</AssemblyVersion>
-        <AssemblyVersion>37.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.0.0.0</AssemblyVersion>
-        <AssemblyVersion>38.1.0.0</AssemblyVersion>
-        <AssemblyVersion>39.0.0.0</AssemblyVersion>
-        <AssemblyVersion>41.0.0.0</AssemblyVersion>
-        <AssemblyVersion>42.0.0.0</AssemblyVersion>
-        <AssemblyVersion>43.0.0.1</AssemblyVersion>
-        <AssemblyVersion>44.0.0.0</AssemblyVersion>
-        <AssemblyVersion>45.0.0.0</AssemblyVersion>
+        <AssemblyVersion>45.0.0.1</AssemblyVersion>
+        <AssemblyVersion>46.0.0.0</AssemblyVersion>
+        <AssemblyVersion>47.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -204,11 +144,11 @@
             is configured for the VM size otherwise **ResourceDisk** is
             used.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Refer to VM size
             documentation for Windows VM at
-            https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes
-            and Linux VM at
-            https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes
-            to check which VM sizes exposes a cache disk. Possible values
-            include: 'CacheDisk', 'ResourceDisk'
+            https://docs.microsoft.com/azure/virtual-machines/windows/sizes and
+            Linux VM at
+            https://docs.microsoft.com/azure/virtual-machines/linux/sizes to
+            check which VM sizes exposes a cache disk. Possible values include:
+            'CacheDisk', 'ResourceDisk'
             </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>

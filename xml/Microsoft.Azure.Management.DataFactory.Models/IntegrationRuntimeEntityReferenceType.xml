@@ -6,15 +6,9 @@
   <TypeSignature Language="F#" Value="type IntegrationRuntimeEntityReferenceType = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-    <AssemblyVersion>4.3.0.0</AssemblyVersion>
-    <AssemblyVersion>4.9.0.0</AssemblyVersion>
-    <AssemblyVersion>4.10.0.0</AssemblyVersion>
-    <AssemblyVersion>4.11.0.0</AssemblyVersion>
-    <AssemblyVersion>4.12.0.0</AssemblyVersion>
-    <AssemblyVersion>4.13.0.0</AssemblyVersion>
-    <AssemblyVersion>4.14.0.0</AssemblyVersion>
-    <AssemblyVersion>4.15.0.0</AssemblyVersion>
-    <AssemblyVersion>4.16.0.0</AssemblyVersion>
+    <AssemblyVersion>4.17.1.0</AssemblyVersion>
+    <AssemblyVersion>4.18.0.0</AssemblyVersion>
+    <AssemblyVersion>4.19.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -27,6 +21,25 @@
     <remarks>To be added.</remarks>
   </Docs>
   <Members>
+    <Member MemberName="CredentialReference">
+      <MemberSignature Language="C#" Value="public const string CredentialReference;" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal string CredentialReference" />
+      <MemberSignature Language="DocId" Value="F:Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeEntityReferenceType.CredentialReference" />
+      <MemberSignature Language="VB.NET" Value="Public Const CredentialReference As String " />
+      <MemberSignature Language="F#" Value="val mutable CredentialReference : string" Usage="Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeEntityReferenceType.CredentialReference" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.String</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
     <Member MemberName="IntegrationRuntimeReference">
       <MemberSignature Language="C#" Value="public const string IntegrationRuntimeReference;" />
       <MemberSignature Language="ILAsm" Value=".field public static literal string IntegrationRuntimeReference" />
@@ -36,15 +49,9 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -63,15 +70,9 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.3.0.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

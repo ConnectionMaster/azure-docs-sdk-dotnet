@@ -6,8 +6,10 @@
   <TypeSignature Language="F#" Value="type BlobErrorCode = struct" />
   <AssemblyInfo>
     <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-    <AssemblyVersion>12.8.0.0</AssemblyVersion>
     <AssemblyVersion>12.8.1.0</AssemblyVersion>
+    <AssemblyVersion>12.8.2.0</AssemblyVersion>
+    <AssemblyVersion>12.8.3.0</AssemblyVersion>
+    <AssemblyVersion>12.8.4.0</AssemblyVersion>
     <AssemblyVersion>12.9.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
@@ -32,8 +34,10 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -56,8 +60,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -78,8 +84,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -100,8 +108,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -122,8 +132,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -144,8 +156,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -166,8 +180,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -188,8 +204,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -210,8 +228,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -232,8 +252,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -254,8 +276,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -276,8 +300,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -298,8 +324,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -320,8 +348,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -342,8 +372,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -364,8 +396,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -386,8 +420,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -408,8 +444,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -430,8 +468,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -452,8 +492,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -461,6 +503,26 @@
       </ReturnValue>
       <Docs>
         <summary> BlobTierInadequateForContentLength. </summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="BlobUsesCustomerSpecifiedEncryption">
+      <MemberSignature Language="C#" Value="public static Azure.Storage.Blobs.Models.BlobErrorCode BlobUsesCustomerSpecifiedEncryption { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property valuetype Azure.Storage.Blobs.Models.BlobErrorCode BlobUsesCustomerSpecifiedEncryption" />
+      <MemberSignature Language="DocId" Value="P:Azure.Storage.Blobs.Models.BlobErrorCode.BlobUsesCustomerSpecifiedEncryption" />
+      <MemberSignature Language="VB.NET" Value="Public Shared ReadOnly Property BlobUsesCustomerSpecifiedEncryption As BlobErrorCode" />
+      <MemberSignature Language="F#" Value="member this.BlobUsesCustomerSpecifiedEncryption : Azure.Storage.Blobs.Models.BlobErrorCode" Usage="Azure.Storage.Blobs.Models.BlobErrorCode.BlobUsesCustomerSpecifiedEncryption" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Storage.Blobs</AssemblyName>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Storage.Blobs.Models.BlobErrorCode</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary> BlobUsesCustomerSpecifiedEncryption. </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
       </Docs>
@@ -474,8 +536,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -496,8 +560,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -518,8 +584,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -540,8 +608,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -562,8 +632,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -584,8 +656,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -606,8 +680,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -628,8 +704,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -650,8 +728,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -672,8 +752,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -694,8 +776,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -716,8 +800,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -738,8 +824,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -760,8 +848,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -785,8 +875,10 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -812,8 +904,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -845,8 +939,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -867,8 +963,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -896,8 +994,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -918,8 +1018,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -940,8 +1042,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -962,8 +1066,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -984,8 +1090,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1006,8 +1114,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1028,8 +1138,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1050,8 +1162,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1072,8 +1186,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1094,8 +1210,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1116,8 +1234,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1138,8 +1258,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1160,8 +1282,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1182,8 +1306,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1204,8 +1330,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1226,8 +1354,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1248,8 +1378,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1270,8 +1402,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1292,8 +1426,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1314,8 +1450,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1336,8 +1474,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1358,8 +1498,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1380,8 +1522,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1402,8 +1546,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1424,8 +1570,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1446,8 +1594,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1468,8 +1618,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1490,8 +1642,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1512,8 +1666,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1534,8 +1690,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1556,8 +1714,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1578,8 +1738,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1600,8 +1762,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1622,8 +1786,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1644,8 +1810,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1666,8 +1834,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1688,8 +1858,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1710,8 +1882,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1732,8 +1906,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1754,8 +1930,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1776,8 +1954,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1798,8 +1978,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1820,8 +2002,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1842,8 +2026,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1864,8 +2050,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1886,8 +2074,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1908,8 +2098,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1930,8 +2122,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1952,8 +2146,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1974,8 +2170,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1996,8 +2194,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2018,8 +2218,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2046,8 +2248,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2072,8 +2276,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2100,8 +2306,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2122,8 +2330,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2144,8 +2354,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2166,8 +2378,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2188,8 +2402,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2210,8 +2426,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2232,8 +2450,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2254,8 +2474,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2276,8 +2498,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2298,8 +2522,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2320,8 +2546,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2342,8 +2570,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2364,8 +2594,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2386,8 +2618,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2408,8 +2642,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2430,8 +2666,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2452,8 +2690,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2474,8 +2714,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2496,8 +2738,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2518,8 +2762,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2540,8 +2786,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2562,8 +2810,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2584,8 +2834,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2607,8 +2859,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2629,8 +2883,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2651,8 +2907,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2673,8 +2931,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2695,8 +2955,10 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
-        <AssemblyVersion>12.8.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.1.0</AssemblyVersion>
+        <AssemblyVersion>12.8.2.0</AssemblyVersion>
+        <AssemblyVersion>12.8.3.0</AssemblyVersion>
+        <AssemblyVersion>12.8.4.0</AssemblyVersion>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>

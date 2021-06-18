@@ -6,11 +6,9 @@
   <TypeSignature Language="F#" Value="type SearchIndex = class" />
   <AssemblyInfo>
     <AssemblyName>Azure.Search.Documents</AssemblyName>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <AssemblyVersion>11.0.0.0</AssemblyVersion>
-    <AssemblyVersion>11.1.0.0</AssemblyVersion>
-    <AssemblyVersion>11.1.1.0</AssemblyVersion>
     <AssemblyVersion>11.2.0.0</AssemblyVersion>
+    <AssemblyVersion>11.2.1.0</AssemblyVersion>
+    <AssemblyVersion>11.3.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -30,11 +28,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="name" Type="System.String" />
@@ -60,11 +56,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="name" Type="System.String" />
@@ -92,11 +86,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.Search.Documents.Indexes.Models.LexicalAnalyzer&gt;</ReturnType>
@@ -118,11 +110,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.Search.Documents.Indexes.Models.CharFilter&gt;</ReturnType>
@@ -144,11 +134,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.CorsOptions</ReturnType>
@@ -168,11 +156,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -192,11 +178,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.SearchResourceEncryptionKey</ReturnType>
@@ -216,11 +200,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Azure.ETag&gt;</ReturnType>
@@ -242,11 +224,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.Search.Documents.Indexes.Models.SearchField&gt;</ReturnType>
@@ -314,11 +294,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -340,11 +318,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.Search.Documents.Indexes.Models.ScoringProfile&gt;</ReturnType>
@@ -366,11 +342,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Search.Documents.Indexes.Models.SimilarityAlgorithm</ReturnType>
@@ -390,11 +364,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.Search.Documents.Indexes.Models.SearchSuggester&gt;</ReturnType>
@@ -416,11 +388,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.Search.Documents.Indexes.Models.TokenFilter&gt;</ReturnType>
@@ -442,11 +412,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Search.Documents</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.0.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.0.0</AssemblyVersion>
-        <AssemblyVersion>11.1.1.0</AssemblyVersion>
         <AssemblyVersion>11.2.0.0</AssemblyVersion>
+        <AssemblyVersion>11.2.1.0</AssemblyVersion>
+        <AssemblyVersion>11.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Azure.Search.Documents.Indexes.Models.LexicalTokenizer&gt;</ReturnType>

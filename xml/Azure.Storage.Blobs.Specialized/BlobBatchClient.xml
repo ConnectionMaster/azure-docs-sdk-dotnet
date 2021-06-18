@@ -6,8 +6,8 @@
   <TypeSignature Language="F#" Value="type BlobBatchClient = class" />
   <AssemblyInfo>
     <AssemblyName>Azure.Storage.Blobs.Batch</AssemblyName>
-    <AssemblyVersion>12.5.0.0</AssemblyVersion>
     <AssemblyVersion>12.5.1.0</AssemblyVersion>
+    <AssemblyVersion>12.5.2.0</AssemblyVersion>
     <AssemblyVersion>12.6.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
@@ -30,8 +30,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs.Batch</AssemblyName>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
         <AssemblyVersion>12.5.1.0</AssemblyVersion>
+        <AssemblyVersion>12.5.2.0</AssemblyVersion>
         <AssemblyVersion>12.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
@@ -55,7 +55,7 @@
         <AssemblyVersion>12.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
-        <Parameter Name="client" Type="Azure.Storage.Blobs.BlobContainerClient" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="client" Type="Azure.Storage.Blobs.BlobContainerClient" />
       </Parameters>
       <Docs>
         <param name="client">The <see cref="T:Azure.Storage.Blobs.BlobContainerClient" />.</param>
@@ -77,8 +77,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs.Batch</AssemblyName>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
         <AssemblyVersion>12.5.1.0</AssemblyVersion>
+        <AssemblyVersion>12.5.2.0</AssemblyVersion>
         <AssemblyVersion>12.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -104,8 +104,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs.Batch</AssemblyName>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
         <AssemblyVersion>12.5.1.0</AssemblyVersion>
+        <AssemblyVersion>12.5.2.0</AssemblyVersion>
         <AssemblyVersion>12.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -130,8 +130,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs.Batch</AssemblyName>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
         <AssemblyVersion>12.5.1.0</AssemblyVersion>
+        <AssemblyVersion>12.5.2.0</AssemblyVersion>
         <AssemblyVersion>12.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -175,8 +175,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs.Batch</AssemblyName>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
         <AssemblyVersion>12.5.1.0</AssemblyVersion>
+        <AssemblyVersion>12.5.2.0</AssemblyVersion>
         <AssemblyVersion>12.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -220,8 +220,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs.Batch</AssemblyName>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
         <AssemblyVersion>12.5.1.0</AssemblyVersion>
+        <AssemblyVersion>12.5.2.0</AssemblyVersion>
         <AssemblyVersion>12.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -270,8 +270,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs.Batch</AssemblyName>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
         <AssemblyVersion>12.5.1.0</AssemblyVersion>
+        <AssemblyVersion>12.5.2.0</AssemblyVersion>
         <AssemblyVersion>12.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -320,8 +320,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs.Batch</AssemblyName>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
         <AssemblyVersion>12.5.1.0</AssemblyVersion>
+        <AssemblyVersion>12.5.2.0</AssemblyVersion>
         <AssemblyVersion>12.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -367,8 +367,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs.Batch</AssemblyName>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
         <AssemblyVersion>12.5.1.0</AssemblyVersion>
+        <AssemblyVersion>12.5.2.0</AssemblyVersion>
         <AssemblyVersion>12.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -414,8 +414,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs.Batch</AssemblyName>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
         <AssemblyVersion>12.5.1.0</AssemblyVersion>
+        <AssemblyVersion>12.5.2.0</AssemblyVersion>
         <AssemblyVersion>12.6.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>

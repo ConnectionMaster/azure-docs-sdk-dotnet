@@ -6,14 +6,7 @@
   <TypeSignature Language="F#" Value="type Message = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-    <AssemblyVersion>4.1.1.0</AssemblyVersion>
-    <AssemblyVersion>4.1.2.0</AssemblyVersion>
-    <AssemblyVersion>4.1.3.0</AssemblyVersion>
-    <AssemblyVersion>4.1.4.0</AssemblyVersion>
-    <AssemblyVersion>5.0.0.0</AssemblyVersion>
-    <AssemblyVersion>5.1.0.0</AssemblyVersion>
-    <AssemblyVersion>5.1.1.0</AssemblyVersion>
-    <AssemblyVersion>5.1.2.0</AssemblyVersion>
+    <AssemblyVersion>5.1.3.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -32,14 +25,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -56,14 +42,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="body" Type="System.Byte[]" />
@@ -83,14 +62,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Byte[]</ReturnType>
@@ -110,14 +82,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.ServiceBus.Message</ReturnType>
@@ -138,14 +103,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -165,14 +123,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -192,14 +143,7 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -218,14 +162,7 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -244,14 +181,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.DateTime</ReturnType>
@@ -271,14 +201,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -298,14 +221,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -325,14 +241,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -352,14 +261,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -379,14 +281,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -406,14 +301,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.DateTime</ReturnType>
@@ -433,14 +321,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -460,14 +341,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -487,14 +361,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.ServiceBus.Message+SystemPropertiesCollection</ReturnType>
@@ -514,14 +381,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.TimeSpan</ReturnType>
@@ -541,14 +401,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -568,14 +421,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -596,14 +442,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IDictionary&lt;System.String,System.Object&gt;</ReturnType>
@@ -623,14 +462,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.ServiceBus</AssemblyName>
-        <AssemblyVersion>4.1.1.0</AssemblyVersion>
-        <AssemblyVersion>4.1.2.0</AssemblyVersion>
-        <AssemblyVersion>4.1.3.0</AssemblyVersion>
-        <AssemblyVersion>4.1.4.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.2.0</AssemblyVersion>
+        <AssemblyVersion>5.1.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

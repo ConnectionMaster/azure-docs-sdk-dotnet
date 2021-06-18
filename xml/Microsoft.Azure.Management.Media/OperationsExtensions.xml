@@ -6,9 +6,9 @@
   <TypeSignature Language="F#" Value="type OperationsExtensions = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-    <AssemblyVersion>2.0.1.0</AssemblyVersion>
-    <AssemblyVersion>3.0.3.0</AssemblyVersion>
     <AssemblyVersion>3.0.4.0</AssemblyVersion>
+    <AssemblyVersion>3.0.5.0</AssemblyVersion>
+    <AssemblyVersion>4.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -30,9 +30,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Media.Models.Operation&gt;</ReturnType>
@@ -62,9 +62,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Media.Models.Operation&gt;&gt;</ReturnType>
@@ -98,9 +98,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Media.Models.Operation&gt;</ReturnType>
@@ -134,9 +134,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Media.Models.Operation&gt;&gt;</ReturnType>

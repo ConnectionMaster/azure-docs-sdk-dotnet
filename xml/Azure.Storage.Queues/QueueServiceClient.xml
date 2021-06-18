@@ -6,19 +6,8 @@
   <TypeSignature Language="F#" Value="type QueueServiceClient = class" />
   <AssemblyInfo>
     <AssemblyName>Azure.Storage.Queues</AssemblyName>
-    <AssemblyVersion>12.0.0.0</AssemblyVersion>
-    <AssemblyVersion>12.1.0.0</AssemblyVersion>
-    <AssemblyVersion>12.1.1.0</AssemblyVersion>
-    <AssemblyVersion>12.2.0.0</AssemblyVersion>
-    <AssemblyVersion>12.3.0.0</AssemblyVersion>
-    <AssemblyVersion>12.3.1.0</AssemblyVersion>
-    <AssemblyVersion>12.3.2.0</AssemblyVersion>
-    <AssemblyVersion>12.4.0.0</AssemblyVersion>
-    <AssemblyVersion>12.4.1.0</AssemblyVersion>
-    <AssemblyVersion>12.4.2.0</AssemblyVersion>
-    <AssemblyVersion>12.5.0.0</AssemblyVersion>
-    <AssemblyVersion>12.6.0.0</AssemblyVersion>
     <AssemblyVersion>12.6.1.0</AssemblyVersion>
+    <AssemblyVersion>12.6.2.0</AssemblyVersion>
     <AssemblyVersion>12.7.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
@@ -40,19 +29,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
@@ -73,19 +51,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -117,19 +84,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -167,19 +123,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -213,8 +158,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -254,19 +199,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -303,19 +237,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -352,19 +275,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -379,19 +291,16 @@
       </Docs>
     </Member>
     <Member MemberName="CanGenerateAccountSasUri">
-      <MemberSignature Language="C#" Value="public bool CanGenerateAccountSasUri { get; }" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="C#" Value="public virtual bool CanGenerateAccountSasUri { get; }" />
       <MemberSignature Language="ILAsm" Value=".property instance bool CanGenerateAccountSasUri" />
       <MemberSignature Language="DocId" Value="P:Azure.Storage.Queues.QueueServiceClient.CanGenerateAccountSasUri" />
-      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property CanGenerateAccountSasUri As Boolean" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property CanGenerateAccountSasUri As Boolean" />
       <MemberSignature Language="F#" Value="member this.CanGenerateAccountSasUri : bool" Usage="Azure.Storage.Queues.QueueServiceClient.CanGenerateAccountSasUri" />
-      <MemberSignature Language="C#" Value="public virtual bool CanGenerateAccountSasUri { get; }" FrameworkAlternate="azure-dotnet-preview" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property CanGenerateAccountSasUri As Boolean" FrameworkAlternate="azure-dotnet-preview" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -415,19 +324,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -470,19 +368,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -525,19 +412,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -576,19 +452,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -627,9 +492,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -667,9 +531,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -721,19 +584,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -768,19 +620,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -815,19 +656,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -861,19 +691,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -920,19 +739,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -982,19 +790,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1031,19 +828,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1080,19 +866,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1131,19 +906,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1181,19 +945,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>

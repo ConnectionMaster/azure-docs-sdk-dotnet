@@ -6,16 +6,8 @@
   <TypeSignature Language="F#" Value="type Participant = class&#xA;    inherit DisposableBase" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-    <AssemblyVersion>1.8.0.28</AssemblyVersion>
-    <AssemblyVersion>1.9.0.28</AssemblyVersion>
-    <AssemblyVersion>1.10.0.28</AssemblyVersion>
-    <AssemblyVersion>1.11.0.28</AssemblyVersion>
-    <AssemblyVersion>1.12.0.28</AssemblyVersion>
-    <AssemblyVersion>1.12.1.28</AssemblyVersion>
-    <AssemblyVersion>1.13.0.28</AssemblyVersion>
-    <AssemblyVersion>1.14.0.28</AssemblyVersion>
-    <AssemblyVersion>1.15.0.28</AssemblyVersion>
     <AssemblyVersion>1.16.0.28</AssemblyVersion>
+    <AssemblyVersion>1.17.0.28</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Microsoft.CognitiveServices.Speech.Internal.DisposableBase</BaseTypeName>
@@ -24,7 +16,7 @@
   <Docs>
     <summary>
             Represents a participant in a conversation.
-            Changed in version 1.9.0
+            Changed in 1.9.0
             </summary>
     <remarks>To be added.</remarks>
   </Docs>
@@ -38,15 +30,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -68,15 +53,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -100,15 +78,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -134,16 +105,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.8.0.28</AssemblyVersion>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.CognitiveServices.Speech.Transcription.Participant</ReturnType>
@@ -154,12 +117,12 @@
         <Parameter Name="voiceSignature" Type="System.String" />
       </Parameters>
       <Docs>
-        <param name="userId">A user id.</param>
+        <param name="userId">A user identifier.</param>
         <param name="preferredLanguage">A preferred language.</param>
         <param name="voiceSignature">A voice signature of the user.</param>
         <summary>
-            Creates a Participant using user id, her/his preferred language and her/his voice signature.
-            If voice signature is empty then user will not be identified.
+            Creates a Participant using a user identifier, including the user's preferred language and voice signature.
+            If voice signature is empty then the user will not be identified.
             </summary>
         <returns>A Participant object</returns>
         <remarks>To be added.</remarks>
@@ -174,15 +137,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -204,15 +160,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -234,15 +183,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -264,15 +206,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -294,16 +229,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.8.0.28</AssemblyVersion>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -325,16 +252,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.8.0.28</AssemblyVersion>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.CognitiveServices.Speech.PropertyCollection</ReturnType>
@@ -356,16 +275,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.8.0.28</AssemblyVersion>
-        <AssemblyVersion>1.9.0.28</AssemblyVersion>
-        <AssemblyVersion>1.10.0.28</AssemblyVersion>
-        <AssemblyVersion>1.11.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

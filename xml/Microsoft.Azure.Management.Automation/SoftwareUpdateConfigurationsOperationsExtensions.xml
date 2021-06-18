@@ -6,7 +6,7 @@
   <TypeSignature Language="F#" Value="type SoftwareUpdateConfigurationsOperationsExtensions = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-    <AssemblyVersion>3.0.1.0</AssemblyVersion>
+    <AssemblyVersion>3.0.2.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -28,7 +28,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Automation.Models.SoftwareUpdateConfiguration</ReturnType>
@@ -76,7 +76,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Automation.Models.SoftwareUpdateConfiguration&gt;</ReturnType>
@@ -128,7 +128,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -171,7 +171,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -219,7 +219,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Automation.Models.SoftwareUpdateConfiguration</ReturnType>
@@ -263,7 +263,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Automation.Models.SoftwareUpdateConfiguration&gt;</ReturnType>
@@ -311,7 +311,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Automation.Models.SoftwareUpdateConfigurationListResult</ReturnType>
@@ -355,7 +355,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Automation.Models.SoftwareUpdateConfigurationListResult&gt;</ReturnType>
@@ -403,7 +403,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Automation.Models.SoftwareUpdateConfigurationListResult</ReturnType>
@@ -441,7 +441,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Automation.Models.SoftwareUpdateConfigurationListResult&gt;</ReturnType>

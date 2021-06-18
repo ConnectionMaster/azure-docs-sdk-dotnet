@@ -6,15 +6,9 @@
   <TypeSignature Language="F#" Value="type Saml2SubjectConfirmationData = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.IdentityModel.Tokens.Saml</AssemblyName>
-    <AssemblyVersion>5.6.0.0</AssemblyVersion>
-    <AssemblyVersion>6.5.0.0</AssemblyVersion>
-    <AssemblyVersion>6.5.1.0</AssemblyVersion>
-    <AssemblyVersion>6.6.0.0</AssemblyVersion>
-    <AssemblyVersion>6.7.0.0</AssemblyVersion>
-    <AssemblyVersion>6.7.1.0</AssemblyVersion>
-    <AssemblyVersion>6.8.0.0</AssemblyVersion>
-    <AssemblyVersion>6.9.0.0</AssemblyVersion>
-    <AssemblyVersion>6.10.0.0</AssemblyVersion>
+    <AssemblyVersion>6.10.2.0</AssemblyVersion>
+    <AssemblyVersion>6.11.0.0</AssemblyVersion>
+    <AssemblyVersion>6.11.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -36,15 +30,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Tokens.Saml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -63,15 +51,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Tokens.Saml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -94,15 +76,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Tokens.Saml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.IdentityModel.Tokens.Saml2.Saml2Id</ReturnType>
@@ -125,15 +101,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Tokens.Saml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.ICollection&lt;Microsoft.IdentityModel.Xml.KeyInfo&gt;</ReturnType>
@@ -155,15 +125,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Tokens.Saml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.DateTime&gt;</ReturnType>
@@ -186,15 +150,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Tokens.Saml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.DateTime&gt;</ReturnType>
@@ -217,15 +175,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.IdentityModel.Tokens.Saml</AssemblyName>
-        <AssemblyVersion>5.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.0.0</AssemblyVersion>
-        <AssemblyVersion>6.5.1.0</AssemblyVersion>
-        <AssemblyVersion>6.6.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.0.0</AssemblyVersion>
-        <AssemblyVersion>6.7.1.0</AssemblyVersion>
-        <AssemblyVersion>6.8.0.0</AssemblyVersion>
-        <AssemblyVersion>6.9.0.0</AssemblyVersion>
-        <AssemblyVersion>6.10.0.0</AssemblyVersion>
+        <AssemblyVersion>6.10.2.0</AssemblyVersion>
+        <AssemblyVersion>6.11.0.0</AssemblyVersion>
+        <AssemblyVersion>6.11.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Uri</ReturnType>

@@ -6,19 +6,8 @@
   <TypeSignature Language="F#" Value="type QueueClientOptions.ServiceVersion = " />
   <AssemblyInfo>
     <AssemblyName>Azure.Storage.Queues</AssemblyName>
-    <AssemblyVersion>12.0.0.0</AssemblyVersion>
-    <AssemblyVersion>12.1.0.0</AssemblyVersion>
-    <AssemblyVersion>12.1.1.0</AssemblyVersion>
-    <AssemblyVersion>12.2.0.0</AssemblyVersion>
-    <AssemblyVersion>12.3.0.0</AssemblyVersion>
-    <AssemblyVersion>12.3.1.0</AssemblyVersion>
-    <AssemblyVersion>12.3.2.0</AssemblyVersion>
-    <AssemblyVersion>12.4.0.0</AssemblyVersion>
-    <AssemblyVersion>12.4.1.0</AssemblyVersion>
-    <AssemblyVersion>12.4.2.0</AssemblyVersion>
-    <AssemblyVersion>12.5.0.0</AssemblyVersion>
-    <AssemblyVersion>12.6.0.0</AssemblyVersion>
     <AssemblyVersion>12.6.1.0</AssemblyVersion>
+    <AssemblyVersion>12.6.2.0</AssemblyVersion>
     <AssemblyVersion>12.7.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
@@ -45,19 +34,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.0.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.0.0</AssemblyVersion>
-        <AssemblyVersion>12.1.1.0</AssemblyVersion>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -81,16 +59,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.2.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.0.0</AssemblyVersion>
-        <AssemblyVersion>12.3.1.0</AssemblyVersion>
-        <AssemblyVersion>12.3.2.0</AssemblyVersion>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -114,12 +84,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.4.0.0</AssemblyVersion>
-        <AssemblyVersion>12.4.1.0</AssemblyVersion>
-        <AssemblyVersion>12.4.2.0</AssemblyVersion>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -141,9 +107,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.5.0.0</AssemblyVersion>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -165,8 +130,8 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Queues</AssemblyName>
-        <AssemblyVersion>12.6.0.0</AssemblyVersion>
         <AssemblyVersion>12.6.1.0</AssemblyVersion>
+        <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -197,6 +162,27 @@
       <Docs>
         <summary>
             The 2020-06-12 service version.
+            </summary>
+      </Docs>
+    </Member>
+    <Member MemberName="V2020_08_04">
+      <MemberSignature Language="C#" Value="V2020_08_04" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Azure.Storage.Queues.QueueClientOptions/ServiceVersion V2020_08_04 = int32(7)" />
+      <MemberSignature Language="DocId" Value="F:Azure.Storage.Queues.QueueClientOptions.ServiceVersion.V2020_08_04" />
+      <MemberSignature Language="VB.NET" Value="V2020_08_04" />
+      <MemberSignature Language="F#" Value="V2020_08_04 = 7" Usage="Azure.Storage.Queues.QueueClientOptions.ServiceVersion.V2020_08_04" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Storage.Queues</AssemblyName>
+        <AssemblyVersion>12.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Storage.Queues.QueueClientOptions+ServiceVersion</ReturnType>
+      </ReturnValue>
+      <MemberValue>7</MemberValue>
+      <Docs>
+        <summary>
+            The 2020-08-14 service version.
             </summary>
       </Docs>
     </Member>

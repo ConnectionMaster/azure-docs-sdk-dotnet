@@ -6,39 +6,13 @@
   <TypeSignature Language="F#" Value="type ResourceResponseBase = class&#xA;    interface IResourceResponseBase" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-    <AssemblyVersion>2.9.2.0</AssemblyVersion>
-    <AssemblyVersion>2.9.3.0</AssemblyVersion>
-    <AssemblyVersion>2.9.4.0</AssemblyVersion>
-    <AssemblyVersion>2.10.1.0</AssemblyVersion>
-    <AssemblyVersion>2.10.3.0</AssemblyVersion>
-    <AssemblyVersion>2.11.0.0</AssemblyVersion>
-    <AssemblyVersion>2.11.1.0</AssemblyVersion>
-    <AssemblyVersion>2.11.2.0</AssemblyVersion>
-    <AssemblyVersion>2.11.3.0</AssemblyVersion>
-    <AssemblyVersion>2.11.4.0</AssemblyVersion>
-    <AssemblyVersion>2.11.5.0</AssemblyVersion>
-    <AssemblyVersion>2.11.6.0</AssemblyVersion>
-    <AssemblyVersion>2.12.0.0</AssemblyVersion>
-    <AssemblyVersion>2.13.0.0</AssemblyVersion>
-    <AssemblyVersion>2.13.1.0</AssemblyVersion>
+    <AssemblyVersion>2.14.0.0</AssemblyVersion>
+    <AssemblyVersion>2.14.1.0</AssemblyVersion>
   </AssemblyInfo>
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-    <AssemblyVersion>2.9.2.0</AssemblyVersion>
-    <AssemblyVersion>2.9.3.0</AssemblyVersion>
-    <AssemblyVersion>2.9.4.0</AssemblyVersion>
-    <AssemblyVersion>2.10.1.0</AssemblyVersion>
-    <AssemblyVersion>2.10.3.0</AssemblyVersion>
-    <AssemblyVersion>2.11.0.0</AssemblyVersion>
-    <AssemblyVersion>2.11.1.0</AssemblyVersion>
-    <AssemblyVersion>2.11.2.0</AssemblyVersion>
-    <AssemblyVersion>2.11.3.0</AssemblyVersion>
-    <AssemblyVersion>2.11.4.0</AssemblyVersion>
-    <AssemblyVersion>2.11.5.0</AssemblyVersion>
-    <AssemblyVersion>2.11.6.0</AssemblyVersion>
-    <AssemblyVersion>2.12.0.0</AssemblyVersion>
-    <AssemblyVersion>2.13.0.0</AssemblyVersion>
-    <AssemblyVersion>2.13.1.0</AssemblyVersion>
+    <AssemblyVersion>2.14.0.0</AssemblyVersion>
+    <AssemblyVersion>2.14.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -63,39 +37,13 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -117,39 +65,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -176,39 +98,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -235,39 +131,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -294,39 +164,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -353,39 +197,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -412,39 +230,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -469,39 +261,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -529,39 +295,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -588,39 +328,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -647,39 +361,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -706,39 +394,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -765,39 +427,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -824,39 +460,13 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -883,39 +493,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -945,39 +529,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -1005,39 +563,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -1064,39 +596,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -1123,39 +629,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Double</ReturnType>
@@ -1179,39 +659,13 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -1235,39 +689,13 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.TimeSpan</ReturnType>
@@ -1294,39 +722,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Specialized.NameValueCollection</ReturnType>
@@ -1353,39 +755,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.IO.Stream</ReturnType>
@@ -1410,39 +786,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -1469,39 +819,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Net.HttpStatusCode</ReturnType>
@@ -1528,39 +852,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -1587,39 +885,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -1646,39 +918,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -1705,39 +951,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -1764,39 +984,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -1823,39 +1017,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -1882,39 +1050,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -1941,39 +1083,13 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.DocumentDB.Core</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.Client</AssemblyName>
-        <AssemblyVersion>2.9.2.0</AssemblyVersion>
-        <AssemblyVersion>2.9.3.0</AssemblyVersion>
-        <AssemblyVersion>2.9.4.0</AssemblyVersion>
-        <AssemblyVersion>2.10.1.0</AssemblyVersion>
-        <AssemblyVersion>2.10.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.0.0</AssemblyVersion>
-        <AssemblyVersion>2.11.1.0</AssemblyVersion>
-        <AssemblyVersion>2.11.2.0</AssemblyVersion>
-        <AssemblyVersion>2.11.3.0</AssemblyVersion>
-        <AssemblyVersion>2.11.4.0</AssemblyVersion>
-        <AssemblyVersion>2.11.5.0</AssemblyVersion>
-        <AssemblyVersion>2.11.6.0</AssemblyVersion>
-        <AssemblyVersion>2.12.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.0.0</AssemblyVersion>
-        <AssemblyVersion>2.13.1.0</AssemblyVersion>
+        <AssemblyVersion>2.14.0.0</AssemblyVersion>
+        <AssemblyVersion>2.14.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>

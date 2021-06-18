@@ -6,21 +6,9 @@
   <TypeSignature Language="F#" Value="type HttpClientTransport = class&#xA;    inherit HttpPipelineTransport" />
   <AssemblyInfo>
     <AssemblyName>Azure.Core</AssemblyName>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <AssemblyVersion>1.2.1.0</AssemblyVersion>
-    <AssemblyVersion>1.2.2.0</AssemblyVersion>
-    <AssemblyVersion>1.3.0.0</AssemblyVersion>
-    <AssemblyVersion>1.4.0.0</AssemblyVersion>
-    <AssemblyVersion>1.4.1.0</AssemblyVersion>
-    <AssemblyVersion>1.5.0.0</AssemblyVersion>
-    <AssemblyVersion>1.5.1.0</AssemblyVersion>
-    <AssemblyVersion>1.6.0.0</AssemblyVersion>
-    <AssemblyVersion>1.7.0.0</AssemblyVersion>
-    <AssemblyVersion>1.8.0.0</AssemblyVersion>
-    <AssemblyVersion>1.8.1.0</AssemblyVersion>
-    <AssemblyVersion>1.9.0.0</AssemblyVersion>
-    <AssemblyVersion>1.10.0.0</AssemblyVersion>
-    <AssemblyVersion>1.11.0.0</AssemblyVersion>
+    <AssemblyVersion>1.13.0.0</AssemblyVersion>
+    <AssemblyVersion>1.14.0.0</AssemblyVersion>
+    <AssemblyVersion>1.15.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.Core.Pipeline.HttpPipelineTransport</BaseTypeName>
@@ -41,21 +29,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.2.1.0</AssemblyVersion>
-        <AssemblyVersion>1.2.2.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
-        <AssemblyVersion>1.10.0.0</AssemblyVersion>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -74,21 +50,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.2.1.0</AssemblyVersion>
-        <AssemblyVersion>1.2.2.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
-        <AssemblyVersion>1.10.0.0</AssemblyVersion>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="client" Type="System.Net.Http.HttpClient" />
@@ -110,13 +74,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
-        <AssemblyVersion>1.10.0.0</AssemblyVersion>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="messageHandler" Type="System.Net.Http.HttpMessageHandler" />
@@ -138,20 +98,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.2.1.0</AssemblyVersion>
-        <AssemblyVersion>1.2.2.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
-        <AssemblyVersion>1.10.0.0</AssemblyVersion>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.Request</ReturnType>
@@ -176,20 +125,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.2.1.0</AssemblyVersion>
-        <AssemblyVersion>1.2.2.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
-        <AssemblyVersion>1.10.0.0</AssemblyVersion>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -207,28 +145,17 @@
       </Docs>
     </Member>
     <Member MemberName="ProcessAsync">
-      <MemberSignature Language="C#" Value="public override sealed System.Threading.Tasks.ValueTask ProcessAsync (Azure.Core.HttpMessage message);" />
+      <MemberSignature Language="C#" Value="public override System.Threading.Tasks.ValueTask ProcessAsync (Azure.Core.HttpMessage message);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig virtual instance valuetype System.Threading.Tasks.ValueTask ProcessAsync(class Azure.Core.HttpMessage message) cil managed" />
       <MemberSignature Language="DocId" Value="M:Azure.Core.Pipeline.HttpClientTransport.ProcessAsync(Azure.Core.HttpMessage)" />
-      <MemberSignature Language="VB.NET" Value="Public Overrides NotOverridable Function ProcessAsync (message As HttpMessage) As ValueTask" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides Function ProcessAsync (message As HttpMessage) As ValueTask" />
       <MemberSignature Language="F#" Value="override this.ProcessAsync : Azure.Core.HttpMessage -&gt; System.Threading.Tasks.ValueTask" Usage="httpClientTransport.ProcessAsync message" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.2.1.0</AssemblyVersion>
-        <AssemblyVersion>1.2.2.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
-        <AssemblyVersion>1.10.0.0</AssemblyVersion>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.ValueTask</ReturnType>
@@ -255,21 +182,9 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Core</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.2.1.0</AssemblyVersion>
-        <AssemblyVersion>1.2.2.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.0.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.9.0.0</AssemblyVersion>
-        <AssemblyVersion>1.10.0.0</AssemblyVersion>
-        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.14.0.0</AssemblyVersion>
+        <AssemblyVersion>1.15.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.Pipeline.HttpClientTransport</ReturnType>

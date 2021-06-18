@@ -6,13 +6,9 @@
   <TypeSignature Language="F#" Value="type ProcessErrorEventArgs = struct" />
   <AssemblyInfo>
     <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-    <AssemblyVersion>5.0.0.0</AssemblyVersion>
-    <AssemblyVersion>5.0.1.0</AssemblyVersion>
-    <AssemblyVersion>5.1.0.0</AssemblyVersion>
-    <AssemblyVersion>5.2.0.0</AssemblyVersion>
-    <AssemblyVersion>5.3.0.0</AssemblyVersion>
-    <AssemblyVersion>5.3.1.0</AssemblyVersion>
     <AssemblyVersion>5.4.0.0</AssemblyVersion>
+    <AssemblyVersion>5.4.1.0</AssemblyVersion>
+    <AssemblyVersion>5.5.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.ValueType</BaseTypeName>
@@ -35,13 +31,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="partitionId" Type="System.String" />
@@ -69,13 +61,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.CancellationToken</ReturnType>
@@ -97,13 +85,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Exception</ReturnType>
@@ -125,13 +109,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -153,13 +133,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

@@ -6,14 +6,6 @@
   <TypeSignature Language="F#" Value="type IVirtualMachineScaleSetsOperations = interface" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-    <AssemblyVersion>1.0.0.61</AssemblyVersion>
-    <AssemblyVersion>1.0.0.62</AssemblyVersion>
-    <AssemblyVersion>1.0.0.63</AssemblyVersion>
-    <AssemblyVersion>1.0.0.64</AssemblyVersion>
-    <AssemblyVersion>1.0.0.65</AssemblyVersion>
-    <AssemblyVersion>1.0.0.66</AssemblyVersion>
-    <AssemblyVersion>1.0.0.67</AssemblyVersion>
-    <AssemblyVersion>1.0.0.68</AssemblyVersion>
     <AssemblyVersion>1.0.0.69</AssemblyVersion>
   </AssemblyInfo>
   <Interfaces />
@@ -33,14 +25,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -94,14 +78,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -157,14 +133,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -215,14 +183,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -269,14 +229,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -325,22 +277,14 @@
       </Docs>
     </Member>
     <Member MemberName="BeginPowerOffWithHttpMessagesAsync">
-      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt; BeginPowerOffWithHttpMessagesAsync (string resourceGroupName, string vmScaleSetName, bool? skipShutdown = false, System.Collections.Generic.IList&lt;string&gt; instanceIds = default, System.Collections.Generic.Dictionary&lt;string,System.Collections.Generic.List&lt;string&gt;&gt; customHeaders = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt; BeginPowerOffWithHttpMessagesAsync (string resourceGroupName, string vmScaleSetName, bool? skipShutdown = False, System.Collections.Generic.IList&lt;string&gt; instanceIds = default, System.Collections.Generic.Dictionary&lt;string,System.Collections.Generic.List&lt;string&gt;&gt; customHeaders = default, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Microsoft.Rest.Azure.AzureOperationResponse&gt; BeginPowerOffWithHttpMessagesAsync(string resourceGroupName, string vmScaleSetName, valuetype System.Nullable`1&lt;bool&gt; skipShutdown, class System.Collections.Generic.IList`1&lt;string&gt; instanceIds, class System.Collections.Generic.Dictionary`2&lt;string, class System.Collections.Generic.List`1&lt;string&gt;&gt; customHeaders, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Compute.Fluent.IVirtualMachineScaleSetsOperations.BeginPowerOffWithHttpMessagesAsync(System.String,System.String,System.Nullable{System.Boolean},System.Collections.Generic.IList{System.String},System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.List{System.String}},System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Function BeginPowerOffWithHttpMessagesAsync (resourceGroupName As String, vmScaleSetName As String, Optional skipShutdown As Nullable(Of Boolean) = false, Optional instanceIds As IList(Of String) = Nothing, Optional customHeaders As Dictionary(Of String, List(Of String)) = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of AzureOperationResponse)" />
+      <MemberSignature Language="VB.NET" Value="Public Function BeginPowerOffWithHttpMessagesAsync (resourceGroupName As String, vmScaleSetName As String, Optional skipShutdown As Nullable(Of Boolean) = False, Optional instanceIds As IList(Of String) = Nothing, Optional customHeaders As Dictionary(Of String, List(Of String)) = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of AzureOperationResponse)" />
       <MemberSignature Language="F#" Value="abstract member BeginPowerOffWithHttpMessagesAsync : string * string * Nullable&lt;bool&gt; * System.Collections.Generic.IList&lt;string&gt; * System.Collections.Generic.Dictionary&lt;string, System.Collections.Generic.List&lt;string&gt;&gt; * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;" Usage="iVirtualMachineScaleSetsOperations.BeginPowerOffWithHttpMessagesAsync (resourceGroupName, vmScaleSetName, skipShutdown, instanceIds, customHeaders, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -402,14 +346,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -463,14 +399,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -525,14 +453,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -586,14 +506,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -646,9 +558,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -699,14 +608,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -759,14 +660,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -818,14 +711,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -879,14 +764,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -942,14 +819,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1003,14 +872,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1066,14 +927,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1124,14 +977,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1178,14 +1023,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1241,14 +1078,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1298,14 +1127,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1351,14 +1172,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1408,14 +1221,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1465,14 +1270,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1521,14 +1318,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1573,14 +1362,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1626,14 +1407,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1680,14 +1453,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1738,14 +1503,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1791,14 +1548,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1847,22 +1596,14 @@
       </Docs>
     </Member>
     <Member MemberName="PowerOffWithHttpMessagesAsync">
-      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt; PowerOffWithHttpMessagesAsync (string resourceGroupName, string vmScaleSetName, bool? skipShutdown = false, System.Collections.Generic.IList&lt;string&gt; instanceIds = default, System.Collections.Generic.Dictionary&lt;string,System.Collections.Generic.List&lt;string&gt;&gt; customHeaders = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt; PowerOffWithHttpMessagesAsync (string resourceGroupName, string vmScaleSetName, bool? skipShutdown = False, System.Collections.Generic.IList&lt;string&gt; instanceIds = default, System.Collections.Generic.Dictionary&lt;string,System.Collections.Generic.List&lt;string&gt;&gt; customHeaders = default, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Microsoft.Rest.Azure.AzureOperationResponse&gt; PowerOffWithHttpMessagesAsync(string resourceGroupName, string vmScaleSetName, valuetype System.Nullable`1&lt;bool&gt; skipShutdown, class System.Collections.Generic.IList`1&lt;string&gt; instanceIds, class System.Collections.Generic.Dictionary`2&lt;string, class System.Collections.Generic.List`1&lt;string&gt;&gt; customHeaders, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Compute.Fluent.IVirtualMachineScaleSetsOperations.PowerOffWithHttpMessagesAsync(System.String,System.String,System.Nullable{System.Boolean},System.Collections.Generic.IList{System.String},System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.List{System.String}},System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Function PowerOffWithHttpMessagesAsync (resourceGroupName As String, vmScaleSetName As String, Optional skipShutdown As Nullable(Of Boolean) = false, Optional instanceIds As IList(Of String) = Nothing, Optional customHeaders As Dictionary(Of String, List(Of String)) = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of AzureOperationResponse)" />
+      <MemberSignature Language="VB.NET" Value="Public Function PowerOffWithHttpMessagesAsync (resourceGroupName As String, vmScaleSetName As String, Optional skipShutdown As Nullable(Of Boolean) = False, Optional instanceIds As IList(Of String) = Nothing, Optional customHeaders As Dictionary(Of String, List(Of String)) = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of AzureOperationResponse)" />
       <MemberSignature Language="F#" Value="abstract member PowerOffWithHttpMessagesAsync : string * string * Nullable&lt;bool&gt; * System.Collections.Generic.IList&lt;string&gt; * System.Collections.Generic.Dictionary&lt;string, System.Collections.Generic.List&lt;string&gt;&gt; * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;" Usage="iVirtualMachineScaleSetsOperations.PowerOffWithHttpMessagesAsync (resourceGroupName, vmScaleSetName, skipShutdown, instanceIds, customHeaders, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1924,14 +1665,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1985,14 +1718,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2047,14 +1772,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2108,14 +1825,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2168,9 +1877,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2221,14 +1927,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2281,14 +1979,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2340,14 +2030,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.61</AssemblyVersion>
-        <AssemblyVersion>1.0.0.62</AssemblyVersion>
-        <AssemblyVersion>1.0.0.63</AssemblyVersion>
-        <AssemblyVersion>1.0.0.64</AssemblyVersion>
-        <AssemblyVersion>1.0.0.65</AssemblyVersion>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>

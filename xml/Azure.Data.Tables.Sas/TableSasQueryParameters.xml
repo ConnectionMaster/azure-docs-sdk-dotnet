@@ -6,8 +6,8 @@
   <TypeSignature Language="F#" Value="type TableSasQueryParameters = class&#xA;    inherit TableAccountSasQueryParameters" />
   <AssemblyInfo>
     <AssemblyName>Azure.Data.Tables</AssemblyName>
-    <AssemblyVersion>3.0.0.0</AssemblyVersion>
     <AssemblyVersion>12.0.0.0</AssemblyVersion>
+    <AssemblyVersion>12.0.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.Data.Tables.Sas.TableAccountSasQueryParameters</BaseTypeName>
@@ -34,8 +34,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Data.Tables</AssemblyName>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
         <AssemblyVersion>12.0.0.0</AssemblyVersion>
+        <AssemblyVersion>12.0.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Data.Tables.Sas.TableSasQueryParameters</ReturnType>
@@ -57,8 +57,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Data.Tables</AssemblyName>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
         <AssemblyVersion>12.0.0.0</AssemblyVersion>
+        <AssemblyVersion>12.0.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -80,8 +80,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Data.Tables</AssemblyName>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
         <AssemblyVersion>12.0.0.0</AssemblyVersion>
+        <AssemblyVersion>12.0.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -103,8 +103,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Data.Tables</AssemblyName>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
         <AssemblyVersion>12.0.0.0</AssemblyVersion>
+        <AssemblyVersion>12.0.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -126,8 +126,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Data.Tables</AssemblyName>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
         <AssemblyVersion>12.0.0.0</AssemblyVersion>
+        <AssemblyVersion>12.0.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -149,8 +149,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Data.Tables</AssemblyName>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
         <AssemblyVersion>12.0.0.0</AssemblyVersion>
+        <AssemblyVersion>12.0.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

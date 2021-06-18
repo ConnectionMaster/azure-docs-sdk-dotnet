@@ -6,17 +6,10 @@
   <TypeSignature Language="F#" Value="type SecurityProviderTpm = class&#xA;    inherit SecurityProvider" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Devices.Shared</AssemblyName>
-    <AssemblyVersion>1.16.0.0</AssemblyVersion>
-    <AssemblyVersion>1.16.1.0</AssemblyVersion>
-    <AssemblyVersion>1.17.0.0</AssemblyVersion>
-    <AssemblyVersion>1.18.0.0</AssemblyVersion>
-    <AssemblyVersion>1.19.0.0</AssemblyVersion>
-    <AssemblyVersion>1.20.0.0</AssemblyVersion>
-    <AssemblyVersion>1.20.1.0</AssemblyVersion>
-    <AssemblyVersion>1.25.0.0</AssemblyVersion>
-    <AssemblyVersion>1.25.1.0</AssemblyVersion>
-    <AssemblyVersion>1.26.0.0</AssemblyVersion>
     <AssemblyVersion>1.27.0.0</AssemblyVersion>
+    <AssemblyVersion>1.28.0.0</AssemblyVersion>
+    <AssemblyVersion>1.28.1.0</AssemblyVersion>
+    <AssemblyVersion>1.29.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Microsoft.Azure.Devices.Shared.SecurityProvider</BaseTypeName>
@@ -38,23 +31,16 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Shared</AssemblyName>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.17.0.0</AssemblyVersion>
-        <AssemblyVersion>1.18.0.0</AssemblyVersion>
-        <AssemblyVersion>1.19.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.1.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.1.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
         <AssemblyVersion>1.27.0.0</AssemblyVersion>
+        <AssemblyVersion>1.28.0.0</AssemblyVersion>
+        <AssemblyVersion>1.28.1.0</AssemblyVersion>
+        <AssemblyVersion>1.29.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="registrationId" Type="System.String" />
       </Parameters>
       <Docs>
-        <param name="registrationId">The Provisioning service Registration ID for this device.</param>
+        <param name="registrationId">The Provisioning service Registration Id for this device.</param>
         <summary>
             Initializes a new instance of the SecurityProviderTpm class.
             </summary>
@@ -70,17 +56,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Shared</AssemblyName>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.17.0.0</AssemblyVersion>
-        <AssemblyVersion>1.18.0.0</AssemblyVersion>
-        <AssemblyVersion>1.19.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.1.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.1.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
         <AssemblyVersion>1.27.0.0</AssemblyVersion>
+        <AssemblyVersion>1.28.0.0</AssemblyVersion>
+        <AssemblyVersion>1.28.1.0</AssemblyVersion>
+        <AssemblyVersion>1.29.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -105,17 +84,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Shared</AssemblyName>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.17.0.0</AssemblyVersion>
-        <AssemblyVersion>1.18.0.0</AssemblyVersion>
-        <AssemblyVersion>1.19.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.1.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.1.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
         <AssemblyVersion>1.27.0.0</AssemblyVersion>
+        <AssemblyVersion>1.28.0.0</AssemblyVersion>
+        <AssemblyVersion>1.28.1.0</AssemblyVersion>
+        <AssemblyVersion>1.29.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Byte[]</ReturnType>
@@ -138,17 +110,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Shared</AssemblyName>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.17.0.0</AssemblyVersion>
-        <AssemblyVersion>1.18.0.0</AssemblyVersion>
-        <AssemblyVersion>1.19.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.1.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.1.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
         <AssemblyVersion>1.27.0.0</AssemblyVersion>
+        <AssemblyVersion>1.28.0.0</AssemblyVersion>
+        <AssemblyVersion>1.28.1.0</AssemblyVersion>
+        <AssemblyVersion>1.29.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -156,7 +121,7 @@
       <Parameters />
       <Docs>
         <summary>
-            Gets the Registration ID used during device enrollment.
+            Gets the Registration Id used during device enrollment.
             </summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
@@ -171,17 +136,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Shared</AssemblyName>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.17.0.0</AssemblyVersion>
-        <AssemblyVersion>1.18.0.0</AssemblyVersion>
-        <AssemblyVersion>1.19.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.1.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.1.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
         <AssemblyVersion>1.27.0.0</AssemblyVersion>
+        <AssemblyVersion>1.28.0.0</AssemblyVersion>
+        <AssemblyVersion>1.28.1.0</AssemblyVersion>
+        <AssemblyVersion>1.29.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Byte[]</ReturnType>
@@ -204,17 +162,10 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Shared</AssemblyName>
-        <AssemblyVersion>1.16.0.0</AssemblyVersion>
-        <AssemblyVersion>1.16.1.0</AssemblyVersion>
-        <AssemblyVersion>1.17.0.0</AssemblyVersion>
-        <AssemblyVersion>1.18.0.0</AssemblyVersion>
-        <AssemblyVersion>1.19.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.0.0</AssemblyVersion>
-        <AssemblyVersion>1.20.1.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.1.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
         <AssemblyVersion>1.27.0.0</AssemblyVersion>
+        <AssemblyVersion>1.28.0.0</AssemblyVersion>
+        <AssemblyVersion>1.28.1.0</AssemblyVersion>
+        <AssemblyVersion>1.29.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Byte[]</ReturnType>

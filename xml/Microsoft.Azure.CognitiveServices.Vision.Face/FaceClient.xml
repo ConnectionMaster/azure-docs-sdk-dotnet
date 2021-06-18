@@ -6,9 +6,7 @@
   <TypeSignature Language="F#" Value="type FaceClient = class&#xA;    inherit ServiceClient&lt;FaceClient&gt;&#xA;    interface IFaceClient&#xA;    interface IDisposable" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.Face</AssemblyName>
-    <AssemblyVersion>2.0.0.0</AssemblyVersion>
-    <AssemblyVersion>2.5.0.0</AssemblyVersion>
-    <AssemblyVersion>2.6.0.0</AssemblyVersion>
+    <AssemblyVersion>2.7.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Microsoft.Rest.ServiceClient&lt;Microsoft.Azure.CognitiveServices.Vision.Face.FaceClient&gt;</BaseTypeName>
@@ -40,9 +38,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.Face</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.5.0.0</AssemblyVersion>
-        <AssemblyVersion>2.6.0.0</AssemblyVersion>
+        <AssemblyVersion>2.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="handlers" Type="System.Net.Http.DelegatingHandler[]">
@@ -73,9 +69,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.Face</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.5.0.0</AssemblyVersion>
-        <AssemblyVersion>2.6.0.0</AssemblyVersion>
+        <AssemblyVersion>2.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="credentials" Type="Microsoft.Rest.ServiceClientCredentials" />
@@ -113,9 +107,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.Face</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.5.0.0</AssemblyVersion>
-        <AssemblyVersion>2.6.0.0</AssemblyVersion>
+        <AssemblyVersion>2.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="httpClient" Type="System.Net.Http.HttpClient" />
@@ -142,9 +134,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.Face</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.5.0.0</AssemblyVersion>
-        <AssemblyVersion>2.6.0.0</AssemblyVersion>
+        <AssemblyVersion>2.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="rootHandler" Type="System.Net.Http.HttpClientHandler" />
@@ -179,9 +169,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.Face</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.5.0.0</AssemblyVersion>
-        <AssemblyVersion>2.6.0.0</AssemblyVersion>
+        <AssemblyVersion>2.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="credentials" Type="Microsoft.Rest.ServiceClientCredentials" />
@@ -215,9 +203,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.Face</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.5.0.0</AssemblyVersion>
-        <AssemblyVersion>2.6.0.0</AssemblyVersion>
+        <AssemblyVersion>2.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="credentials" Type="Microsoft.Rest.ServiceClientCredentials" />
@@ -259,9 +245,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.Face</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.5.0.0</AssemblyVersion>
-        <AssemblyVersion>2.6.0.0</AssemblyVersion>
+        <AssemblyVersion>2.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.ServiceClientCredentials</ReturnType>
@@ -283,9 +267,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.Face</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.5.0.0</AssemblyVersion>
-        <AssemblyVersion>2.6.0.0</AssemblyVersion>
+        <AssemblyVersion>2.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Newtonsoft.Json.JsonSerializerSettings</ReturnType>
@@ -310,9 +292,7 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.Face</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.5.0.0</AssemblyVersion>
-        <AssemblyVersion>2.6.0.0</AssemblyVersion>
+        <AssemblyVersion>2.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -335,9 +315,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.Face</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.5.0.0</AssemblyVersion>
-        <AssemblyVersion>2.6.0.0</AssemblyVersion>
+        <AssemblyVersion>2.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.CognitiveServices.Vision.Face.IFaceOperations</ReturnType>
@@ -359,9 +337,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.Face</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.5.0.0</AssemblyVersion>
-        <AssemblyVersion>2.6.0.0</AssemblyVersion>
+        <AssemblyVersion>2.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.CognitiveServices.Vision.Face.IFaceListOperations</ReturnType>
@@ -383,9 +359,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.Face</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.5.0.0</AssemblyVersion>
-        <AssemblyVersion>2.6.0.0</AssemblyVersion>
+        <AssemblyVersion>2.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.CognitiveServices.Vision.Face.ILargeFaceListOperations</ReturnType>
@@ -407,9 +381,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.Face</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.5.0.0</AssemblyVersion>
-        <AssemblyVersion>2.6.0.0</AssemblyVersion>
+        <AssemblyVersion>2.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.CognitiveServices.Vision.Face.ILargePersonGroupOperations</ReturnType>
@@ -431,9 +403,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.Face</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.5.0.0</AssemblyVersion>
-        <AssemblyVersion>2.6.0.0</AssemblyVersion>
+        <AssemblyVersion>2.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.CognitiveServices.Vision.Face.ILargePersonGroupPerson</ReturnType>
@@ -455,9 +425,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.Face</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.5.0.0</AssemblyVersion>
-        <AssemblyVersion>2.6.0.0</AssemblyVersion>
+        <AssemblyVersion>2.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.CognitiveServices.Vision.Face.IPersonGroupOperations</ReturnType>
@@ -479,9 +447,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.Face</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.5.0.0</AssemblyVersion>
-        <AssemblyVersion>2.6.0.0</AssemblyVersion>
+        <AssemblyVersion>2.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.CognitiveServices.Vision.Face.IPersonGroupPerson</ReturnType>
@@ -503,9 +469,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.Face</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.5.0.0</AssemblyVersion>
-        <AssemblyVersion>2.6.0.0</AssemblyVersion>
+        <AssemblyVersion>2.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Newtonsoft.Json.JsonSerializerSettings</ReturnType>
@@ -527,9 +491,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.Face</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.5.0.0</AssemblyVersion>
-        <AssemblyVersion>2.6.0.0</AssemblyVersion>
+        <AssemblyVersion>2.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.CognitiveServices.Vision.Face.ISnapshotOperations</ReturnType>

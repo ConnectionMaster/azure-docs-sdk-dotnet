@@ -7,7 +7,7 @@
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
     <AssemblyVersion>2.0.0.0</AssemblyVersion>
-    <AssemblyVersion>3.0.1.0</AssemblyVersion>
+    <AssemblyVersion>3.0.2.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -29,7 +29,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Automation.Models.DscCompilationJob</ReturnType>
@@ -52,7 +52,7 @@
             The name of the automation account.
             </param>
         <param name="compilationJobName">
-            The the DSC configuration Id.
+            The DSC configuration Id.
             </param>
         <param name="parameters">
             The parameters supplied to the create compilation job operation.
@@ -73,7 +73,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Automation.Models.DscCompilationJob&gt;</ReturnType>
@@ -97,7 +97,7 @@
             The name of the automation account.
             </param>
         <param name="compilationJobName">
-            The the DSC configuration Id.
+            The DSC configuration Id.
             </param>
         <param name="parameters">
             The parameters supplied to the create compilation job operation.
@@ -151,7 +151,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Automation.Models.DscCompilationJob</ReturnType>
@@ -174,7 +174,7 @@
             The name of the automation account.
             </param>
         <param name="compilationJobName">
-            The the DSC configuration Id.
+            The DSC configuration Id.
             </param>
         <param name="parameters">
             The parameters supplied to the create compilation job operation.
@@ -225,7 +225,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Automation.Models.DscCompilationJob&gt;</ReturnType>
@@ -249,7 +249,7 @@
             The name of the automation account.
             </param>
         <param name="compilationJobName">
-            The the DSC configuration Id.
+            The DSC configuration Id.
             </param>
         <param name="parameters">
             The parameters supplied to the create compilation job operation.
@@ -303,7 +303,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Automation.Models.DscCompilationJob</ReturnType>
@@ -325,7 +325,7 @@
             The name of the automation account.
             </param>
         <param name="compilationJobName">
-            The the DSC configuration Id.
+            The DSC configuration Id.
             </param>
         <summary>
             Retrieve the Dsc configuration compilation job identified by job id.
@@ -373,7 +373,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Automation.Models.DscCompilationJob&gt;</ReturnType>
@@ -396,7 +396,7 @@
             The name of the automation account.
             </param>
         <param name="compilationJobName">
-            The the DSC configuration Id.
+            The DSC configuration Id.
             </param>
         <param name="cancellationToken">
             The cancellation token.
@@ -481,7 +481,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Automation.Models.JobStream</ReturnType>
@@ -525,7 +525,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Automation.Models.JobStream&gt;</ReturnType>
@@ -633,7 +633,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Automation.Models.DscCompilationJob&gt;</ReturnType>
@@ -673,7 +673,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Automation.Models.DscCompilationJob&gt;&gt;</ReturnType>
@@ -717,7 +717,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Automation.Models.DscCompilationJob&gt;</ReturnType>
@@ -749,7 +749,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Automation</AssemblyName>
-        <AssemblyVersion>3.0.1.0</AssemblyVersion>
+        <AssemblyVersion>3.0.2.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Automation.Models.DscCompilationJob&gt;&gt;</ReturnType>

@@ -6,7 +6,7 @@
   <TypeSignature Language="F#" Value="type StatefulServiceUpdateDescription = class&#xA;    inherit ServiceUpdateDescription" />
   <AssemblyInfo>
     <AssemblyName>System.Fabric</AssemblyName>
-    <AssemblyVersion>7.0.0.0</AssemblyVersion>
+    <AssemblyVersion>8.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Fabric.Description.ServiceUpdateDescription</BaseTypeName>
@@ -30,7 +30,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -52,7 +52,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Boolean&gt;</ReturnType>
@@ -78,7 +78,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int32&gt;</ReturnType>
@@ -104,7 +104,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.TimeSpan&gt;</ReturnType>
@@ -121,6 +121,33 @@
         </remarks>
       </Docs>
     </Member>
+    <Member MemberName="ReplicaLifecycleDescription">
+      <MemberSignature Language="C#" Value="public System.Fabric.Description.ReplicaLifecycleDescription ReplicaLifecycleDescription { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance class System.Fabric.Description.ReplicaLifecycleDescription ReplicaLifecycleDescription" />
+      <MemberSignature Language="DocId" Value="P:System.Fabric.Description.StatefulServiceUpdateDescription.ReplicaLifecycleDescription" />
+      <MemberSignature Language="VB.NET" Value="Public Property ReplicaLifecycleDescription As ReplicaLifecycleDescription" />
+      <MemberSignature Language="F#" Value="member this.ReplicaLifecycleDescription : System.Fabric.Description.ReplicaLifecycleDescription with get, set" Usage="System.Fabric.Description.StatefulServiceUpdateDescription.ReplicaLifecycleDescription" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Fabric</AssemblyName>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Fabric.Description.ReplicaLifecycleDescription</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>
+          <para>Defines how replica will behave during its lifecycle.</para>
+        </summary>
+        <value>
+          <para>Defines how replica will behave during its lifecycle.</para>
+        </value>
+        <remarks>
+          <para>ReplicaLifecycleDescription is the section which allows user to granually controle how replicas will behave during their lifecycle.
+            If some configuration in this section is not specified, the default value is taken from the cluster parameter of the same name (if existing).</para>
+        </remarks>
+      </Docs>
+    </Member>
     <Member MemberName="ReplicaRestartWaitDuration">
       <MemberSignature Language="C#" Value="public TimeSpan? ReplicaRestartWaitDuration { get; set; }" />
       <MemberSignature Language="ILAsm" Value=".property instance valuetype System.Nullable`1&lt;valuetype System.TimeSpan&gt; ReplicaRestartWaitDuration" />
@@ -130,7 +157,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.TimeSpan&gt;</ReturnType>
@@ -156,7 +183,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.TimeSpan&gt;</ReturnType>
@@ -182,7 +209,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.TimeSpan&gt;</ReturnType>
@@ -208,7 +235,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int32&gt;</ReturnType>

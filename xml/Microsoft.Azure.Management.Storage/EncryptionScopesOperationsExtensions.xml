@@ -6,13 +6,8 @@
   <TypeSignature Language="F#" Value="type EncryptionScopesOperationsExtensions = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-    <AssemblyVersion>14.0.0.0</AssemblyVersion>
-    <AssemblyVersion>15.0.0.0</AssemblyVersion>
-    <AssemblyVersion>16.0.0.0</AssemblyVersion>
-    <AssemblyVersion>17.0.0.0</AssemblyVersion>
-    <AssemblyVersion>18.0.0.0</AssemblyVersion>
-    <AssemblyVersion>19.0.0.0</AssemblyVersion>
-    <AssemblyVersion>20.0.0.0</AssemblyVersion>
+    <AssemblyVersion>21.0.0.0</AssemblyVersion>
+    <AssemblyVersion>22.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -34,13 +29,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>14.0.0.0</AssemblyVersion>
-        <AssemblyVersion>15.0.0.0</AssemblyVersion>
-        <AssemblyVersion>16.0.0.0</AssemblyVersion>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Storage.Models.EncryptionScope</ReturnType>
@@ -86,13 +76,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>14.0.0.0</AssemblyVersion>
-        <AssemblyVersion>15.0.0.0</AssemblyVersion>
-        <AssemblyVersion>16.0.0.0</AssemblyVersion>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Storage.Models.EncryptionScope&gt;</ReturnType>
@@ -142,13 +127,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>14.0.0.0</AssemblyVersion>
-        <AssemblyVersion>15.0.0.0</AssemblyVersion>
-        <AssemblyVersion>16.0.0.0</AssemblyVersion>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Storage.Models.EncryptionScope&gt;</ReturnType>
@@ -188,13 +168,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>14.0.0.0</AssemblyVersion>
-        <AssemblyVersion>15.0.0.0</AssemblyVersion>
-        <AssemblyVersion>16.0.0.0</AssemblyVersion>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Storage.Models.EncryptionScope&gt;&gt;</ReturnType>
@@ -238,13 +213,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>14.0.0.0</AssemblyVersion>
-        <AssemblyVersion>15.0.0.0</AssemblyVersion>
-        <AssemblyVersion>16.0.0.0</AssemblyVersion>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Storage.Models.EncryptionScope&gt;</ReturnType>
@@ -277,13 +247,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>14.0.0.0</AssemblyVersion>
-        <AssemblyVersion>15.0.0.0</AssemblyVersion>
-        <AssemblyVersion>16.0.0.0</AssemblyVersion>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Storage.Models.EncryptionScope&gt;&gt;</ReturnType>
@@ -320,13 +285,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>14.0.0.0</AssemblyVersion>
-        <AssemblyVersion>15.0.0.0</AssemblyVersion>
-        <AssemblyVersion>16.0.0.0</AssemblyVersion>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Storage.Models.EncryptionScope</ReturnType>
@@ -377,13 +337,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>14.0.0.0</AssemblyVersion>
-        <AssemblyVersion>15.0.0.0</AssemblyVersion>
-        <AssemblyVersion>16.0.0.0</AssemblyVersion>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Storage.Models.EncryptionScope&gt;</ReturnType>
@@ -438,13 +393,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>14.0.0.0</AssemblyVersion>
-        <AssemblyVersion>15.0.0.0</AssemblyVersion>
-        <AssemblyVersion>16.0.0.0</AssemblyVersion>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Storage.Models.EncryptionScope</ReturnType>
@@ -497,13 +447,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>14.0.0.0</AssemblyVersion>
-        <AssemblyVersion>15.0.0.0</AssemblyVersion>
-        <AssemblyVersion>16.0.0.0</AssemblyVersion>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Storage.Models.EncryptionScope&gt;</ReturnType>

@@ -34,7 +34,7 @@
         <Parameter Name="processor" Type="Azure.Messaging.ServiceBus.ServiceBusProcessor" />
       </Parameters>
       <Docs>
-        <param name="processor">The <see cref="T:Azure.Messaging.ServiceBus.ServiceBusProcessor" /> to use.</param>
+        <param name="processor">The <see cref="T:Azure.Messaging.ServiceBus.ServiceBusProcessor" /> to use for processing messages from Service Bus.</param>
         <summary>
             Initializes a new instance of <see cref="T:Microsoft.Azure.WebJobs.ServiceBus.MessageProcessor" />.
             </summary>
@@ -106,6 +106,28 @@
             is configured. E.g. if <see cref="P:Azure.Messaging.ServiceBus.ServiceBusProcessorOptions.AutoCompleteMessages" /> is false, it is up to the job function to complete
             the message.
             </remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="Processor">
+      <MemberSignature Language="C#" Value="protected internal Azure.Messaging.ServiceBus.ServiceBusProcessor Processor { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance class Azure.Messaging.ServiceBus.ServiceBusProcessor Processor" />
+      <MemberSignature Language="DocId" Value="P:Microsoft.Azure.WebJobs.ServiceBus.MessageProcessor.Processor" />
+      <MemberSignature Language="VB.NET" Value="Protected Friend ReadOnly Property Processor As ServiceBusProcessor" />
+      <MemberSignature Language="F#" Value="member this.Processor : Azure.Messaging.ServiceBus.ServiceBusProcessor" Usage="Microsoft.Azure.WebJobs.ServiceBus.MessageProcessor.Processor" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Azure.WebJobs.Extensions.ServiceBus</AssemblyName>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Messaging.ServiceBus.ServiceBusProcessor</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>
+            Gets or sets the <see cref="T:Azure.Messaging.ServiceBus.ServiceBusProcessor" /> that will be used by the <see cref="P:Microsoft.Azure.WebJobs.ServiceBus.MessageProcessor.Processor" />.
+            </summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
       </Docs>
     </Member>
   </Members>

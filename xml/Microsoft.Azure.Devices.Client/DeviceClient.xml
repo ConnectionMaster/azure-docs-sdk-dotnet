@@ -1,33 +1,20 @@
 <Type Name="DeviceClient" FullName="Microsoft.Azure.Devices.Client.DeviceClient">
-  <TypeSignature Language="C#" Value="public class DeviceClient : IDisposable" />
-  <TypeSignature Language="ILAsm" Value=".class public auto ansi beforefieldinit DeviceClient extends System.Object implements class System.IDisposable" />
+  <TypeSignature Language="C#" Value="public class DeviceClient : IDisposable" FrameworkAlternate="azure-dotnet" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi beforefieldinit DeviceClient extends System.Object implements class System.IDisposable" FrameworkAlternate="azure-dotnet" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Azure.Devices.Client.DeviceClient" />
-  <TypeSignature Language="VB.NET" Value="Public Class DeviceClient&#xA;Implements IDisposable" />
+  <TypeSignature Language="VB.NET" Value="Public Class DeviceClient&#xA;Implements IDisposable" FrameworkAlternate="azure-dotnet" />
   <TypeSignature Language="F#" Value="type DeviceClient = class&#xA;    interface IDisposable" />
+  <TypeSignature Language="C#" Value="public sealed class DeviceClient : IDisposable" FrameworkAlternate="azure-dotnet-preview" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed beforefieldinit DeviceClient extends System.Object implements class System.IDisposable" FrameworkAlternate="azure-dotnet-preview" />
+  <TypeSignature Language="VB.NET" Value="Public NotInheritable Class DeviceClient&#xA;Implements IDisposable" FrameworkAlternate="azure-dotnet-preview" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-    <AssemblyVersion>1.21.2.0</AssemblyVersion>
-    <AssemblyVersion>1.21.3.0</AssemblyVersion>
-    <AssemblyVersion>1.21.4.0</AssemblyVersion>
-    <AssemblyVersion>1.22.0.0</AssemblyVersion>
-    <AssemblyVersion>1.23.0.0</AssemblyVersion>
-    <AssemblyVersion>1.23.1.0</AssemblyVersion>
-    <AssemblyVersion>1.23.2.0</AssemblyVersion>
-    <AssemblyVersion>1.24.0.0</AssemblyVersion>
-    <AssemblyVersion>1.25.0.0</AssemblyVersion>
-    <AssemblyVersion>1.26.0.0</AssemblyVersion>
-    <AssemblyVersion>1.27.0.0</AssemblyVersion>
-    <AssemblyVersion>1.28.0.0</AssemblyVersion>
-    <AssemblyVersion>1.30.0.0</AssemblyVersion>
-    <AssemblyVersion>1.31.0.0</AssemblyVersion>
-    <AssemblyVersion>1.31.1.0</AssemblyVersion>
-    <AssemblyVersion>1.31.2.0</AssemblyVersion>
     <AssemblyVersion>1.32.0.0</AssemblyVersion>
-    <AssemblyVersion>1.33.0.0</AssemblyVersion>
-    <AssemblyVersion>1.33.1.0</AssemblyVersion>
-    <AssemblyVersion>1.34.0.0</AssemblyVersion>
-    <AssemblyVersion>1.35.0.0</AssemblyVersion>
     <AssemblyVersion>1.36.0.0</AssemblyVersion>
+    <AssemblyVersion>1.37.0.0</AssemblyVersion>
+    <AssemblyVersion>1.37.1.0</AssemblyVersion>
+    <AssemblyVersion>1.37.2.0</AssemblyVersion>
+    <AssemblyVersion>1.38.0.0</AssemblyVersion>
   </AssemblyInfo>
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
@@ -58,28 +45,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
@@ -112,28 +83,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
@@ -166,28 +121,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -219,28 +158,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -263,6 +186,56 @@
         <exception cref="T:System.OperationCanceledException">Thrown when the operation has been canceled.</exception>
       </Docs>
     </Member>
+    <Member MemberName="AcceptDeviceStreamRequestAsync">
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task AcceptDeviceStreamRequestAsync (Microsoft.Azure.Devices.Client.DeviceStreamRequest request);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance class System.Threading.Tasks.Task AcceptDeviceStreamRequestAsync(class Microsoft.Azure.Devices.Client.DeviceStreamRequest request) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Devices.Client.DeviceClient.AcceptDeviceStreamRequestAsync(Microsoft.Azure.Devices.Client.DeviceStreamRequest)" />
+      <MemberSignature Language="VB.NET" Value="Public Function AcceptDeviceStreamRequestAsync (request As DeviceStreamRequest) As Task" />
+      <MemberSignature Language="F#" Value="member this.AcceptDeviceStreamRequestAsync : Microsoft.Azure.Devices.Client.DeviceStreamRequest -&gt; System.Threading.Tasks.Task" Usage="deviceClient.AcceptDeviceStreamRequestAsync request" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
+        <AssemblyVersion>1.32.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Threading.Tasks.Task</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="request" Type="Microsoft.Azure.Devices.Client.DeviceStreamRequest" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="request">To be added.</param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="AcceptDeviceStreamRequestAsync">
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task AcceptDeviceStreamRequestAsync (Microsoft.Azure.Devices.Client.DeviceStreamRequest request, System.Threading.CancellationToken cancellationToken);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance class System.Threading.Tasks.Task AcceptDeviceStreamRequestAsync(class Microsoft.Azure.Devices.Client.DeviceStreamRequest request, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Devices.Client.DeviceClient.AcceptDeviceStreamRequestAsync(Microsoft.Azure.Devices.Client.DeviceStreamRequest,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Function AcceptDeviceStreamRequestAsync (request As DeviceStreamRequest, cancellationToken As CancellationToken) As Task" />
+      <MemberSignature Language="F#" Value="member this.AcceptDeviceStreamRequestAsync : Microsoft.Azure.Devices.Client.DeviceStreamRequest * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task" Usage="deviceClient.AcceptDeviceStreamRequestAsync (request, cancellationToken)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
+        <AssemblyVersion>1.32.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Threading.Tasks.Task</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="request" Type="Microsoft.Azure.Devices.Client.DeviceStreamRequest" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="request">To be added.</param>
+        <param name="cancellationToken">To be added.</param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
     <Member MemberName="CloseAsync">
       <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task CloseAsync ();" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig instance class System.Threading.Tasks.Task CloseAsync() cil managed" />
@@ -272,28 +245,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
@@ -320,28 +277,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -368,28 +309,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
@@ -419,28 +344,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
@@ -470,28 +379,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -520,28 +413,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -570,18 +447,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -607,18 +478,6 @@
       <MemberSignature Language="F#" Value="static member Create : string * Microsoft.Azure.Devices.Client.IAuthenticationMethod -&gt; Microsoft.Azure.Devices.Client.DeviceClient" Usage="Microsoft.Azure.Devices.Client.DeviceClient.Create (hostname, authenticationMethod)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-      </AssemblyInfo>
-      <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -626,8 +485,8 @@
         <ReturnType>Microsoft.Azure.Devices.Client.DeviceClient</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="hostname" Type="System.String" />
-        <Parameter Name="authenticationMethod" Type="Microsoft.Azure.Devices.Client.IAuthenticationMethod" />
+        <Parameter Name="hostname" Type="System.String" Index="0" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="authenticationMethod" Type="Microsoft.Azure.Devices.Client.IAuthenticationMethod" Index="1" FrameworkAlternate="azure-dotnet" />
       </Parameters>
       <Docs>
         <param name="hostname">The fully-qualified DNS hostname of IoT Hub</param>
@@ -648,19 +507,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Client.DeviceClient</ReturnType>
@@ -689,18 +541,6 @@
       <MemberSignature Language="F#" Value="static member Create : string * Microsoft.Azure.Devices.Client.IAuthenticationMethod * Microsoft.Azure.Devices.Client.TransportType -&gt; Microsoft.Azure.Devices.Client.DeviceClient" Usage="Microsoft.Azure.Devices.Client.DeviceClient.Create (hostname, authenticationMethod, transportType)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-      </AssemblyInfo>
-      <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -708,9 +548,9 @@
         <ReturnType>Microsoft.Azure.Devices.Client.DeviceClient</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="hostname" Type="System.String" />
-        <Parameter Name="authenticationMethod" Type="Microsoft.Azure.Devices.Client.IAuthenticationMethod" />
-        <Parameter Name="transportType" Type="Microsoft.Azure.Devices.Client.TransportType" />
+        <Parameter Name="hostname" Type="System.String" Index="0" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="authenticationMethod" Type="Microsoft.Azure.Devices.Client.IAuthenticationMethod" Index="1" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="transportType" Type="Microsoft.Azure.Devices.Client.TransportType" Index="2" FrameworkAlternate="azure-dotnet" />
       </Parameters>
       <Docs>
         <param name="hostname">The fully-qualified DNS hostname of IoT Hub</param>
@@ -732,19 +572,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Client.DeviceClient</ReturnType>
@@ -776,19 +609,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Client.DeviceClient</ReturnType>
@@ -820,19 +646,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Client.DeviceClient</ReturnType>
@@ -864,19 +683,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Client.DeviceClient</ReturnType>
@@ -910,19 +722,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Client.DeviceClient</ReturnType>
@@ -955,18 +760,6 @@
       <MemberSignature Language="F#" Value="static member CreateFromConnectionString : string -&gt; Microsoft.Azure.Devices.Client.DeviceClient" Usage="Microsoft.Azure.Devices.Client.DeviceClient.CreateFromConnectionString connectionString" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-      </AssemblyInfo>
-      <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -974,7 +767,7 @@
         <ReturnType>Microsoft.Azure.Devices.Client.DeviceClient</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="connectionString" Type="System.String" />
+        <Parameter Name="connectionString" Type="System.String" Index="0" FrameworkAlternate="azure-dotnet" />
       </Parameters>
       <Docs>
         <param name="connectionString">Connection string for the IoT hub (including DeviceId)</param>
@@ -994,19 +787,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Client.DeviceClient</ReturnType>
@@ -1033,18 +819,6 @@
       <MemberSignature Language="F#" Value="static member CreateFromConnectionString : string * Microsoft.Azure.Devices.Client.TransportType -&gt; Microsoft.Azure.Devices.Client.DeviceClient" Usage="Microsoft.Azure.Devices.Client.DeviceClient.CreateFromConnectionString (connectionString, transportType)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-      </AssemblyInfo>
-      <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -1052,8 +826,8 @@
         <ReturnType>Microsoft.Azure.Devices.Client.DeviceClient</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="connectionString" Type="System.String" />
-        <Parameter Name="transportType" Type="Microsoft.Azure.Devices.Client.TransportType" />
+        <Parameter Name="connectionString" Type="System.String" Index="0" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="transportType" Type="Microsoft.Azure.Devices.Client.TransportType" Index="1" FrameworkAlternate="azure-dotnet" />
       </Parameters>
       <Docs>
         <param name="connectionString">Connection string for the IoT hub (including DeviceId)</param>
@@ -1073,18 +847,6 @@
       <MemberSignature Language="F#" Value="static member CreateFromConnectionString : string * string -&gt; Microsoft.Azure.Devices.Client.DeviceClient" Usage="Microsoft.Azure.Devices.Client.DeviceClient.CreateFromConnectionString (connectionString, deviceId)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-      </AssemblyInfo>
-      <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -1092,8 +854,8 @@
         <ReturnType>Microsoft.Azure.Devices.Client.DeviceClient</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="connectionString" Type="System.String" />
-        <Parameter Name="deviceId" Type="System.String" />
+        <Parameter Name="connectionString" Type="System.String" Index="0" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="deviceId" Type="System.String" Index="1" FrameworkAlternate="azure-dotnet" />
       </Parameters>
       <Docs>
         <param name="connectionString">IoT Hub-Scope Connection string for the IoT hub (without DeviceId)</param>
@@ -1114,19 +876,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Client.DeviceClient</ReturnType>
@@ -1156,19 +911,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Client.DeviceClient</ReturnType>
@@ -1198,19 +946,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Client.DeviceClient</ReturnType>
@@ -1239,18 +980,6 @@
       <MemberSignature Language="F#" Value="static member CreateFromConnectionString : string * string * Microsoft.Azure.Devices.Client.TransportType -&gt; Microsoft.Azure.Devices.Client.DeviceClient" Usage="Microsoft.Azure.Devices.Client.DeviceClient.CreateFromConnectionString (connectionString, deviceId, transportType)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-      </AssemblyInfo>
-      <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -1258,9 +987,9 @@
         <ReturnType>Microsoft.Azure.Devices.Client.DeviceClient</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="connectionString" Type="System.String" />
-        <Parameter Name="deviceId" Type="System.String" />
-        <Parameter Name="transportType" Type="Microsoft.Azure.Devices.Client.TransportType" />
+        <Parameter Name="connectionString" Type="System.String" Index="0" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="deviceId" Type="System.String" Index="1" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="transportType" Type="Microsoft.Azure.Devices.Client.TransportType" Index="2" FrameworkAlternate="azure-dotnet" />
       </Parameters>
       <Docs>
         <param name="connectionString">IoT Hub-Scope Connection string for the IoT hub (without DeviceId)</param>
@@ -1282,19 +1011,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Client.DeviceClient</ReturnType>
@@ -1326,19 +1048,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Devices.Client.DeviceClient</ReturnType>
@@ -1370,28 +1085,12 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.UInt32</ReturnType>
@@ -1413,28 +1112,12 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int32</ReturnType>
@@ -1460,28 +1143,12 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
@@ -1495,7 +1162,9 @@
         <summary>
             Releases the unmanaged resources used by the DeviceClient and optionally disposes of the managed resources.
             </summary>
-        <remarks>To be added.</remarks>
+        <remarks>
+            The method <see cref="M:Microsoft.Azure.Devices.Client.DeviceClient.CloseAsync" /> should be called before disposing.
+            </remarks>
       </Docs>
     </Member>
     <Member MemberName="Dispose">
@@ -1508,12 +1177,16 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="disposing" Type="System.Boolean" />
+        <Parameter Name="disposing" Type="System.Boolean" Index="0" FrameworkAlternate="azure-dotnet" />
       </Parameters>
       <Docs>
         <param name="disposing">Setting to true will release both managed and unmanaged resources. Setting to
@@ -1534,18 +1207,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Client.Transport.FileUploadSasUriResponse&gt;</ReturnType>
@@ -1572,28 +1239,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Shared.Twin&gt;</ReturnType>
@@ -1617,28 +1268,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Shared.Twin&gt;</ReturnType>
@@ -1666,28 +1301,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
@@ -1714,28 +1333,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -1761,28 +1364,12 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.UInt32</ReturnType>
@@ -1807,28 +1394,12 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -1850,28 +1421,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
@@ -1903,28 +1458,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Client.Message&gt;</ReturnType>
@@ -1956,28 +1495,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
@@ -2012,28 +1535,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
@@ -2066,28 +1573,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
@@ -2120,28 +1611,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -2173,28 +1648,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -2204,8 +1663,8 @@
         <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
-        <param name="cancellationToken">A cancellation token to cancel the operation.</param>
         <param name="lockToken">The message lockToken.</param>
+        <param name="cancellationToken">A cancellation token to cancel the operation.</param>
         <summary>
             Deletes a received message from the device queue and indicates to the server that the message could not be processed.
             </summary>
@@ -2217,6 +1676,56 @@
         <exception cref="T:System.OperationCanceledException">Thrown when the operation has been canceled.</exception>
       </Docs>
     </Member>
+    <Member MemberName="RejectDeviceStreamRequestAsync">
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task RejectDeviceStreamRequestAsync (Microsoft.Azure.Devices.Client.DeviceStreamRequest request);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance class System.Threading.Tasks.Task RejectDeviceStreamRequestAsync(class Microsoft.Azure.Devices.Client.DeviceStreamRequest request) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Devices.Client.DeviceClient.RejectDeviceStreamRequestAsync(Microsoft.Azure.Devices.Client.DeviceStreamRequest)" />
+      <MemberSignature Language="VB.NET" Value="Public Function RejectDeviceStreamRequestAsync (request As DeviceStreamRequest) As Task" />
+      <MemberSignature Language="F#" Value="member this.RejectDeviceStreamRequestAsync : Microsoft.Azure.Devices.Client.DeviceStreamRequest -&gt; System.Threading.Tasks.Task" Usage="deviceClient.RejectDeviceStreamRequestAsync request" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
+        <AssemblyVersion>1.32.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Threading.Tasks.Task</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="request" Type="Microsoft.Azure.Devices.Client.DeviceStreamRequest" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="request">To be added.</param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="RejectDeviceStreamRequestAsync">
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task RejectDeviceStreamRequestAsync (Microsoft.Azure.Devices.Client.DeviceStreamRequest request, System.Threading.CancellationToken cancellationToken);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance class System.Threading.Tasks.Task RejectDeviceStreamRequestAsync(class Microsoft.Azure.Devices.Client.DeviceStreamRequest request, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Devices.Client.DeviceClient.RejectDeviceStreamRequestAsync(Microsoft.Azure.Devices.Client.DeviceStreamRequest,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Function RejectDeviceStreamRequestAsync (request As DeviceStreamRequest, cancellationToken As CancellationToken) As Task" />
+      <MemberSignature Language="F#" Value="member this.RejectDeviceStreamRequestAsync : Microsoft.Azure.Devices.Client.DeviceStreamRequest * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task" Usage="deviceClient.RejectDeviceStreamRequestAsync (request, cancellationToken)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
+        <AssemblyVersion>1.32.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Threading.Tasks.Task</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="request" Type="Microsoft.Azure.Devices.Client.DeviceStreamRequest" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="request">To be added.</param>
+        <param name="cancellationToken">To be added.</param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
     <Member MemberName="RetryPolicy">
       <MemberSignature Language="C#" Value="public Microsoft.Azure.Devices.Client.RetryPolicyType RetryPolicy { get; set; }" />
       <MemberSignature Language="ILAsm" Value=".property instance valuetype Microsoft.Azure.Devices.Client.RetryPolicyType RetryPolicy" />
@@ -2226,28 +1735,12 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -2275,28 +1768,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
@@ -2326,28 +1803,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -2376,28 +1837,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client.PCL</AssemblyName>
@@ -2427,28 +1872,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -2477,28 +1906,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -2524,28 +1937,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -2581,28 +1978,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -2634,28 +2015,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -2690,28 +2055,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -2741,28 +2090,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -2795,28 +2128,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -2852,28 +2169,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -2905,28 +2206,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -2960,19 +2245,19 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="messageHandler" Type="Microsoft.Azure.Devices.Client.ReceiveMessageCallback" />
-        <Parameter Name="userContext" Type="System.Object" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
+        <Parameter Name="messageHandler" Type="Microsoft.Azure.Devices.Client.ReceiveMessageCallback" Index="0" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="userContext" Type="System.Object" Index="1" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="2" FrameworkAlternate="azure-dotnet" />
       </Parameters>
       <Docs>
         <param name="messageHandler">To be added.</param>
@@ -2997,28 +2282,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -3045,28 +2314,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -3092,28 +2345,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -3142,28 +2379,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -3198,28 +2419,12 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -3246,6 +2451,51 @@
         <returns>The task to await</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.OperationCanceledException">Thrown when the operation has been canceled.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="WaitForDeviceStreamRequestAsync">
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Client.DeviceStreamRequest&gt; WaitForDeviceStreamRequestAsync ();" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance class System.Threading.Tasks.Task`1&lt;class Microsoft.Azure.Devices.Client.DeviceStreamRequest&gt; WaitForDeviceStreamRequestAsync() cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Devices.Client.DeviceClient.WaitForDeviceStreamRequestAsync" />
+      <MemberSignature Language="VB.NET" Value="Public Function WaitForDeviceStreamRequestAsync () As Task(Of DeviceStreamRequest)" />
+      <MemberSignature Language="F#" Value="member this.WaitForDeviceStreamRequestAsync : unit -&gt; System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Client.DeviceStreamRequest&gt;" Usage="deviceClient.WaitForDeviceStreamRequestAsync " />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
+        <AssemblyVersion>1.32.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Client.DeviceStreamRequest&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters />
+      <Docs>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="WaitForDeviceStreamRequestAsync">
+      <MemberSignature Language="C#" Value="public System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Client.DeviceStreamRequest&gt; WaitForDeviceStreamRequestAsync (System.Threading.CancellationToken cancellationToken);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance class System.Threading.Tasks.Task`1&lt;class Microsoft.Azure.Devices.Client.DeviceStreamRequest&gt; WaitForDeviceStreamRequestAsync(valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Devices.Client.DeviceClient.WaitForDeviceStreamRequestAsync(System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Function WaitForDeviceStreamRequestAsync (cancellationToken As CancellationToken) As Task(Of DeviceStreamRequest)" />
+      <MemberSignature Language="F#" Value="member this.WaitForDeviceStreamRequestAsync : System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Client.DeviceStreamRequest&gt;" Usage="deviceClient.WaitForDeviceStreamRequestAsync cancellationToken" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
+        <AssemblyVersion>1.32.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Devices.Client.DeviceStreamRequest&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="cancellationToken">To be added.</param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
       </Docs>
     </Member>
   </Members>

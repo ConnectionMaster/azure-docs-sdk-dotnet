@@ -6,12 +6,8 @@
   <TypeSignature Language="F#" Value="type VoiceProfile = class&#xA;    inherit DisposableBase" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-    <AssemblyVersion>1.12.0.28</AssemblyVersion>
-    <AssemblyVersion>1.12.1.28</AssemblyVersion>
-    <AssemblyVersion>1.13.0.28</AssemblyVersion>
-    <AssemblyVersion>1.14.0.28</AssemblyVersion>
-    <AssemblyVersion>1.15.0.28</AssemblyVersion>
     <AssemblyVersion>1.16.0.28</AssemblyVersion>
+    <AssemblyVersion>1.17.0.28</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Microsoft.CognitiveServices.Speech.Internal.DisposableBase</BaseTypeName>
@@ -19,10 +15,12 @@
   <Interfaces />
   <Docs>
     <summary>
-            A VoiceProfile represents a speaker's uniqueness in his/her voice.
-            Added in version 1.12.0
+            Represents a speaker's unique voice.
+            Added in 1.12.0
             </summary>
-    <remarks>To be added.</remarks>
+    <remarks>
+            See also: [Get started with Speaker recognition](/azure/cognitive-services/speech-service/get-started-speaker-recognition)
+            </remarks>
   </Docs>
   <Members>
     <Member MemberName=".ctor">
@@ -34,9 +32,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="id" Type="System.String" />
@@ -46,7 +43,7 @@
         <param name="id">An unique id.</param>
         <param name="type">VoiceProfileType.</param>
         <summary>
-             Creates a VoiceProfile.
+             Creates a VoiceProfile instance.
              </summary>
         <returns />
         <remarks>To be added.</remarks>
@@ -61,12 +58,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -90,19 +83,15 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
-        <AssemblyVersion>1.12.0.28</AssemblyVersion>
-        <AssemblyVersion>1.12.1.28</AssemblyVersion>
-        <AssemblyVersion>1.13.0.28</AssemblyVersion>
-        <AssemblyVersion>1.14.0.28</AssemblyVersion>
-        <AssemblyVersion>1.15.0.28</AssemblyVersion>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>
-            get a voice profile id.
+            Gets a voice profile identifier.
             </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
@@ -118,13 +107,14 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.CognitiveServices.Speech.csharp</AssemblyName>
         <AssemblyVersion>1.16.0.28</AssemblyVersion>
+        <AssemblyVersion>1.17.0.28</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.CognitiveServices.Speech.VoiceProfileType</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>
-            get the type of the voice profile.
+            Gets the voice profile type.
             </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>

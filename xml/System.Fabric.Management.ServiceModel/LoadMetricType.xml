@@ -6,7 +6,7 @@
   <TypeSignature Language="F#" Value="type LoadMetricType = class" />
   <AssemblyInfo>
     <AssemblyName>System.Fabric.Management.ServiceModel</AssemblyName>
-    <AssemblyVersion>7.0.0.0</AssemblyVersion>
+    <AssemblyVersion>8.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -39,7 +39,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric.Management.ServiceModel</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -48,20 +48,20 @@
       </Docs>
     </Member>
     <Member MemberName="DefaultLoad">
-      <MemberSignature Language="C#" Value="public long DefaultLoad { get; set; }" />
-      <MemberSignature Language="ILAsm" Value=".property instance int64 DefaultLoad" />
+      <MemberSignature Language="C#" Value="public string DefaultLoad { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance string DefaultLoad" />
       <MemberSignature Language="DocId" Value="P:System.Fabric.Management.ServiceModel.LoadMetricType.DefaultLoad" />
-      <MemberSignature Language="VB.NET" Value="Public Property DefaultLoad As Long" />
-      <MemberSignature Language="F#" Value="member this.DefaultLoad : int64 with get, set" Usage="System.Fabric.Management.ServiceModel.LoadMetricType.DefaultLoad" />
+      <MemberSignature Language="VB.NET" Value="Public Property DefaultLoad As String" />
+      <MemberSignature Language="F#" Value="member this.DefaultLoad : string with get, set" Usage="System.Fabric.Management.ServiceModel.LoadMetricType.DefaultLoad" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric.Management.ServiceModel</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
-          <AttributeName Language="C#">[System.ComponentModel.DefaultValue(typeof(System.Int64), "0")]</AttributeName>
-          <AttributeName Language="F#">[&lt;System.ComponentModel.DefaultValue(typeof(System.Int64), "0")&gt;]</AttributeName>
+          <AttributeName Language="C#">[System.ComponentModel.DefaultValue("0")]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.DefaultValue("0")&gt;]</AttributeName>
         </Attribute>
         <Attribute>
           <AttributeName Language="C#">[System.Xml.Serialization.XmlAttribute]</AttributeName>
@@ -69,7 +69,7 @@
         </Attribute>
       </Attributes>
       <ReturnValue>
-        <ReturnType>System.Int64</ReturnType>
+        <ReturnType>System.String</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>To be added.</summary>
@@ -86,7 +86,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric.Management.ServiceModel</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -104,20 +104,20 @@
       </Docs>
     </Member>
     <Member MemberName="PrimaryDefaultLoad">
-      <MemberSignature Language="C#" Value="public long PrimaryDefaultLoad { get; set; }" />
-      <MemberSignature Language="ILAsm" Value=".property instance int64 PrimaryDefaultLoad" />
+      <MemberSignature Language="C#" Value="public string PrimaryDefaultLoad { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance string PrimaryDefaultLoad" />
       <MemberSignature Language="DocId" Value="P:System.Fabric.Management.ServiceModel.LoadMetricType.PrimaryDefaultLoad" />
-      <MemberSignature Language="VB.NET" Value="Public Property PrimaryDefaultLoad As Long" />
-      <MemberSignature Language="F#" Value="member this.PrimaryDefaultLoad : int64 with get, set" Usage="System.Fabric.Management.ServiceModel.LoadMetricType.PrimaryDefaultLoad" />
+      <MemberSignature Language="VB.NET" Value="Public Property PrimaryDefaultLoad As String" />
+      <MemberSignature Language="F#" Value="member this.PrimaryDefaultLoad : string with get, set" Usage="System.Fabric.Management.ServiceModel.LoadMetricType.PrimaryDefaultLoad" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric.Management.ServiceModel</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
-          <AttributeName Language="C#">[System.ComponentModel.DefaultValue(typeof(System.Int64), "0")]</AttributeName>
-          <AttributeName Language="F#">[&lt;System.ComponentModel.DefaultValue(typeof(System.Int64), "0")&gt;]</AttributeName>
+          <AttributeName Language="C#">[System.ComponentModel.DefaultValue("0")]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.DefaultValue("0")&gt;]</AttributeName>
         </Attribute>
         <Attribute>
           <AttributeName Language="C#">[System.Xml.Serialization.XmlAttribute]</AttributeName>
@@ -125,7 +125,7 @@
         </Attribute>
       </Attributes>
       <ReturnValue>
-        <ReturnType>System.Int64</ReturnType>
+        <ReturnType>System.String</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>To be added.</summary>
@@ -134,20 +134,20 @@
       </Docs>
     </Member>
     <Member MemberName="SecondaryDefaultLoad">
-      <MemberSignature Language="C#" Value="public long SecondaryDefaultLoad { get; set; }" />
-      <MemberSignature Language="ILAsm" Value=".property instance int64 SecondaryDefaultLoad" />
+      <MemberSignature Language="C#" Value="public string SecondaryDefaultLoad { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance string SecondaryDefaultLoad" />
       <MemberSignature Language="DocId" Value="P:System.Fabric.Management.ServiceModel.LoadMetricType.SecondaryDefaultLoad" />
-      <MemberSignature Language="VB.NET" Value="Public Property SecondaryDefaultLoad As Long" />
-      <MemberSignature Language="F#" Value="member this.SecondaryDefaultLoad : int64 with get, set" Usage="System.Fabric.Management.ServiceModel.LoadMetricType.SecondaryDefaultLoad" />
+      <MemberSignature Language="VB.NET" Value="Public Property SecondaryDefaultLoad As String" />
+      <MemberSignature Language="F#" Value="member this.SecondaryDefaultLoad : string with get, set" Usage="System.Fabric.Management.ServiceModel.LoadMetricType.SecondaryDefaultLoad" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric.Management.ServiceModel</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
-          <AttributeName Language="C#">[System.ComponentModel.DefaultValue(typeof(System.Int64), "0")]</AttributeName>
-          <AttributeName Language="F#">[&lt;System.ComponentModel.DefaultValue(typeof(System.Int64), "0")&gt;]</AttributeName>
+          <AttributeName Language="C#">[System.ComponentModel.DefaultValue("0")]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.DefaultValue("0")&gt;]</AttributeName>
         </Attribute>
         <Attribute>
           <AttributeName Language="C#">[System.Xml.Serialization.XmlAttribute]</AttributeName>
@@ -155,7 +155,7 @@
         </Attribute>
       </Attributes>
       <ReturnValue>
-        <ReturnType>System.Int64</ReturnType>
+        <ReturnType>System.String</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>To be added.</summary>
@@ -172,7 +172,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric.Management.ServiceModel</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -198,7 +198,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>System.Fabric.Management.ServiceModel</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
+        <AssemblyVersion>8.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>

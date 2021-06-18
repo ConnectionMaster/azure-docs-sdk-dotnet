@@ -6,12 +6,9 @@
   <TypeSignature Language="F#" Value="type EventProcessorClient = class&#xA;    inherit EventProcessor&lt;EventProcessorPartition&gt;" />
   <AssemblyInfo>
     <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-    <AssemblyVersion>5.0.1.0</AssemblyVersion>
-    <AssemblyVersion>5.1.0.0</AssemblyVersion>
-    <AssemblyVersion>5.2.0.0</AssemblyVersion>
-    <AssemblyVersion>5.3.0.0</AssemblyVersion>
-    <AssemblyVersion>5.3.1.0</AssemblyVersion>
     <AssemblyVersion>5.4.0.0</AssemblyVersion>
+    <AssemblyVersion>5.4.1.0</AssemblyVersion>
+    <AssemblyVersion>5.5.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.Messaging.EventHubs.Primitives.EventProcessor&lt;Azure.Messaging.EventHubs.Primitives.EventProcessorPartition&gt;</BaseTypeName>
@@ -43,12 +40,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -67,12 +61,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="checkpointStore" Type="Azure.Storage.Blobs.BlobContainerClient" />
@@ -107,12 +98,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="checkpointStore" Type="Azure.Storage.Blobs.BlobContainerClient" />
@@ -149,12 +137,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="checkpointStore" Type="Azure.Storage.Blobs.BlobContainerClient" />
@@ -188,12 +173,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="checkpointStore" Type="Azure.Storage.Blobs.BlobContainerClient" />
@@ -221,6 +203,80 @@
       </Docs>
     </Member>
     <Member MemberName=".ctor">
+      <MemberSignature Language="C#" Value="public EventProcessorClient (Azure.Storage.Blobs.BlobContainerClient checkpointStore, string consumerGroup, string fullyQualifiedNamespace, string eventHubName, Azure.AzureNamedKeyCredential credential, Azure.Messaging.EventHubs.EventProcessorClientOptions clientOptions = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig specialname rtspecialname instance void .ctor(class Azure.Storage.Blobs.BlobContainerClient checkpointStore, string consumerGroup, string fullyQualifiedNamespace, string eventHubName, class Azure.AzureNamedKeyCredential credential, class Azure.Messaging.EventHubs.EventProcessorClientOptions clientOptions) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Messaging.EventHubs.EventProcessorClient.#ctor(Azure.Storage.Blobs.BlobContainerClient,System.String,System.String,System.String,Azure.AzureNamedKeyCredential,Azure.Messaging.EventHubs.EventProcessorClientOptions)" />
+      <MemberSignature Language="VB.NET" Value="Public Sub New (checkpointStore As BlobContainerClient, consumerGroup As String, fullyQualifiedNamespace As String, eventHubName As String, credential As AzureNamedKeyCredential, Optional clientOptions As EventProcessorClientOptions = Nothing)" />
+      <MemberSignature Language="F#" Value="new Azure.Messaging.EventHubs.EventProcessorClient : Azure.Storage.Blobs.BlobContainerClient * string * string * string * Azure.AzureNamedKeyCredential * Azure.Messaging.EventHubs.EventProcessorClientOptions -&gt; Azure.Messaging.EventHubs.EventProcessorClient" Usage="new Azure.Messaging.EventHubs.EventProcessorClient (checkpointStore, consumerGroup, fullyQualifiedNamespace, eventHubName, credential, clientOptions)" />
+      <MemberType>Constructor</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
+        <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Parameters>
+        <Parameter Name="checkpointStore" Type="Azure.Storage.Blobs.BlobContainerClient" />
+        <Parameter Name="consumerGroup" Type="System.String" />
+        <Parameter Name="fullyQualifiedNamespace" Type="System.String" />
+        <Parameter Name="eventHubName" Type="System.String" />
+        <Parameter Name="credential" Type="Azure.AzureNamedKeyCredential" />
+        <Parameter Name="clientOptions" Type="Azure.Messaging.EventHubs.EventProcessorClientOptions" />
+      </Parameters>
+      <Docs>
+        <param name="checkpointStore">The client responsible for persisting checkpoints and processor state to durable storage. The associated container is expected to exist.</param>
+        <param name="consumerGroup">The name of the consumer group this processor is associated with.  Events are read in the context of this group.</param>
+        <param name="fullyQualifiedNamespace">The fully qualified Event Hubs namespace to connect to.  This is likely to be similar to <c>{yournamespace}.servicebus.windows.net</c>.</param>
+        <param name="eventHubName">The name of the specific Event Hub to associate the processor with.</param>
+        <param name="credential">The shared access key credential to use for authorization.  Access controls may be specified by the Event Hubs namespace or the requested Event Hub, depending on Azure configuration.</param>
+        <param name="clientOptions">The set of options to use for this processor.</param>
+        <summary>
+               Initializes a new instance of the <see cref="T:Azure.Messaging.EventHubs.EventProcessorClient" /> class.
+             </summary>
+        <remarks>
+               The container associated with the <paramref name="checkpointStore" /> is expected to exist; the <see cref="T:Azure.Messaging.EventHubs.EventProcessorClient" />
+               does not assume the ability to manage the storage account and is safe to run with only read/write permission for blobs in the container.
+             </remarks>
+      </Docs>
+    </Member>
+    <Member MemberName=".ctor">
+      <MemberSignature Language="C#" Value="public EventProcessorClient (Azure.Storage.Blobs.BlobContainerClient checkpointStore, string consumerGroup, string fullyQualifiedNamespace, string eventHubName, Azure.AzureSasCredential credential, Azure.Messaging.EventHubs.EventProcessorClientOptions clientOptions = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig specialname rtspecialname instance void .ctor(class Azure.Storage.Blobs.BlobContainerClient checkpointStore, string consumerGroup, string fullyQualifiedNamespace, string eventHubName, class Azure.AzureSasCredential credential, class Azure.Messaging.EventHubs.EventProcessorClientOptions clientOptions) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Messaging.EventHubs.EventProcessorClient.#ctor(Azure.Storage.Blobs.BlobContainerClient,System.String,System.String,System.String,Azure.AzureSasCredential,Azure.Messaging.EventHubs.EventProcessorClientOptions)" />
+      <MemberSignature Language="VB.NET" Value="Public Sub New (checkpointStore As BlobContainerClient, consumerGroup As String, fullyQualifiedNamespace As String, eventHubName As String, credential As AzureSasCredential, Optional clientOptions As EventProcessorClientOptions = Nothing)" />
+      <MemberSignature Language="F#" Value="new Azure.Messaging.EventHubs.EventProcessorClient : Azure.Storage.Blobs.BlobContainerClient * string * string * string * Azure.AzureSasCredential * Azure.Messaging.EventHubs.EventProcessorClientOptions -&gt; Azure.Messaging.EventHubs.EventProcessorClient" Usage="new Azure.Messaging.EventHubs.EventProcessorClient (checkpointStore, consumerGroup, fullyQualifiedNamespace, eventHubName, credential, clientOptions)" />
+      <MemberType>Constructor</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
+        <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Parameters>
+        <Parameter Name="checkpointStore" Type="Azure.Storage.Blobs.BlobContainerClient" />
+        <Parameter Name="consumerGroup" Type="System.String" />
+        <Parameter Name="fullyQualifiedNamespace" Type="System.String" />
+        <Parameter Name="eventHubName" Type="System.String" />
+        <Parameter Name="credential" Type="Azure.AzureSasCredential" />
+        <Parameter Name="clientOptions" Type="Azure.Messaging.EventHubs.EventProcessorClientOptions" />
+      </Parameters>
+      <Docs>
+        <param name="checkpointStore">The client responsible for persisting checkpoints and processor state to durable storage. The associated container is expected to exist.</param>
+        <param name="consumerGroup">The name of the consumer group this processor is associated with.  Events are read in the context of this group.</param>
+        <param name="fullyQualifiedNamespace">The fully qualified Event Hubs namespace to connect to.  This is likely to be similar to <c>{yournamespace}.servicebus.windows.net</c>.</param>
+        <param name="eventHubName">The name of the specific Event Hub to associate the processor with.</param>
+        <param name="credential">The shared access signature credential to use for authorization.  Access controls may be specified by the Event Hubs namespace or the requested Event Hub, depending on Azure configuration.</param>
+        <param name="clientOptions">The set of options to use for this processor.</param>
+        <summary>
+               Initializes a new instance of the <see cref="T:Azure.Messaging.EventHubs.EventProcessorClient" /> class.
+             </summary>
+        <remarks>
+               The container associated with the <paramref name="checkpointStore" /> is expected to exist; the <see cref="T:Azure.Messaging.EventHubs.EventProcessorClient" />
+               does not assume the ability to manage the storage account and is safe to run with only read/write permission for blobs in the container.
+             </remarks>
+      </Docs>
+    </Member>
+    <Member MemberName=".ctor">
       <MemberSignature Language="C#" Value="public EventProcessorClient (Azure.Storage.Blobs.BlobContainerClient checkpointStore, string consumerGroup, string fullyQualifiedNamespace, string eventHubName, Azure.Core.TokenCredential credential, Azure.Messaging.EventHubs.EventProcessorClientOptions clientOptions = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig specialname rtspecialname instance void .ctor(class Azure.Storage.Blobs.BlobContainerClient checkpointStore, string consumerGroup, string fullyQualifiedNamespace, string eventHubName, class Azure.Core.TokenCredential credential, class Azure.Messaging.EventHubs.EventProcessorClientOptions clientOptions) cil managed" />
       <MemberSignature Language="DocId" Value="M:Azure.Messaging.EventHubs.EventProcessorClient.#ctor(Azure.Storage.Blobs.BlobContainerClient,System.String,System.String,System.String,Azure.Core.TokenCredential,Azure.Messaging.EventHubs.EventProcessorClientOptions)" />
@@ -229,12 +285,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="checkpointStore" Type="Azure.Storage.Blobs.BlobContainerClient" />
@@ -269,11 +322,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;System.Collections.Generic.IEnumerable&lt;Azure.Messaging.EventHubs.Primitives.EventProcessorPartitionOwnership&gt;&gt;</ReturnType>
@@ -303,12 +354,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -331,11 +379,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Messaging.EventHubs.EventHubConnection</ReturnType>
@@ -358,12 +404,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -396,12 +439,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -424,12 +464,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -452,9 +489,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Messaging.EventHubs.Primitives.EventProcessorCheckpoint&gt;</ReturnType>
@@ -490,12 +527,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -524,12 +558,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -551,12 +582,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -578,11 +606,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;System.Collections.Generic.IEnumerable&lt;Azure.Messaging.EventHubs.Primitives.EventProcessorCheckpoint&gt;&gt;</ReturnType>
@@ -616,11 +642,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;System.Collections.Generic.IEnumerable&lt;Azure.Messaging.EventHubs.Primitives.EventProcessorPartitionOwnership&gt;&gt;</ReturnType>
@@ -649,11 +673,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -684,11 +706,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -722,11 +742,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -775,11 +793,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -825,12 +841,9 @@
       <MemberType>Event</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Func&lt;Azure.Messaging.EventHubs.Processor.PartitionClosingEventArgs,System.Threading.Tasks.Task&gt;</ReturnType>
@@ -854,12 +867,9 @@
       <MemberType>Event</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Func&lt;Azure.Messaging.EventHubs.Processor.PartitionInitializingEventArgs,System.Threading.Tasks.Task&gt;</ReturnType>
@@ -882,12 +892,9 @@
       <MemberType>Event</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Func&lt;Azure.Messaging.EventHubs.Processor.ProcessErrorEventArgs,System.Threading.Tasks.Task&gt;</ReturnType>
@@ -917,12 +924,9 @@
       <MemberType>Event</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Func&lt;Azure.Messaging.EventHubs.Processor.ProcessEventArgs,System.Threading.Tasks.Task&gt;</ReturnType>
@@ -947,12 +951,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -969,6 +970,12 @@
         <remarks>To be added.</remarks>
         <exception cref="T:Azure.Messaging.EventHubs.EventHubsException">Occurs when this <see cref="T:Azure.Messaging.EventHubs.EventProcessorClient" /> instance is already closed.</exception>
         <exception cref="T:System.InvalidOperationException">Occurs when this method is invoked without <see cref="E:Azure.Messaging.EventHubs.EventProcessorClient.ProcessEventAsync" /> or <see cref="E:Azure.Messaging.EventHubs.EventProcessorClient.ProcessErrorAsync" /> set.</exception>
+        <exception cref="T:System.AggregateException">
+               As the processor starts, it will attempt to detect configuration and permissions errors that would prevent it from
+               being able to recover without intervention.  For example, an incorrect connection string or the inability to write to the
+               storage container would be detected.  These exceptions will be packaged as an <see cref="T:System.AggregateException" />, and will cause
+               <see cref="M:Azure.Messaging.EventHubs.EventProcessorClient.StartProcessing(System.Threading.CancellationToken)" /> to fail.
+             </exception>
       </Docs>
     </Member>
     <Member MemberName="StartProcessingAsync">
@@ -980,12 +987,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -1003,6 +1007,12 @@
         <remarks>To be added.</remarks>
         <exception cref="T:Azure.Messaging.EventHubs.EventHubsException">Occurs when this <see cref="T:Azure.Messaging.EventHubs.EventProcessorClient" /> instance is already closed.</exception>
         <exception cref="T:System.InvalidOperationException">Occurs when this method is invoked without <see cref="E:Azure.Messaging.EventHubs.EventProcessorClient.ProcessEventAsync" /> or <see cref="E:Azure.Messaging.EventHubs.EventProcessorClient.ProcessErrorAsync" /> set.</exception>
+        <exception cref="T:System.AggregateException">
+               As the processor starts, it will attempt to detect configuration and permissions errors that would prevent it from
+               being able to recover without intervention.  For example, an incorrect connection string or the inability to write to the
+               storage container would be detected.  These exceptions will be packaged as an <see cref="T:System.AggregateException" />, and will cause
+               <see cref="M:Azure.Messaging.EventHubs.EventProcessorClient.StartProcessingAsync(System.Threading.CancellationToken)" /> to fail.
+             </exception>
       </Docs>
     </Member>
     <Member MemberName="StopProcessing">
@@ -1014,12 +1024,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -1050,12 +1057,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -1087,12 +1091,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs.Processor</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>

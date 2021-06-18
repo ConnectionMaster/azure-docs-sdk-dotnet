@@ -6,9 +6,6 @@
   <TypeSignature Language="F#" Value="type RebootStatus = class&#xA;    inherit ExpandableStringEnum&lt;RebootStatus&gt;" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-    <AssemblyVersion>1.0.0.66</AssemblyVersion>
-    <AssemblyVersion>1.0.0.67</AssemblyVersion>
-    <AssemblyVersion>1.0.0.68</AssemblyVersion>
     <AssemblyVersion>1.0.0.69</AssemblyVersion>
   </AssemblyInfo>
   <Base>
@@ -20,8 +17,8 @@
   <Interfaces />
   <Attributes>
     <Attribute>
-      <AttributeName Language="C#">[Newtonsoft.Json.JsonConverter(typeof(Microsoft.Azure.Management.ResourceManager.Fluent.Core.ExpandableStringEnumConverter`1&lt;Microsoft.Azure.Management.Compute.Fluent.Models.RebootStatus&gt;))]</AttributeName>
-      <AttributeName Language="F#">[&lt;Newtonsoft.Json.JsonConverter(typeof(Microsoft.Azure.Management.ResourceManager.Fluent.Core.ExpandableStringEnumConverter`1&lt;Microsoft.Azure.Management.Compute.Fluent.Models.RebootStatus&gt;))&gt;]</AttributeName>
+      <AttributeName Language="C#">[Newtonsoft.Json.JsonConverter(typeof(Microsoft.Azure.Management.ResourceManager.Fluent.Core.ExpandableStringEnumConverter&lt;Microsoft.Azure.Management.Compute.Fluent.Models.RebootStatus&gt;))]</AttributeName>
+      <AttributeName Language="F#">[&lt;Newtonsoft.Json.JsonConverter(typeof(Microsoft.Azure.Management.ResourceManager.Fluent.Core.ExpandableStringEnumConverter&lt;Microsoft.Azure.Management.Compute.Fluent.Models.RebootStatus&gt;))&gt;]</AttributeName>
     </Attribute>
   </Attributes>
   <Docs>
@@ -39,9 +36,6 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
@@ -59,9 +53,6 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -81,9 +72,6 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -103,9 +91,6 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -125,9 +110,6 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -147,9 +129,6 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute.Fluent</AssemblyName>
-        <AssemblyVersion>1.0.0.66</AssemblyVersion>
-        <AssemblyVersion>1.0.0.67</AssemblyVersion>
-        <AssemblyVersion>1.0.0.68</AssemblyVersion>
         <AssemblyVersion>1.0.0.69</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>

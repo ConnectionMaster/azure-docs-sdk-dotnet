@@ -6,9 +6,8 @@
   <TypeSignature Language="F#" Value="type OpenIdConnectProviderOperationsExtensions = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.ApiManagement</AssemblyName>
-    <AssemblyVersion>4.0.0.0</AssemblyVersion>
-    <AssemblyVersion>5.0.0.0</AssemblyVersion>
     <AssemblyVersion>6.0.0.0</AssemblyVersion>
+    <AssemblyVersion>7.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -30,9 +29,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.ApiManagement</AssemblyName>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderContract</ReturnType>
@@ -81,9 +79,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.ApiManagement</AssemblyName>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderContract&gt;</ReturnType>
@@ -136,9 +133,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.ApiManagement</AssemblyName>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -184,9 +180,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.ApiManagement</AssemblyName>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -237,9 +232,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.ApiManagement</AssemblyName>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderContract</ReturnType>
@@ -264,7 +258,7 @@
             Identifier of the OpenID Connect Provider.
             </param>
         <summary>
-            Gets specific OpenID Connect Provider.
+            Gets specific OpenID Connect Provider without secrets.
             </summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
@@ -279,9 +273,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.ApiManagement</AssemblyName>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderContract&gt;</ReturnType>
@@ -310,7 +303,7 @@
             The cancellation token.
             </param>
         <summary>
-            Gets specific OpenID Connect Provider.
+            Gets specific OpenID Connect Provider without secrets.
             </summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
@@ -325,9 +318,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.ApiManagement</AssemblyName>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.ApiManagement.Models.OpenIdConnectProviderGetEntityTagHeaders</ReturnType>
@@ -368,9 +360,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.ApiManagement</AssemblyName>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.ApiManagement.Models.OpenIdConnectProviderGetEntityTagHeaders&gt;</ReturnType>
@@ -415,9 +406,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.ApiManagement</AssemblyName>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderContract&gt;</ReturnType>
@@ -457,9 +447,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.ApiManagement</AssemblyName>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderContract&gt;&gt;</ReturnType>
@@ -503,9 +492,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.ApiManagement</AssemblyName>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderContract&gt;</ReturnType>
@@ -537,9 +525,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.ApiManagement</AssemblyName>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderContract&gt;&gt;</ReturnType>
@@ -575,8 +562,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.ApiManagement</AssemblyName>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.ApiManagement.Models.ClientSecretContract</ReturnType>
@@ -616,8 +603,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.ApiManagement</AssemblyName>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.ApiManagement.Models.ClientSecretContract&gt;</ReturnType>
@@ -653,20 +640,19 @@
       </Docs>
     </Member>
     <Member MemberName="Update">
-      <MemberSignature Language="C#" Value="public static void Update (this Microsoft.Azure.Management.ApiManagement.IOpenIdConnectProviderOperations operations, string resourceGroupName, string serviceName, string opid, Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderUpdateContract parameters, string ifMatch);" />
-      <MemberSignature Language="ILAsm" Value=".method public static hidebysig void Update(class Microsoft.Azure.Management.ApiManagement.IOpenIdConnectProviderOperations operations, string resourceGroupName, string serviceName, string opid, class Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderUpdateContract parameters, string ifMatch) cil managed" />
+      <MemberSignature Language="C#" Value="public static Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderContract Update (this Microsoft.Azure.Management.ApiManagement.IOpenIdConnectProviderOperations operations, string resourceGroupName, string serviceName, string opid, Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderUpdateContract parameters, string ifMatch);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderContract Update(class Microsoft.Azure.Management.ApiManagement.IOpenIdConnectProviderOperations operations, string resourceGroupName, string serviceName, string opid, class Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderUpdateContract parameters, string ifMatch) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.ApiManagement.OpenIdConnectProviderOperationsExtensions.Update(Microsoft.Azure.Management.ApiManagement.IOpenIdConnectProviderOperations,System.String,System.String,System.String,Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderUpdateContract,System.String)" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Sub Update (operations As IOpenIdConnectProviderOperations, resourceGroupName As String, serviceName As String, opid As String, parameters As OpenidConnectProviderUpdateContract, ifMatch As String)" />
-      <MemberSignature Language="F#" Value="static member Update : Microsoft.Azure.Management.ApiManagement.IOpenIdConnectProviderOperations * string * string * string * Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderUpdateContract * string -&gt; unit" Usage="Microsoft.Azure.Management.ApiManagement.OpenIdConnectProviderOperationsExtensions.Update (operations, resourceGroupName, serviceName, opid, parameters, ifMatch)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function Update (operations As IOpenIdConnectProviderOperations, resourceGroupName As String, serviceName As String, opid As String, parameters As OpenidConnectProviderUpdateContract, ifMatch As String) As OpenidConnectProviderContract" />
+      <MemberSignature Language="F#" Value="static member Update : Microsoft.Azure.Management.ApiManagement.IOpenIdConnectProviderOperations * string * string * string * Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderUpdateContract * string -&gt; Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderContract" Usage="Microsoft.Azure.Management.ApiManagement.OpenIdConnectProviderOperationsExtensions.Update (operations, resourceGroupName, serviceName, opid, parameters, ifMatch)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.ApiManagement</AssemblyName>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
-        <ReturnType>System.Void</ReturnType>
+        <ReturnType>Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderContract</ReturnType>
       </ReturnValue>
       <Parameters>
         <Parameter Name="operations" Type="Microsoft.Azure.Management.ApiManagement.IOpenIdConnectProviderOperations" RefType="this" />
@@ -700,24 +686,24 @@
         <summary>
             Updates the specific OpenID Connect Provider.
             </summary>
+        <returns>To be added.</returns>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
     <Member MemberName="UpdateAsync">
-      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task UpdateAsync (this Microsoft.Azure.Management.ApiManagement.IOpenIdConnectProviderOperations operations, string resourceGroupName, string serviceName, string opid, Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderUpdateContract parameters, string ifMatch, System.Threading.CancellationToken cancellationToken = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task UpdateAsync(class Microsoft.Azure.Management.ApiManagement.IOpenIdConnectProviderOperations operations, string resourceGroupName, string serviceName, string opid, class Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderUpdateContract parameters, string ifMatch, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderContract&gt; UpdateAsync (this Microsoft.Azure.Management.ApiManagement.IOpenIdConnectProviderOperations operations, string resourceGroupName, string serviceName, string opid, Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderUpdateContract parameters, string ifMatch, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;class Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderContract&gt; UpdateAsync(class Microsoft.Azure.Management.ApiManagement.IOpenIdConnectProviderOperations operations, string resourceGroupName, string serviceName, string opid, class Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderUpdateContract parameters, string ifMatch, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.ApiManagement.OpenIdConnectProviderOperationsExtensions.UpdateAsync(Microsoft.Azure.Management.ApiManagement.IOpenIdConnectProviderOperations,System.String,System.String,System.String,Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderUpdateContract,System.String,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function UpdateAsync (operations As IOpenIdConnectProviderOperations, resourceGroupName As String, serviceName As String, opid As String, parameters As OpenidConnectProviderUpdateContract, ifMatch As String, Optional cancellationToken As CancellationToken = Nothing) As Task" />
-      <MemberSignature Language="F#" Value="static member UpdateAsync : Microsoft.Azure.Management.ApiManagement.IOpenIdConnectProviderOperations * string * string * string * Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderUpdateContract * string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task" Usage="Microsoft.Azure.Management.ApiManagement.OpenIdConnectProviderOperationsExtensions.UpdateAsync (operations, resourceGroupName, serviceName, opid, parameters, ifMatch, cancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function UpdateAsync (operations As IOpenIdConnectProviderOperations, resourceGroupName As String, serviceName As String, opid As String, parameters As OpenidConnectProviderUpdateContract, ifMatch As String, Optional cancellationToken As CancellationToken = Nothing) As Task(Of OpenidConnectProviderContract)" />
+      <MemberSignature Language="F#" Value="static member UpdateAsync : Microsoft.Azure.Management.ApiManagement.IOpenIdConnectProviderOperations * string * string * string * Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderUpdateContract * string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderContract&gt;" Usage="Microsoft.Azure.Management.ApiManagement.OpenIdConnectProviderOperationsExtensions.UpdateAsync (operations, resourceGroupName, serviceName, opid, parameters, ifMatch, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.ApiManagement</AssemblyName>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>6.0.0.0</AssemblyVersion>
+        <AssemblyVersion>7.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
-        <ReturnType>System.Threading.Tasks.Task</ReturnType>
+        <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.ApiManagement.Models.OpenidConnectProviderContract&gt;</ReturnType>
       </ReturnValue>
       <Parameters>
         <Parameter Name="operations" Type="Microsoft.Azure.Management.ApiManagement.IOpenIdConnectProviderOperations" RefType="this" />

@@ -6,8 +6,9 @@
   <TypeSignature Language="F#" Value="type SubscriptionDeletedEventData = class" />
   <AssemblyInfo>
     <AssemblyName>Azure.Messaging.EventGrid</AssemblyName>
-    <AssemblyVersion>4.0.0.0</AssemblyVersion>
     <AssemblyVersion>4.1.0.0</AssemblyVersion>
+    <AssemblyVersion>4.2.0.0</AssemblyVersion>
+    <AssemblyVersion>4.3.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -15,12 +16,12 @@
   <Interfaces />
   <Attributes>
     <Attribute>
-      <AttributeName Language="C#">[System.Text.Json.Serialization.JsonConverter(typeof(Azure.Messaging.EventGrid.SystemEvents.SubscriptionDeletedEventData/SubscriptionDeletedEventDataConverter))]</AttributeName>
-      <AttributeName Language="F#">[&lt;System.Text.Json.Serialization.JsonConverter(typeof(Azure.Messaging.EventGrid.SystemEvents.SubscriptionDeletedEventData/SubscriptionDeletedEventDataConverter))&gt;]</AttributeName>
+      <AttributeName Language="C#">[System.Text.Json.Serialization.JsonConverter(typeof(Azure.Messaging.EventGrid.SystemEvents.SubscriptionDeletedEventData+SubscriptionDeletedEventDataConverter))]</AttributeName>
+      <AttributeName Language="F#">[&lt;System.Text.Json.Serialization.JsonConverter(typeof(Azure.Messaging.EventGrid.SystemEvents.SubscriptionDeletedEventData+SubscriptionDeletedEventDataConverter))&gt;]</AttributeName>
     </Attribute>
   </Attributes>
   <Docs>
-    <summary> Schema of the Data property of an EventGridEvent for a Microsoft.EventGrid.SubscriptionDeletedEvent. </summary>
+    <summary> Schema of the Data property of an EventGridEvent for a Microsoft.EventGrid.SubscriptionDeletedEvent event. </summary>
     <remarks>To be added.</remarks>
   </Docs>
   <Members>
@@ -33,8 +34,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventGrid</AssemblyName>
-        <AssemblyVersion>4.0.0.0</AssemblyVersion>
         <AssemblyVersion>4.1.0.0</AssemblyVersion>
+        <AssemblyVersion>4.2.0.0</AssemblyVersion>
+        <AssemblyVersion>4.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

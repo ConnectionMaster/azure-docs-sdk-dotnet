@@ -32,8 +32,10 @@
         <Parameter Name="processor" Type="Azure.Messaging.ServiceBus.ServiceBusSessionProcessor" />
       </Parameters>
       <Docs>
-        <param name="processor">To be added.</param>
-        <summary>To be added.</summary>
+        <param name="processor">The <see cref="T:Azure.Messaging.ServiceBus.ServiceBusSessionProcessor" /> to use for processing messages from Service Bus.</param>
+        <summary>
+            Initializes a new instance of <see cref="T:Microsoft.Azure.WebJobs.ServiceBus.SessionMessageProcessor" />.
+            </summary>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -102,6 +104,28 @@
             is configured. E.g. if <see cref="P:Azure.Messaging.ServiceBus.ServiceBusSessionProcessorOptions.AutoCompleteMessages" /> is false, it is up to the job function to complete
             the message.
             </remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="Processor">
+      <MemberSignature Language="C#" Value="protected internal Azure.Messaging.ServiceBus.ServiceBusSessionProcessor Processor { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance class Azure.Messaging.ServiceBus.ServiceBusSessionProcessor Processor" />
+      <MemberSignature Language="DocId" Value="P:Microsoft.Azure.WebJobs.ServiceBus.SessionMessageProcessor.Processor" />
+      <MemberSignature Language="VB.NET" Value="Protected Friend ReadOnly Property Processor As ServiceBusSessionProcessor" />
+      <MemberSignature Language="F#" Value="member this.Processor : Azure.Messaging.ServiceBus.ServiceBusSessionProcessor" Usage="Microsoft.Azure.WebJobs.ServiceBus.SessionMessageProcessor.Processor" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Azure.WebJobs.Extensions.ServiceBus</AssemblyName>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Messaging.ServiceBus.ServiceBusSessionProcessor</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>
+            Gets the <see cref="T:Azure.Messaging.ServiceBus.ServiceBusSessionProcessor" /> that will be used by the <see cref="T:Microsoft.Azure.WebJobs.ServiceBus.SessionMessageProcessor" />.
+            </summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
       </Docs>
     </Member>
   </Members>

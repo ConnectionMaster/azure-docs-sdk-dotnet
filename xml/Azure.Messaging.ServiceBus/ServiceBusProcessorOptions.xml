@@ -6,10 +6,7 @@
   <TypeSignature Language="F#" Value="type ServiceBusProcessorOptions = class" />
   <AssemblyInfo>
     <AssemblyName>Azure.Messaging.ServiceBus</AssemblyName>
-    <AssemblyVersion>7.0.0.0</AssemblyVersion>
-    <AssemblyVersion>7.0.1.0</AssemblyVersion>
-    <AssemblyVersion>7.1.0.0</AssemblyVersion>
-    <AssemblyVersion>7.1.1.0</AssemblyVersion>
+    <AssemblyVersion>7.1.2.0</AssemblyVersion>
     <AssemblyVersion>7.2.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
@@ -32,10 +29,7 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.ServiceBus</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
-        <AssemblyVersion>7.0.1.0</AssemblyVersion>
-        <AssemblyVersion>7.1.0.0</AssemblyVersion>
-        <AssemblyVersion>7.1.1.0</AssemblyVersion>
+        <AssemblyVersion>7.1.2.0</AssemblyVersion>
         <AssemblyVersion>7.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
@@ -53,10 +47,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.ServiceBus</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
-        <AssemblyVersion>7.0.1.0</AssemblyVersion>
-        <AssemblyVersion>7.1.0.0</AssemblyVersion>
-        <AssemblyVersion>7.1.1.0</AssemblyVersion>
+        <AssemblyVersion>7.1.2.0</AssemblyVersion>
         <AssemblyVersion>7.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -82,10 +73,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.ServiceBus</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
-        <AssemblyVersion>7.0.1.0</AssemblyVersion>
-        <AssemblyVersion>7.1.0.0</AssemblyVersion>
-        <AssemblyVersion>7.1.1.0</AssemblyVersion>
+        <AssemblyVersion>7.1.2.0</AssemblyVersion>
         <AssemblyVersion>7.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -119,10 +107,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.ServiceBus</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
-        <AssemblyVersion>7.0.1.0</AssemblyVersion>
-        <AssemblyVersion>7.1.0.0</AssemblyVersion>
-        <AssemblyVersion>7.1.1.0</AssemblyVersion>
+        <AssemblyVersion>7.1.2.0</AssemblyVersion>
         <AssemblyVersion>7.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -152,10 +137,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.ServiceBus</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
-        <AssemblyVersion>7.0.1.0</AssemblyVersion>
-        <AssemblyVersion>7.1.0.0</AssemblyVersion>
-        <AssemblyVersion>7.1.1.0</AssemblyVersion>
+        <AssemblyVersion>7.1.2.0</AssemblyVersion>
         <AssemblyVersion>7.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -183,10 +165,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.ServiceBus</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
-        <AssemblyVersion>7.0.1.0</AssemblyVersion>
-        <AssemblyVersion>7.1.0.0</AssemblyVersion>
-        <AssemblyVersion>7.1.1.0</AssemblyVersion>
+        <AssemblyVersion>7.1.2.0</AssemblyVersion>
         <AssemblyVersion>7.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -213,10 +192,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.ServiceBus</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
-        <AssemblyVersion>7.0.1.0</AssemblyVersion>
-        <AssemblyVersion>7.1.0.0</AssemblyVersion>
-        <AssemblyVersion>7.1.1.0</AssemblyVersion>
+        <AssemblyVersion>7.1.2.0</AssemblyVersion>
         <AssemblyVersion>7.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -245,10 +221,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.ServiceBus</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
-        <AssemblyVersion>7.0.1.0</AssemblyVersion>
-        <AssemblyVersion>7.1.0.0</AssemblyVersion>
-        <AssemblyVersion>7.1.1.0</AssemblyVersion>
+        <AssemblyVersion>7.1.2.0</AssemblyVersion>
         <AssemblyVersion>7.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -263,6 +236,28 @@
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
+    <Member MemberName="SubQueue">
+      <MemberSignature Language="C#" Value="public Azure.Messaging.ServiceBus.SubQueue SubQueue { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance valuetype Azure.Messaging.ServiceBus.SubQueue SubQueue" />
+      <MemberSignature Language="DocId" Value="P:Azure.Messaging.ServiceBus.ServiceBusProcessorOptions.SubQueue" />
+      <MemberSignature Language="VB.NET" Value="Public Property SubQueue As SubQueue" />
+      <MemberSignature Language="F#" Value="member this.SubQueue : Azure.Messaging.ServiceBus.SubQueue with get, set" Usage="Azure.Messaging.ServiceBus.ServiceBusProcessorOptions.SubQueue" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Messaging.ServiceBus</AssemblyName>
+        <AssemblyVersion>7.2.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Messaging.ServiceBus.SubQueue</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>
+            Gets or sets the subqueue to connect the processor to. By default, the processor will not connect to a subqueue.
+            </summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
     <Member MemberName="ToString">
       <MemberSignature Language="C#" Value="public override string ToString ();" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig virtual instance string ToString() cil managed" />
@@ -272,10 +267,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.ServiceBus</AssemblyName>
-        <AssemblyVersion>7.0.0.0</AssemblyVersion>
-        <AssemblyVersion>7.0.1.0</AssemblyVersion>
-        <AssemblyVersion>7.1.0.0</AssemblyVersion>
-        <AssemblyVersion>7.1.1.0</AssemblyVersion>
+        <AssemblyVersion>7.1.2.0</AssemblyVersion>
         <AssemblyVersion>7.2.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>

@@ -6,24 +6,9 @@
   <TypeSignature Language="F#" Value="type Position = class&#xA;    interface IEquatable&lt;Position&gt;" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Cosmos.Client</AssemblyName>
-    <AssemblyVersion>3.4.1.0</AssemblyVersion>
-    <AssemblyVersion>3.5.0.0</AssemblyVersion>
-    <AssemblyVersion>3.5.1.0</AssemblyVersion>
-    <AssemblyVersion>3.6.0.0</AssemblyVersion>
-    <AssemblyVersion>3.7.0.0</AssemblyVersion>
-    <AssemblyVersion>3.8.0.0</AssemblyVersion>
-    <AssemblyVersion>3.9.0.0</AssemblyVersion>
-    <AssemblyVersion>3.9.1.0</AssemblyVersion>
-    <AssemblyVersion>3.10.1.0</AssemblyVersion>
-    <AssemblyVersion>3.11.0.0</AssemblyVersion>
-    <AssemblyVersion>3.12.0.0</AssemblyVersion>
-    <AssemblyVersion>3.13.0.0</AssemblyVersion>
-    <AssemblyVersion>3.14.0.0</AssemblyVersion>
-    <AssemblyVersion>3.15.0.0</AssemblyVersion>
-    <AssemblyVersion>3.15.1.0</AssemblyVersion>
-    <AssemblyVersion>3.16.0.0</AssemblyVersion>
-    <AssemblyVersion>3.17.0.0</AssemblyVersion>
     <AssemblyVersion>3.17.1.0</AssemblyVersion>
+    <AssemblyVersion>3.18.0.0</AssemblyVersion>
+    <AssemblyVersion>3.19.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -65,24 +50,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Cosmos.Client</AssemblyName>
-        <AssemblyVersion>3.4.1.0</AssemblyVersion>
-        <AssemblyVersion>3.5.0.0</AssemblyVersion>
-        <AssemblyVersion>3.5.1.0</AssemblyVersion>
-        <AssemblyVersion>3.6.0.0</AssemblyVersion>
-        <AssemblyVersion>3.7.0.0</AssemblyVersion>
-        <AssemblyVersion>3.8.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.1.0</AssemblyVersion>
-        <AssemblyVersion>3.10.1.0</AssemblyVersion>
-        <AssemblyVersion>3.11.0.0</AssemblyVersion>
-        <AssemblyVersion>3.12.0.0</AssemblyVersion>
-        <AssemblyVersion>3.13.0.0</AssemblyVersion>
-        <AssemblyVersion>3.14.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.1.0</AssemblyVersion>
-        <AssemblyVersion>3.16.0.0</AssemblyVersion>
-        <AssemblyVersion>3.17.0.0</AssemblyVersion>
         <AssemblyVersion>3.17.1.0</AssemblyVersion>
+        <AssemblyVersion>3.18.0.0</AssemblyVersion>
+        <AssemblyVersion>3.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="coordinates" Type="System.Collections.Generic.IList&lt;System.Double&gt;" />
@@ -106,24 +76,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Cosmos.Client</AssemblyName>
-        <AssemblyVersion>3.4.1.0</AssemblyVersion>
-        <AssemblyVersion>3.5.0.0</AssemblyVersion>
-        <AssemblyVersion>3.5.1.0</AssemblyVersion>
-        <AssemblyVersion>3.6.0.0</AssemblyVersion>
-        <AssemblyVersion>3.7.0.0</AssemblyVersion>
-        <AssemblyVersion>3.8.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.1.0</AssemblyVersion>
-        <AssemblyVersion>3.10.1.0</AssemblyVersion>
-        <AssemblyVersion>3.11.0.0</AssemblyVersion>
-        <AssemblyVersion>3.12.0.0</AssemblyVersion>
-        <AssemblyVersion>3.13.0.0</AssemblyVersion>
-        <AssemblyVersion>3.14.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.1.0</AssemblyVersion>
-        <AssemblyVersion>3.16.0.0</AssemblyVersion>
-        <AssemblyVersion>3.17.0.0</AssemblyVersion>
         <AssemblyVersion>3.17.1.0</AssemblyVersion>
+        <AssemblyVersion>3.18.0.0</AssemblyVersion>
+        <AssemblyVersion>3.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="longitude" Type="System.Double" />
@@ -151,24 +106,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Cosmos.Client</AssemblyName>
-        <AssemblyVersion>3.4.1.0</AssemblyVersion>
-        <AssemblyVersion>3.5.0.0</AssemblyVersion>
-        <AssemblyVersion>3.5.1.0</AssemblyVersion>
-        <AssemblyVersion>3.6.0.0</AssemblyVersion>
-        <AssemblyVersion>3.7.0.0</AssemblyVersion>
-        <AssemblyVersion>3.8.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.1.0</AssemblyVersion>
-        <AssemblyVersion>3.10.1.0</AssemblyVersion>
-        <AssemblyVersion>3.11.0.0</AssemblyVersion>
-        <AssemblyVersion>3.12.0.0</AssemblyVersion>
-        <AssemblyVersion>3.13.0.0</AssemblyVersion>
-        <AssemblyVersion>3.14.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.1.0</AssemblyVersion>
-        <AssemblyVersion>3.16.0.0</AssemblyVersion>
-        <AssemblyVersion>3.17.0.0</AssemblyVersion>
         <AssemblyVersion>3.17.1.0</AssemblyVersion>
+        <AssemblyVersion>3.18.0.0</AssemblyVersion>
+        <AssemblyVersion>3.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="longitude" Type="System.Double" />
@@ -200,24 +140,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Cosmos.Client</AssemblyName>
-        <AssemblyVersion>3.4.1.0</AssemblyVersion>
-        <AssemblyVersion>3.5.0.0</AssemblyVersion>
-        <AssemblyVersion>3.5.1.0</AssemblyVersion>
-        <AssemblyVersion>3.6.0.0</AssemblyVersion>
-        <AssemblyVersion>3.7.0.0</AssemblyVersion>
-        <AssemblyVersion>3.8.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.1.0</AssemblyVersion>
-        <AssemblyVersion>3.10.1.0</AssemblyVersion>
-        <AssemblyVersion>3.11.0.0</AssemblyVersion>
-        <AssemblyVersion>3.12.0.0</AssemblyVersion>
-        <AssemblyVersion>3.13.0.0</AssemblyVersion>
-        <AssemblyVersion>3.14.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.1.0</AssemblyVersion>
-        <AssemblyVersion>3.16.0.0</AssemblyVersion>
-        <AssemblyVersion>3.17.0.0</AssemblyVersion>
         <AssemblyVersion>3.17.1.0</AssemblyVersion>
+        <AssemblyVersion>3.18.0.0</AssemblyVersion>
+        <AssemblyVersion>3.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Double&gt;</ReturnType>
@@ -241,24 +166,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Cosmos.Client</AssemblyName>
-        <AssemblyVersion>3.4.1.0</AssemblyVersion>
-        <AssemblyVersion>3.5.0.0</AssemblyVersion>
-        <AssemblyVersion>3.5.1.0</AssemblyVersion>
-        <AssemblyVersion>3.6.0.0</AssemblyVersion>
-        <AssemblyVersion>3.7.0.0</AssemblyVersion>
-        <AssemblyVersion>3.8.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.1.0</AssemblyVersion>
-        <AssemblyVersion>3.10.1.0</AssemblyVersion>
-        <AssemblyVersion>3.11.0.0</AssemblyVersion>
-        <AssemblyVersion>3.12.0.0</AssemblyVersion>
-        <AssemblyVersion>3.13.0.0</AssemblyVersion>
-        <AssemblyVersion>3.14.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.1.0</AssemblyVersion>
-        <AssemblyVersion>3.16.0.0</AssemblyVersion>
-        <AssemblyVersion>3.17.0.0</AssemblyVersion>
         <AssemblyVersion>3.17.1.0</AssemblyVersion>
+        <AssemblyVersion>3.18.0.0</AssemblyVersion>
+        <AssemblyVersion>3.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -291,24 +201,9 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Cosmos.Client</AssemblyName>
-        <AssemblyVersion>3.4.1.0</AssemblyVersion>
-        <AssemblyVersion>3.5.0.0</AssemblyVersion>
-        <AssemblyVersion>3.5.1.0</AssemblyVersion>
-        <AssemblyVersion>3.6.0.0</AssemblyVersion>
-        <AssemblyVersion>3.7.0.0</AssemblyVersion>
-        <AssemblyVersion>3.8.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.1.0</AssemblyVersion>
-        <AssemblyVersion>3.10.1.0</AssemblyVersion>
-        <AssemblyVersion>3.11.0.0</AssemblyVersion>
-        <AssemblyVersion>3.12.0.0</AssemblyVersion>
-        <AssemblyVersion>3.13.0.0</AssemblyVersion>
-        <AssemblyVersion>3.14.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.1.0</AssemblyVersion>
-        <AssemblyVersion>3.16.0.0</AssemblyVersion>
-        <AssemblyVersion>3.17.0.0</AssemblyVersion>
         <AssemblyVersion>3.17.1.0</AssemblyVersion>
+        <AssemblyVersion>3.18.0.0</AssemblyVersion>
+        <AssemblyVersion>3.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -336,24 +231,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Cosmos.Client</AssemblyName>
-        <AssemblyVersion>3.4.1.0</AssemblyVersion>
-        <AssemblyVersion>3.5.0.0</AssemblyVersion>
-        <AssemblyVersion>3.5.1.0</AssemblyVersion>
-        <AssemblyVersion>3.6.0.0</AssemblyVersion>
-        <AssemblyVersion>3.7.0.0</AssemblyVersion>
-        <AssemblyVersion>3.8.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.1.0</AssemblyVersion>
-        <AssemblyVersion>3.10.1.0</AssemblyVersion>
-        <AssemblyVersion>3.11.0.0</AssemblyVersion>
-        <AssemblyVersion>3.12.0.0</AssemblyVersion>
-        <AssemblyVersion>3.13.0.0</AssemblyVersion>
-        <AssemblyVersion>3.14.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.1.0</AssemblyVersion>
-        <AssemblyVersion>3.16.0.0</AssemblyVersion>
-        <AssemblyVersion>3.17.0.0</AssemblyVersion>
         <AssemblyVersion>3.17.1.0</AssemblyVersion>
+        <AssemblyVersion>3.18.0.0</AssemblyVersion>
+        <AssemblyVersion>3.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -381,24 +261,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Cosmos.Client</AssemblyName>
-        <AssemblyVersion>3.4.1.0</AssemblyVersion>
-        <AssemblyVersion>3.5.0.0</AssemblyVersion>
-        <AssemblyVersion>3.5.1.0</AssemblyVersion>
-        <AssemblyVersion>3.6.0.0</AssemblyVersion>
-        <AssemblyVersion>3.7.0.0</AssemblyVersion>
-        <AssemblyVersion>3.8.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.1.0</AssemblyVersion>
-        <AssemblyVersion>3.10.1.0</AssemblyVersion>
-        <AssemblyVersion>3.11.0.0</AssemblyVersion>
-        <AssemblyVersion>3.12.0.0</AssemblyVersion>
-        <AssemblyVersion>3.13.0.0</AssemblyVersion>
-        <AssemblyVersion>3.14.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.1.0</AssemblyVersion>
-        <AssemblyVersion>3.16.0.0</AssemblyVersion>
-        <AssemblyVersion>3.17.0.0</AssemblyVersion>
         <AssemblyVersion>3.17.1.0</AssemblyVersion>
+        <AssemblyVersion>3.18.0.0</AssemblyVersion>
+        <AssemblyVersion>3.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int32</ReturnType>
@@ -423,24 +288,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Cosmos.Client</AssemblyName>
-        <AssemblyVersion>3.4.1.0</AssemblyVersion>
-        <AssemblyVersion>3.5.0.0</AssemblyVersion>
-        <AssemblyVersion>3.5.1.0</AssemblyVersion>
-        <AssemblyVersion>3.6.0.0</AssemblyVersion>
-        <AssemblyVersion>3.7.0.0</AssemblyVersion>
-        <AssemblyVersion>3.8.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.1.0</AssemblyVersion>
-        <AssemblyVersion>3.10.1.0</AssemblyVersion>
-        <AssemblyVersion>3.11.0.0</AssemblyVersion>
-        <AssemblyVersion>3.12.0.0</AssemblyVersion>
-        <AssemblyVersion>3.13.0.0</AssemblyVersion>
-        <AssemblyVersion>3.14.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.1.0</AssemblyVersion>
-        <AssemblyVersion>3.16.0.0</AssemblyVersion>
-        <AssemblyVersion>3.17.0.0</AssemblyVersion>
         <AssemblyVersion>3.17.1.0</AssemblyVersion>
+        <AssemblyVersion>3.18.0.0</AssemblyVersion>
+        <AssemblyVersion>3.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Double</ReturnType>
@@ -464,24 +314,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Cosmos.Client</AssemblyName>
-        <AssemblyVersion>3.4.1.0</AssemblyVersion>
-        <AssemblyVersion>3.5.0.0</AssemblyVersion>
-        <AssemblyVersion>3.5.1.0</AssemblyVersion>
-        <AssemblyVersion>3.6.0.0</AssemblyVersion>
-        <AssemblyVersion>3.7.0.0</AssemblyVersion>
-        <AssemblyVersion>3.8.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.0.0</AssemblyVersion>
-        <AssemblyVersion>3.9.1.0</AssemblyVersion>
-        <AssemblyVersion>3.10.1.0</AssemblyVersion>
-        <AssemblyVersion>3.11.0.0</AssemblyVersion>
-        <AssemblyVersion>3.12.0.0</AssemblyVersion>
-        <AssemblyVersion>3.13.0.0</AssemblyVersion>
-        <AssemblyVersion>3.14.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.0.0</AssemblyVersion>
-        <AssemblyVersion>3.15.1.0</AssemblyVersion>
-        <AssemblyVersion>3.16.0.0</AssemblyVersion>
-        <AssemblyVersion>3.17.0.0</AssemblyVersion>
         <AssemblyVersion>3.17.1.0</AssemblyVersion>
+        <AssemblyVersion>3.18.0.0</AssemblyVersion>
+        <AssemblyVersion>3.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Double</ReturnType>

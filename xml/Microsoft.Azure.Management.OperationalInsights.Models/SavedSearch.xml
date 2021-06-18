@@ -6,9 +6,9 @@
   <TypeSignature Language="F#" Value="type SavedSearch = class&#xA;    inherit ProxyResource" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-    <AssemblyVersion>0.19.0.0</AssemblyVersion>
-    <AssemblyVersion>0.20.0.0</AssemblyVersion>
     <AssemblyVersion>0.21.0.0</AssemblyVersion>
+    <AssemblyVersion>0.22.0.0</AssemblyVersion>
+    <AssemblyVersion>0.23.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Microsoft.Azure.Management.OperationalInsights.Models.ProxyResource</BaseTypeName>
@@ -35,9 +35,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.19.0.0</AssemblyVersion>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -48,15 +48,17 @@
       </Docs>
     </Member>
     <Member MemberName=".ctor">
-      <MemberSignature Language="C#" Value="public SavedSearch (string category, string displayName, string query, string id = default, string name = default, string type = default, string eTag = default, string functionAlias = default, string functionParameters = default, long? version = default, System.Collections.Generic.IList&lt;Microsoft.Azure.Management.OperationalInsights.Models.Tag&gt; tags = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig specialname rtspecialname instance void .ctor(string category, string displayName, string query, string id, string name, string type, string eTag, string functionAlias, string functionParameters, valuetype System.Nullable`1&lt;int64&gt; version, class System.Collections.Generic.IList`1&lt;class Microsoft.Azure.Management.OperationalInsights.Models.Tag&gt; tags) cil managed" />
+      <MemberSignature Language="C#" Value="public SavedSearch (string category, string displayName, string query, string id = default, string name = default, string type = default, string etag = default, string functionAlias = default, string functionParameters = default, long? version = default, System.Collections.Generic.IList&lt;Microsoft.Azure.Management.OperationalInsights.Models.Tag&gt; tags = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig specialname rtspecialname instance void .ctor(string category, string displayName, string query, string id, string name, string type, string etag, string functionAlias, string functionParameters, valuetype System.Nullable`1&lt;int64&gt; version, class System.Collections.Generic.IList`1&lt;class Microsoft.Azure.Management.OperationalInsights.Models.Tag&gt; tags) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.OperationalInsights.Models.SavedSearch.#ctor(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Nullable{System.Int64},System.Collections.Generic.IList{Microsoft.Azure.Management.OperationalInsights.Models.Tag})" />
-      <MemberSignature Language="VB.NET" Value="Public Sub New (category As String, displayName As String, query As String, Optional id As String = Nothing, Optional name As String = Nothing, Optional type As String = Nothing, Optional eTag As String = Nothing, Optional functionAlias As String = Nothing, Optional functionParameters As String = Nothing, Optional version As Nullable(Of Long) = Nothing, Optional tags As IList(Of Tag) = Nothing)" />
-      <MemberSignature Language="F#" Value="new Microsoft.Azure.Management.OperationalInsights.Models.SavedSearch : string * string * string * string * string * string * string * string * string * Nullable&lt;int64&gt; * System.Collections.Generic.IList&lt;Microsoft.Azure.Management.OperationalInsights.Models.Tag&gt; -&gt; Microsoft.Azure.Management.OperationalInsights.Models.SavedSearch" Usage="new Microsoft.Azure.Management.OperationalInsights.Models.SavedSearch (category, displayName, query, id, name, type, eTag, functionAlias, functionParameters, version, tags)" />
+      <MemberSignature Language="VB.NET" Value="Public Sub New (category As String, displayName As String, query As String, Optional id As String = Nothing, Optional name As String = Nothing, Optional type As String = Nothing, Optional etag As String = Nothing, Optional functionAlias As String = Nothing, Optional functionParameters As String = Nothing, Optional version As Nullable(Of Long) = Nothing, Optional tags As IList(Of Tag) = Nothing)" />
+      <MemberSignature Language="F#" Value="new Microsoft.Azure.Management.OperationalInsights.Models.SavedSearch : string * string * string * string * string * string * string * string * string * Nullable&lt;int64&gt; * System.Collections.Generic.IList&lt;Microsoft.Azure.Management.OperationalInsights.Models.Tag&gt; -&gt; Microsoft.Azure.Management.OperationalInsights.Models.SavedSearch" Usage="new Microsoft.Azure.Management.OperationalInsights.Models.SavedSearch (category, displayName, query, id, name, type, etag, functionAlias, functionParameters, version, tags)" />
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="category" Type="System.String" />
@@ -65,7 +67,7 @@
         <Parameter Name="id" Type="System.String" />
         <Parameter Name="name" Type="System.String" />
         <Parameter Name="type" Type="System.String" />
-        <Parameter Name="eTag" Type="System.String" />
+        <Parameter Name="etag" Type="System.String" />
         <Parameter Name="functionAlias" Type="System.String" />
         <Parameter Name="functionParameters" Type="System.String" />
         <Parameter Name="version" Type="System.Nullable&lt;System.Int64&gt;" />
@@ -75,17 +77,15 @@
         <param name="category">The category of the saved search. This helps
             the user to find a saved search faster. </param>
         <param name="displayName">Saved search display name.</param>
-        <param name="query">The query expression for the saved search.
-            Please see
-            https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-search-reference
-            for reference.</param>
-        <param name="id">Fully qualified resource Id for the resource. Ex -
+        <param name="query">The query expression for the saved
+            search.</param>
+        <param name="id">Fully qualified resource ID for the resource. Ex -
             /subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/{resourceProviderNamespace}/{resourceType}/{resourceName}</param>
         <param name="name">The name of the resource</param>
-        <param name="type">The type of the resource. Ex-
-            Microsoft.Compute/virtualMachines or
-            Microsoft.Storage/storageAccounts.</param>
-        <param name="eTag">The ETag of the saved search.</param>
+        <param name="type">The type of the resource. E.g.
+            "Microsoft.Compute/virtualMachines" or
+            "Microsoft.Storage/storageAccounts"</param>
+        <param name="etag">The ETag of the saved search.</param>
         <param name="functionAlias">The function alias if query serves as a
             function.</param>
         <param name="functionParameters">The optional function parameters
@@ -112,9 +112,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.19.0.0</AssemblyVersion>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -143,9 +143,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.19.0.0</AssemblyVersion>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -164,22 +164,22 @@
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
-    <Member MemberName="ETag">
-      <MemberSignature Language="C#" Value="public string ETag { get; set; }" />
-      <MemberSignature Language="ILAsm" Value=".property instance string ETag" />
-      <MemberSignature Language="DocId" Value="P:Microsoft.Azure.Management.OperationalInsights.Models.SavedSearch.ETag" />
-      <MemberSignature Language="VB.NET" Value="Public Property ETag As String" />
-      <MemberSignature Language="F#" Value="member this.ETag : string with get, set" Usage="Microsoft.Azure.Management.OperationalInsights.Models.SavedSearch.ETag" />
+    <Member MemberName="Etag">
+      <MemberSignature Language="C#" Value="public string Etag { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance string Etag" />
+      <MemberSignature Language="DocId" Value="P:Microsoft.Azure.Management.OperationalInsights.Models.SavedSearch.Etag" />
+      <MemberSignature Language="VB.NET" Value="Public Property Etag As String" />
+      <MemberSignature Language="F#" Value="member this.Etag : string with get, set" Usage="Microsoft.Azure.Management.OperationalInsights.Models.SavedSearch.Etag" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
-        <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
-          <AttributeName Language="C#">[Newtonsoft.Json.JsonProperty(PropertyName="eTag")]</AttributeName>
-          <AttributeName Language="F#">[&lt;Newtonsoft.Json.JsonProperty(PropertyName="eTag")&gt;]</AttributeName>
+          <AttributeName Language="C#">[Newtonsoft.Json.JsonProperty(PropertyName="etag")]</AttributeName>
+          <AttributeName Language="F#">[&lt;Newtonsoft.Json.JsonProperty(PropertyName="etag")&gt;]</AttributeName>
         </Attribute>
       </Attributes>
       <ReturnValue>
@@ -203,6 +203,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -231,6 +233,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -263,9 +267,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.19.0.0</AssemblyVersion>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -278,9 +282,7 @@
       </ReturnValue>
       <Docs>
         <summary>
-            Gets or sets the query expression for the saved search. Please see
-            https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-search-reference
-            for reference.
+            Gets or sets the query expression for the saved search.
             </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
@@ -295,9 +297,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.19.0.0</AssemblyVersion>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -325,9 +327,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.19.0.0</AssemblyVersion>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -352,9 +354,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.19.0.0</AssemblyVersion>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>

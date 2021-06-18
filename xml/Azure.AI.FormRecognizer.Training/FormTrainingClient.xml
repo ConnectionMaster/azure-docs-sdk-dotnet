@@ -6,9 +6,9 @@
   <TypeSignature Language="F#" Value="type FormTrainingClient = class" />
   <AssemblyInfo>
     <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <AssemblyVersion>3.0.0.0</AssemblyVersion>
+    <AssemblyVersion>3.0.1.0</AssemblyVersion>
     <AssemblyVersion>3.1.0.0</AssemblyVersion>
+    <AssemblyVersion>3.1.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -31,9 +31,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -52,9 +52,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="endpoint" Type="System.Uri" />
@@ -69,6 +69,7 @@
         <remarks>
             Both the <paramref name="endpoint" /> URI string and the <paramref name="credential" /><c>string</c> key
             can be found in the Azure Portal.
+            For more information see <see href="https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/formrecognizer/Azure.AI.FormRecognizer/README.md#authenticate-a-form-recognizer-client"> here</see>.
             </remarks>
       </Docs>
     </Member>
@@ -81,9 +82,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="endpoint" Type="System.Uri" />
@@ -97,6 +98,7 @@
             </summary>
         <remarks>
             The <paramref name="endpoint" /> URI string can be found in the Azure Portal.
+            For more information see <see href="https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/formrecognizer/Azure.AI.FormRecognizer/README.md#authenticate-a-form-recognizer-client"> here</see>.
             </remarks>
       </Docs>
     </Member>
@@ -109,9 +111,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="endpoint" Type="System.Uri" />
@@ -128,6 +130,7 @@
         <remarks>
             Both the <paramref name="endpoint" /> URI string and the <paramref name="credential" /><c>string</c> key
             can be found in the Azure Portal.
+            For more information see <see href="https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/formrecognizer/Azure.AI.FormRecognizer/README.md#authenticate-a-form-recognizer-client"> here</see>.
             </remarks>
       </Docs>
     </Member>
@@ -140,9 +143,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="endpoint" Type="System.Uri" />
@@ -158,6 +161,7 @@
             </summary>
         <remarks>
             The <paramref name="endpoint" /> URI string can be found in the Azure Portal.
+            For more information see <see href="https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/formrecognizer/Azure.AI.FormRecognizer/README.md#authenticate-a-form-recognizer-client"> here</see>.
             </remarks>
       </Docs>
     </Member>
@@ -170,9 +174,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response</ReturnType>
@@ -200,9 +204,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&gt;</ReturnType>
@@ -230,9 +234,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.AI.FormRecognizer.Training.AccountProperties&gt;</ReturnType>
@@ -259,9 +263,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.FormRecognizer.Training.AccountProperties&gt;&gt;</ReturnType>
@@ -288,9 +292,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.AI.FormRecognizer.Training.CopyAuthorization&gt;</ReturnType>
@@ -323,9 +327,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.FormRecognizer.Training.CopyAuthorization&gt;&gt;</ReturnType>
@@ -358,9 +362,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.AI.FormRecognizer.Training.CustomFormModel&gt;</ReturnType>
@@ -389,9 +393,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.FormRecognizer.Training.CustomFormModel&gt;&gt;</ReturnType>
@@ -420,9 +424,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.AI.FormRecognizer.Training.CustomFormModelInfo&gt;</ReturnType>
@@ -449,9 +453,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.AI.FormRecognizer.Training.CustomFormModelInfo&gt;</ReturnType>
@@ -478,9 +482,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AI.FormRecognizer.FormRecognizerClient</ReturnType>
@@ -504,9 +508,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AI.FormRecognizer.Training.CopyModelOperation</ReturnType>
@@ -538,9 +542,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.AI.FormRecognizer.Training.CopyModelOperation&gt;</ReturnType>
@@ -573,14 +577,15 @@
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AI.FormRecognizer.Training.CreateComposedModelOperation</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="modelIds" Type="System.Collections.Generic.IEnumerable&lt;System.String&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="modelName" Type="System.String" Index="1" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="modelIds" Type="System.Collections.Generic.IEnumerable&lt;System.String&gt;" />
+        <Parameter Name="modelName" Type="System.String" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
         <param name="modelIds">List of model ids to use in the composed model.</param>
@@ -593,7 +598,9 @@
           <para>A <see cref="T:Azure.AI.FormRecognizer.Training.CreateComposedModelOperation" /> to wait on this long-running operation. Its Value upon successful
             completion will contain meta-data about the composed model.</para>
         </returns>
-        <remarks>To be added.</remarks>
+        <remarks>
+            Method is only available for <see cref="F:Azure.AI.FormRecognizer.FormRecognizerClientOptions.ServiceVersion.V2_1" /> and up.
+            </remarks>
       </Docs>
     </Member>
     <Member MemberName="StartCreateComposedModelAsync">
@@ -606,14 +613,15 @@
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.AI.FormRecognizer.Training.CreateComposedModelOperation&gt;</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="modelIds" Type="System.Collections.Generic.IEnumerable&lt;System.String&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="modelName" Type="System.String" Index="1" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="modelIds" Type="System.Collections.Generic.IEnumerable&lt;System.String&gt;" />
+        <Parameter Name="modelName" Type="System.String" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
         <param name="modelIds">List of model ids to use in the composed model.</param>
@@ -626,25 +634,26 @@
           <para>A <see cref="T:Azure.AI.FormRecognizer.Training.CreateComposedModelOperation" /> to wait on this long-running operation. Its Value upon successful
             completion will contain meta-data about the composed model.</para>
         </returns>
-        <remarks>To be added.</remarks>
+        <remarks>
+            Method is only available for <see cref="F:Azure.AI.FormRecognizer.FormRecognizerClientOptions.ServiceVersion.V2_1" /> and up.
+            </remarks>
       </Docs>
     </Member>
     <Member MemberName="StartTraining">
-      <MemberSignature Language="C#" Value="public virtual Azure.AI.FormRecognizer.Training.TrainingOperation StartTraining (Uri trainingFilesUri, bool useTrainingLabels, Azure.AI.FormRecognizer.Training.TrainingOptions trainingOptions = default, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="C#" Value="public virtual Azure.AI.FormRecognizer.Training.TrainingOperation StartTraining (Uri trainingFilesUri, bool useTrainingLabels, Azure.AI.FormRecognizer.Training.TrainingOptions trainingOptions, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.AI.FormRecognizer.Training.TrainingOperation StartTraining(class System.Uri trainingFilesUri, bool useTrainingLabels, class Azure.AI.FormRecognizer.Training.TrainingOptions trainingOptions, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Azure.AI.FormRecognizer.Training.FormTrainingClient.StartTraining(System.Uri,System.Boolean,Azure.AI.FormRecognizer.Training.TrainingOptions,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function StartTraining (trainingFilesUri As Uri, useTrainingLabels As Boolean, Optional trainingOptions As TrainingOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As TrainingOperation" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function StartTraining (trainingFilesUri As Uri, useTrainingLabels As Boolean, trainingOptions As TrainingOptions, Optional cancellationToken As CancellationToken = Nothing) As TrainingOperation" />
       <MemberSignature Language="F#" Value="abstract member StartTraining : Uri * bool * Azure.AI.FormRecognizer.Training.TrainingOptions * System.Threading.CancellationToken -&gt; Azure.AI.FormRecognizer.Training.TrainingOperation&#xA;override this.StartTraining : Uri * bool * Azure.AI.FormRecognizer.Training.TrainingOptions * System.Threading.CancellationToken -&gt; Azure.AI.FormRecognizer.Training.TrainingOperation" Usage="formTrainingClient.StartTraining (trainingFilesUri, useTrainingLabels, trainingOptions, cancellationToken)" />
-      <MemberSignature Language="C#" Value="public virtual Azure.AI.FormRecognizer.Training.TrainingOperation StartTraining (Uri trainingFilesUri, bool useTrainingLabels, Azure.AI.FormRecognizer.Training.TrainingOptions trainingOptions, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function StartTraining (trainingFilesUri As Uri, useTrainingLabels As Boolean, trainingOptions As TrainingOptions, Optional cancellationToken As CancellationToken = Nothing) As TrainingOperation" FrameworkAlternate="azure-dotnet-preview" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
-        <Attribute FrameworkAlternate="azure-dotnet-preview">
+        <Attribute>
           <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
           <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
         </Attribute>
@@ -660,7 +669,7 @@
       </Parameters>
       <Docs>
         <param name="trainingFilesUri">An externally accessible Azure storage blob container Uri.
-            For more information see <a href="https://docs.microsoft.com/azure/cognitive-services/form-recognizer/build-training-data-set#upload-your-training-data" />.</param>
+            For more information see <see href="https://docs.microsoft.com/azure/cognitive-services/form-recognizer/build-training-data-set#upload-your-training-data">here</see>.</param>
         <param name="useTrainingLabels">If <c>true</c>, corresponding labeled files must exist in the blob container. If <c>false</c>, the model will be trained from forms only.</param>
         <param name="trainingOptions">A set of options available for configuring the training request. For example, set a filter to apply
             to the documents in the source path for training.</param>
@@ -687,22 +696,26 @@
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AI.FormRecognizer.Training.TrainingOperation</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="trainingFilesUri" Type="System.Uri" Index="0" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="useTrainingLabels" Type="System.Boolean" Index="1" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="modelName" Type="System.String" Index="2" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="trainingOptions" Type="Azure.AI.FormRecognizer.Training.TrainingOptions" Index="3" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="4" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="trainingFilesUri" Type="System.Uri" />
+        <Parameter Name="useTrainingLabels" Type="System.Boolean" />
+        <Parameter Name="modelName" Type="System.String" />
+        <Parameter Name="trainingOptions" Type="Azure.AI.FormRecognizer.Training.TrainingOptions" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
         <param name="trainingFilesUri">An externally accessible Azure storage blob container Uri.
-            For more information see <a href="https://docs.microsoft.com/azure/cognitive-services/form-recognizer/build-training-data-set#upload-your-training-data" />.</param>
+            For more information see <see href="https://docs.microsoft.com/azure/cognitive-services/form-recognizer/build-training-data-set#upload-your-training-data">here</see>.</param>
         <param name="useTrainingLabels">If <c>true</c>, corresponding labeled files must exist in the blob container. If <c>false</c>, the model will be trained from forms only.</param>
-        <param name="modelName">An optional, user-defined name to associate with the model.</param>
+        <param name="modelName">An optional, user-defined name to associate with the model.
+            <remarks>
+            This property is only available for <see cref="F:Azure.AI.FormRecognizer.FormRecognizerClientOptions.ServiceVersion.V2_1" /> and up.
+            </remarks></param>
         <param name="trainingOptions">A set of options available for configuring the training request. For example, set a filter to apply
             to the documents in the source path for training.</param>
         <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" /> controlling the request lifetime.</param>
@@ -719,21 +732,20 @@
       </Docs>
     </Member>
     <Member MemberName="StartTrainingAsync">
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.AI.FormRecognizer.Training.TrainingOperation&gt; StartTrainingAsync (Uri trainingFilesUri, bool useTrainingLabels, Azure.AI.FormRecognizer.Training.TrainingOptions trainingOptions = default, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.AI.FormRecognizer.Training.TrainingOperation&gt; StartTrainingAsync (Uri trainingFilesUri, bool useTrainingLabels, Azure.AI.FormRecognizer.Training.TrainingOptions trainingOptions, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.AI.FormRecognizer.Training.TrainingOperation&gt; StartTrainingAsync(class System.Uri trainingFilesUri, bool useTrainingLabels, class Azure.AI.FormRecognizer.Training.TrainingOptions trainingOptions, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Azure.AI.FormRecognizer.Training.FormTrainingClient.StartTrainingAsync(System.Uri,System.Boolean,Azure.AI.FormRecognizer.Training.TrainingOptions,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function StartTrainingAsync (trainingFilesUri As Uri, useTrainingLabels As Boolean, Optional trainingOptions As TrainingOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of TrainingOperation)" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function StartTrainingAsync (trainingFilesUri As Uri, useTrainingLabels As Boolean, trainingOptions As TrainingOptions, Optional cancellationToken As CancellationToken = Nothing) As Task(Of TrainingOperation)" />
       <MemberSignature Language="F#" Value="abstract member StartTrainingAsync : Uri * bool * Azure.AI.FormRecognizer.Training.TrainingOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.AI.FormRecognizer.Training.TrainingOperation&gt;&#xA;override this.StartTrainingAsync : Uri * bool * Azure.AI.FormRecognizer.Training.TrainingOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.AI.FormRecognizer.Training.TrainingOperation&gt;" Usage="formTrainingClient.StartTrainingAsync (trainingFilesUri, useTrainingLabels, trainingOptions, cancellationToken)" />
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.AI.FormRecognizer.Training.TrainingOperation&gt; StartTrainingAsync (Uri trainingFilesUri, bool useTrainingLabels, Azure.AI.FormRecognizer.Training.TrainingOptions trainingOptions, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function StartTrainingAsync (trainingFilesUri As Uri, useTrainingLabels As Boolean, trainingOptions As TrainingOptions, Optional cancellationToken As CancellationToken = Nothing) As Task(Of TrainingOperation)" FrameworkAlternate="azure-dotnet-preview" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
-        <AssemblyVersion>3.0.0.0</AssemblyVersion>
+        <AssemblyVersion>3.0.1.0</AssemblyVersion>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
-        <Attribute FrameworkAlternate="azure-dotnet-preview">
+        <Attribute>
           <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
           <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
         </Attribute>
@@ -749,7 +761,7 @@
       </Parameters>
       <Docs>
         <param name="trainingFilesUri">An externally accessible Azure storage blob container Uri.
-            For more information see <a href="https://docs.microsoft.com/azure/cognitive-services/form-recognizer/build-training-data-set#upload-your-training-data" />.</param>
+            For more information see <see href="https://docs.microsoft.com/azure/cognitive-services/form-recognizer/build-training-data-set#upload-your-training-data">here</see>.</param>
         <param name="useTrainingLabels">If <c>true</c>, corresponding labeled files must exist in the blob container. If <c>false</c>, the model will be trained from forms only.</param>
         <param name="trainingOptions">A set of options available for configuring the training request. For example, set a filter to apply
             to the documents in the source path for training.</param>
@@ -776,22 +788,26 @@
       <AssemblyInfo>
         <AssemblyName>Azure.AI.FormRecognizer</AssemblyName>
         <AssemblyVersion>3.1.0.0</AssemblyVersion>
+        <AssemblyVersion>3.1.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.AI.FormRecognizer.Training.TrainingOperation&gt;</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="trainingFilesUri" Type="System.Uri" Index="0" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="useTrainingLabels" Type="System.Boolean" Index="1" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="modelName" Type="System.String" Index="2" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="trainingOptions" Type="Azure.AI.FormRecognizer.Training.TrainingOptions" Index="3" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="4" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="trainingFilesUri" Type="System.Uri" />
+        <Parameter Name="useTrainingLabels" Type="System.Boolean" />
+        <Parameter Name="modelName" Type="System.String" />
+        <Parameter Name="trainingOptions" Type="Azure.AI.FormRecognizer.Training.TrainingOptions" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
         <param name="trainingFilesUri">An externally accessible Azure storage blob container Uri.
-            For more information see <a href="https://docs.microsoft.com/azure/cognitive-services/form-recognizer/build-training-data-set#upload-your-training-data" />.</param>
+            For more information see <see href="https://docs.microsoft.com/azure/cognitive-services/form-recognizer/build-training-data-set#upload-your-training-data">here</see>.</param>
         <param name="useTrainingLabels">If <c>true</c>, corresponding labeled files must exist in the blob container. If <c>false</c>, the model will be trained from forms only.</param>
-        <param name="modelName">An optional, user-defined name to associate with the model.</param>
+        <param name="modelName">An optional, user-defined name to associate with the model.
+            <remarks>
+            This property is only available for <see cref="F:Azure.AI.FormRecognizer.FormRecognizerClientOptions.ServiceVersion.V2_1" /> and up.
+            </remarks></param>
         <param name="trainingOptions">A set of options available for configuring the training request. For example, set a filter to apply
             to the documents in the source path for training.</param>
         <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" /> controlling the request lifetime.</param>

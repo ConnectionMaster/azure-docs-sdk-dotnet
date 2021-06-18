@@ -6,8 +6,9 @@
   <TypeSignature Language="F#" Value="type LinkedStorageAccountsOperationsExtensions = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-    <AssemblyVersion>0.20.0.0</AssemblyVersion>
     <AssemblyVersion>0.21.0.0</AssemblyVersion>
+    <AssemblyVersion>0.22.0.0</AssemblyVersion>
+    <AssemblyVersion>0.23.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -29,8 +30,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.OperationalInsights.Models.LinkedStorageAccountsResource</ReturnType>
@@ -54,7 +56,7 @@
             </param>
         <param name="dataSourceType">
             Linked storage accounts type. Possible values include: 'CustomLogs',
-            'AzureWatson'
+            'AzureWatson', 'Query', 'Alerts'
             </param>
         <param name="storageAccountIds">
             Linked storage accounts resources ids.
@@ -76,8 +78,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.OperationalInsights.Models.LinkedStorageAccountsResource&gt;</ReturnType>
@@ -102,7 +105,7 @@
             </param>
         <param name="dataSourceType">
             Linked storage accounts type. Possible values include: 'CustomLogs',
-            'AzureWatson'
+            'AzureWatson', 'Query', 'Alerts'
             </param>
         <param name="storageAccountIds">
             Linked storage accounts resources ids.
@@ -127,8 +130,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -151,7 +155,7 @@
             </param>
         <param name="dataSourceType">
             Linked storage accounts type. Possible values include: 'CustomLogs',
-            'AzureWatson'
+            'AzureWatson', 'Query', 'Alerts'
             </param>
         <summary>
             Deletes all linked storage accounts of a specific data source type
@@ -169,8 +173,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -194,7 +199,7 @@
             </param>
         <param name="dataSourceType">
             Linked storage accounts type. Possible values include: 'CustomLogs',
-            'AzureWatson'
+            'AzureWatson', 'Query', 'Alerts'
             </param>
         <param name="cancellationToken">
             The cancellation token.
@@ -216,8 +221,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.OperationalInsights.Models.LinkedStorageAccountsResource</ReturnType>
@@ -240,7 +246,7 @@
             </param>
         <param name="dataSourceType">
             Linked storage accounts type. Possible values include: 'CustomLogs',
-            'AzureWatson'
+            'AzureWatson', 'Query', 'Alerts'
             </param>
         <summary>
             Gets all linked storage account of a specific data source type associated
@@ -259,8 +265,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.OperationalInsights.Models.LinkedStorageAccountsResource&gt;</ReturnType>
@@ -284,7 +291,7 @@
             </param>
         <param name="dataSourceType">
             Linked storage accounts type. Possible values include: 'CustomLogs',
-            'AzureWatson'
+            'AzureWatson', 'Query', 'Alerts'
             </param>
         <param name="cancellationToken">
             The cancellation token.
@@ -306,8 +313,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IEnumerable&lt;Microsoft.Azure.Management.OperationalInsights.Models.LinkedStorageAccountsResource&gt;</ReturnType>
@@ -344,8 +352,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.OperationalInsights</AssemblyName>
-        <AssemblyVersion>0.20.0.0</AssemblyVersion>
         <AssemblyVersion>0.21.0.0</AssemblyVersion>
+        <AssemblyVersion>0.22.0.0</AssemblyVersion>
+        <AssemblyVersion>0.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;System.Collections.Generic.IEnumerable&lt;Microsoft.Azure.Management.OperationalInsights.Models.LinkedStorageAccountsResource&gt;&gt;</ReturnType>

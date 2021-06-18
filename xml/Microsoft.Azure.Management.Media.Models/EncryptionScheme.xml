@@ -6,9 +6,9 @@
   <TypeSignature Language="F#" Value="type EncryptionScheme = struct" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-    <AssemblyVersion>2.0.1.0</AssemblyVersion>
-    <AssemblyVersion>3.0.3.0</AssemblyVersion>
     <AssemblyVersion>3.0.4.0</AssemblyVersion>
+    <AssemblyVersion>3.0.5.0</AssemblyVersion>
+    <AssemblyVersion>4.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.ValueType</BaseTypeName>
@@ -40,9 +40,9 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.Models.EncryptionScheme</ReturnType>
@@ -63,9 +63,9 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.Models.EncryptionScheme</ReturnType>
@@ -86,9 +86,9 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.Models.EncryptionScheme</ReturnType>
@@ -112,9 +112,9 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -140,9 +140,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -168,9 +168,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int32</ReturnType>
@@ -193,9 +193,9 @@
       <MemberType>Field</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.Models.EncryptionScheme</ReturnType>
@@ -216,9 +216,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -246,9 +246,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -274,9 +274,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.Models.EncryptionScheme</ReturnType>
@@ -302,9 +302,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -332,9 +332,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

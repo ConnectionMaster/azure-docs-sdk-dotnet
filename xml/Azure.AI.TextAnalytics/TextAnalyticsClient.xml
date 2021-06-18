@@ -6,8 +6,6 @@
   <TypeSignature Language="F#" Value="type TextAnalyticsClient = class" />
   <AssemblyInfo>
     <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <AssemblyVersion>1.0.1.0</AssemblyVersion>
     <AssemblyVersion>5.0.0.0</AssemblyVersion>
     <AssemblyVersion>5.1.0.0</AssemblyVersion>
   </AssemblyInfo>
@@ -30,8 +28,6 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -52,8 +48,6 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -83,8 +77,6 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -113,8 +105,6 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -148,8 +138,6 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -184,8 +172,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -282,8 +268,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -419,8 +403,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -516,8 +498,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -613,8 +593,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -710,8 +688,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -766,8 +742,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -813,8 +787,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -860,8 +832,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -905,8 +875,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -957,8 +925,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -1002,8 +968,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -1054,8 +1018,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -1089,8 +1051,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -1135,8 +1095,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -1173,19 +1131,67 @@
       </Docs>
     </Member>
     <Member MemberName="ExtractKeyPhrasesBatch">
-      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt; ExtractKeyPhrasesBatch (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt; ExtractKeyPhrasesBatch(class System.Collections.Generic.IEnumerable`1&lt;class Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.ExtractKeyPhrasesBatch(System.Collections.Generic.IEnumerable{Azure.AI.TextAnalytics.TextDocumentInput},Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function ExtractKeyPhrasesBatch (documents As IEnumerable(Of TextDocumentInput), Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Response(Of ExtractKeyPhrasesResultCollection)" />
-      <MemberSignature Language="F#" Value="abstract member ExtractKeyPhrasesBatch : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&#xA;override this.ExtractKeyPhrasesBatch : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;" Usage="textAnalyticsClient.ExtractKeyPhrasesBatch (documents, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt; ExtractKeyPhrasesBatch (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt; ExtractKeyPhrasesBatch(class System.Collections.Generic.IEnumerable`1&lt;class Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, class Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.ExtractKeyPhrasesBatch(System.Collections.Generic.IEnumerable{Azure.AI.TextAnalytics.TextDocumentInput},Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function ExtractKeyPhrasesBatch (documents As IEnumerable(Of TextDocumentInput), Optional options As ExtractKeyPhrasesOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Response(Of ExtractKeyPhrasesResultCollection)" />
+      <MemberSignature Language="F#" Value="abstract member ExtractKeyPhrasesBatch : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&#xA;override this.ExtractKeyPhrasesBatch : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;" Usage="textAnalyticsClient.ExtractKeyPhrasesBatch (documents, options, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="documents" Type="System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="documents">The documents to analyze.</param>
+        <param name="options">
+          <see cref="T:Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions" /> used to
+            select the version of the predictive model to run, and whether
+            statistics are returned in the response.</param>
+        <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" />
+            controlling the request lifetime.</param>
+        <summary>
+            Runs a model to identify a collection of significant phrases
+            found in the passed-in documents.
+            <para>For example, for the document "The food was delicious and there
+            were wonderful staff", the API returns the main talking points: "food"
+            and "wonderful staff".</para><para>For a list of languages supported by this operation, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/language-support" />.</para><para>For document length limits, maximum batch size, and supported text encoding, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.</para></summary>
+        <returns>A result containing the collection of key phrases identified
+            in each of the documents.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Service returned a non-success
+            status code.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="ExtractKeyPhrasesBatch">
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt; ExtractKeyPhrasesBatch (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt; ExtractKeyPhrasesBatch(class System.Collections.Generic.IEnumerable`1&lt;class Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.ExtractKeyPhrasesBatch(System.Collections.Generic.IEnumerable{Azure.AI.TextAnalytics.TextDocumentInput},Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function ExtractKeyPhrasesBatch (documents As IEnumerable(Of TextDocumentInput), Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Response(Of ExtractKeyPhrasesResultCollection)" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="F#" Value="abstract member ExtractKeyPhrasesBatch : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&#xA;override this.ExtractKeyPhrasesBatch : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;" Usage="textAnalyticsClient.ExtractKeyPhrasesBatch (documents, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt; ExtractKeyPhrasesBatch (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function ExtractKeyPhrasesBatch (documents As IEnumerable(Of TextDocumentInput), options As TextAnalyticsRequestOptions, Optional cancellationToken As CancellationToken = Nothing) As Response(Of ExtractKeyPhrasesResultCollection)" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;</ReturnType>
       </ReturnValue>
@@ -1218,19 +1224,120 @@
       </Docs>
     </Member>
     <Member MemberName="ExtractKeyPhrasesBatch">
-      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt; ExtractKeyPhrasesBatch (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language = default, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt; ExtractKeyPhrasesBatch(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, string language, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.ExtractKeyPhrasesBatch(System.Collections.Generic.IEnumerable{System.String},System.String,Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function ExtractKeyPhrasesBatch (documents As IEnumerable(Of String), Optional language As String = Nothing, Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Response(Of ExtractKeyPhrasesResultCollection)" />
-      <MemberSignature Language="F#" Value="abstract member ExtractKeyPhrasesBatch : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&#xA;override this.ExtractKeyPhrasesBatch : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;" Usage="textAnalyticsClient.ExtractKeyPhrasesBatch (documents, language, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt; ExtractKeyPhrasesBatch (System.Collections.Generic.IEnumerable&lt;string&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt; ExtractKeyPhrasesBatch(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.ExtractKeyPhrasesBatch(System.Collections.Generic.IEnumerable{System.String},Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function ExtractKeyPhrasesBatch (documents As IEnumerable(Of String), options As TextAnalyticsRequestOptions, Optional cancellationToken As CancellationToken = Nothing) As Response(Of ExtractKeyPhrasesResultCollection)" />
+      <MemberSignature Language="F#" Value="abstract member ExtractKeyPhrasesBatch : seq&lt;string&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&#xA;override this.ExtractKeyPhrasesBatch : seq&lt;string&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;" Usage="textAnalyticsClient.ExtractKeyPhrasesBatch (documents, options, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
+      <ReturnValue>
+        <ReturnType>Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="documents" Type="System.Collections.Generic.IEnumerable&lt;System.String&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.AI.TextAnalytics.TextAnalyticsRequestOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="documents">The documents to analyze.</param>
+        <param name="options">
+          <see cref="T:Azure.AI.TextAnalytics.TextAnalyticsRequestOptions" /> used to
+            select the version of the predictive model to run, and whether
+            statistics are returned in the response.</param>
+        <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" />
+            controlling the request lifetime.</param>
+        <summary>
+            Runs a model to identify a collection of significant phrases
+            found in the passed-in documents.
+            <para>For example, for the document "The food was delicious and there
+            were wonderful staff", the API returns the main talking points: "food"
+            and "wonderful staff".</para><para>For document length limits, maximum batch size, and supported text encoding, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.</para></summary>
+        <returns>A result containing the collection of key phrases identified
+            in each of the documents.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Service returned a non-success
+            status code.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="ExtractKeyPhrasesBatch">
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt; ExtractKeyPhrasesBatch (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language = default, Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt; ExtractKeyPhrasesBatch(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, string language, class Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.ExtractKeyPhrasesBatch(System.Collections.Generic.IEnumerable{System.String},System.String,Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function ExtractKeyPhrasesBatch (documents As IEnumerable(Of String), Optional language As String = Nothing, Optional options As ExtractKeyPhrasesOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Response(Of ExtractKeyPhrasesResultCollection)" />
+      <MemberSignature Language="F#" Value="abstract member ExtractKeyPhrasesBatch : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&#xA;override this.ExtractKeyPhrasesBatch : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;" Usage="textAnalyticsClient.ExtractKeyPhrasesBatch (documents, language, options, cancellationToken)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="documents" Type="System.Collections.Generic.IEnumerable&lt;System.String&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="language" Type="System.String" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="3" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="documents">The documents to analyze.</param>
+        <param name="language">The language that all the documents are
+            written in. If unspecified, this value will be set to the default
+            language in <see cref="T:Azure.AI.TextAnalytics.TextAnalyticsClientOptions" /> in the request
+            sent to the service.  If set to an empty string, the service will apply a model
+            where the language is explicitly set to "None".</param>
+        <param name="options">
+          <see cref="T:Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions" /> used to
+            select the version of the predictive model to run, and whether
+            statistics are returned in the response.</param>
+        <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" />
+            controlling the request lifetime.</param>
+        <summary>
+            Runs a model to identify a collection of significant phrases
+            found in the passed-in documents.
+            <para>For example, for the document "The food was delicious and there
+            were wonderful staff", the API returns the main talking points: "food"
+            and "wonderful staff".</para><para>For a list of languages supported by this operation, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/language-support" />.</para><para>For document length limits, maximum batch size, and supported text encoding, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.</para></summary>
+        <returns>A result containing the collection of key phrases identified
+            in each of the documents.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Service returned a non-success
+            status code.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="ExtractKeyPhrasesBatch">
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt; ExtractKeyPhrasesBatch (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language = default, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt; ExtractKeyPhrasesBatch(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, string language, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.ExtractKeyPhrasesBatch(System.Collections.Generic.IEnumerable{System.String},System.String,Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function ExtractKeyPhrasesBatch (documents As IEnumerable(Of String), Optional language As String = Nothing, Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Response(Of ExtractKeyPhrasesResultCollection)" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="F#" Value="abstract member ExtractKeyPhrasesBatch : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&#xA;override this.ExtractKeyPhrasesBatch : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;" Usage="textAnalyticsClient.ExtractKeyPhrasesBatch (documents, language, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt; ExtractKeyPhrasesBatch (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function ExtractKeyPhrasesBatch (documents As IEnumerable(Of String), language As String, options As TextAnalyticsRequestOptions, Optional cancellationToken As CancellationToken = Nothing) As Response(Of ExtractKeyPhrasesResultCollection)" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;</ReturnType>
       </ReturnValue>
@@ -1269,19 +1376,67 @@
       </Docs>
     </Member>
     <Member MemberName="ExtractKeyPhrasesBatchAsync">
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt; ExtractKeyPhrasesBatchAsync (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt; ExtractKeyPhrasesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;class Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.ExtractKeyPhrasesBatchAsync(System.Collections.Generic.IEnumerable{Azure.AI.TextAnalytics.TextDocumentInput},Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function ExtractKeyPhrasesBatchAsync (documents As IEnumerable(Of TextDocumentInput), Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of ExtractKeyPhrasesResultCollection))" />
-      <MemberSignature Language="F#" Value="abstract member ExtractKeyPhrasesBatchAsync : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt;&#xA;override this.ExtractKeyPhrasesBatchAsync : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt;" Usage="textAnalyticsClient.ExtractKeyPhrasesBatchAsync (documents, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt; ExtractKeyPhrasesBatchAsync (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt; ExtractKeyPhrasesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;class Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, class Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.ExtractKeyPhrasesBatchAsync(System.Collections.Generic.IEnumerable{Azure.AI.TextAnalytics.TextDocumentInput},Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function ExtractKeyPhrasesBatchAsync (documents As IEnumerable(Of TextDocumentInput), Optional options As ExtractKeyPhrasesOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of ExtractKeyPhrasesResultCollection))" />
+      <MemberSignature Language="F#" Value="abstract member ExtractKeyPhrasesBatchAsync : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt;&#xA;override this.ExtractKeyPhrasesBatchAsync : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt;" Usage="textAnalyticsClient.ExtractKeyPhrasesBatchAsync (documents, options, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="documents" Type="System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="documents">The documents to analyze.</param>
+        <param name="options">
+          <see cref="T:Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions" /> used to
+            select the version of the predictive model to run, and whether
+            statistics are returned in the response.</param>
+        <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" />
+            controlling the request lifetime.</param>
+        <summary>
+            Runs a model to identify a collection of significant phrases
+            found in the passed-in documents.
+            <para>For example, for the document "The food was delicious and there
+            were wonderful staff", the API returns the main talking points: "food"
+            and "wonderful staff".</para><para>For a list of languages supported by this operation, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/language-support" />.</para><para>For document length limits, maximum batch size, and supported text encoding, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.</para></summary>
+        <returns>A result containing the collection of key phrases identified
+            in each of the documents.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Service returned a non-success
+            status code.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="ExtractKeyPhrasesBatchAsync">
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt; ExtractKeyPhrasesBatchAsync (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt; ExtractKeyPhrasesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;class Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.ExtractKeyPhrasesBatchAsync(System.Collections.Generic.IEnumerable{Azure.AI.TextAnalytics.TextDocumentInput},Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function ExtractKeyPhrasesBatchAsync (documents As IEnumerable(Of TextDocumentInput), Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of ExtractKeyPhrasesResultCollection))" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="F#" Value="abstract member ExtractKeyPhrasesBatchAsync : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt;&#xA;override this.ExtractKeyPhrasesBatchAsync : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt;" Usage="textAnalyticsClient.ExtractKeyPhrasesBatchAsync (documents, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt; ExtractKeyPhrasesBatchAsync (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function ExtractKeyPhrasesBatchAsync (documents As IEnumerable(Of TextDocumentInput), options As TextAnalyticsRequestOptions, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of ExtractKeyPhrasesResultCollection))" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt;</ReturnType>
       </ReturnValue>
@@ -1314,19 +1469,120 @@
       </Docs>
     </Member>
     <Member MemberName="ExtractKeyPhrasesBatchAsync">
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt; ExtractKeyPhrasesBatchAsync (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language = default, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt; ExtractKeyPhrasesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, string language, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.ExtractKeyPhrasesBatchAsync(System.Collections.Generic.IEnumerable{System.String},System.String,Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function ExtractKeyPhrasesBatchAsync (documents As IEnumerable(Of String), Optional language As String = Nothing, Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of ExtractKeyPhrasesResultCollection))" />
-      <MemberSignature Language="F#" Value="abstract member ExtractKeyPhrasesBatchAsync : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt;&#xA;override this.ExtractKeyPhrasesBatchAsync : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt;" Usage="textAnalyticsClient.ExtractKeyPhrasesBatchAsync (documents, language, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt; ExtractKeyPhrasesBatchAsync (System.Collections.Generic.IEnumerable&lt;string&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt; ExtractKeyPhrasesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.ExtractKeyPhrasesBatchAsync(System.Collections.Generic.IEnumerable{System.String},Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function ExtractKeyPhrasesBatchAsync (documents As IEnumerable(Of String), options As TextAnalyticsRequestOptions, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of ExtractKeyPhrasesResultCollection))" />
+      <MemberSignature Language="F#" Value="abstract member ExtractKeyPhrasesBatchAsync : seq&lt;string&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt;&#xA;override this.ExtractKeyPhrasesBatchAsync : seq&lt;string&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt;" Usage="textAnalyticsClient.ExtractKeyPhrasesBatchAsync (documents, options, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
+      <ReturnValue>
+        <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="documents" Type="System.Collections.Generic.IEnumerable&lt;System.String&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.AI.TextAnalytics.TextAnalyticsRequestOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="documents">The documents to analyze.</param>
+        <param name="options">
+          <see cref="T:Azure.AI.TextAnalytics.TextAnalyticsRequestOptions" /> used to
+            select the version of the predictive model to run, and whether
+            statistics are returned in the response.</param>
+        <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" />
+            controlling the request lifetime.</param>
+        <summary>
+            Runs a model to identify a collection of significant phrases
+            found in the passed-in documents.
+            <para>For example, for the document "The food was delicious and there
+            were wonderful staff", the API returns the main talking points: "food"
+            and "wonderful staff".</para><para>For document length limits, maximum batch size, and supported text encoding, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.</para></summary>
+        <returns>A result containing the collection of key phrases identified
+            in each of the documents.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Service returned a non-success
+            status code.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="ExtractKeyPhrasesBatchAsync">
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt; ExtractKeyPhrasesBatchAsync (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language = default, Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt; ExtractKeyPhrasesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, string language, class Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.ExtractKeyPhrasesBatchAsync(System.Collections.Generic.IEnumerable{System.String},System.String,Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function ExtractKeyPhrasesBatchAsync (documents As IEnumerable(Of String), Optional language As String = Nothing, Optional options As ExtractKeyPhrasesOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of ExtractKeyPhrasesResultCollection))" />
+      <MemberSignature Language="F#" Value="abstract member ExtractKeyPhrasesBatchAsync : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt;&#xA;override this.ExtractKeyPhrasesBatchAsync : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt;" Usage="textAnalyticsClient.ExtractKeyPhrasesBatchAsync (documents, language, options, cancellationToken)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="documents" Type="System.Collections.Generic.IEnumerable&lt;System.String&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="language" Type="System.String" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="3" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="documents">The documents to analyze.</param>
+        <param name="language">The language that all the documents are
+            written in. If unspecified, this value will be set to the default
+            language in <see cref="P:Azure.AI.TextAnalytics.TextAnalyticsClientOptions.DefaultLanguage" /> in the request
+            sent to the service.  If set to an empty string, the service will apply a model
+            where the language is explicitly set to "None".</param>
+        <param name="options">
+          <see cref="T:Azure.AI.TextAnalytics.ExtractKeyPhrasesOptions" /> used to
+            select the version of the predictive model to run, and whether
+            statistics are returned in the response.</param>
+        <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" />
+            controlling the request lifetime.</param>
+        <summary>
+            Runs a model to identify a collection of significant phrases
+            found in the passed-in documents.
+            <para>For example, for the document "The food was delicious and there
+            were wonderful staff", the API returns the main talking points: "food"
+            and "wonderful staff".</para><para>For a list of languages supported by this operation, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/language-support" />.</para><para>For document length limits, maximum batch size, and supported text encoding, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.</para></summary>
+        <returns>A result containing the collection of key phrases identified
+            in each of the documents.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Service returned a non-success
+            status code.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="ExtractKeyPhrasesBatchAsync">
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt; ExtractKeyPhrasesBatchAsync (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language = default, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt; ExtractKeyPhrasesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, string language, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.ExtractKeyPhrasesBatchAsync(System.Collections.Generic.IEnumerable{System.String},System.String,Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function ExtractKeyPhrasesBatchAsync (documents As IEnumerable(Of String), Optional language As String = Nothing, Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of ExtractKeyPhrasesResultCollection))" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="F#" Value="abstract member ExtractKeyPhrasesBatchAsync : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt;&#xA;override this.ExtractKeyPhrasesBatchAsync : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt;" Usage="textAnalyticsClient.ExtractKeyPhrasesBatchAsync (documents, language, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt; ExtractKeyPhrasesBatchAsync (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function ExtractKeyPhrasesBatchAsync (documents As IEnumerable(Of String), language As String, options As TextAnalyticsRequestOptions, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of ExtractKeyPhrasesResultCollection))" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.ExtractKeyPhrasesResultCollection&gt;&gt;</ReturnType>
       </ReturnValue>
@@ -1373,8 +1629,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -1405,8 +1659,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -1452,8 +1704,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -1491,19 +1741,68 @@
       </Docs>
     </Member>
     <Member MemberName="RecognizeEntitiesBatch">
-      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt; RecognizeEntitiesBatch (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt; RecognizeEntitiesBatch(class System.Collections.Generic.IEnumerable`1&lt;class Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeEntitiesBatch(System.Collections.Generic.IEnumerable{Azure.AI.TextAnalytics.TextDocumentInput},Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeEntitiesBatch (documents As IEnumerable(Of TextDocumentInput), Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Response(Of RecognizeEntitiesResultCollection)" />
-      <MemberSignature Language="F#" Value="abstract member RecognizeEntitiesBatch : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&#xA;override this.RecognizeEntitiesBatch : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;" Usage="textAnalyticsClient.RecognizeEntitiesBatch (documents, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt; RecognizeEntitiesBatch (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.RecognizeEntitiesOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt; RecognizeEntitiesBatch(class System.Collections.Generic.IEnumerable`1&lt;class Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, class Azure.AI.TextAnalytics.RecognizeEntitiesOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeEntitiesBatch(System.Collections.Generic.IEnumerable{Azure.AI.TextAnalytics.TextDocumentInput},Azure.AI.TextAnalytics.RecognizeEntitiesOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeEntitiesBatch (documents As IEnumerable(Of TextDocumentInput), Optional options As RecognizeEntitiesOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Response(Of RecognizeEntitiesResultCollection)" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeEntitiesBatch : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.RecognizeEntitiesOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&#xA;override this.RecognizeEntitiesBatch : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.RecognizeEntitiesOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;" Usage="textAnalyticsClient.RecognizeEntitiesBatch (documents, options, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="documents" Type="System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.AI.TextAnalytics.RecognizeEntitiesOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="documents">The documents to analyze.</param>
+        <param name="options">
+          <see cref="T:Azure.AI.TextAnalytics.RecognizeEntitiesOptions" /> used to
+            select the version of the predictive model to run, and whether
+            statistics are returned in the response.</param>
+        <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" />
+            controlling the request lifetime.</param>
+        <summary>
+            Runs a predictive model to identify a collection of named entities
+            in the passed-in documents, and categorize those entities into types
+            such as person, location, or organization.
+            <para>For more information on available categories, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/Text-Analytics/named-entity-types" />.</para><para>For a list of languages supported by this operation, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/language-support" />.</para><para>For document length limits, maximum batch size, and supported text encoding, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.</para></summary>
+        <returns>A result containing the collection of entities identified
+            for each of the documents, as well as scores indicating the confidence
+            that a given entity correctly matches the identified substring.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Service returned a non-success
+            status code.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="RecognizeEntitiesBatch">
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt; RecognizeEntitiesBatch (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt; RecognizeEntitiesBatch(class System.Collections.Generic.IEnumerable`1&lt;class Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeEntitiesBatch(System.Collections.Generic.IEnumerable{Azure.AI.TextAnalytics.TextDocumentInput},Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeEntitiesBatch (documents As IEnumerable(Of TextDocumentInput), Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Response(Of RecognizeEntitiesResultCollection)" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeEntitiesBatch : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&#xA;override this.RecognizeEntitiesBatch : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;" Usage="textAnalyticsClient.RecognizeEntitiesBatch (documents, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt; RecognizeEntitiesBatch (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeEntitiesBatch (documents As IEnumerable(Of TextDocumentInput), options As TextAnalyticsRequestOptions, Optional cancellationToken As CancellationToken = Nothing) As Response(Of RecognizeEntitiesResultCollection)" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;</ReturnType>
       </ReturnValue>
@@ -1537,19 +1836,122 @@
       </Docs>
     </Member>
     <Member MemberName="RecognizeEntitiesBatch">
-      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt; RecognizeEntitiesBatch (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language = default, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt; RecognizeEntitiesBatch(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, string language, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeEntitiesBatch(System.Collections.Generic.IEnumerable{System.String},System.String,Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeEntitiesBatch (documents As IEnumerable(Of String), Optional language As String = Nothing, Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Response(Of RecognizeEntitiesResultCollection)" />
-      <MemberSignature Language="F#" Value="abstract member RecognizeEntitiesBatch : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&#xA;override this.RecognizeEntitiesBatch : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;" Usage="textAnalyticsClient.RecognizeEntitiesBatch (documents, language, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt; RecognizeEntitiesBatch (System.Collections.Generic.IEnumerable&lt;string&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt; RecognizeEntitiesBatch(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeEntitiesBatch(System.Collections.Generic.IEnumerable{System.String},Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeEntitiesBatch (documents As IEnumerable(Of String), options As TextAnalyticsRequestOptions, Optional cancellationToken As CancellationToken = Nothing) As Response(Of RecognizeEntitiesResultCollection)" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeEntitiesBatch : seq&lt;string&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&#xA;override this.RecognizeEntitiesBatch : seq&lt;string&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;" Usage="textAnalyticsClient.RecognizeEntitiesBatch (documents, options, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
+      <ReturnValue>
+        <ReturnType>Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="documents" Type="System.Collections.Generic.IEnumerable&lt;System.String&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.AI.TextAnalytics.TextAnalyticsRequestOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="documents">The documents to analyze.</param>
+        <param name="options">
+          <see cref="T:Azure.AI.TextAnalytics.TextAnalyticsRequestOptions" /> used to
+            select the version of the predictive model to run, and whether
+            statistics are returned in the response.</param>
+        <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" />
+            controlling the request lifetime.</param>
+        <summary>
+            Runs a predictive model to identify a collection of named entities
+            in the passed-in documents, and categorize those entities into types
+            such as person, location, or organization.
+            <para>For more information on available categories, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/language-support" />.</para><para>For document length limits, maximum batch size, and supported text encoding, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.</para></summary>
+        <returns>A result containing the collection of entities identified
+            for each of the documents, as well as scores indicating the confidence
+            that a given entity correctly matches the identified substring.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Service returned a non-success
+            status code.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="RecognizeEntitiesBatch">
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt; RecognizeEntitiesBatch (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language = default, Azure.AI.TextAnalytics.RecognizeEntitiesOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt; RecognizeEntitiesBatch(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, string language, class Azure.AI.TextAnalytics.RecognizeEntitiesOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeEntitiesBatch(System.Collections.Generic.IEnumerable{System.String},System.String,Azure.AI.TextAnalytics.RecognizeEntitiesOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeEntitiesBatch (documents As IEnumerable(Of String), Optional language As String = Nothing, Optional options As RecognizeEntitiesOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Response(Of RecognizeEntitiesResultCollection)" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeEntitiesBatch : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.RecognizeEntitiesOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&#xA;override this.RecognizeEntitiesBatch : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.RecognizeEntitiesOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;" Usage="textAnalyticsClient.RecognizeEntitiesBatch (documents, language, options, cancellationToken)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="documents" Type="System.Collections.Generic.IEnumerable&lt;System.String&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="language" Type="System.String" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.AI.TextAnalytics.RecognizeEntitiesOptions" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="3" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="documents">The documents to analyze.</param>
+        <param name="language">The language that all the documents are
+            written in. If unspecified, this value will be set to the default
+            language in <see cref="P:Azure.AI.TextAnalytics.TextAnalyticsClientOptions.DefaultLanguage" /> in the request
+            sent to the service.  If set to an empty string, the service will apply a model
+            where the language is explicitly set to "None".</param>
+        <param name="options">
+          <see cref="T:Azure.AI.TextAnalytics.RecognizeEntitiesOptions" /> used to
+            select the version of the predictive model to run, and whether
+            statistics are returned in the response.</param>
+        <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" />
+            controlling the request lifetime.</param>
+        <summary>
+            Runs a predictive model to identify a collection of named entities
+            in the passed-in documents, and categorize those entities into types
+            such as person, location, or organization.
+            <para>For more information on available categories, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/Text-Analytics/named-entity-types" />.</para><para>For a list of languages supported by this operation, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/language-support" />.</para><para>For document length limits, maximum batch size, and supported text encoding, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.</para></summary>
+        <returns>A result containing the collection of entities identified
+            for each of the documents, as well as scores indicating the confidence
+            that a given entity correctly matches the identified substring.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Service returned a non-success
+            status code.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="RecognizeEntitiesBatch">
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt; RecognizeEntitiesBatch (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language = default, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt; RecognizeEntitiesBatch(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, string language, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeEntitiesBatch(System.Collections.Generic.IEnumerable{System.String},System.String,Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeEntitiesBatch (documents As IEnumerable(Of String), Optional language As String = Nothing, Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Response(Of RecognizeEntitiesResultCollection)" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeEntitiesBatch : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&#xA;override this.RecognizeEntitiesBatch : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;" Usage="textAnalyticsClient.RecognizeEntitiesBatch (documents, language, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt; RecognizeEntitiesBatch (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeEntitiesBatch (documents As IEnumerable(Of String), language As String, options As TextAnalyticsRequestOptions, Optional cancellationToken As CancellationToken = Nothing) As Response(Of RecognizeEntitiesResultCollection)" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;</ReturnType>
       </ReturnValue>
@@ -1589,19 +1991,68 @@
       </Docs>
     </Member>
     <Member MemberName="RecognizeEntitiesBatchAsync">
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt; RecognizeEntitiesBatchAsync (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt; RecognizeEntitiesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;class Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeEntitiesBatchAsync(System.Collections.Generic.IEnumerable{Azure.AI.TextAnalytics.TextDocumentInput},Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeEntitiesBatchAsync (documents As IEnumerable(Of TextDocumentInput), Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of RecognizeEntitiesResultCollection))" />
-      <MemberSignature Language="F#" Value="abstract member RecognizeEntitiesBatchAsync : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt;&#xA;override this.RecognizeEntitiesBatchAsync : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt;" Usage="textAnalyticsClient.RecognizeEntitiesBatchAsync (documents, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt; RecognizeEntitiesBatchAsync (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.RecognizeEntitiesOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt; RecognizeEntitiesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;class Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, class Azure.AI.TextAnalytics.RecognizeEntitiesOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeEntitiesBatchAsync(System.Collections.Generic.IEnumerable{Azure.AI.TextAnalytics.TextDocumentInput},Azure.AI.TextAnalytics.RecognizeEntitiesOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeEntitiesBatchAsync (documents As IEnumerable(Of TextDocumentInput), Optional options As RecognizeEntitiesOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of RecognizeEntitiesResultCollection))" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeEntitiesBatchAsync : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.RecognizeEntitiesOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt;&#xA;override this.RecognizeEntitiesBatchAsync : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.RecognizeEntitiesOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt;" Usage="textAnalyticsClient.RecognizeEntitiesBatchAsync (documents, options, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="documents" Type="System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.AI.TextAnalytics.RecognizeEntitiesOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="documents">The documents to analyze.</param>
+        <param name="options">
+          <see cref="T:Azure.AI.TextAnalytics.RecognizeEntitiesOptions" /> used to
+            select the version of the predictive model to run, and whether
+            statistics are returned in the response.</param>
+        <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" />
+            controlling the request lifetime.</param>
+        <summary>
+            Runs a predictive model to identify a collection of named entities
+            in the passed-in documents, and categorize those entities into types
+            such as person, location, or organization.
+            <para>For more information on available categories, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/Text-Analytics/named-entity-types" />.</para><para>For a list of languages supported by this operation, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/language-support" />.</para><para>For document length limits, maximum batch size, and supported text encoding, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.</para></summary>
+        <returns>A result containing the collection of entities identified
+            for each of the documents, as well as scores indicating the confidence
+            that a given entity correctly matches the identified substring.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Service returned a non-success
+            status code.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="RecognizeEntitiesBatchAsync">
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt; RecognizeEntitiesBatchAsync (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt; RecognizeEntitiesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;class Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeEntitiesBatchAsync(System.Collections.Generic.IEnumerable{Azure.AI.TextAnalytics.TextDocumentInput},Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeEntitiesBatchAsync (documents As IEnumerable(Of TextDocumentInput), Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of RecognizeEntitiesResultCollection))" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeEntitiesBatchAsync : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt;&#xA;override this.RecognizeEntitiesBatchAsync : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt;" Usage="textAnalyticsClient.RecognizeEntitiesBatchAsync (documents, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt; RecognizeEntitiesBatchAsync (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeEntitiesBatchAsync (documents As IEnumerable(Of TextDocumentInput), options As TextAnalyticsRequestOptions, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of RecognizeEntitiesResultCollection))" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt;</ReturnType>
       </ReturnValue>
@@ -1635,19 +2086,122 @@
       </Docs>
     </Member>
     <Member MemberName="RecognizeEntitiesBatchAsync">
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt; RecognizeEntitiesBatchAsync (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language = default, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt; RecognizeEntitiesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, string language, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeEntitiesBatchAsync(System.Collections.Generic.IEnumerable{System.String},System.String,Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeEntitiesBatchAsync (documents As IEnumerable(Of String), Optional language As String = Nothing, Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of RecognizeEntitiesResultCollection))" />
-      <MemberSignature Language="F#" Value="abstract member RecognizeEntitiesBatchAsync : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt;&#xA;override this.RecognizeEntitiesBatchAsync : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt;" Usage="textAnalyticsClient.RecognizeEntitiesBatchAsync (documents, language, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt; RecognizeEntitiesBatchAsync (System.Collections.Generic.IEnumerable&lt;string&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt; RecognizeEntitiesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeEntitiesBatchAsync(System.Collections.Generic.IEnumerable{System.String},Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeEntitiesBatchAsync (documents As IEnumerable(Of String), options As TextAnalyticsRequestOptions, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of RecognizeEntitiesResultCollection))" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeEntitiesBatchAsync : seq&lt;string&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt;&#xA;override this.RecognizeEntitiesBatchAsync : seq&lt;string&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt;" Usage="textAnalyticsClient.RecognizeEntitiesBatchAsync (documents, options, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
+      <ReturnValue>
+        <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="documents" Type="System.Collections.Generic.IEnumerable&lt;System.String&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.AI.TextAnalytics.TextAnalyticsRequestOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="documents">The documents to analyze.</param>
+        <param name="options">
+          <see cref="T:Azure.AI.TextAnalytics.TextAnalyticsRequestOptions" /> used to
+            select the version of the predictive model to run, and whether
+            statistics are returned in the response.</param>
+        <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" />
+            controlling the request lifetime.</param>
+        <summary>
+            Runs a predictive model to identify a collection of named entities
+            in the passed-in documents, and categorize those entities into types
+            such as person, location, or organization.
+            <para>For more information on available categories, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/Text-Analytics/named-entity-types" />.</para><para>For document length limits, maximum batch size, and supported text encoding, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.</para></summary>
+        <returns>A result containing the collection of entities identified
+            for each of the documents, as well as scores indicating the confidence
+            that a given entity correctly matches the identified substring.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Service returned a non-success
+            status code.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="RecognizeEntitiesBatchAsync">
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt; RecognizeEntitiesBatchAsync (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language = default, Azure.AI.TextAnalytics.RecognizeEntitiesOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt; RecognizeEntitiesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, string language, class Azure.AI.TextAnalytics.RecognizeEntitiesOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeEntitiesBatchAsync(System.Collections.Generic.IEnumerable{System.String},System.String,Azure.AI.TextAnalytics.RecognizeEntitiesOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeEntitiesBatchAsync (documents As IEnumerable(Of String), Optional language As String = Nothing, Optional options As RecognizeEntitiesOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of RecognizeEntitiesResultCollection))" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeEntitiesBatchAsync : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.RecognizeEntitiesOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt;&#xA;override this.RecognizeEntitiesBatchAsync : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.RecognizeEntitiesOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt;" Usage="textAnalyticsClient.RecognizeEntitiesBatchAsync (documents, language, options, cancellationToken)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="documents" Type="System.Collections.Generic.IEnumerable&lt;System.String&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="language" Type="System.String" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.AI.TextAnalytics.RecognizeEntitiesOptions" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="3" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="documents">The documents to analyze.</param>
+        <param name="language">The language that all the documents are
+            written in. If unspecified, this value will be set to the default
+            language in <see cref="P:Azure.AI.TextAnalytics.TextAnalyticsClientOptions.DefaultLanguage" /> in the request
+            sent to the service.  If set to an empty string, the service will apply a model
+            where the language is explicitly set to "None".</param>
+        <param name="options">
+          <see cref="T:Azure.AI.TextAnalytics.RecognizeEntitiesOptions" /> used to
+            select the version of the predictive model to run, and whether
+            statistics are returned in the response.</param>
+        <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" />
+            controlling the request lifetime.</param>
+        <summary>
+            Runs a predictive model to identify a collection of named entities
+            in the passed-in documents, and categorize those entities into types
+            such as person, location, or organization.
+            <para>For more information on available categories, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/Text-Analytics/named-entity-types" />.</para><para>For a list of languages supported by this operation, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/language-support" />.</para><para>For document length limits, maximum batch size, and supported text encoding, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.</para></summary>
+        <returns>A result containing the collection of entities identified
+            for each of the documents, as well as scores indicating the confidence
+            that a given entity correctly matches the identified substring.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Service returned a non-success
+            status code.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="RecognizeEntitiesBatchAsync">
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt; RecognizeEntitiesBatchAsync (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language = default, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt; RecognizeEntitiesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, string language, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeEntitiesBatchAsync(System.Collections.Generic.IEnumerable{System.String},System.String,Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeEntitiesBatchAsync (documents As IEnumerable(Of String), Optional language As String = Nothing, Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of RecognizeEntitiesResultCollection))" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeEntitiesBatchAsync : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt;&#xA;override this.RecognizeEntitiesBatchAsync : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt;" Usage="textAnalyticsClient.RecognizeEntitiesBatchAsync (documents, language, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt; RecognizeEntitiesBatchAsync (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeEntitiesBatchAsync (documents As IEnumerable(Of String), language As String, options As TextAnalyticsRequestOptions, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of RecognizeEntitiesResultCollection))" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeEntitiesResultCollection&gt;&gt;</ReturnType>
       </ReturnValue>
@@ -1695,8 +2249,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -1741,8 +2293,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
@@ -1779,19 +2329,67 @@
       </Docs>
     </Member>
     <Member MemberName="RecognizeLinkedEntitiesBatch">
-      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt; RecognizeLinkedEntitiesBatch (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt; RecognizeLinkedEntitiesBatch(class System.Collections.Generic.IEnumerable`1&lt;class Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeLinkedEntitiesBatch(System.Collections.Generic.IEnumerable{Azure.AI.TextAnalytics.TextDocumentInput},Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeLinkedEntitiesBatch (documents As IEnumerable(Of TextDocumentInput), Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Response(Of RecognizeLinkedEntitiesResultCollection)" />
-      <MemberSignature Language="F#" Value="abstract member RecognizeLinkedEntitiesBatch : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&#xA;override this.RecognizeLinkedEntitiesBatch : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;" Usage="textAnalyticsClient.RecognizeLinkedEntitiesBatch (documents, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt; RecognizeLinkedEntitiesBatch (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt; RecognizeLinkedEntitiesBatch(class System.Collections.Generic.IEnumerable`1&lt;class Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, class Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeLinkedEntitiesBatch(System.Collections.Generic.IEnumerable{Azure.AI.TextAnalytics.TextDocumentInput},Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeLinkedEntitiesBatch (documents As IEnumerable(Of TextDocumentInput), Optional options As RecognizeLinkedEntitiesOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Response(Of RecognizeLinkedEntitiesResultCollection)" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeLinkedEntitiesBatch : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&#xA;override this.RecognizeLinkedEntitiesBatch : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;" Usage="textAnalyticsClient.RecognizeLinkedEntitiesBatch (documents, options, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="documents" Type="System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="documents">The documents to analyze.</param>
+        <param name="options">
+          <see cref="T:Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions" /> used to
+            select the version of the predictive model to run, and whether
+            statistics are returned in the response.</param>
+        <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" />
+            controlling the request lifetime.</param>
+        <summary>
+            Runs a predictive model to identify a collection of entities
+            found in the passed-in documents, and include information linking the
+            entities to their corresponding entries in a well-known knowledge base.
+            <para>For a list of languages supported by this operation, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/language-support" />.</para><para>For document length limits, maximum batch size, and supported text encoding, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.</para></summary>
+        <returns>A result containing the collection of entities identified
+            for each of the documents, as well as scores indicating the confidence
+            that a given entity correctly matches the identified substring.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Service returned a non-success
+            status code.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="RecognizeLinkedEntitiesBatch">
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt; RecognizeLinkedEntitiesBatch (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt; RecognizeLinkedEntitiesBatch(class System.Collections.Generic.IEnumerable`1&lt;class Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeLinkedEntitiesBatch(System.Collections.Generic.IEnumerable{Azure.AI.TextAnalytics.TextDocumentInput},Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeLinkedEntitiesBatch (documents As IEnumerable(Of TextDocumentInput), Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Response(Of RecognizeLinkedEntitiesResultCollection)" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeLinkedEntitiesBatch : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&#xA;override this.RecognizeLinkedEntitiesBatch : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;" Usage="textAnalyticsClient.RecognizeLinkedEntitiesBatch (documents, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt; RecognizeLinkedEntitiesBatch (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeLinkedEntitiesBatch (documents As IEnumerable(Of TextDocumentInput), options As TextAnalyticsRequestOptions, Optional cancellationToken As CancellationToken = Nothing) As Response(Of RecognizeLinkedEntitiesResultCollection)" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;</ReturnType>
       </ReturnValue>
@@ -1824,19 +2422,120 @@
       </Docs>
     </Member>
     <Member MemberName="RecognizeLinkedEntitiesBatch">
-      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt; RecognizeLinkedEntitiesBatch (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language = default, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt; RecognizeLinkedEntitiesBatch(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, string language, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeLinkedEntitiesBatch(System.Collections.Generic.IEnumerable{System.String},System.String,Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeLinkedEntitiesBatch (documents As IEnumerable(Of String), Optional language As String = Nothing, Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Response(Of RecognizeLinkedEntitiesResultCollection)" />
-      <MemberSignature Language="F#" Value="abstract member RecognizeLinkedEntitiesBatch : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&#xA;override this.RecognizeLinkedEntitiesBatch : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;" Usage="textAnalyticsClient.RecognizeLinkedEntitiesBatch (documents, language, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt; RecognizeLinkedEntitiesBatch (System.Collections.Generic.IEnumerable&lt;string&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt; RecognizeLinkedEntitiesBatch(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeLinkedEntitiesBatch(System.Collections.Generic.IEnumerable{System.String},Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeLinkedEntitiesBatch (documents As IEnumerable(Of String), options As TextAnalyticsRequestOptions, Optional cancellationToken As CancellationToken = Nothing) As Response(Of RecognizeLinkedEntitiesResultCollection)" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeLinkedEntitiesBatch : seq&lt;string&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&#xA;override this.RecognizeLinkedEntitiesBatch : seq&lt;string&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;" Usage="textAnalyticsClient.RecognizeLinkedEntitiesBatch (documents, options, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
+      <ReturnValue>
+        <ReturnType>Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="documents" Type="System.Collections.Generic.IEnumerable&lt;System.String&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.AI.TextAnalytics.TextAnalyticsRequestOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="documents">The documents to analyze.</param>
+        <param name="options">
+          <see cref="T:Azure.AI.TextAnalytics.TextAnalyticsRequestOptions" /> used to
+            select the version of the predictive model to run, and whether
+            statistics are returned in the response.</param>
+        <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" />
+            controlling the request lifetime.</param>
+        <summary>
+            Runs a predictive model to identify a collection of entities
+            found in the passed-in documents, and include information linking the
+            entities to their corresponding entries in a well-known knowledge base.
+            <para>For document length limits, maximum batch size, and supported text encoding, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.</para></summary>
+        <returns>A result containing the collection of entities identified
+            for each of the documents, as well as scores indicating the confidence
+            that a given entity correctly matches the identified substring.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Service returned a non-success
+            status code.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="RecognizeLinkedEntitiesBatch">
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt; RecognizeLinkedEntitiesBatch (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language = default, Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt; RecognizeLinkedEntitiesBatch(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, string language, class Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeLinkedEntitiesBatch(System.Collections.Generic.IEnumerable{System.String},System.String,Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeLinkedEntitiesBatch (documents As IEnumerable(Of String), Optional language As String = Nothing, Optional options As RecognizeLinkedEntitiesOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Response(Of RecognizeLinkedEntitiesResultCollection)" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeLinkedEntitiesBatch : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&#xA;override this.RecognizeLinkedEntitiesBatch : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;" Usage="textAnalyticsClient.RecognizeLinkedEntitiesBatch (documents, language, options, cancellationToken)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="documents" Type="System.Collections.Generic.IEnumerable&lt;System.String&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="language" Type="System.String" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="3" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="documents">The documents to analyze.</param>
+        <param name="language">The language that the documents are written in.
+            If unspecified, this value will be set to the default language in
+            <see cref="P:Azure.AI.TextAnalytics.TextAnalyticsClientOptions.DefaultLanguage" /> in the request sent to the
+            service.  If set to an empty string, the service will apply a model
+            where the language is explicitly set to "None".</param>
+        <param name="options">
+          <see cref="T:Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions" /> used to
+            select the version of the predictive model to run, and whether
+            statistics are returned in the response.</param>
+        <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" />
+            controlling the request lifetime.</param>
+        <summary>
+            Runs a predictive model to identify a collection of entities
+            found in the passed-in documents, and include information linking the
+            entities to their corresponding entries in a well-known knowledge base.
+            <para>For a list of languages supported by this operation, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/language-support" />.</para><para>For document length limits, maximum batch size, and supported text encoding, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.</para></summary>
+        <returns>A result containing the collection of entities identified
+            for each of the documents, as well as scores indicating the confidence
+            that a given entity correctly matches the identified substring.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Service returned a non-success
+            status code.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="RecognizeLinkedEntitiesBatch">
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt; RecognizeLinkedEntitiesBatch (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language = default, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt; RecognizeLinkedEntitiesBatch(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, string language, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeLinkedEntitiesBatch(System.Collections.Generic.IEnumerable{System.String},System.String,Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeLinkedEntitiesBatch (documents As IEnumerable(Of String), Optional language As String = Nothing, Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Response(Of RecognizeLinkedEntitiesResultCollection)" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeLinkedEntitiesBatch : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&#xA;override this.RecognizeLinkedEntitiesBatch : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;" Usage="textAnalyticsClient.RecognizeLinkedEntitiesBatch (documents, language, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt; RecognizeLinkedEntitiesBatch (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeLinkedEntitiesBatch (documents As IEnumerable(Of String), language As String, options As TextAnalyticsRequestOptions, Optional cancellationToken As CancellationToken = Nothing) As Response(Of RecognizeLinkedEntitiesResultCollection)" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;</ReturnType>
       </ReturnValue>
@@ -1875,19 +2574,67 @@
       </Docs>
     </Member>
     <Member MemberName="RecognizeLinkedEntitiesBatchAsync">
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt; RecognizeLinkedEntitiesBatchAsync (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt; RecognizeLinkedEntitiesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;class Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeLinkedEntitiesBatchAsync(System.Collections.Generic.IEnumerable{Azure.AI.TextAnalytics.TextDocumentInput},Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeLinkedEntitiesBatchAsync (documents As IEnumerable(Of TextDocumentInput), Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of RecognizeLinkedEntitiesResultCollection))" />
-      <MemberSignature Language="F#" Value="abstract member RecognizeLinkedEntitiesBatchAsync : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt;&#xA;override this.RecognizeLinkedEntitiesBatchAsync : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt;" Usage="textAnalyticsClient.RecognizeLinkedEntitiesBatchAsync (documents, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt; RecognizeLinkedEntitiesBatchAsync (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt; RecognizeLinkedEntitiesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;class Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, class Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeLinkedEntitiesBatchAsync(System.Collections.Generic.IEnumerable{Azure.AI.TextAnalytics.TextDocumentInput},Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeLinkedEntitiesBatchAsync (documents As IEnumerable(Of TextDocumentInput), Optional options As RecognizeLinkedEntitiesOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of RecognizeLinkedEntitiesResultCollection))" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeLinkedEntitiesBatchAsync : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt;&#xA;override this.RecognizeLinkedEntitiesBatchAsync : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt;" Usage="textAnalyticsClient.RecognizeLinkedEntitiesBatchAsync (documents, options, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="documents" Type="System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="documents">The documents to analyze.</param>
+        <param name="options">
+          <see cref="T:Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions" /> used to
+            select the version of the predictive model to run, and whether
+            statistics are returned in the response.</param>
+        <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" />
+            controlling the request lifetime.</param>
+        <summary>
+            Runs a predictive model to identify a collection of entities
+            found in the passed-in documents, and include information linking the
+            entities to their corresponding entries in a well-known knowledge base.
+            <para>For a list of languages supported by this operation, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/language-support" />.</para><para>For document length limits, maximum batch size, and supported text encoding, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.</para></summary>
+        <returns>A result containing the collection of entities identified
+            for each of the documents, as well as scores indicating the confidence
+            that a given entity correctly matches the identified substring.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Service returned a non-success
+            status code.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="RecognizeLinkedEntitiesBatchAsync">
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt; RecognizeLinkedEntitiesBatchAsync (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt; RecognizeLinkedEntitiesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;class Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeLinkedEntitiesBatchAsync(System.Collections.Generic.IEnumerable{Azure.AI.TextAnalytics.TextDocumentInput},Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeLinkedEntitiesBatchAsync (documents As IEnumerable(Of TextDocumentInput), Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of RecognizeLinkedEntitiesResultCollection))" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeLinkedEntitiesBatchAsync : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt;&#xA;override this.RecognizeLinkedEntitiesBatchAsync : seq&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt;" Usage="textAnalyticsClient.RecognizeLinkedEntitiesBatchAsync (documents, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt; RecognizeLinkedEntitiesBatchAsync (System.Collections.Generic.IEnumerable&lt;Azure.AI.TextAnalytics.TextDocumentInput&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeLinkedEntitiesBatchAsync (documents As IEnumerable(Of TextDocumentInput), options As TextAnalyticsRequestOptions, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of RecognizeLinkedEntitiesResultCollection))" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt;</ReturnType>
       </ReturnValue>
@@ -1920,19 +2667,120 @@
       </Docs>
     </Member>
     <Member MemberName="RecognizeLinkedEntitiesBatchAsync">
-      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt; RecognizeLinkedEntitiesBatchAsync (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language = default, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt; RecognizeLinkedEntitiesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, string language, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeLinkedEntitiesBatchAsync(System.Collections.Generic.IEnumerable{System.String},System.String,Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeLinkedEntitiesBatchAsync (documents As IEnumerable(Of String), Optional language As String = Nothing, Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of RecognizeLinkedEntitiesResultCollection))" />
-      <MemberSignature Language="F#" Value="abstract member RecognizeLinkedEntitiesBatchAsync : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt;&#xA;override this.RecognizeLinkedEntitiesBatchAsync : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt;" Usage="textAnalyticsClient.RecognizeLinkedEntitiesBatchAsync (documents, language, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt; RecognizeLinkedEntitiesBatchAsync (System.Collections.Generic.IEnumerable&lt;string&gt; documents, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt; RecognizeLinkedEntitiesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeLinkedEntitiesBatchAsync(System.Collections.Generic.IEnumerable{System.String},Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeLinkedEntitiesBatchAsync (documents As IEnumerable(Of String), options As TextAnalyticsRequestOptions, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of RecognizeLinkedEntitiesResultCollection))" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeLinkedEntitiesBatchAsync : seq&lt;string&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt;&#xA;override this.RecognizeLinkedEntitiesBatchAsync : seq&lt;string&gt; * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt;" Usage="textAnalyticsClient.RecognizeLinkedEntitiesBatchAsync (documents, options, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
+      <ReturnValue>
+        <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="documents" Type="System.Collections.Generic.IEnumerable&lt;System.String&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.AI.TextAnalytics.TextAnalyticsRequestOptions" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="documents">The documents to analyze.</param>
+        <param name="options">
+          <see cref="T:Azure.AI.TextAnalytics.TextAnalyticsRequestOptions" /> used to
+            select the version of the predictive model to run, and whether
+            statistics are returned in the response.</param>
+        <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" />
+            controlling the request lifetime.</param>
+        <summary>
+            Runs a predictive model to identify a collection of entities
+            found in the passed-in documents, and include information linking the
+            entities to their corresponding entries in a well-known knowledge base.
+            <para>For document length limits, maximum batch size, and supported text encoding, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.</para></summary>
+        <returns>A result containing the collection of entities identified
+            for each of the documents, as well as scores indicating the confidence
+            that a given entity correctly matches the identified substring.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Service returned a non-success
+            status code.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="RecognizeLinkedEntitiesBatchAsync">
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt; RecognizeLinkedEntitiesBatchAsync (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language = default, Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions options = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt; RecognizeLinkedEntitiesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, string language, class Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeLinkedEntitiesBatchAsync(System.Collections.Generic.IEnumerable{System.String},System.String,Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeLinkedEntitiesBatchAsync (documents As IEnumerable(Of String), Optional language As String = Nothing, Optional options As RecognizeLinkedEntitiesOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of RecognizeLinkedEntitiesResultCollection))" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeLinkedEntitiesBatchAsync : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt;&#xA;override this.RecognizeLinkedEntitiesBatchAsync : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt;" Usage="textAnalyticsClient.RecognizeLinkedEntitiesBatchAsync (documents, language, options, cancellationToken)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="documents" Type="System.Collections.Generic.IEnumerable&lt;System.String&gt;" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="language" Type="System.String" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions" Index="2" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="3" FrameworkAlternate="azure-dotnet-preview" />
+      </Parameters>
+      <Docs>
+        <param name="documents">The documents to analyze.</param>
+        <param name="language">The language that the documents are written in.
+            If unspecified, this value will be set to the default language in
+            <see cref="P:Azure.AI.TextAnalytics.TextAnalyticsClientOptions.DefaultLanguage" /> in the request sent to the
+            service.  If set to an empty string, the service will apply a model
+            where the language is explicitly set to "None".</param>
+        <param name="options">
+          <see cref="T:Azure.AI.TextAnalytics.RecognizeLinkedEntitiesOptions" /> used to
+            select the version of the predictive model to run, and whether
+            statistics are returned in the response.</param>
+        <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" />
+            controlling the request lifetime.</param>
+        <summary>
+            Runs a predictive model to identify a collection of entities
+            found in the passed-in documents, and include information linking the
+            entities to their corresponding entries in a well-known knowledge base.
+            <para>For a list of languages supported by this operation, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/language-support" />.</para><para>For document length limits, maximum batch size, and supported text encoding, see
+            <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.</para></summary>
+        <returns>A result containing the collection of entities identified
+            for each of the documents, as well as scores indicating the confidence
+            that a given entity correctly matches the identified substring.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Service returned a non-success
+            status code.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="RecognizeLinkedEntitiesBatchAsync">
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt; RecognizeLinkedEntitiesBatchAsync (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language = default, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options = default, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class System.Threading.Tasks.Task`1&lt;class Azure.Response`1&lt;class Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt; RecognizeLinkedEntitiesBatchAsync(class System.Collections.Generic.IEnumerable`1&lt;string&gt; documents, string language, class Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.AI.TextAnalytics.TextAnalyticsClient.RecognizeLinkedEntitiesBatchAsync(System.Collections.Generic.IEnumerable{System.String},System.String,Azure.AI.TextAnalytics.TextAnalyticsRequestOptions,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeLinkedEntitiesBatchAsync (documents As IEnumerable(Of String), Optional language As String = Nothing, Optional options As TextAnalyticsRequestOptions = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of RecognizeLinkedEntitiesResultCollection))" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="F#" Value="abstract member RecognizeLinkedEntitiesBatchAsync : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt;&#xA;override this.RecognizeLinkedEntitiesBatchAsync : seq&lt;string&gt; * string * Azure.AI.TextAnalytics.TextAnalyticsRequestOptions * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt;" Usage="textAnalyticsClient.RecognizeLinkedEntitiesBatchAsync (documents, language, options, cancellationToken)" />
+      <MemberSignature Language="C#" Value="public virtual System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt; RecognizeLinkedEntitiesBatchAsync (System.Collections.Generic.IEnumerable&lt;string&gt; documents, string language, Azure.AI.TextAnalytics.TextAnalyticsRequestOptions options, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function RecognizeLinkedEntitiesBatchAsync (documents As IEnumerable(Of String), language As String, options As TextAnalyticsRequestOptions, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Response(Of RecognizeLinkedEntitiesResultCollection))" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.AI.TextAnalytics.RecognizeLinkedEntitiesResultCollection&gt;&gt;</ReturnType>
       </ReturnValue>
@@ -2274,7 +3122,8 @@
         <param name="options">Sets the IncludeStatistcs property on the analyze action operation. </param>
         <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" /> controlling the request lifetime.</param>
         <summary>
-            StartAnalyzeBatchActions enables the application to have multiple actions including entity recognition, PII entity recognition, linked entity recognition and key phrases extraction.
+            StartAnalyzeBatchActionsAsync enables the application to have multiple actions including entity recognition,
+            PII entity recognition, linked entity recognition, key phrases extraction, and sentiment analysis.
             Accepts a list of strings which are analyzed asynchronously.
             For document length limits, maximum batch size, and supported text encoding, see
             <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.
@@ -2315,7 +3164,8 @@
         <param name="options">Sets the IncludeStatistcs property on the analyze action operation. </param>
         <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" /> controlling the request lifetime.</param>
         <summary>
-            StartAnalyzeBatchActions enables the application to have multiple actions including entity recognition, PII entity recognition, linked entity recognition and key phrases extraction.
+            StartAnalyzeBatchActionsAsync enables the application to have multiple actions including entity recognition,
+            PII entity recognition, linked entity recognition, key phrases extraction, and sentiment analysis.
             Accepts a list of strings which are analyzed asynchronously.
             For document length limits, maximum batch size, and supported text encoding, see
             <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.
@@ -2354,7 +3204,8 @@
         <param name="options">Sets the IncludeStatistcs property on the analyze action operation. </param>
         <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" /> controlling the request lifetime.</param>
         <summary>
-            StartAnalyzeBatchActionsAsync enables the application to have multiple actions including entity recognition, PII entity recognition, linked entity recognition and key phrases extraction.
+            StartAnalyzeBatchActionsAsync enables the application to have multiple actions including entity recognition,
+            PII entity recognition, linked entity recognition, key phrases extraction, and sentiment analysis.
             Accepts a list of strings which are analyzed asynchronously.
             For document length limits, maximum batch size, and supported text encoding, see
             <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.
@@ -2395,7 +3246,8 @@
         <param name="options">Sets the IncludeStatistcs property on the analyze action operation. </param>
         <param name="cancellationToken">A <see cref="T:System.Threading.CancellationToken" /> controlling the request lifetime.</param>
         <summary>
-            StartAnalyzeBatchActionsAsync enables the application to have multiple actions including entity recognition, PII entity recognition, linked entity recognition and key phrases extraction.
+            StartAnalyzeBatchActionsAsync enables the application to have multiple actions including entity recognition,
+            PII entity recognition, linked entity recognition, key phrases extraction, and sentiment analysis.
             Accepts a list of strings which are analyzed asynchronously.
             For document length limits, maximum batch size, and supported text encoding, see
             <a href="https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview#data-limits" />.
@@ -2593,8 +3445,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.AI.TextAnalytics</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.1.0</AssemblyVersion>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
         <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>

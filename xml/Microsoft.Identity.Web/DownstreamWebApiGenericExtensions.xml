@@ -6,16 +6,13 @@
   <TypeSignature Language="F#" Value="type DownstreamWebApiGenericExtensions = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Identity.Web</AssemblyName>
-    <AssemblyVersion>1.2.0.0</AssemblyVersion>
-    <AssemblyVersion>1.3.0.0</AssemblyVersion>
-    <AssemblyVersion>1.4.0.0</AssemblyVersion>
-    <AssemblyVersion>1.4.1.0</AssemblyVersion>
-    <AssemblyVersion>1.5.1.0</AssemblyVersion>
-    <AssemblyVersion>1.6.0.0</AssemblyVersion>
-    <AssemblyVersion>1.7.0.0</AssemblyVersion>
-    <AssemblyVersion>1.8.0.0</AssemblyVersion>
-    <AssemblyVersion>1.8.1.0</AssemblyVersion>
-    <AssemblyVersion>1.8.2.0</AssemblyVersion>
+    <AssemblyVersion>1.9.1.0</AssemblyVersion>
+    <AssemblyVersion>1.9.2.0</AssemblyVersion>
+    <AssemblyVersion>1.10.0.0</AssemblyVersion>
+    <AssemblyVersion>1.11.0.0</AssemblyVersion>
+    <AssemblyVersion>1.12.0.0</AssemblyVersion>
+    <AssemblyVersion>1.13.0.0</AssemblyVersion>
+    <AssemblyVersion>1.13.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -29,24 +26,18 @@
   </Docs>
   <Members>
     <Member MemberName="CallWebApiForUserAsync&lt;TOutput&gt;">
-      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;TOutput?&gt; CallWebApiForUserAsync&lt;TOutput&gt; (this Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt;? downstreamWebApiOptionsOverride = default, System.Security.Claims.ClaimsPrincipal? user = default) where TOutput : class;" />
-      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;!!TOutput&gt; CallWebApiForUserAsync&lt;class TOutput&gt;(class Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, class System.Action`1&lt;class Microsoft.Identity.Web.DownstreamWebApiOptions&gt; downstreamWebApiOptionsOverride, class System.Security.Claims.ClaimsPrincipal user) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.CallWebApiForUserAsync``1(Microsoft.Identity.Web.IDownstreamWebApi,System.String,System.Action{Microsoft.Identity.Web.DownstreamWebApiOptions},System.Security.Claims.ClaimsPrincipal)" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function CallWebApiForUserAsync(Of TOutput As Class) (downstreamWebApi As IDownstreamWebApi, serviceName As String, Optional downstreamWebApiOptionsOverride As Action(Of DownstreamWebApiOptions) = Nothing, Optional user As ClaimsPrincipal = Nothing) As Task(Of TOutput)" />
-      <MemberSignature Language="F#" Value="static member CallWebApiForUserAsync : Microsoft.Identity.Web.IDownstreamWebApi * string * Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt; * System.Security.Claims.ClaimsPrincipal -&gt; System.Threading.Tasks.Task&lt;'Output (requires 'Output : null)&gt; (requires 'Output : null)" Usage="Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.CallWebApiForUserAsync (downstreamWebApi, serviceName, downstreamWebApiOptionsOverride, user)" />
+      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;TOutput?&gt; CallWebApiForUserAsync&lt;TOutput&gt; (this Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt;? downstreamWebApiOptionsOverride = default, System.Security.Claims.ClaimsPrincipal? user = default, string? authenticationScheme = default) where TOutput : class;" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;!!TOutput&gt; CallWebApiForUserAsync&lt;class TOutput&gt;(class Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, class System.Action`1&lt;class Microsoft.Identity.Web.DownstreamWebApiOptions&gt; downstreamWebApiOptionsOverride, class System.Security.Claims.ClaimsPrincipal user, string authenticationScheme) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.CallWebApiForUserAsync``1(Microsoft.Identity.Web.IDownstreamWebApi,System.String,System.Action{Microsoft.Identity.Web.DownstreamWebApiOptions},System.Security.Claims.ClaimsPrincipal,System.String)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function CallWebApiForUserAsync(Of TOutput As Class) (downstreamWebApi As IDownstreamWebApi, serviceName As String, Optional downstreamWebApiOptionsOverride As Action(Of DownstreamWebApiOptions) = Nothing, Optional user As ClaimsPrincipal = Nothing, Optional authenticationScheme As String = Nothing) As Task(Of TOutput)" />
+      <MemberSignature Language="F#" Value="static member CallWebApiForUserAsync : Microsoft.Identity.Web.IDownstreamWebApi * string * Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt; * System.Security.Claims.ClaimsPrincipal * string -&gt; System.Threading.Tasks.Task&lt;'Output (requires 'Output : null)&gt; (requires 'Output : null)" Usage="Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.CallWebApiForUserAsync (downstreamWebApi, serviceName, downstreamWebApiOptionsOverride, user, authenticationScheme)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Web</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.8.2.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;TOutput&gt;</ReturnType>
@@ -63,6 +54,7 @@
         <Parameter Name="serviceName" Type="System.String" />
         <Parameter Name="downstreamWebApiOptionsOverride" Type="System.Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt;" />
         <Parameter Name="user" Type="System.Security.Claims.ClaimsPrincipal" />
+        <Parameter Name="authenticationScheme" Type="System.String" />
       </Parameters>
       <Docs>
         <typeparam name="TOutput">Output type.</typeparam>
@@ -76,6 +68,8 @@
         <param name="user">[Optional] Claims representing a user. This is useful in platforms like Blazor
             or Azure Signal R, where the HttpContext is not available. In other platforms, the library
             will find the user from the HttpContext.</param>
+        <param name="authenticationScheme">Authentication scheme. If null, will use OpenIdConnectDefault.AuthenticationScheme
+            if called from a web app, and JwtBearerDefault.AuthenticationScheme if called from a web API.</param>
         <summary>
             Call a web API endpoint with an HttpGet,
             and return strongly typed data.
@@ -85,24 +79,18 @@
       </Docs>
     </Member>
     <Member MemberName="GetForUserAsync&lt;TInput&gt;">
-      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task GetForUserAsync&lt;TInput&gt; (this Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, TInput inputData, Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt;? downstreamWebApiOptionsOverride = default, System.Security.Claims.ClaimsPrincipal? user = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task GetForUserAsync&lt;TInput&gt;(class Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, !!TInput inputData, class System.Action`1&lt;class Microsoft.Identity.Web.DownstreamWebApiOptions&gt; downstreamWebApiOptionsOverride, class System.Security.Claims.ClaimsPrincipal user) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.GetForUserAsync``1(Microsoft.Identity.Web.IDownstreamWebApi,System.String,``0,System.Action{Microsoft.Identity.Web.DownstreamWebApiOptions},System.Security.Claims.ClaimsPrincipal)" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function GetForUserAsync(Of TInput) (downstreamWebApi As IDownstreamWebApi, serviceName As String, inputData As TInput, Optional downstreamWebApiOptionsOverride As Action(Of DownstreamWebApiOptions) = Nothing, Optional user As ClaimsPrincipal = Nothing) As Task" />
-      <MemberSignature Language="F#" Value="static member GetForUserAsync : Microsoft.Identity.Web.IDownstreamWebApi * string * 'Input * Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt; * System.Security.Claims.ClaimsPrincipal -&gt; System.Threading.Tasks.Task" Usage="Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.GetForUserAsync (downstreamWebApi, serviceName, inputData, downstreamWebApiOptionsOverride, user)" />
+      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task GetForUserAsync&lt;TInput&gt; (this Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, TInput inputData, Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt;? downstreamWebApiOptionsOverride = default, System.Security.Claims.ClaimsPrincipal? user = default, string? authenticationScheme = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task GetForUserAsync&lt;TInput&gt;(class Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, !!TInput inputData, class System.Action`1&lt;class Microsoft.Identity.Web.DownstreamWebApiOptions&gt; downstreamWebApiOptionsOverride, class System.Security.Claims.ClaimsPrincipal user, string authenticationScheme) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.GetForUserAsync``1(Microsoft.Identity.Web.IDownstreamWebApi,System.String,``0,System.Action{Microsoft.Identity.Web.DownstreamWebApiOptions},System.Security.Claims.ClaimsPrincipal,System.String)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function GetForUserAsync(Of TInput) (downstreamWebApi As IDownstreamWebApi, serviceName As String, inputData As TInput, Optional downstreamWebApiOptionsOverride As Action(Of DownstreamWebApiOptions) = Nothing, Optional user As ClaimsPrincipal = Nothing, Optional authenticationScheme As String = Nothing) As Task" />
+      <MemberSignature Language="F#" Value="static member GetForUserAsync : Microsoft.Identity.Web.IDownstreamWebApi * string * 'Input * Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt; * System.Security.Claims.ClaimsPrincipal * string -&gt; System.Threading.Tasks.Task" Usage="Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.GetForUserAsync (downstreamWebApi, serviceName, inputData, downstreamWebApiOptionsOverride, user, authenticationScheme)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Web</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.8.2.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -116,6 +104,7 @@
         <Parameter Name="inputData" Type="TInput" />
         <Parameter Name="downstreamWebApiOptionsOverride" Type="System.Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt;" />
         <Parameter Name="user" Type="System.Security.Claims.ClaimsPrincipal" />
+        <Parameter Name="authenticationScheme" Type="System.String" />
       </Parameters>
       <Docs>
         <typeparam name="TInput">Input type.</typeparam>
@@ -130,6 +119,8 @@
         <param name="user">[Optional] Claims representing a user. This is useful in platforms like Blazor
             or Azure Signal R, where the HttpContext is not available. In other platforms, the library
             will find the user from the HttpContext.</param>
+        <param name="authenticationScheme">Authentication scheme. If null, will use OpenIdConnectDefault.AuthenticationScheme
+            if called from a web app, and JwtBearerDefault.AuthenticationScheme if called from a web API.</param>
         <summary>
             Call a web API with a strongly typed input, with an HttpGet.
             </summary>
@@ -138,24 +129,18 @@
       </Docs>
     </Member>
     <Member MemberName="GetForUserAsync&lt;TOutput&gt;">
-      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;TOutput?&gt; GetForUserAsync&lt;TOutput&gt; (this Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, string relativePath, Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt;? downstreamWebApiOptionsOverride = default, System.Security.Claims.ClaimsPrincipal? user = default) where TOutput : class;" />
-      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;!!TOutput&gt; GetForUserAsync&lt;class TOutput&gt;(class Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, string relativePath, class System.Action`1&lt;class Microsoft.Identity.Web.DownstreamWebApiOptions&gt; downstreamWebApiOptionsOverride, class System.Security.Claims.ClaimsPrincipal user) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.GetForUserAsync``1(Microsoft.Identity.Web.IDownstreamWebApi,System.String,System.String,System.Action{Microsoft.Identity.Web.DownstreamWebApiOptions},System.Security.Claims.ClaimsPrincipal)" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function GetForUserAsync(Of TOutput As Class) (downstreamWebApi As IDownstreamWebApi, serviceName As String, relativePath As String, Optional downstreamWebApiOptionsOverride As Action(Of DownstreamWebApiOptions) = Nothing, Optional user As ClaimsPrincipal = Nothing) As Task(Of TOutput)" />
-      <MemberSignature Language="F#" Value="static member GetForUserAsync : Microsoft.Identity.Web.IDownstreamWebApi * string * string * Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt; * System.Security.Claims.ClaimsPrincipal -&gt; System.Threading.Tasks.Task&lt;'Output (requires 'Output : null)&gt; (requires 'Output : null)" Usage="Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.GetForUserAsync (downstreamWebApi, serviceName, relativePath, downstreamWebApiOptionsOverride, user)" />
+      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;TOutput?&gt; GetForUserAsync&lt;TOutput&gt; (this Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, string relativePath, Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt;? downstreamWebApiOptionsOverride = default, System.Security.Claims.ClaimsPrincipal? user = default, string? authenticationScheme = default) where TOutput : class;" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;!!TOutput&gt; GetForUserAsync&lt;class TOutput&gt;(class Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, string relativePath, class System.Action`1&lt;class Microsoft.Identity.Web.DownstreamWebApiOptions&gt; downstreamWebApiOptionsOverride, class System.Security.Claims.ClaimsPrincipal user, string authenticationScheme) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.GetForUserAsync``1(Microsoft.Identity.Web.IDownstreamWebApi,System.String,System.String,System.Action{Microsoft.Identity.Web.DownstreamWebApiOptions},System.Security.Claims.ClaimsPrincipal,System.String)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function GetForUserAsync(Of TOutput As Class) (downstreamWebApi As IDownstreamWebApi, serviceName As String, relativePath As String, Optional downstreamWebApiOptionsOverride As Action(Of DownstreamWebApiOptions) = Nothing, Optional user As ClaimsPrincipal = Nothing, Optional authenticationScheme As String = Nothing) As Task(Of TOutput)" />
+      <MemberSignature Language="F#" Value="static member GetForUserAsync : Microsoft.Identity.Web.IDownstreamWebApi * string * string * Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt; * System.Security.Claims.ClaimsPrincipal * string -&gt; System.Threading.Tasks.Task&lt;'Output (requires 'Output : null)&gt; (requires 'Output : null)" Usage="Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.GetForUserAsync (downstreamWebApi, serviceName, relativePath, downstreamWebApiOptionsOverride, user, authenticationScheme)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Web</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.8.2.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;TOutput&gt;</ReturnType>
@@ -173,6 +158,7 @@
         <Parameter Name="relativePath" Type="System.String" />
         <Parameter Name="downstreamWebApiOptionsOverride" Type="System.Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt;" />
         <Parameter Name="user" Type="System.Security.Claims.ClaimsPrincipal" />
+        <Parameter Name="authenticationScheme" Type="System.String" />
       </Parameters>
       <Docs>
         <typeparam name="TOutput">Output type.</typeparam>
@@ -187,6 +173,8 @@
         <param name="user">[Optional] Claims representing a user. This is useful in platforms like Blazor
             or Azure Signal R, where the HttpContext is not available. In other platforms, the library
             will find the user from the HttpContext.</param>
+        <param name="authenticationScheme">Authentication scheme. If null, will use OpenIdConnectDefault.AuthenticationScheme
+            if called from a web app, and JwtBearerDefault.AuthenticationScheme if called from a web API.</param>
         <summary>
             Get a strongly typed response from the web API.
             </summary>
@@ -195,24 +183,18 @@
       </Docs>
     </Member>
     <Member MemberName="PostForUserAsync&lt;TOutput,TInput&gt;">
-      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;TOutput?&gt; PostForUserAsync&lt;TOutput,TInput&gt; (this Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, string relativePath, TInput inputData, Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt;? downstreamWebApiOptionsOverride = default, System.Security.Claims.ClaimsPrincipal? user = default) where TOutput : class;" />
-      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;!!TOutput&gt; PostForUserAsync&lt;class TOutput, TInput&gt;(class Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, string relativePath, !!TInput inputData, class System.Action`1&lt;class Microsoft.Identity.Web.DownstreamWebApiOptions&gt; downstreamWebApiOptionsOverride, class System.Security.Claims.ClaimsPrincipal user) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.PostForUserAsync``2(Microsoft.Identity.Web.IDownstreamWebApi,System.String,System.String,``1,System.Action{Microsoft.Identity.Web.DownstreamWebApiOptions},System.Security.Claims.ClaimsPrincipal)" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function PostForUserAsync(Of TOutput As Class, TInput As Class) (downstreamWebApi As IDownstreamWebApi, serviceName As String, relativePath As String, inputData As TInput, Optional downstreamWebApiOptionsOverride As Action(Of DownstreamWebApiOptions) = Nothing, Optional user As ClaimsPrincipal = Nothing) As Task(Of TOutput)" />
-      <MemberSignature Language="F#" Value="static member PostForUserAsync : Microsoft.Identity.Web.IDownstreamWebApi * string * string * 'Input * Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt; * System.Security.Claims.ClaimsPrincipal -&gt; System.Threading.Tasks.Task&lt;'Output (requires 'Output : null)&gt; (requires 'Output : null)" Usage="Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.PostForUserAsync (downstreamWebApi, serviceName, relativePath, inputData, downstreamWebApiOptionsOverride, user)" />
+      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;TOutput?&gt; PostForUserAsync&lt;TOutput,TInput&gt; (this Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, string relativePath, TInput inputData, Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt;? downstreamWebApiOptionsOverride = default, System.Security.Claims.ClaimsPrincipal? user = default, string? authenticationScheme = default) where TOutput : class;" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;!!TOutput&gt; PostForUserAsync&lt;class TOutput, TInput&gt;(class Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, string relativePath, !!TInput inputData, class System.Action`1&lt;class Microsoft.Identity.Web.DownstreamWebApiOptions&gt; downstreamWebApiOptionsOverride, class System.Security.Claims.ClaimsPrincipal user, string authenticationScheme) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.PostForUserAsync``2(Microsoft.Identity.Web.IDownstreamWebApi,System.String,System.String,``1,System.Action{Microsoft.Identity.Web.DownstreamWebApiOptions},System.Security.Claims.ClaimsPrincipal,System.String)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function PostForUserAsync(Of TOutput As Class, TInput As Class) (downstreamWebApi As IDownstreamWebApi, serviceName As String, relativePath As String, inputData As TInput, Optional downstreamWebApiOptionsOverride As Action(Of DownstreamWebApiOptions) = Nothing, Optional user As ClaimsPrincipal = Nothing, Optional authenticationScheme As String = Nothing) As Task(Of TOutput)" />
+      <MemberSignature Language="F#" Value="static member PostForUserAsync : Microsoft.Identity.Web.IDownstreamWebApi * string * string * 'Input * Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt; * System.Security.Claims.ClaimsPrincipal * string -&gt; System.Threading.Tasks.Task&lt;'Output (requires 'Output : null)&gt; (requires 'Output : null)" Usage="Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.PostForUserAsync (downstreamWebApi, serviceName, relativePath, inputData, downstreamWebApiOptionsOverride, user, authenticationScheme)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Web</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.8.2.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;TOutput&gt;</ReturnType>
@@ -232,6 +214,7 @@
         <Parameter Name="inputData" Type="TInput" />
         <Parameter Name="downstreamWebApiOptionsOverride" Type="System.Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt;" />
         <Parameter Name="user" Type="System.Security.Claims.ClaimsPrincipal" />
+        <Parameter Name="authenticationScheme" Type="System.String" />
       </Parameters>
       <Docs>
         <typeparam name="TOutput">Output type.</typeparam>
@@ -248,6 +231,8 @@
         <param name="user">[Optional] Claims representing a user. This is useful in platforms like Blazor
             or Azure Signal R, where the HttpContext is not available. In other platforms, the library
             will find the user from the HttpContext.</param>
+        <param name="authenticationScheme">Authentication scheme. If null, will use OpenIdConnectDefault.AuthenticationScheme
+            if called from a web app, and JwtBearerDefault.AuthenticationScheme if called from a web API.</param>
         <summary>
             Calls the web API with an HttpPost, providing strongly typed input and getting
             strongly typed output.
@@ -257,24 +242,18 @@
       </Docs>
     </Member>
     <Member MemberName="PutForUserAsync&lt;TInput&gt;">
-      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task PutForUserAsync&lt;TInput&gt; (this Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, string relativePath, TInput inputData, Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt;? downstreamWebApiOptionsOverride = default, System.Security.Claims.ClaimsPrincipal? user = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task PutForUserAsync&lt;TInput&gt;(class Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, string relativePath, !!TInput inputData, class System.Action`1&lt;class Microsoft.Identity.Web.DownstreamWebApiOptions&gt; downstreamWebApiOptionsOverride, class System.Security.Claims.ClaimsPrincipal user) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.PutForUserAsync``1(Microsoft.Identity.Web.IDownstreamWebApi,System.String,System.String,``0,System.Action{Microsoft.Identity.Web.DownstreamWebApiOptions},System.Security.Claims.ClaimsPrincipal)" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function PutForUserAsync(Of TInput) (downstreamWebApi As IDownstreamWebApi, serviceName As String, relativePath As String, inputData As TInput, Optional downstreamWebApiOptionsOverride As Action(Of DownstreamWebApiOptions) = Nothing, Optional user As ClaimsPrincipal = Nothing) As Task" />
-      <MemberSignature Language="F#" Value="static member PutForUserAsync : Microsoft.Identity.Web.IDownstreamWebApi * string * string * 'Input * Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt; * System.Security.Claims.ClaimsPrincipal -&gt; System.Threading.Tasks.Task" Usage="Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.PutForUserAsync (downstreamWebApi, serviceName, relativePath, inputData, downstreamWebApiOptionsOverride, user)" />
+      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task PutForUserAsync&lt;TInput&gt; (this Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, string relativePath, TInput inputData, Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt;? downstreamWebApiOptionsOverride = default, System.Security.Claims.ClaimsPrincipal? user = default, string? authenticationScheme = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task PutForUserAsync&lt;TInput&gt;(class Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, string relativePath, !!TInput inputData, class System.Action`1&lt;class Microsoft.Identity.Web.DownstreamWebApiOptions&gt; downstreamWebApiOptionsOverride, class System.Security.Claims.ClaimsPrincipal user, string authenticationScheme) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.PutForUserAsync``1(Microsoft.Identity.Web.IDownstreamWebApi,System.String,System.String,``0,System.Action{Microsoft.Identity.Web.DownstreamWebApiOptions},System.Security.Claims.ClaimsPrincipal,System.String)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function PutForUserAsync(Of TInput) (downstreamWebApi As IDownstreamWebApi, serviceName As String, relativePath As String, inputData As TInput, Optional downstreamWebApiOptionsOverride As Action(Of DownstreamWebApiOptions) = Nothing, Optional user As ClaimsPrincipal = Nothing, Optional authenticationScheme As String = Nothing) As Task" />
+      <MemberSignature Language="F#" Value="static member PutForUserAsync : Microsoft.Identity.Web.IDownstreamWebApi * string * string * 'Input * Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt; * System.Security.Claims.ClaimsPrincipal * string -&gt; System.Threading.Tasks.Task" Usage="Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.PutForUserAsync (downstreamWebApi, serviceName, relativePath, inputData, downstreamWebApiOptionsOverride, user, authenticationScheme)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Web</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.8.2.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -289,6 +268,7 @@
         <Parameter Name="inputData" Type="TInput" />
         <Parameter Name="downstreamWebApiOptionsOverride" Type="System.Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt;" />
         <Parameter Name="user" Type="System.Security.Claims.ClaimsPrincipal" />
+        <Parameter Name="authenticationScheme" Type="System.String" />
       </Parameters>
       <Docs>
         <typeparam name="TInput">Input type.</typeparam>
@@ -304,6 +284,8 @@
         <param name="user">[Optional] Claims representing a user. This is useful in platforms like Blazor
             or Azure Signal R, where the HttpContext is not available. In other platforms, the library
             will find the user from the HttpContext.</param>
+        <param name="authenticationScheme">Authentication scheme. If null, will use OpenIdConnectDefault.AuthenticationScheme
+            if called from a web app, and JwtBearerDefault.AuthenticationScheme if called from a web API.</param>
         <summary>
             Calls the web API endpoint with an HttpPut, providing strongly typed input data.
             </summary>
@@ -312,24 +294,18 @@
       </Docs>
     </Member>
     <Member MemberName="PutForUserAsync&lt;TOutput,TInput&gt;">
-      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;TOutput?&gt; PutForUserAsync&lt;TOutput,TInput&gt; (this Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, string relativePath, TInput inputData, Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt;? downstreamWebApiOptionsOverride = default, System.Security.Claims.ClaimsPrincipal? user = default) where TOutput : class;" />
-      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;!!TOutput&gt; PutForUserAsync&lt;class TOutput, TInput&gt;(class Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, string relativePath, !!TInput inputData, class System.Action`1&lt;class Microsoft.Identity.Web.DownstreamWebApiOptions&gt; downstreamWebApiOptionsOverride, class System.Security.Claims.ClaimsPrincipal user) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.PutForUserAsync``2(Microsoft.Identity.Web.IDownstreamWebApi,System.String,System.String,``1,System.Action{Microsoft.Identity.Web.DownstreamWebApiOptions},System.Security.Claims.ClaimsPrincipal)" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function PutForUserAsync(Of TOutput As Class, TInput As Class) (downstreamWebApi As IDownstreamWebApi, serviceName As String, relativePath As String, inputData As TInput, Optional downstreamWebApiOptionsOverride As Action(Of DownstreamWebApiOptions) = Nothing, Optional user As ClaimsPrincipal = Nothing) As Task(Of TOutput)" />
-      <MemberSignature Language="F#" Value="static member PutForUserAsync : Microsoft.Identity.Web.IDownstreamWebApi * string * string * 'Input * Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt; * System.Security.Claims.ClaimsPrincipal -&gt; System.Threading.Tasks.Task&lt;'Output (requires 'Output : null)&gt; (requires 'Output : null)" Usage="Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.PutForUserAsync (downstreamWebApi, serviceName, relativePath, inputData, downstreamWebApiOptionsOverride, user)" />
+      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;TOutput?&gt; PutForUserAsync&lt;TOutput,TInput&gt; (this Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, string relativePath, TInput inputData, Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt;? downstreamWebApiOptionsOverride = default, System.Security.Claims.ClaimsPrincipal? user = default, string? authenticationScheme = default) where TOutput : class;" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;!!TOutput&gt; PutForUserAsync&lt;class TOutput, TInput&gt;(class Microsoft.Identity.Web.IDownstreamWebApi downstreamWebApi, string serviceName, string relativePath, !!TInput inputData, class System.Action`1&lt;class Microsoft.Identity.Web.DownstreamWebApiOptions&gt; downstreamWebApiOptionsOverride, class System.Security.Claims.ClaimsPrincipal user, string authenticationScheme) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.PutForUserAsync``2(Microsoft.Identity.Web.IDownstreamWebApi,System.String,System.String,``1,System.Action{Microsoft.Identity.Web.DownstreamWebApiOptions},System.Security.Claims.ClaimsPrincipal,System.String)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function PutForUserAsync(Of TOutput As Class, TInput As Class) (downstreamWebApi As IDownstreamWebApi, serviceName As String, relativePath As String, inputData As TInput, Optional downstreamWebApiOptionsOverride As Action(Of DownstreamWebApiOptions) = Nothing, Optional user As ClaimsPrincipal = Nothing, Optional authenticationScheme As String = Nothing) As Task(Of TOutput)" />
+      <MemberSignature Language="F#" Value="static member PutForUserAsync : Microsoft.Identity.Web.IDownstreamWebApi * string * string * 'Input * Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt; * System.Security.Claims.ClaimsPrincipal * string -&gt; System.Threading.Tasks.Task&lt;'Output (requires 'Output : null)&gt; (requires 'Output : null)" Usage="Microsoft.Identity.Web.DownstreamWebApiGenericExtensions.PutForUserAsync (downstreamWebApi, serviceName, relativePath, inputData, downstreamWebApiOptionsOverride, user, authenticationScheme)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Web</AssemblyName>
-        <AssemblyVersion>1.2.0.0</AssemblyVersion>
-        <AssemblyVersion>1.3.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.0.0</AssemblyVersion>
-        <AssemblyVersion>1.4.1.0</AssemblyVersion>
-        <AssemblyVersion>1.5.1.0</AssemblyVersion>
-        <AssemblyVersion>1.6.0.0</AssemblyVersion>
-        <AssemblyVersion>1.7.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.0.0</AssemblyVersion>
-        <AssemblyVersion>1.8.1.0</AssemblyVersion>
-        <AssemblyVersion>1.8.2.0</AssemblyVersion>
+        <AssemblyVersion>1.11.0.0</AssemblyVersion>
+        <AssemblyVersion>1.12.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.0.0</AssemblyVersion>
+        <AssemblyVersion>1.13.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;TOutput&gt;</ReturnType>
@@ -349,6 +325,7 @@
         <Parameter Name="inputData" Type="TInput" />
         <Parameter Name="downstreamWebApiOptionsOverride" Type="System.Action&lt;Microsoft.Identity.Web.DownstreamWebApiOptions&gt;" />
         <Parameter Name="user" Type="System.Security.Claims.ClaimsPrincipal" />
+        <Parameter Name="authenticationScheme" Type="System.String" />
       </Parameters>
       <Docs>
         <typeparam name="TOutput">Output type.</typeparam>
@@ -365,6 +342,8 @@
         <param name="user">[Optional] Claims representing a user. This is useful in platforms like Blazor
             or Azure Signal R, where the HttpContext is not available. In other platforms, the library
             will find the user from the HttpContext.</param>
+        <param name="authenticationScheme">Authentication scheme. If null, will use OpenIdConnectDefault.AuthenticationScheme
+            if called from a web app, and JwtBearerDefault.AuthenticationScheme if called from a web API.</param>
         <summary>
             Calls the web API endpoint with an HttpPut, provinding strongly typed input data
             and getting back strongly typed data.

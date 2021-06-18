@@ -6,8 +6,7 @@
   <TypeSignature Language="F#" Value="type BigDataPoolsOperationsExtensions = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Synapse</AssemblyName>
-    <AssemblyVersion>0.0.0.0</AssemblyVersion>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -21,16 +20,15 @@
   </Docs>
   <Members>
     <Member MemberName="BeginCreateOrUpdate">
-      <MemberSignature Language="C#" Value="public static Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo BeginCreateOrUpdate (this Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations operations, string resourceGroupName, string workspaceName, string bigDataPoolName, Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo bigDataPoolInfo, bool? force = false);" />
+      <MemberSignature Language="C#" Value="public static Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo BeginCreateOrUpdate (this Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations operations, string resourceGroupName, string workspaceName, string bigDataPoolName, Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo bigDataPoolInfo, bool? force = False);" />
       <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo BeginCreateOrUpdate(class Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations operations, string resourceGroupName, string workspaceName, string bigDataPoolName, class Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo bigDataPoolInfo, valuetype System.Nullable`1&lt;bool&gt; force) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Synapse.BigDataPoolsOperationsExtensions.BeginCreateOrUpdate(Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations,System.String,System.String,System.String,Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo,System.Nullable{System.Boolean})" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function BeginCreateOrUpdate (operations As IBigDataPoolsOperations, resourceGroupName As String, workspaceName As String, bigDataPoolName As String, bigDataPoolInfo As BigDataPoolResourceInfo, Optional force As Nullable(Of Boolean) = false) As BigDataPoolResourceInfo" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function BeginCreateOrUpdate (operations As IBigDataPoolsOperations, resourceGroupName As String, workspaceName As String, bigDataPoolName As String, bigDataPoolInfo As BigDataPoolResourceInfo, Optional force As Nullable(Of Boolean) = False) As BigDataPoolResourceInfo" />
       <MemberSignature Language="F#" Value="static member BeginCreateOrUpdate : Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations * string * string * string * Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo * Nullable&lt;bool&gt; -&gt; Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo" Usage="Microsoft.Azure.Management.Synapse.BigDataPoolsOperationsExtensions.BeginCreateOrUpdate (operations, resourceGroupName, workspaceName, bigDataPoolName, bigDataPoolInfo, force)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Synapse</AssemblyName>
-        <AssemblyVersion>0.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo</ReturnType>
@@ -72,16 +70,15 @@
       </Docs>
     </Member>
     <Member MemberName="BeginCreateOrUpdateAsync">
-      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo&gt; BeginCreateOrUpdateAsync (this Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations operations, string resourceGroupName, string workspaceName, string bigDataPoolName, Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo bigDataPoolInfo, bool? force = false, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo&gt; BeginCreateOrUpdateAsync (this Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations operations, string resourceGroupName, string workspaceName, string bigDataPoolName, Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo bigDataPoolInfo, bool? force = False, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;class Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo&gt; BeginCreateOrUpdateAsync(class Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations operations, string resourceGroupName, string workspaceName, string bigDataPoolName, class Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo bigDataPoolInfo, valuetype System.Nullable`1&lt;bool&gt; force, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Synapse.BigDataPoolsOperationsExtensions.BeginCreateOrUpdateAsync(Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations,System.String,System.String,System.String,Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo,System.Nullable{System.Boolean},System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function BeginCreateOrUpdateAsync (operations As IBigDataPoolsOperations, resourceGroupName As String, workspaceName As String, bigDataPoolName As String, bigDataPoolInfo As BigDataPoolResourceInfo, Optional force As Nullable(Of Boolean) = false, Optional cancellationToken As CancellationToken = Nothing) As Task(Of BigDataPoolResourceInfo)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function BeginCreateOrUpdateAsync (operations As IBigDataPoolsOperations, resourceGroupName As String, workspaceName As String, bigDataPoolName As String, bigDataPoolInfo As BigDataPoolResourceInfo, Optional force As Nullable(Of Boolean) = False, Optional cancellationToken As CancellationToken = Nothing) As Task(Of BigDataPoolResourceInfo)" />
       <MemberSignature Language="F#" Value="static member BeginCreateOrUpdateAsync : Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations * string * string * string * Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo * Nullable&lt;bool&gt; * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo&gt;" Usage="Microsoft.Azure.Management.Synapse.BigDataPoolsOperationsExtensions.BeginCreateOrUpdateAsync (operations, resourceGroupName, workspaceName, bigDataPoolName, bigDataPoolInfo, force, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Synapse</AssemblyName>
-        <AssemblyVersion>0.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo&gt;</ReturnType>
@@ -135,8 +132,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Synapse</AssemblyName>
-        <AssemblyVersion>0.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Object</ReturnType>
@@ -178,8 +174,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Synapse</AssemblyName>
-        <AssemblyVersion>0.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;System.Object&gt;</ReturnType>
@@ -217,16 +212,15 @@
       </Docs>
     </Member>
     <Member MemberName="CreateOrUpdate">
-      <MemberSignature Language="C#" Value="public static Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo CreateOrUpdate (this Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations operations, string resourceGroupName, string workspaceName, string bigDataPoolName, Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo bigDataPoolInfo, bool? force = false);" />
+      <MemberSignature Language="C#" Value="public static Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo CreateOrUpdate (this Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations operations, string resourceGroupName, string workspaceName, string bigDataPoolName, Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo bigDataPoolInfo, bool? force = False);" />
       <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo CreateOrUpdate(class Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations operations, string resourceGroupName, string workspaceName, string bigDataPoolName, class Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo bigDataPoolInfo, valuetype System.Nullable`1&lt;bool&gt; force) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Synapse.BigDataPoolsOperationsExtensions.CreateOrUpdate(Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations,System.String,System.String,System.String,Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo,System.Nullable{System.Boolean})" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function CreateOrUpdate (operations As IBigDataPoolsOperations, resourceGroupName As String, workspaceName As String, bigDataPoolName As String, bigDataPoolInfo As BigDataPoolResourceInfo, Optional force As Nullable(Of Boolean) = false) As BigDataPoolResourceInfo" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function CreateOrUpdate (operations As IBigDataPoolsOperations, resourceGroupName As String, workspaceName As String, bigDataPoolName As String, bigDataPoolInfo As BigDataPoolResourceInfo, Optional force As Nullable(Of Boolean) = False) As BigDataPoolResourceInfo" />
       <MemberSignature Language="F#" Value="static member CreateOrUpdate : Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations * string * string * string * Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo * Nullable&lt;bool&gt; -&gt; Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo" Usage="Microsoft.Azure.Management.Synapse.BigDataPoolsOperationsExtensions.CreateOrUpdate (operations, resourceGroupName, workspaceName, bigDataPoolName, bigDataPoolInfo, force)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Synapse</AssemblyName>
-        <AssemblyVersion>0.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo</ReturnType>
@@ -268,16 +262,15 @@
       </Docs>
     </Member>
     <Member MemberName="CreateOrUpdateAsync">
-      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo&gt; CreateOrUpdateAsync (this Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations operations, string resourceGroupName, string workspaceName, string bigDataPoolName, Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo bigDataPoolInfo, bool? force = false, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo&gt; CreateOrUpdateAsync (this Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations operations, string resourceGroupName, string workspaceName, string bigDataPoolName, Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo bigDataPoolInfo, bool? force = False, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;class Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo&gt; CreateOrUpdateAsync(class Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations operations, string resourceGroupName, string workspaceName, string bigDataPoolName, class Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo bigDataPoolInfo, valuetype System.Nullable`1&lt;bool&gt; force, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Synapse.BigDataPoolsOperationsExtensions.CreateOrUpdateAsync(Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations,System.String,System.String,System.String,Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo,System.Nullable{System.Boolean},System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function CreateOrUpdateAsync (operations As IBigDataPoolsOperations, resourceGroupName As String, workspaceName As String, bigDataPoolName As String, bigDataPoolInfo As BigDataPoolResourceInfo, Optional force As Nullable(Of Boolean) = false, Optional cancellationToken As CancellationToken = Nothing) As Task(Of BigDataPoolResourceInfo)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function CreateOrUpdateAsync (operations As IBigDataPoolsOperations, resourceGroupName As String, workspaceName As String, bigDataPoolName As String, bigDataPoolInfo As BigDataPoolResourceInfo, Optional force As Nullable(Of Boolean) = False, Optional cancellationToken As CancellationToken = Nothing) As Task(Of BigDataPoolResourceInfo)" />
       <MemberSignature Language="F#" Value="static member CreateOrUpdateAsync : Microsoft.Azure.Management.Synapse.IBigDataPoolsOperations * string * string * string * Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo * Nullable&lt;bool&gt; * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo&gt;" Usage="Microsoft.Azure.Management.Synapse.BigDataPoolsOperationsExtensions.CreateOrUpdateAsync (operations, resourceGroupName, workspaceName, bigDataPoolName, bigDataPoolInfo, force, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Synapse</AssemblyName>
-        <AssemblyVersion>0.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo&gt;</ReturnType>
@@ -331,8 +324,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Synapse</AssemblyName>
-        <AssemblyVersion>0.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Object</ReturnType>
@@ -374,8 +366,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Synapse</AssemblyName>
-        <AssemblyVersion>0.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;System.Object&gt;</ReturnType>
@@ -421,8 +412,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Synapse</AssemblyName>
-        <AssemblyVersion>0.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo</ReturnType>
@@ -464,8 +454,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Synapse</AssemblyName>
-        <AssemblyVersion>0.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo&gt;</ReturnType>
@@ -511,8 +500,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Synapse</AssemblyName>
-        <AssemblyVersion>0.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo&gt;</ReturnType>
@@ -550,8 +538,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Synapse</AssemblyName>
-        <AssemblyVersion>0.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo&gt;&gt;</ReturnType>
@@ -593,8 +580,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Synapse</AssemblyName>
-        <AssemblyVersion>0.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo&gt;</ReturnType>
@@ -628,8 +614,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Synapse</AssemblyName>
-        <AssemblyVersion>0.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo&gt;&gt;</ReturnType>
@@ -667,8 +652,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Synapse</AssemblyName>
-        <AssemblyVersion>0.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo</ReturnType>
@@ -714,8 +698,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Synapse</AssemblyName>
-        <AssemblyVersion>0.0.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Synapse.Models.BigDataPoolResourceInfo&gt;</ReturnType>

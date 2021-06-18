@@ -6,10 +6,8 @@
   <TypeSignature Language="F#" Value="type ChangeFeedProcessorBuilder = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-    <AssemblyVersion>2.2.8.0</AssemblyVersion>
-    <AssemblyVersion>2.3.0.0</AssemblyVersion>
-    <AssemblyVersion>2.3.1.0</AssemblyVersion>
     <AssemblyVersion>2.3.2.0</AssemblyVersion>
+    <AssemblyVersion>2.4.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -114,10 +112,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -134,10 +130,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Documents.ChangeFeedProcessor.PartitionManagement.IChangeFeedProcessor&gt;</ReturnType>
@@ -160,10 +154,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Documents.ChangeFeedProcessor.PartitionManagement.IRemainingWorkEstimator&gt;</ReturnType>
@@ -186,9 +178,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder</ReturnType>
@@ -214,10 +205,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder</ReturnType>
@@ -243,10 +232,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder</ReturnType>
@@ -272,10 +259,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder</ReturnType>
@@ -302,10 +287,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder</ReturnType>
@@ -331,10 +314,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder</ReturnType>
@@ -360,10 +341,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder</ReturnType>
@@ -389,10 +368,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder</ReturnType>
@@ -418,10 +395,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder</ReturnType>
@@ -447,10 +422,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder</ReturnType>
@@ -476,10 +449,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder</ReturnType>
@@ -505,10 +476,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder</ReturnType>
@@ -526,7 +495,7 @@
       </Docs>
     </Member>
     <Member MemberName="WithObserver&lt;T&gt;">
-      <MemberSignature Language="C#" Value="public Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder WithObserver&lt;T&gt; () where T : Microsoft.Azure.Documents.ChangeFeedProcessor.FeedProcessing.IChangeFeedObservernew();" />
+      <MemberSignature Language="C#" Value="public Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder WithObserver&lt;T&gt; () where T : Microsoft.Azure.Documents.ChangeFeedProcessor.FeedProcessing.IChangeFeedObserver, new();" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig instance class Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder WithObserver&lt;.ctor (class Microsoft.Azure.Documents.ChangeFeedProcessor.FeedProcessing.IChangeFeedObserver) T&gt;() cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder.WithObserver``1" />
       <MemberSignature Language="VB.NET" Value="Public Function WithObserver(Of T As {IChangeFeedObserverNew}) () As ChangeFeedProcessorBuilder" />
@@ -534,10 +503,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder</ReturnType>
@@ -569,10 +536,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder</ReturnType>
@@ -597,10 +562,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder</ReturnType>
@@ -626,10 +589,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder</ReturnType>
@@ -655,10 +616,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Documents.ChangeFeedProcessor.ChangeFeedProcessorBuilder</ReturnType>

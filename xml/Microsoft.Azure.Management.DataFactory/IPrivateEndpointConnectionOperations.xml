@@ -6,7 +6,9 @@
   <TypeSignature Language="F#" Value="type IPrivateEndpointConnectionOperations = interface" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-    <AssemblyVersion>4.16.0.0</AssemblyVersion>
+    <AssemblyVersion>4.17.1.0</AssemblyVersion>
+    <AssemblyVersion>4.18.0.0</AssemblyVersion>
+    <AssemblyVersion>4.19.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Interfaces />
   <Docs>
@@ -25,7 +27,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.DataFactory.Models.PrivateEndpointConnectionResource&gt;&gt;</ReturnType>
@@ -86,7 +90,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&gt;</ReturnType>
@@ -136,7 +142,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
+        <AssemblyVersion>4.17.1.0</AssemblyVersion>
+        <AssemblyVersion>4.18.0.0</AssemblyVersion>
+        <AssemblyVersion>4.19.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.AzureOperationResponse&lt;Microsoft.Azure.Management.DataFactory.Models.PrivateEndpointConnectionResource&gt;&gt;</ReturnType>

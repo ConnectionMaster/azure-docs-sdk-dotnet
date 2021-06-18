@@ -6,9 +6,6 @@
   <TypeSignature Language="F#" Value="type VirtualNetworkGatewayConnection = class&#xA;    inherit Resource" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-    <AssemblyVersion>20.0.0.0</AssemblyVersion>
-    <AssemblyVersion>20.0.1.0</AssemblyVersion>
-    <AssemblyVersion>20.0.2.0</AssemblyVersion>
     <AssemblyVersion>20.0.3.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
@@ -36,9 +33,6 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
@@ -51,11 +45,11 @@
       </Docs>
     </Member>
     <Member MemberName=".ctor">
-      <MemberSignature Language="C#" Value="public VirtualNetworkGatewayConnection (Microsoft.Azure.Management.Network.Models.VirtualNetworkGateway virtualNetworkGateway1, string connectionType, string id = default, string name = default, string type = default, string location = default, System.Collections.Generic.IDictionary&lt;string,string&gt; tags = default, string authorizationKey = default, Microsoft.Azure.Management.Network.Models.VirtualNetworkGateway virtualNetworkGateway2 = default, Microsoft.Azure.Management.Network.Models.LocalNetworkGateway localNetworkGateway2 = default, string connectionProtocol = default, int? routingWeight = default, int? dpdTimeoutSeconds = default, string connectionMode = default, string sharedKey = default, string connectionStatus = default, System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.TunnelConnectionHealth&gt; tunnelConnectionStatus = default, long? egressBytesTransferred = default, long? ingressBytesTransferred = default, Microsoft.Azure.Management.Network.Models.SubResource peer = default, bool? enableBgp = default, bool? useLocalAzureIpAddress = default, bool? usePolicyBasedTrafficSelectors = default, System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.IpsecPolicy&gt; ipsecPolicies = default, System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.TrafficSelectorPolicy&gt; trafficSelectorPolicies = default, string resourceGuid = default, string provisioningState = default, bool? expressRouteGatewayBypass = default, string etag = default);" />
-      <MemberSignature Language="ILAsm" Value=".method public hidebysig specialname rtspecialname instance void .ctor(class Microsoft.Azure.Management.Network.Models.VirtualNetworkGateway virtualNetworkGateway1, string connectionType, string id, string name, string type, string location, class System.Collections.Generic.IDictionary`2&lt;string, string&gt; tags, string authorizationKey, class Microsoft.Azure.Management.Network.Models.VirtualNetworkGateway virtualNetworkGateway2, class Microsoft.Azure.Management.Network.Models.LocalNetworkGateway localNetworkGateway2, string connectionProtocol, valuetype System.Nullable`1&lt;int32&gt; routingWeight, valuetype System.Nullable`1&lt;int32&gt; dpdTimeoutSeconds, string connectionMode, string sharedKey, string connectionStatus, class System.Collections.Generic.IList`1&lt;class Microsoft.Azure.Management.Network.Models.TunnelConnectionHealth&gt; tunnelConnectionStatus, valuetype System.Nullable`1&lt;int64&gt; egressBytesTransferred, valuetype System.Nullable`1&lt;int64&gt; ingressBytesTransferred, class Microsoft.Azure.Management.Network.Models.SubResource peer, valuetype System.Nullable`1&lt;bool&gt; enableBgp, valuetype System.Nullable`1&lt;bool&gt; useLocalAzureIpAddress, valuetype System.Nullable`1&lt;bool&gt; usePolicyBasedTrafficSelectors, class System.Collections.Generic.IList`1&lt;class Microsoft.Azure.Management.Network.Models.IpsecPolicy&gt; ipsecPolicies, class System.Collections.Generic.IList`1&lt;class Microsoft.Azure.Management.Network.Models.TrafficSelectorPolicy&gt; trafficSelectorPolicies, string resourceGuid, string provisioningState, valuetype System.Nullable`1&lt;bool&gt; expressRouteGatewayBypass, string etag) cil managed" />
-      <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Network.Models.VirtualNetworkGatewayConnection.#ctor(Microsoft.Azure.Management.Network.Models.VirtualNetworkGateway,System.String,System.String,System.String,System.String,System.String,System.Collections.Generic.IDictionary{System.String,System.String},System.String,Microsoft.Azure.Management.Network.Models.VirtualNetworkGateway,Microsoft.Azure.Management.Network.Models.LocalNetworkGateway,System.String,System.Nullable{System.Int32},System.Nullable{System.Int32},System.String,System.String,System.String,System.Collections.Generic.IList{Microsoft.Azure.Management.Network.Models.TunnelConnectionHealth},System.Nullable{System.Int64},System.Nullable{System.Int64},Microsoft.Azure.Management.Network.Models.SubResource,System.Nullable{System.Boolean},System.Nullable{System.Boolean},System.Nullable{System.Boolean},System.Collections.Generic.IList{Microsoft.Azure.Management.Network.Models.IpsecPolicy},System.Collections.Generic.IList{Microsoft.Azure.Management.Network.Models.TrafficSelectorPolicy},System.String,System.String,System.Nullable{System.Boolean},System.String)" />
-      <MemberSignature Language="VB.NET" Value="Public Sub New (virtualNetworkGateway1 As VirtualNetworkGateway, connectionType As String, Optional id As String = Nothing, Optional name As String = Nothing, Optional type As String = Nothing, Optional location As String = Nothing, Optional tags As IDictionary(Of String, String) = Nothing, Optional authorizationKey As String = Nothing, Optional virtualNetworkGateway2 As VirtualNetworkGateway = Nothing, Optional localNetworkGateway2 As LocalNetworkGateway = Nothing, Optional connectionProtocol As String = Nothing, Optional routingWeight As Nullable(Of Integer) = Nothing, Optional dpdTimeoutSeconds As Nullable(Of Integer) = Nothing, Optional connectionMode As String = Nothing, Optional sharedKey As String = Nothing, Optional connectionStatus As String = Nothing, Optional tunnelConnectionStatus As IList(Of TunnelConnectionHealth) = Nothing, Optional egressBytesTransferred As Nullable(Of Long) = Nothing, Optional ingressBytesTransferred As Nullable(Of Long) = Nothing, Optional peer As SubResource = Nothing, Optional enableBgp As Nullable(Of Boolean) = Nothing, Optional useLocalAzureIpAddress As Nullable(Of Boolean) = Nothing, Optional usePolicyBasedTrafficSelectors As Nullable(Of Boolean) = Nothing, Optional ipsecPolicies As IList(Of IpsecPolicy) = Nothing, Optional trafficSelectorPolicies As IList(Of TrafficSelectorPolicy) = Nothing, Optional resourceGuid As String = Nothing, Optional provisioningState As String = Nothing, Optional expressRouteGatewayBypass As Nullable(Of Boolean) = Nothing, Optional etag As String = Nothing)" />
-      <MemberSignature Language="F#" Value="new Microsoft.Azure.Management.Network.Models.VirtualNetworkGatewayConnection : Microsoft.Azure.Management.Network.Models.VirtualNetworkGateway * string * string * string * string * string * System.Collections.Generic.IDictionary&lt;string, string&gt; * string * Microsoft.Azure.Management.Network.Models.VirtualNetworkGateway * Microsoft.Azure.Management.Network.Models.LocalNetworkGateway * string * Nullable&lt;int&gt; * Nullable&lt;int&gt; * string * string * string * System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.TunnelConnectionHealth&gt; * Nullable&lt;int64&gt; * Nullable&lt;int64&gt; * Microsoft.Azure.Management.Network.Models.SubResource * Nullable&lt;bool&gt; * Nullable&lt;bool&gt; * Nullable&lt;bool&gt; * System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.IpsecPolicy&gt; * System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.TrafficSelectorPolicy&gt; * string * string * Nullable&lt;bool&gt; * string -&gt; Microsoft.Azure.Management.Network.Models.VirtualNetworkGatewayConnection" Usage="new Microsoft.Azure.Management.Network.Models.VirtualNetworkGatewayConnection (virtualNetworkGateway1, connectionType, id, name, type, location, tags, authorizationKey, virtualNetworkGateway2, localNetworkGateway2, connectionProtocol, routingWeight, dpdTimeoutSeconds, connectionMode, sharedKey, connectionStatus, tunnelConnectionStatus, egressBytesTransferred, ingressBytesTransferred, peer, enableBgp, useLocalAzureIpAddress, usePolicyBasedTrafficSelectors, ipsecPolicies, trafficSelectorPolicies, resourceGuid, provisioningState, expressRouteGatewayBypass, etag)" />
+      <MemberSignature Language="C#" Value="public VirtualNetworkGatewayConnection (Microsoft.Azure.Management.Network.Models.VirtualNetworkGateway virtualNetworkGateway1, string connectionType, string id = default, string name = default, string type = default, string location = default, System.Collections.Generic.IDictionary&lt;string,string&gt; tags = default, string authorizationKey = default, Microsoft.Azure.Management.Network.Models.VirtualNetworkGateway virtualNetworkGateway2 = default, Microsoft.Azure.Management.Network.Models.LocalNetworkGateway localNetworkGateway2 = default, System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.SubResource&gt; ingressNatRules = default, System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.SubResource&gt; egressNatRules = default, string connectionProtocol = default, int? routingWeight = default, int? dpdTimeoutSeconds = default, string connectionMode = default, string sharedKey = default, string connectionStatus = default, System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.TunnelConnectionHealth&gt; tunnelConnectionStatus = default, long? egressBytesTransferred = default, long? ingressBytesTransferred = default, Microsoft.Azure.Management.Network.Models.SubResource peer = default, bool? enableBgp = default, bool? useLocalAzureIpAddress = default, bool? usePolicyBasedTrafficSelectors = default, System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.IpsecPolicy&gt; ipsecPolicies = default, System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.TrafficSelectorPolicy&gt; trafficSelectorPolicies = default, string resourceGuid = default, string provisioningState = default, bool? expressRouteGatewayBypass = default, string etag = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig specialname rtspecialname instance void .ctor(class Microsoft.Azure.Management.Network.Models.VirtualNetworkGateway virtualNetworkGateway1, string connectionType, string id, string name, string type, string location, class System.Collections.Generic.IDictionary`2&lt;string, string&gt; tags, string authorizationKey, class Microsoft.Azure.Management.Network.Models.VirtualNetworkGateway virtualNetworkGateway2, class Microsoft.Azure.Management.Network.Models.LocalNetworkGateway localNetworkGateway2, class System.Collections.Generic.IList`1&lt;class Microsoft.Azure.Management.Network.Models.SubResource&gt; ingressNatRules, class System.Collections.Generic.IList`1&lt;class Microsoft.Azure.Management.Network.Models.SubResource&gt; egressNatRules, string connectionProtocol, valuetype System.Nullable`1&lt;int32&gt; routingWeight, valuetype System.Nullable`1&lt;int32&gt; dpdTimeoutSeconds, string connectionMode, string sharedKey, string connectionStatus, class System.Collections.Generic.IList`1&lt;class Microsoft.Azure.Management.Network.Models.TunnelConnectionHealth&gt; tunnelConnectionStatus, valuetype System.Nullable`1&lt;int64&gt; egressBytesTransferred, valuetype System.Nullable`1&lt;int64&gt; ingressBytesTransferred, class Microsoft.Azure.Management.Network.Models.SubResource peer, valuetype System.Nullable`1&lt;bool&gt; enableBgp, valuetype System.Nullable`1&lt;bool&gt; useLocalAzureIpAddress, valuetype System.Nullable`1&lt;bool&gt; usePolicyBasedTrafficSelectors, class System.Collections.Generic.IList`1&lt;class Microsoft.Azure.Management.Network.Models.IpsecPolicy&gt; ipsecPolicies, class System.Collections.Generic.IList`1&lt;class Microsoft.Azure.Management.Network.Models.TrafficSelectorPolicy&gt; trafficSelectorPolicies, string resourceGuid, string provisioningState, valuetype System.Nullable`1&lt;bool&gt; expressRouteGatewayBypass, string etag) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Network.Models.VirtualNetworkGatewayConnection.#ctor(Microsoft.Azure.Management.Network.Models.VirtualNetworkGateway,System.String,System.String,System.String,System.String,System.String,System.Collections.Generic.IDictionary{System.String,System.String},System.String,Microsoft.Azure.Management.Network.Models.VirtualNetworkGateway,Microsoft.Azure.Management.Network.Models.LocalNetworkGateway,System.Collections.Generic.IList{Microsoft.Azure.Management.Network.Models.SubResource},System.Collections.Generic.IList{Microsoft.Azure.Management.Network.Models.SubResource},System.String,System.Nullable{System.Int32},System.Nullable{System.Int32},System.String,System.String,System.String,System.Collections.Generic.IList{Microsoft.Azure.Management.Network.Models.TunnelConnectionHealth},System.Nullable{System.Int64},System.Nullable{System.Int64},Microsoft.Azure.Management.Network.Models.SubResource,System.Nullable{System.Boolean},System.Nullable{System.Boolean},System.Nullable{System.Boolean},System.Collections.Generic.IList{Microsoft.Azure.Management.Network.Models.IpsecPolicy},System.Collections.Generic.IList{Microsoft.Azure.Management.Network.Models.TrafficSelectorPolicy},System.String,System.String,System.Nullable{System.Boolean},System.String)" />
+      <MemberSignature Language="VB.NET" Value="Public Sub New (virtualNetworkGateway1 As VirtualNetworkGateway, connectionType As String, Optional id As String = Nothing, Optional name As String = Nothing, Optional type As String = Nothing, Optional location As String = Nothing, Optional tags As IDictionary(Of String, String) = Nothing, Optional authorizationKey As String = Nothing, Optional virtualNetworkGateway2 As VirtualNetworkGateway = Nothing, Optional localNetworkGateway2 As LocalNetworkGateway = Nothing, Optional ingressNatRules As IList(Of SubResource) = Nothing, Optional egressNatRules As IList(Of SubResource) = Nothing, Optional connectionProtocol As String = Nothing, Optional routingWeight As Nullable(Of Integer) = Nothing, Optional dpdTimeoutSeconds As Nullable(Of Integer) = Nothing, Optional connectionMode As String = Nothing, Optional sharedKey As String = Nothing, Optional connectionStatus As String = Nothing, Optional tunnelConnectionStatus As IList(Of TunnelConnectionHealth) = Nothing, Optional egressBytesTransferred As Nullable(Of Long) = Nothing, Optional ingressBytesTransferred As Nullable(Of Long) = Nothing, Optional peer As SubResource = Nothing, Optional enableBgp As Nullable(Of Boolean) = Nothing, Optional useLocalAzureIpAddress As Nullable(Of Boolean) = Nothing, Optional usePolicyBasedTrafficSelectors As Nullable(Of Boolean) = Nothing, Optional ipsecPolicies As IList(Of IpsecPolicy) = Nothing, Optional trafficSelectorPolicies As IList(Of TrafficSelectorPolicy) = Nothing, Optional resourceGuid As String = Nothing, Optional provisioningState As String = Nothing, Optional expressRouteGatewayBypass As Nullable(Of Boolean) = Nothing, Optional etag As String = Nothing)" />
+      <MemberSignature Language="F#" Value="new Microsoft.Azure.Management.Network.Models.VirtualNetworkGatewayConnection : Microsoft.Azure.Management.Network.Models.VirtualNetworkGateway * string * string * string * string * string * System.Collections.Generic.IDictionary&lt;string, string&gt; * string * Microsoft.Azure.Management.Network.Models.VirtualNetworkGateway * Microsoft.Azure.Management.Network.Models.LocalNetworkGateway * System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.SubResource&gt; * System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.SubResource&gt; * string * Nullable&lt;int&gt; * Nullable&lt;int&gt; * string * string * string * System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.TunnelConnectionHealth&gt; * Nullable&lt;int64&gt; * Nullable&lt;int64&gt; * Microsoft.Azure.Management.Network.Models.SubResource * Nullable&lt;bool&gt; * Nullable&lt;bool&gt; * Nullable&lt;bool&gt; * System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.IpsecPolicy&gt; * System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.TrafficSelectorPolicy&gt; * string * string * Nullable&lt;bool&gt; * string -&gt; Microsoft.Azure.Management.Network.Models.VirtualNetworkGatewayConnection" Usage="new Microsoft.Azure.Management.Network.Models.VirtualNetworkGatewayConnection (virtualNetworkGateway1, connectionType, id, name, type, location, tags, authorizationKey, virtualNetworkGateway2, localNetworkGateway2, ingressNatRules, egressNatRules, connectionProtocol, routingWeight, dpdTimeoutSeconds, connectionMode, sharedKey, connectionStatus, tunnelConnectionStatus, egressBytesTransferred, ingressBytesTransferred, peer, enableBgp, useLocalAzureIpAddress, usePolicyBasedTrafficSelectors, ipsecPolicies, trafficSelectorPolicies, resourceGuid, provisioningState, expressRouteGatewayBypass, etag)" />
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
@@ -72,6 +66,8 @@
         <Parameter Name="authorizationKey" Type="System.String" />
         <Parameter Name="virtualNetworkGateway2" Type="Microsoft.Azure.Management.Network.Models.VirtualNetworkGateway" />
         <Parameter Name="localNetworkGateway2" Type="Microsoft.Azure.Management.Network.Models.LocalNetworkGateway" />
+        <Parameter Name="ingressNatRules" Type="System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.SubResource&gt;" />
+        <Parameter Name="egressNatRules" Type="System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.SubResource&gt;" />
         <Parameter Name="connectionProtocol" Type="System.String" />
         <Parameter Name="routingWeight" Type="System.Nullable&lt;System.Int32&gt;" />
         <Parameter Name="dpdTimeoutSeconds" Type="System.Nullable&lt;System.Int32&gt;" />
@@ -108,6 +104,8 @@
             network gateway resource.</param>
         <param name="localNetworkGateway2">The reference to local network
             gateway resource.</param>
+        <param name="ingressNatRules">List of ingress NatRules.</param>
+        <param name="egressNatRules">List of egress NatRules.</param>
         <param name="connectionProtocol">Connection protocol used for this
             connection. Possible values include: 'IKEv2', 'IKEv1'</param>
         <param name="routingWeight">The routing weight.</param>
@@ -161,9 +159,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -221,8 +216,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -252,9 +245,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -284,9 +274,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -316,8 +303,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -347,9 +332,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -369,6 +351,34 @@
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
+    <Member MemberName="EgressNatRules">
+      <MemberSignature Language="C#" Value="public System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.SubResource&gt; EgressNatRules { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance class System.Collections.Generic.IList`1&lt;class Microsoft.Azure.Management.Network.Models.SubResource&gt; EgressNatRules" />
+      <MemberSignature Language="DocId" Value="P:Microsoft.Azure.Management.Network.Models.VirtualNetworkGatewayConnection.EgressNatRules" />
+      <MemberSignature Language="VB.NET" Value="Public Property EgressNatRules As IList(Of SubResource)" />
+      <MemberSignature Language="F#" Value="member this.EgressNatRules : System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.SubResource&gt; with get, set" Usage="Microsoft.Azure.Management.Network.Models.VirtualNetworkGatewayConnection.EgressNatRules" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
+        <AssemblyVersion>20.0.3.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Attributes>
+        <Attribute>
+          <AttributeName Language="C#">[Newtonsoft.Json.JsonProperty(PropertyName="properties.egressNatRules")]</AttributeName>
+          <AttributeName Language="F#">[&lt;Newtonsoft.Json.JsonProperty(PropertyName="properties.egressNatRules")&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
+      <ReturnValue>
+        <ReturnType>System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.SubResource&gt;</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>
+            Gets or sets list of egress NatRules.
+            </summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
     <Member MemberName="EnableBgp">
       <MemberSignature Language="C#" Value="public bool? EnableBgp { get; set; }" />
       <MemberSignature Language="ILAsm" Value=".property instance valuetype System.Nullable`1&lt;bool&gt; EnableBgp" />
@@ -378,9 +388,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -409,9 +416,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -441,8 +445,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -471,9 +473,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -493,6 +492,34 @@
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
+    <Member MemberName="IngressNatRules">
+      <MemberSignature Language="C#" Value="public System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.SubResource&gt; IngressNatRules { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance class System.Collections.Generic.IList`1&lt;class Microsoft.Azure.Management.Network.Models.SubResource&gt; IngressNatRules" />
+      <MemberSignature Language="DocId" Value="P:Microsoft.Azure.Management.Network.Models.VirtualNetworkGatewayConnection.IngressNatRules" />
+      <MemberSignature Language="VB.NET" Value="Public Property IngressNatRules As IList(Of SubResource)" />
+      <MemberSignature Language="F#" Value="member this.IngressNatRules : System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.SubResource&gt; with get, set" Usage="Microsoft.Azure.Management.Network.Models.VirtualNetworkGatewayConnection.IngressNatRules" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
+        <AssemblyVersion>20.0.3.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Attributes>
+        <Attribute>
+          <AttributeName Language="C#">[Newtonsoft.Json.JsonProperty(PropertyName="properties.ingressNatRules")]</AttributeName>
+          <AttributeName Language="F#">[&lt;Newtonsoft.Json.JsonProperty(PropertyName="properties.ingressNatRules")&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
+      <ReturnValue>
+        <ReturnType>System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.SubResource&gt;</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>
+            Gets or sets list of ingress NatRules.
+            </summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
     <Member MemberName="IpsecPolicies">
       <MemberSignature Language="C#" Value="public System.Collections.Generic.IList&lt;Microsoft.Azure.Management.Network.Models.IpsecPolicy&gt; IpsecPolicies { get; set; }" />
       <MemberSignature Language="ILAsm" Value=".property instance class System.Collections.Generic.IList`1&lt;class Microsoft.Azure.Management.Network.Models.IpsecPolicy&gt; IpsecPolicies" />
@@ -502,9 +529,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -534,9 +558,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -565,9 +586,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -596,9 +614,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -629,9 +644,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -661,9 +673,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -692,9 +701,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -723,8 +729,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -754,9 +758,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -785,8 +786,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -815,9 +814,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -846,9 +842,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -874,9 +867,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
@@ -905,9 +895,6 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Network</AssemblyName>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.1.0</AssemblyVersion>
-        <AssemblyVersion>20.0.2.0</AssemblyVersion>
         <AssemblyVersion>20.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>

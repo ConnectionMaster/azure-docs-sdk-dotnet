@@ -6,13 +6,9 @@
   <TypeSignature Language="F#" Value="type EventHubClientBuilderExtensions = class" />
   <AssemblyInfo>
     <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-    <AssemblyVersion>5.0.0.0</AssemblyVersion>
-    <AssemblyVersion>5.0.1.0</AssemblyVersion>
-    <AssemblyVersion>5.1.0.0</AssemblyVersion>
-    <AssemblyVersion>5.2.0.0</AssemblyVersion>
-    <AssemblyVersion>5.3.0.0</AssemblyVersion>
-    <AssemblyVersion>5.3.1.0</AssemblyVersion>
     <AssemblyVersion>5.4.0.0</AssemblyVersion>
+    <AssemblyVersion>5.4.1.0</AssemblyVersion>
+    <AssemblyVersion>5.5.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -34,12 +30,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.Extensions.IAzureClientBuilder&lt;Azure.Messaging.EventHubs.Consumer.EventHubConsumerClient,Azure.Messaging.EventHubs.Consumer.EventHubConsumerClientOptions&gt;</ReturnType>
@@ -76,12 +69,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.Extensions.IAzureClientBuilder&lt;Azure.Messaging.EventHubs.Consumer.EventHubConsumerClient,Azure.Messaging.EventHubs.Consumer.EventHubConsumerClientOptions&gt;</ReturnType>
@@ -120,12 +110,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.Extensions.IAzureClientBuilder&lt;Azure.Messaging.EventHubs.Consumer.EventHubConsumerClient,Azure.Messaging.EventHubs.Consumer.EventHubConsumerClientOptions&gt;</ReturnType>
@@ -163,12 +150,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-        <AssemblyVersion>5.0.1.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.Extensions.IAzureClientBuilder&lt;Azure.Messaging.EventHubs.Consumer.EventHubConsumerClient,Azure.Messaging.EventHubs.Consumer.EventHubConsumerClientOptions&gt;</ReturnType>
@@ -207,12 +191,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.Extensions.IAzureClientBuilder&lt;Azure.Messaging.EventHubs.Producer.EventHubProducerClient,Azure.Messaging.EventHubs.Producer.EventHubProducerClientOptions&gt;</ReturnType>
@@ -247,12 +228,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.Extensions.IAzureClientBuilder&lt;Azure.Messaging.EventHubs.Producer.EventHubProducerClient,Azure.Messaging.EventHubs.Producer.EventHubProducerClientOptions&gt;</ReturnType>
@@ -289,12 +267,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.Extensions.IAzureClientBuilder&lt;Azure.Messaging.EventHubs.Producer.EventHubProducerClient,Azure.Messaging.EventHubs.Producer.EventHubProducerClientOptions&gt;</ReturnType>
@@ -332,12 +307,9 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
-        <AssemblyVersion>5.0.0.0</AssemblyVersion>
-        <AssemblyVersion>5.1.0.0</AssemblyVersion>
-        <AssemblyVersion>5.2.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.0.0</AssemblyVersion>
-        <AssemblyVersion>5.3.1.0</AssemblyVersion>
         <AssemblyVersion>5.4.0.0</AssemblyVersion>
+        <AssemblyVersion>5.4.1.0</AssemblyVersion>
+        <AssemblyVersion>5.5.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.Extensions.IAzureClientBuilder&lt;Azure.Messaging.EventHubs.Producer.EventHubProducerClient,Azure.Messaging.EventHubs.Producer.EventHubProducerClientOptions&gt;</ReturnType>

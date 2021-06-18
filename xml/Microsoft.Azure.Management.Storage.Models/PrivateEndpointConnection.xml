@@ -6,13 +6,8 @@
   <TypeSignature Language="F#" Value="type PrivateEndpointConnection = class&#xA;    inherit Resource" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-    <AssemblyVersion>14.0.0.0</AssemblyVersion>
-    <AssemblyVersion>15.0.0.0</AssemblyVersion>
-    <AssemblyVersion>16.0.0.0</AssemblyVersion>
-    <AssemblyVersion>17.0.0.0</AssemblyVersion>
-    <AssemblyVersion>18.0.0.0</AssemblyVersion>
-    <AssemblyVersion>19.0.0.0</AssemblyVersion>
-    <AssemblyVersion>20.0.0.0</AssemblyVersion>
+    <AssemblyVersion>21.0.0.0</AssemblyVersion>
+    <AssemblyVersion>22.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Microsoft.Azure.Management.Storage.Models.Resource</BaseTypeName>
@@ -39,13 +34,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>14.0.0.0</AssemblyVersion>
-        <AssemblyVersion>15.0.0.0</AssemblyVersion>
-        <AssemblyVersion>16.0.0.0</AssemblyVersion>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -64,13 +54,8 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>14.0.0.0</AssemblyVersion>
-        <AssemblyVersion>15.0.0.0</AssemblyVersion>
-        <AssemblyVersion>16.0.0.0</AssemblyVersion>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="privateLinkServiceConnectionState" Type="Microsoft.Azure.Management.Storage.Models.PrivateLinkServiceConnectionState" />
@@ -110,13 +95,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>14.0.0.0</AssemblyVersion>
-        <AssemblyVersion>15.0.0.0</AssemblyVersion>
-        <AssemblyVersion>16.0.0.0</AssemblyVersion>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -144,13 +124,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>14.0.0.0</AssemblyVersion>
-        <AssemblyVersion>15.0.0.0</AssemblyVersion>
-        <AssemblyVersion>16.0.0.0</AssemblyVersion>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -179,13 +154,8 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>14.0.0.0</AssemblyVersion>
-        <AssemblyVersion>15.0.0.0</AssemblyVersion>
-        <AssemblyVersion>16.0.0.0</AssemblyVersion>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -215,13 +185,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
-        <AssemblyVersion>14.0.0.0</AssemblyVersion>
-        <AssemblyVersion>15.0.0.0</AssemblyVersion>
-        <AssemblyVersion>16.0.0.0</AssemblyVersion>
-        <AssemblyVersion>17.0.0.0</AssemblyVersion>
-        <AssemblyVersion>18.0.0.0</AssemblyVersion>
-        <AssemblyVersion>19.0.0.0</AssemblyVersion>
-        <AssemblyVersion>20.0.0.0</AssemblyVersion>
+        <AssemblyVersion>21.0.0.0</AssemblyVersion>
+        <AssemblyVersion>22.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>

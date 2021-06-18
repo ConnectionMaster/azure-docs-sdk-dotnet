@@ -6,38 +6,11 @@
   <TypeSignature Language="F#" Value="type AuthenticationResult = class" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-    <AssemblyVersion>4.7.0.0</AssemblyVersion>
-    <AssemblyVersion>4.7.1.0</AssemblyVersion>
-    <AssemblyVersion>4.8.0.0</AssemblyVersion>
-    <AssemblyVersion>4.8.1.0</AssemblyVersion>
-    <AssemblyVersion>4.8.2.0</AssemblyVersion>
-    <AssemblyVersion>4.9.0.0</AssemblyVersion>
-    <AssemblyVersion>4.10.0.0</AssemblyVersion>
-    <AssemblyVersion>4.11.0.0</AssemblyVersion>
-    <AssemblyVersion>4.12.0.0</AssemblyVersion>
-    <AssemblyVersion>4.13.0.0</AssemblyVersion>
-    <AssemblyVersion>4.14.0.0</AssemblyVersion>
-    <AssemblyVersion>4.15.0.0</AssemblyVersion>
-    <AssemblyVersion>4.16.0.0</AssemblyVersion>
-    <AssemblyVersion>4.16.1.0</AssemblyVersion>
-    <AssemblyVersion>4.17.0.0</AssemblyVersion>
-    <AssemblyVersion>4.17.1.0</AssemblyVersion>
-    <AssemblyVersion>4.18.0.0</AssemblyVersion>
-    <AssemblyVersion>4.19.0.0</AssemblyVersion>
-    <AssemblyVersion>4.20.0.0</AssemblyVersion>
-    <AssemblyVersion>4.20.1.0</AssemblyVersion>
-    <AssemblyVersion>4.21.0.0</AssemblyVersion>
-    <AssemblyVersion>4.21.1.0</AssemblyVersion>
-    <AssemblyVersion>4.22.0.0</AssemblyVersion>
-    <AssemblyVersion>4.23.0.0</AssemblyVersion>
-    <AssemblyVersion>4.24.0.0</AssemblyVersion>
-    <AssemblyVersion>4.25.0.0</AssemblyVersion>
-    <AssemblyVersion>4.26.0.0</AssemblyVersion>
-    <AssemblyVersion>4.26.1.0</AssemblyVersion>
-    <AssemblyVersion>4.27.0.0</AssemblyVersion>
-    <AssemblyVersion>4.28.0.0</AssemblyVersion>
-    <AssemblyVersion>4.28.1.0</AssemblyVersion>
-    <AssemblyVersion>4.29.0.0</AssemblyVersion>
+    <AssemblyVersion>4.30.0.0</AssemblyVersion>
+    <AssemblyVersion>4.30.1.0</AssemblyVersion>
+    <AssemblyVersion>4.31.0.0</AssemblyVersion>
+    <AssemblyVersion>4.32.0.0</AssemblyVersion>
+    <AssemblyVersion>4.32.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -60,24 +33,11 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -128,18 +88,11 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="accessToken" Type="System.String" />
@@ -184,38 +137,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.7.0.0</AssemblyVersion>
-        <AssemblyVersion>4.7.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-        <AssemblyVersion>4.8.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.2.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.1.0</AssemblyVersion>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -237,38 +163,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.7.0.0</AssemblyVersion>
-        <AssemblyVersion>4.7.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-        <AssemblyVersion>4.8.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.2.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.1.0</AssemblyVersion>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.IAccount</ReturnType>
@@ -293,24 +192,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.AuthenticationResultMetadata</ReturnType>
@@ -332,38 +218,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.7.0.0</AssemblyVersion>
-        <AssemblyVersion>4.7.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-        <AssemblyVersion>4.8.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.2.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.1.0</AssemblyVersion>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Guid</ReturnType>
@@ -385,38 +244,11 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.7.0.0</AssemblyVersion>
-        <AssemblyVersion>4.7.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-        <AssemblyVersion>4.8.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.2.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.1.0</AssemblyVersion>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -448,38 +280,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.7.0.0</AssemblyVersion>
-        <AssemblyVersion>4.7.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-        <AssemblyVersion>4.8.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.2.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.1.0</AssemblyVersion>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.DateTimeOffset</ReturnType>
@@ -503,38 +308,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.7.0.0</AssemblyVersion>
-        <AssemblyVersion>4.7.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-        <AssemblyVersion>4.8.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.2.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.1.0</AssemblyVersion>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.DateTimeOffset</ReturnType>
@@ -557,38 +335,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.7.0.0</AssemblyVersion>
-        <AssemblyVersion>4.7.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-        <AssemblyVersion>4.8.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.2.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.1.0</AssemblyVersion>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -610,38 +361,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.7.0.0</AssemblyVersion>
-        <AssemblyVersion>4.7.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-        <AssemblyVersion>4.8.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.2.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.1.0</AssemblyVersion>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -670,38 +394,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.7.0.0</AssemblyVersion>
-        <AssemblyVersion>4.7.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-        <AssemblyVersion>4.8.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.2.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.1.0</AssemblyVersion>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IEnumerable&lt;System.String&gt;</ReturnType>
@@ -723,38 +420,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.7.0.0</AssemblyVersion>
-        <AssemblyVersion>4.7.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-        <AssemblyVersion>4.8.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.2.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.1.0</AssemblyVersion>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -763,6 +433,30 @@
         <summary>
             Gets an identifier for the Azure AD tenant from which the token was acquired. This property will be null if tenant information is
             not returned by the service.
+            </summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="TokenType">
+      <MemberSignature Language="C#" Value="public string TokenType { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance string TokenType" />
+      <MemberSignature Language="DocId" Value="P:Microsoft.Identity.Client.AuthenticationResult.TokenType" />
+      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property TokenType As String" />
+      <MemberSignature Language="F#" Value="member this.TokenType : string" Usage="Microsoft.Identity.Client.AuthenticationResult.TokenType" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Identity.Client</AssemblyName>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.String</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>
+            Identifies the type of access token. By default tokens returned by Azure Active Directory are Bearer tokens.        
+            <seealso cref="M:Microsoft.Identity.Client.AuthenticationResult.CreateAuthorizationHeader" /> for getting an HTTP authorization header from an AuthenticationResult.
             </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
@@ -777,38 +471,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.7.0.0</AssemblyVersion>
-        <AssemblyVersion>4.7.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-        <AssemblyVersion>4.8.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.2.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.1.0</AssemblyVersion>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -831,38 +498,11 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.7.0.0</AssemblyVersion>
-        <AssemblyVersion>4.7.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-        <AssemblyVersion>4.8.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.2.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.1.0</AssemblyVersion>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>

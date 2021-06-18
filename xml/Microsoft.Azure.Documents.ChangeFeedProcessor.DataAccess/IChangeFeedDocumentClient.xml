@@ -6,10 +6,8 @@
   <TypeSignature Language="F#" Value="type IChangeFeedDocumentClient = interface" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-    <AssemblyVersion>2.2.8.0</AssemblyVersion>
-    <AssemblyVersion>2.3.0.0</AssemblyVersion>
-    <AssemblyVersion>2.3.1.0</AssemblyVersion>
     <AssemblyVersion>2.3.2.0</AssemblyVersion>
+    <AssemblyVersion>2.4.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Interfaces />
   <Docs>
@@ -28,10 +26,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Documents.Client.IResourceResponse&lt;Microsoft.Azure.Documents.Document&gt;&gt;</ReturnType>
@@ -65,10 +61,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Documents.ChangeFeedProcessor.DataAccess.IChangeFeedDocumentQuery&lt;Microsoft.Azure.Documents.Document&gt;</ReturnType>
@@ -96,10 +90,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Linq.IQueryable&lt;T&gt;</ReturnType>
@@ -133,10 +125,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Documents.Client.IResourceResponse&lt;Microsoft.Azure.Documents.Document&gt;&gt;</ReturnType>
@@ -166,10 +156,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Documents.Client.IResourceResponse&lt;Microsoft.Azure.Documents.Database&gt;&gt;</ReturnType>
@@ -199,10 +187,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Documents.Client.IResourceResponse&lt;Microsoft.Azure.Documents.Document&gt;&gt;</ReturnType>
@@ -234,10 +220,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Documents.Client.IResourceResponse&lt;Microsoft.Azure.Documents.DocumentCollection&gt;&gt;</ReturnType>
@@ -267,10 +251,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Documents.Client.IFeedResponse&lt;Microsoft.Azure.Documents.PartitionKeyRange&gt;&gt;</ReturnType>
@@ -300,10 +282,8 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Documents.ChangeFeedProcessor</AssemblyName>
-        <AssemblyVersion>2.2.8.0</AssemblyVersion>
-        <AssemblyVersion>2.3.0.0</AssemblyVersion>
-        <AssemblyVersion>2.3.1.0</AssemblyVersion>
         <AssemblyVersion>2.3.2.0</AssemblyVersion>
+        <AssemblyVersion>2.4.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Documents.Client.IResourceResponse&lt;Microsoft.Azure.Documents.Document&gt;&gt;</ReturnType>

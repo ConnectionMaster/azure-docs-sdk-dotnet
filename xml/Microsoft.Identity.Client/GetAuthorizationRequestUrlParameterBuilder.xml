@@ -6,38 +6,11 @@
   <TypeSignature Language="F#" Value="type GetAuthorizationRequestUrlParameterBuilder = class&#xA;    inherit AbstractConfidentialClientAcquireTokenParameterBuilder&lt;GetAuthorizationRequestUrlParameterBuilder&gt;" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-    <AssemblyVersion>4.7.0.0</AssemblyVersion>
-    <AssemblyVersion>4.7.1.0</AssemblyVersion>
-    <AssemblyVersion>4.8.0.0</AssemblyVersion>
-    <AssemblyVersion>4.8.1.0</AssemblyVersion>
-    <AssemblyVersion>4.8.2.0</AssemblyVersion>
-    <AssemblyVersion>4.9.0.0</AssemblyVersion>
-    <AssemblyVersion>4.10.0.0</AssemblyVersion>
-    <AssemblyVersion>4.11.0.0</AssemblyVersion>
-    <AssemblyVersion>4.12.0.0</AssemblyVersion>
-    <AssemblyVersion>4.13.0.0</AssemblyVersion>
-    <AssemblyVersion>4.14.0.0</AssemblyVersion>
-    <AssemblyVersion>4.15.0.0</AssemblyVersion>
-    <AssemblyVersion>4.16.0.0</AssemblyVersion>
-    <AssemblyVersion>4.16.1.0</AssemblyVersion>
-    <AssemblyVersion>4.17.0.0</AssemblyVersion>
-    <AssemblyVersion>4.17.1.0</AssemblyVersion>
-    <AssemblyVersion>4.18.0.0</AssemblyVersion>
-    <AssemblyVersion>4.19.0.0</AssemblyVersion>
-    <AssemblyVersion>4.20.0.0</AssemblyVersion>
-    <AssemblyVersion>4.20.1.0</AssemblyVersion>
-    <AssemblyVersion>4.21.0.0</AssemblyVersion>
-    <AssemblyVersion>4.21.1.0</AssemblyVersion>
-    <AssemblyVersion>4.22.0.0</AssemblyVersion>
-    <AssemblyVersion>4.23.0.0</AssemblyVersion>
-    <AssemblyVersion>4.24.0.0</AssemblyVersion>
-    <AssemblyVersion>4.25.0.0</AssemblyVersion>
-    <AssemblyVersion>4.26.0.0</AssemblyVersion>
-    <AssemblyVersion>4.26.1.0</AssemblyVersion>
-    <AssemblyVersion>4.27.0.0</AssemblyVersion>
-    <AssemblyVersion>4.28.0.0</AssemblyVersion>
-    <AssemblyVersion>4.28.1.0</AssemblyVersion>
-    <AssemblyVersion>4.29.0.0</AssemblyVersion>
+    <AssemblyVersion>4.30.0.0</AssemblyVersion>
+    <AssemblyVersion>4.30.1.0</AssemblyVersion>
+    <AssemblyVersion>4.31.0.0</AssemblyVersion>
+    <AssemblyVersion>4.32.0.0</AssemblyVersion>
+    <AssemblyVersion>4.32.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Microsoft.Identity.Client.AbstractConfidentialClientAcquireTokenParameterBuilder&lt;Microsoft.Identity.Client.GetAuthorizationRequestUrlParameterBuilder&gt;</BaseTypeName>
@@ -46,12 +19,6 @@
     </BaseTypeArguments>
   </Base>
   <Interfaces />
-  <Attributes>
-    <Attribute FrameworkAlternate="azure-dotnet">
-      <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
-      <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
-    </Attribute>
-  </Attributes>
   <Docs>
     <summary>
                 NOTE:  a few of the methods in AbstractAcquireTokenParameterBuilder (e.g. account) don't make sense here.
@@ -71,38 +38,11 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.7.0.0</AssemblyVersion>
-        <AssemblyVersion>4.7.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-        <AssemblyVersion>4.8.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.2.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.1.0</AssemblyVersion>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;System.Uri&gt;</ReturnType>
@@ -123,38 +63,11 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.7.0.0</AssemblyVersion>
-        <AssemblyVersion>4.7.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-        <AssemblyVersion>4.8.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.2.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.1.0</AssemblyVersion>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;System.Uri&gt;</ReturnType>
@@ -178,38 +91,11 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.7.0.0</AssemblyVersion>
-        <AssemblyVersion>4.7.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-        <AssemblyVersion>4.8.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.2.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.1.0</AssemblyVersion>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.GetAuthorizationRequestUrlParameterBuilder</ReturnType>
@@ -233,38 +119,11 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.7.0.0</AssemblyVersion>
-        <AssemblyVersion>4.7.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-        <AssemblyVersion>4.8.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.2.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.1.0</AssemblyVersion>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.GetAuthorizationRequestUrlParameterBuilder</ReturnType>
@@ -288,38 +147,11 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.7.0.0</AssemblyVersion>
-        <AssemblyVersion>4.7.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-        <AssemblyVersion>4.8.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.2.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.1.0</AssemblyVersion>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.GetAuthorizationRequestUrlParameterBuilder</ReturnType>
@@ -334,6 +166,38 @@
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
+    <Member MemberName="WithPkce">
+      <MemberSignature Language="C#" Value="public Microsoft.Identity.Client.GetAuthorizationRequestUrlParameterBuilder WithPkce (out string codeVerifier);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig instance class Microsoft.Identity.Client.GetAuthorizationRequestUrlParameterBuilder WithPkce([out] string&amp; codeVerifier) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.Identity.Client.GetAuthorizationRequestUrlParameterBuilder.WithPkce(System.String@)" />
+      <MemberSignature Language="VB.NET" Value="Public Function WithPkce (ByRef codeVerifier As String) As GetAuthorizationRequestUrlParameterBuilder" />
+      <MemberSignature Language="F#" Value="member this.WithPkce : string -&gt; Microsoft.Identity.Client.GetAuthorizationRequestUrlParameterBuilder" Usage="getAuthorizationRequestUrlParameterBuilder.WithPkce codeVerifier" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Identity.Client</AssemblyName>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Microsoft.Identity.Client.GetAuthorizationRequestUrlParameterBuilder</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="codeVerifier" Type="System.String" RefType="out" />
+      </Parameters>
+      <Docs>
+        <param name="codeVerifier">MSAL.NET will generate it. </param>
+        <summary>
+            Used to secure authorization code grant via Proof of Key for Code Exchange (PKCE).
+            For more information, see the PKCE RCF:
+            https://tools.ietf.org/html/rfc7636
+            </summary>
+        <returns />
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
     <Member MemberName="WithRedirectUri">
       <MemberSignature Language="C#" Value="public Microsoft.Identity.Client.GetAuthorizationRequestUrlParameterBuilder WithRedirectUri (string redirectUri);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig instance class Microsoft.Identity.Client.GetAuthorizationRequestUrlParameterBuilder WithRedirectUri(string redirectUri) cil managed" />
@@ -343,38 +207,11 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Client</AssemblyName>
-        <AssemblyVersion>4.7.0.0</AssemblyVersion>
-        <AssemblyVersion>4.7.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.0.0</AssemblyVersion>
-        <AssemblyVersion>4.8.1.0</AssemblyVersion>
-        <AssemblyVersion>4.8.2.0</AssemblyVersion>
-        <AssemblyVersion>4.9.0.0</AssemblyVersion>
-        <AssemblyVersion>4.10.0.0</AssemblyVersion>
-        <AssemblyVersion>4.11.0.0</AssemblyVersion>
-        <AssemblyVersion>4.12.0.0</AssemblyVersion>
-        <AssemblyVersion>4.13.0.0</AssemblyVersion>
-        <AssemblyVersion>4.14.0.0</AssemblyVersion>
-        <AssemblyVersion>4.15.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.0.0</AssemblyVersion>
-        <AssemblyVersion>4.16.1.0</AssemblyVersion>
-        <AssemblyVersion>4.17.0.0</AssemblyVersion>
-        <AssemblyVersion>4.17.1.0</AssemblyVersion>
-        <AssemblyVersion>4.18.0.0</AssemblyVersion>
-        <AssemblyVersion>4.19.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.0.0</AssemblyVersion>
-        <AssemblyVersion>4.20.1.0</AssemblyVersion>
-        <AssemblyVersion>4.21.0.0</AssemblyVersion>
-        <AssemblyVersion>4.21.1.0</AssemblyVersion>
-        <AssemblyVersion>4.22.0.0</AssemblyVersion>
-        <AssemblyVersion>4.23.0.0</AssemblyVersion>
-        <AssemblyVersion>4.24.0.0</AssemblyVersion>
-        <AssemblyVersion>4.25.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.0.0</AssemblyVersion>
-        <AssemblyVersion>4.26.1.0</AssemblyVersion>
-        <AssemblyVersion>4.27.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.0.0</AssemblyVersion>
-        <AssemblyVersion>4.28.1.0</AssemblyVersion>
-        <AssemblyVersion>4.29.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.0.0</AssemblyVersion>
+        <AssemblyVersion>4.30.1.0</AssemblyVersion>
+        <AssemblyVersion>4.31.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.0.0</AssemblyVersion>
+        <AssemblyVersion>4.32.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.GetAuthorizationRequestUrlParameterBuilder</ReturnType>

@@ -284,6 +284,11 @@
           href: ~/api/overview/azure/ai.textanalytics-readme.md
           children:
           - 'Azure.AI.TextAnalytics*'
+        - name: Translation
+          uid: azure.net.sdk.landingPage.services.CognitiveServices.Client.Translation
+          href: ~/api/overview/azure/ai.translation.document-readme-pre.md
+          children:
+          - 'Azure.AI.Translation.Document*'
         - name: QnA Maker 
           uid: azure.net.sdk.landingPage.services.CognitiveServices.Client.QnAMaker
           landingPageType: Service
@@ -293,31 +298,39 @@
     uid: azure.net.sdk.landingPage.services.Communication
     landingPageType: Service
     items:
-    - name: Administration
-      uid: azure.net.sdk.landingPage.services.Communication.Administration
-      href: ~/api/overview/azure/communication.administration-readme-pre.md
-      children:
-      - 'Azure.Communication.Administration*'
     - name: Chat
       uid: azure.net.sdk.landingPage.services.Communication.Chat
-      href: ~/api/overview/azure/communication.chat-readme-pre.md
+      href: ~/api/overview/azure/communication.chat-readme.md
       children:
       - 'Azure.Communication.Chat*'
     - name: Common
       uid: azure.net.sdk.landingPage.services.Communication.Common
-      href: ~/api/overview/azure/communication.common-readme-pre.md
+      href: ~/api/overview/azure/communication.common-readme.md
       children:
-      - 'Azure.Communication'
       - 'Azure.Communication.Common*'
+    - name: Identity
+      uid: azure.net.sdk.landingPage.services.Communication.Identity
+      href: ~/api/overview/azure/communication.identity-readme.md
+      children:
       - 'Azure.Communication.Identity*'
+    - name: Network Traversal
+      uid: azure.net.sdk.landingPage.services.Communication.NetworkTraversal
+      landingPageType: Service
+      children:
+      - 'Azure.Communication.NetworkTraversal*'
+    - name: Phone Numbers
+      uid: azure.net.sdk.landingPage.services.Communication.PhoneNumbers
+      href: ~/api/overview/azure/communication.sms-readme.md
+      children:
+      - 'Azure.Communication.PhoneNumbers*'
     - name: SMS
       uid: azure.net.sdk.landingPage.services.Communication.SMS
-      href: ~/api/overview/azure/communication.sms-readme-pre.md
+      href: ~/api/overview/azure/communication.sms-readme.md
       children:
       - 'Azure.Communication.Sms*'
     - name: Management
       uid: azure.net.sdk.landingPage.services.Communication.Management
-      href: ~/api/overview/azure/resourcemanager.communication-readme-pre.md
+      href: ~/api/overview/azure/resourcemanager.communication-readme.md
       children:
       - 'Azure.ResourceManager.Communication*'
   - name: Consumption
@@ -342,6 +355,11 @@
     uid: azure.net.sdk.landingPage.services.containerregistry
     landingPageType: Service
     items:
+    - name: Client
+      uid: azure.net.sdk.landingPage.services.ContainerRegistry.Client
+      href: ~/api/overview/azure/containers.containerregistry-readme-pre.md
+      children:
+      - 'Azure.Containers.ContainerRegistry*'
     - name: Management
       uid: azure.net.sdk.landingPage.services.containerregistry.management
       landingPageType: Service
@@ -861,6 +879,11 @@
       landingPageType: Service
       children:
       - 'Microsoft.Azure.Management.Purview*'
+    - name: Client
+      uid: azure.net.sdk.landingPage.services.purview.Client
+      landingPageType: Service
+      children:
+      - 'Azure.Analytics.Purview.Scanning*'
   - name: Recovery Services and Backup
     uid: azure.net.sdk.landingPage.services.Recovery
     href: ~/api/overview/azure/recovery-services.md
@@ -1193,6 +1216,20 @@
       landingPageType: Service
       children:
       - 'Microsoft.Azure.Management.TrafficManager*'
+  - name: Translation
+    uid: azure.net.sdk.landingPage.services.Translation
+    href: ~/api/overview/azure/ai.translation.document-readme-pre.md
+    children:
+    - 'Azure.AI.Translation.Document*'
+  - name: Video Analyzer
+    uid: azure.net.sdk.landingPage.services.VideoAnalyzer
+    landingPageType: Service
+    items:
+    - name: Management
+      uid: azure.net.sdk.landingPage.services.VideoAnalyzer.Management
+      landingPageType: Service
+      children:
+      - 'Microsoft.Azure.Management.VideoAnalyzer*'
   - name: Virtual Machines
     uid: azure.net.sdk.landingPage.services.VirtualMachines
     href: ~/api/overview/azure/virtualmachines.md
@@ -1212,6 +1249,16 @@
       landingPageType: Service
       children:
       - 'Microsoft.Azure.Management.WorkloadMonitor*'
+  - name: Web PubSub
+    uid: azure.net.sdk.landingPage.services.webpubsub
+    href: ~/api/overview/azure/messaging.webpubsub-readme-pre.md
+    landingPageType: Service
+    items:
+    - name: Client
+      uid: azure.net.sdk.landingPage.services.webpubsub.Client
+      landingPageType: Service
+      children:
+      - 'Azure.Messaging.WebPubSub*'
   - name: Other
     uid: azure.net.sdk.landingPage.services.Other
     landingPageType: Service

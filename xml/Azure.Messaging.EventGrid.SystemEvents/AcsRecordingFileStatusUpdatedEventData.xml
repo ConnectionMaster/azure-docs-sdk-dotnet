@@ -7,6 +7,8 @@
   <AssemblyInfo>
     <AssemblyName>Azure.Messaging.EventGrid</AssemblyName>
     <AssemblyVersion>4.1.0.0</AssemblyVersion>
+    <AssemblyVersion>4.2.0.0</AssemblyVersion>
+    <AssemblyVersion>4.3.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -14,12 +16,12 @@
   <Interfaces />
   <Attributes>
     <Attribute>
-      <AttributeName Language="C#">[System.Text.Json.Serialization.JsonConverter(typeof(Azure.Messaging.EventGrid.SystemEvents.AcsRecordingFileStatusUpdatedEventData/AcsRecordingFileStatusUpdatedEventDataConverter))]</AttributeName>
-      <AttributeName Language="F#">[&lt;System.Text.Json.Serialization.JsonConverter(typeof(Azure.Messaging.EventGrid.SystemEvents.AcsRecordingFileStatusUpdatedEventData/AcsRecordingFileStatusUpdatedEventDataConverter))&gt;]</AttributeName>
+      <AttributeName Language="C#">[System.Text.Json.Serialization.JsonConverter(typeof(Azure.Messaging.EventGrid.SystemEvents.AcsRecordingFileStatusUpdatedEventData+AcsRecordingFileStatusUpdatedEventDataConverter))]</AttributeName>
+      <AttributeName Language="F#">[&lt;System.Text.Json.Serialization.JsonConverter(typeof(Azure.Messaging.EventGrid.SystemEvents.AcsRecordingFileStatusUpdatedEventData+AcsRecordingFileStatusUpdatedEventDataConverter))&gt;]</AttributeName>
     </Attribute>
   </Attributes>
   <Docs>
-    <summary> Schema of the Data property of an EventGridEvent for an Microsoft.Communication.RecordingFileStatusUpdated event. </summary>
+    <summary> Schema of the Data property of an EventGridEvent for a Microsoft.Communication.RecordingFileStatusUpdated event. </summary>
     <remarks>To be added.</remarks>
   </Docs>
   <Members>
@@ -33,6 +35,8 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventGrid</AssemblyName>
         <AssemblyVersion>4.1.0.0</AssemblyVersion>
+        <AssemblyVersion>4.2.0.0</AssemblyVersion>
+        <AssemblyVersion>4.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int64&gt;</ReturnType>
@@ -53,6 +57,8 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventGrid</AssemblyName>
         <AssemblyVersion>4.1.0.0</AssemblyVersion>
+        <AssemblyVersion>4.2.0.0</AssemblyVersion>
+        <AssemblyVersion>4.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.DateTimeOffset&gt;</ReturnType>
@@ -73,6 +79,8 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventGrid</AssemblyName>
         <AssemblyVersion>4.1.0.0</AssemblyVersion>
+        <AssemblyVersion>4.2.0.0</AssemblyVersion>
+        <AssemblyVersion>4.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Messaging.EventGrid.SystemEvents.AcsRecordingStorageInfoProperties</ReturnType>
@@ -93,6 +101,8 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventGrid</AssemblyName>
         <AssemblyVersion>4.1.0.0</AssemblyVersion>
+        <AssemblyVersion>4.2.0.0</AssemblyVersion>
+        <AssemblyVersion>4.3.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

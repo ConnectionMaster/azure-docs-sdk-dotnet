@@ -6,8 +6,7 @@
   <TypeSignature Language="F#" Value="type RelayedHttpListenerResponse = class&#xA;    interface IDisposable" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Relay</AssemblyName>
-    <AssemblyVersion>2.0.1.0</AssemblyVersion>
-    <AssemblyVersion>2.0.1523.4</AssemblyVersion>
+    <AssemblyVersion>2.0.1559.6</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -34,8 +33,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Relay</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>2.0.1523.4</AssemblyVersion>
+        <AssemblyVersion>2.0.1559.6</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -55,8 +53,7 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Relay</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>2.0.1523.4</AssemblyVersion>
+        <AssemblyVersion>2.0.1559.6</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -77,8 +74,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Relay</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>2.0.1523.4</AssemblyVersion>
+        <AssemblyVersion>2.0.1559.6</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Net.WebHeaderCollection</ReturnType>
@@ -100,8 +96,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Relay</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>2.0.1523.4</AssemblyVersion>
+        <AssemblyVersion>2.0.1559.6</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.IO.Stream</ReturnType>
@@ -121,8 +116,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Relay</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>2.0.1523.4</AssemblyVersion>
+        <AssemblyVersion>2.0.1559.6</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Net.HttpStatusCode</ReturnType>
@@ -145,8 +139,7 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Relay</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>2.0.1523.4</AssemblyVersion>
+        <AssemblyVersion>2.0.1559.6</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -172,8 +165,7 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Relay</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>2.0.1523.4</AssemblyVersion>
+        <AssemblyVersion>2.0.1559.6</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>

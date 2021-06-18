@@ -1,40 +1,25 @@
 <Type Name="ChannelMessageProcessingException" FullName="Microsoft.Azure.Devices.Client.Transport.Mqtt.ChannelMessageProcessingException">
   <TypeSignature Language="C#" Value="public class ChannelMessageProcessingException : Exception" />
-  <TypeSignature Language="ILAsm" Value=".class public auto ansi serializable beforefieldinit ChannelMessageProcessingException extends System.Exception" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi serializable beforefieldinit ChannelMessageProcessingException extends System.Exception" FrameworkAlternate="azure-dotnet" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Azure.Devices.Client.Transport.Mqtt.ChannelMessageProcessingException" />
   <TypeSignature Language="VB.NET" Value="Public Class ChannelMessageProcessingException&#xA;Inherits Exception" />
   <TypeSignature Language="F#" Value="type ChannelMessageProcessingException = class&#xA;    inherit Exception" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi beforefieldinit ChannelMessageProcessingException extends System.Exception" FrameworkAlternate="azure-dotnet-preview" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-    <AssemblyVersion>1.21.2.0</AssemblyVersion>
-    <AssemblyVersion>1.21.3.0</AssemblyVersion>
-    <AssemblyVersion>1.21.4.0</AssemblyVersion>
-    <AssemblyVersion>1.22.0.0</AssemblyVersion>
-    <AssemblyVersion>1.23.0.0</AssemblyVersion>
-    <AssemblyVersion>1.23.1.0</AssemblyVersion>
-    <AssemblyVersion>1.23.2.0</AssemblyVersion>
-    <AssemblyVersion>1.24.0.0</AssemblyVersion>
-    <AssemblyVersion>1.25.0.0</AssemblyVersion>
-    <AssemblyVersion>1.26.0.0</AssemblyVersion>
-    <AssemblyVersion>1.27.0.0</AssemblyVersion>
-    <AssemblyVersion>1.28.0.0</AssemblyVersion>
-    <AssemblyVersion>1.30.0.0</AssemblyVersion>
-    <AssemblyVersion>1.31.0.0</AssemblyVersion>
-    <AssemblyVersion>1.31.1.0</AssemblyVersion>
-    <AssemblyVersion>1.31.2.0</AssemblyVersion>
     <AssemblyVersion>1.32.0.0</AssemblyVersion>
-    <AssemblyVersion>1.33.0.0</AssemblyVersion>
-    <AssemblyVersion>1.33.1.0</AssemblyVersion>
-    <AssemblyVersion>1.34.0.0</AssemblyVersion>
-    <AssemblyVersion>1.35.0.0</AssemblyVersion>
     <AssemblyVersion>1.36.0.0</AssemblyVersion>
+    <AssemblyVersion>1.37.0.0</AssemblyVersion>
+    <AssemblyVersion>1.37.1.0</AssemblyVersion>
+    <AssemblyVersion>1.37.2.0</AssemblyVersion>
+    <AssemblyVersion>1.38.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Exception</BaseTypeName>
   </Base>
   <Interfaces />
   <Attributes>
-    <Attribute>
+    <Attribute FrameworkAlternate="azure-dotnet">
       <AttributeName Language="C#">[System.Serializable]</AttributeName>
       <AttributeName Language="F#">[&lt;System.Serializable&gt;]</AttributeName>
     </Attribute>
@@ -55,28 +40,12 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="innerException" Type="System.Exception" />
@@ -101,13 +70,15 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
-        <Parameter Name="info" Type="System.Runtime.Serialization.SerializationInfo" />
-        <Parameter Name="context" Type="System.Runtime.Serialization.StreamingContext" />
+        <Parameter Name="info" Type="System.Runtime.Serialization.SerializationInfo" Index="0" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="context" Type="System.Runtime.Serialization.StreamingContext" Index="1" FrameworkAlternate="azure-dotnet" />
       </Parameters>
       <Docs>
         <param name="info">An object that holds the serialized object data about the exception being thrown.</param>
@@ -127,28 +98,12 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Devices.Client</AssemblyName>
-        <AssemblyVersion>1.21.2.0</AssemblyVersion>
-        <AssemblyVersion>1.21.3.0</AssemblyVersion>
-        <AssemblyVersion>1.21.4.0</AssemblyVersion>
-        <AssemblyVersion>1.22.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.0.0</AssemblyVersion>
-        <AssemblyVersion>1.23.1.0</AssemblyVersion>
-        <AssemblyVersion>1.23.2.0</AssemblyVersion>
-        <AssemblyVersion>1.24.0.0</AssemblyVersion>
-        <AssemblyVersion>1.25.0.0</AssemblyVersion>
-        <AssemblyVersion>1.26.0.0</AssemblyVersion>
-        <AssemblyVersion>1.27.0.0</AssemblyVersion>
-        <AssemblyVersion>1.28.0.0</AssemblyVersion>
-        <AssemblyVersion>1.30.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.0.0</AssemblyVersion>
-        <AssemblyVersion>1.31.1.0</AssemblyVersion>
-        <AssemblyVersion>1.31.2.0</AssemblyVersion>
         <AssemblyVersion>1.32.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.0.0</AssemblyVersion>
-        <AssemblyVersion>1.33.1.0</AssemblyVersion>
-        <AssemblyVersion>1.34.0.0</AssemblyVersion>
-        <AssemblyVersion>1.35.0.0</AssemblyVersion>
         <AssemblyVersion>1.36.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.0.0</AssemblyVersion>
+        <AssemblyVersion>1.37.1.0</AssemblyVersion>
+        <AssemblyVersion>1.37.2.0</AssemblyVersion>
+        <AssemblyVersion>1.38.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>DotNetty.Transport.Channels.IChannelHandlerContext</ReturnType>

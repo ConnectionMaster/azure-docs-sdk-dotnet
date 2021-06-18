@@ -7,8 +7,6 @@
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
     <AssemblyVersion>0.13.0.0</AssemblyVersion>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <AssemblyVersion>2.0.0.0</AssemblyVersion>
     <AssemblyVersion>2.1.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
@@ -32,8 +30,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -75,8 +71,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -122,8 +116,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -168,8 +160,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -259,8 +249,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -358,8 +346,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -458,8 +444,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -501,8 +485,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -548,8 +530,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -595,8 +575,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -637,8 +615,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -683,8 +659,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -729,8 +703,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -771,8 +743,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -817,8 +787,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -863,8 +831,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -902,8 +868,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -945,8 +909,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1243,8 +1205,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1290,8 +1250,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1341,8 +1299,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1391,8 +1347,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1463,8 +1417,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1545,8 +1497,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1662,7 +1612,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1734,7 +1683,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1809,7 +1757,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1844,8 +1791,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -1924,8 +1869,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2014,8 +1957,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2105,8 +2046,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2143,8 +2082,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2186,8 +2123,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2228,8 +2163,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2300,8 +2233,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2382,8 +2313,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2465,8 +2394,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2499,8 +2426,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2538,8 +2463,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2577,8 +2500,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2615,8 +2536,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2658,8 +2577,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2701,8 +2618,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2750,8 +2665,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2803,8 +2716,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2855,7 +2766,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2882,7 +2792,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2911,7 +2820,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2940,7 +2848,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -2969,7 +2876,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -3000,7 +2906,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -3032,8 +2937,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -3067,8 +2970,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -3106,8 +3007,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -3137,8 +3036,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -3172,8 +3069,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -3207,8 +3102,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -3246,8 +3139,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -3285,8 +3176,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -3328,8 +3217,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -3370,7 +3257,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -3405,7 +3291,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -3442,7 +3327,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -3479,8 +3363,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -3575,8 +3457,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -3679,8 +3559,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -3783,8 +3661,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -3909,8 +3785,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -4043,8 +3917,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -4178,8 +4050,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -4221,8 +4091,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -4268,8 +4136,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -4314,7 +4180,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -4355,7 +4220,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -4398,8 +4262,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -4488,8 +4350,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -4586,8 +4446,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -4684,7 +4542,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -4728,8 +4585,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -4767,8 +4622,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -4810,8 +4663,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -4858,8 +4709,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -4910,8 +4759,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -4962,8 +4809,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -4997,8 +4842,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -5036,8 +4879,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -5075,8 +4916,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -5118,8 +4957,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -5153,8 +4990,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -5192,8 +5027,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -5223,8 +5056,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -5258,8 +5089,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -5293,8 +5122,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -5332,8 +5159,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -5376,8 +5201,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -5423,8 +5246,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -5515,8 +5336,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -5615,8 +5434,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -5715,8 +5532,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -5841,8 +5656,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -5975,8 +5788,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6110,8 +5921,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6149,8 +5958,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6192,8 +5999,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6235,8 +6040,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6283,8 +6086,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6326,8 +6127,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6373,8 +6172,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6420,8 +6217,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6477,8 +6272,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6538,8 +6331,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6598,7 +6389,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6627,7 +6417,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6658,7 +6447,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6689,7 +6477,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6724,7 +6511,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6761,7 +6547,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6799,8 +6584,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6838,8 +6621,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6881,8 +6662,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6923,7 +6702,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6954,7 +6732,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -6987,7 +6764,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -7020,7 +6796,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -7051,7 +6826,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -7084,7 +6858,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -7118,7 +6891,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction</ReturnType>
@@ -7151,15 +6923,14 @@
       </Docs>
     </Member>
     <Member MemberName="QuickTestImage">
-      <MemberSignature Language="C#" Value="public static Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction QuickTestImage (this Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, Guid projectId, System.IO.Stream imageData, Guid? iterationId = default, bool? store = true);" />
+      <MemberSignature Language="C#" Value="public static Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction QuickTestImage (this Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, Guid projectId, System.IO.Stream imageData, Guid? iterationId = default, bool? store = True);" />
       <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction QuickTestImage(class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, valuetype System.Guid projectId, class System.IO.Stream imageData, valuetype System.Nullable`1&lt;valuetype System.Guid&gt; iterationId, valuetype System.Nullable`1&lt;bool&gt; store) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.CustomVisionTrainingClientExtensions.QuickTestImage(Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient,System.Guid,System.IO.Stream,System.Nullable{System.Guid},System.Nullable{System.Boolean})" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function QuickTestImage (operations As ICustomVisionTrainingClient, projectId As Guid, imageData As Stream, Optional iterationId As Nullable(Of Guid) = Nothing, Optional store As Nullable(Of Boolean) = true) As ImagePrediction" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function QuickTestImage (operations As ICustomVisionTrainingClient, projectId As Guid, imageData As Stream, Optional iterationId As Nullable(Of Guid) = Nothing, Optional store As Nullable(Of Boolean) = True) As ImagePrediction" />
       <MemberSignature Language="F#" Value="static member QuickTestImage : Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient * Guid * System.IO.Stream * Nullable&lt;Guid&gt; * Nullable&lt;bool&gt; -&gt; Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction" Usage="Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.CustomVisionTrainingClientExtensions.QuickTestImage (operations, projectId, imageData, iterationId, store)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -7193,7 +6964,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt;</ReturnType>
@@ -7230,15 +7000,14 @@
       </Docs>
     </Member>
     <Member MemberName="QuickTestImageAsync">
-      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt; QuickTestImageAsync (this Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, Guid projectId, System.IO.Stream imageData, Guid? iterationId = default, bool? store = true, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt; QuickTestImageAsync (this Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, Guid projectId, System.IO.Stream imageData, Guid? iterationId = default, bool? store = True, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt; QuickTestImageAsync(class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, valuetype System.Guid projectId, class System.IO.Stream imageData, valuetype System.Nullable`1&lt;valuetype System.Guid&gt; iterationId, valuetype System.Nullable`1&lt;bool&gt; store, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.CustomVisionTrainingClientExtensions.QuickTestImageAsync(Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient,System.Guid,System.IO.Stream,System.Nullable{System.Guid},System.Nullable{System.Boolean},System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function QuickTestImageAsync (operations As ICustomVisionTrainingClient, projectId As Guid, imageData As Stream, Optional iterationId As Nullable(Of Guid) = Nothing, Optional store As Nullable(Of Boolean) = true, Optional cancellationToken As CancellationToken = Nothing) As Task(Of ImagePrediction)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function QuickTestImageAsync (operations As ICustomVisionTrainingClient, projectId As Guid, imageData As Stream, Optional iterationId As Nullable(Of Guid) = Nothing, Optional store As Nullable(Of Boolean) = True, Optional cancellationToken As CancellationToken = Nothing) As Task(Of ImagePrediction)" />
       <MemberSignature Language="F#" Value="static member QuickTestImageAsync : Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient * Guid * System.IO.Stream * Nullable&lt;Guid&gt; * Nullable&lt;bool&gt; * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt;" Usage="Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.CustomVisionTrainingClientExtensions.QuickTestImageAsync (operations, projectId, imageData, iterationId, store, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -7274,7 +7043,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction</ReturnType>
@@ -7308,15 +7076,14 @@
       </Docs>
     </Member>
     <Member MemberName="QuickTestImageUrl">
-      <MemberSignature Language="C#" Value="public static Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction QuickTestImageUrl (this Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, Guid projectId, Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImageUrl imageUrl, Guid? iterationId = default, bool? store = true);" />
+      <MemberSignature Language="C#" Value="public static Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction QuickTestImageUrl (this Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, Guid projectId, Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImageUrl imageUrl, Guid? iterationId = default, bool? store = True);" />
       <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction QuickTestImageUrl(class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, valuetype System.Guid projectId, class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImageUrl imageUrl, valuetype System.Nullable`1&lt;valuetype System.Guid&gt; iterationId, valuetype System.Nullable`1&lt;bool&gt; store) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.CustomVisionTrainingClientExtensions.QuickTestImageUrl(Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient,System.Guid,Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImageUrl,System.Nullable{System.Guid},System.Nullable{System.Boolean})" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function QuickTestImageUrl (operations As ICustomVisionTrainingClient, projectId As Guid, imageUrl As ImageUrl, Optional iterationId As Nullable(Of Guid) = Nothing, Optional store As Nullable(Of Boolean) = true) As ImagePrediction" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function QuickTestImageUrl (operations As ICustomVisionTrainingClient, projectId As Guid, imageUrl As ImageUrl, Optional iterationId As Nullable(Of Guid) = Nothing, Optional store As Nullable(Of Boolean) = True) As ImagePrediction" />
       <MemberSignature Language="F#" Value="static member QuickTestImageUrl : Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient * Guid * Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImageUrl * Nullable&lt;Guid&gt; * Nullable&lt;bool&gt; -&gt; Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction" Usage="Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.CustomVisionTrainingClientExtensions.QuickTestImageUrl (operations, projectId, imageUrl, iterationId, store)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -7350,7 +7117,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt;</ReturnType>
@@ -7388,15 +7154,14 @@
       </Docs>
     </Member>
     <Member MemberName="QuickTestImageUrlAsync">
-      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt; QuickTestImageUrlAsync (this Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, Guid projectId, Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImageUrl imageUrl, Guid? iterationId = default, bool? store = true, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt; QuickTestImageUrlAsync (this Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, Guid projectId, Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImageUrl imageUrl, Guid? iterationId = default, bool? store = True, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt; QuickTestImageUrlAsync(class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, valuetype System.Guid projectId, class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImageUrl imageUrl, valuetype System.Nullable`1&lt;valuetype System.Guid&gt; iterationId, valuetype System.Nullable`1&lt;bool&gt; store, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.CustomVisionTrainingClientExtensions.QuickTestImageUrlAsync(Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient,System.Guid,Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImageUrl,System.Nullable{System.Guid},System.Nullable{System.Boolean},System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function QuickTestImageUrlAsync (operations As ICustomVisionTrainingClient, projectId As Guid, imageUrl As ImageUrl, Optional iterationId As Nullable(Of Guid) = Nothing, Optional store As Nullable(Of Boolean) = true, Optional cancellationToken As CancellationToken = Nothing) As Task(Of ImagePrediction)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function QuickTestImageUrlAsync (operations As ICustomVisionTrainingClient, projectId As Guid, imageUrl As ImageUrl, Optional iterationId As Nullable(Of Guid) = Nothing, Optional store As Nullable(Of Boolean) = True, Optional cancellationToken As CancellationToken = Nothing) As Task(Of ImagePrediction)" />
       <MemberSignature Language="F#" Value="static member QuickTestImageUrlAsync : Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient * Guid * Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImageUrl * Nullable&lt;Guid&gt; * Nullable&lt;bool&gt; * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt;" Usage="Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.CustomVisionTrainingClientExtensions.QuickTestImageUrlAsync (operations, projectId, imageUrl, iterationId, store, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -7432,7 +7197,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.HttpOperationResponse&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt;</ReturnType>
@@ -7470,15 +7234,14 @@
       </Docs>
     </Member>
     <Member MemberName="QuickTestImageUrlWithHttpMessages">
-      <MemberSignature Language="C#" Value="public static Microsoft.Rest.HttpOperationResponse&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt; QuickTestImageUrlWithHttpMessages (this Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, Guid projectId, Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImageUrl imageUrl, Guid? iterationId = default, bool? store = true, System.Collections.Generic.Dictionary&lt;string,System.Collections.Generic.List&lt;string&gt;&gt; customHeaders = default);" />
+      <MemberSignature Language="C#" Value="public static Microsoft.Rest.HttpOperationResponse&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt; QuickTestImageUrlWithHttpMessages (this Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, Guid projectId, Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImageUrl imageUrl, Guid? iterationId = default, bool? store = True, System.Collections.Generic.Dictionary&lt;string,System.Collections.Generic.List&lt;string&gt;&gt; customHeaders = default);" />
       <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Microsoft.Rest.HttpOperationResponse`1&lt;class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt; QuickTestImageUrlWithHttpMessages(class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, valuetype System.Guid projectId, class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImageUrl imageUrl, valuetype System.Nullable`1&lt;valuetype System.Guid&gt; iterationId, valuetype System.Nullable`1&lt;bool&gt; store, class System.Collections.Generic.Dictionary`2&lt;string, class System.Collections.Generic.List`1&lt;string&gt;&gt; customHeaders) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.CustomVisionTrainingClientExtensions.QuickTestImageUrlWithHttpMessages(Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient,System.Guid,Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImageUrl,System.Nullable{System.Guid},System.Nullable{System.Boolean},System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.List{System.String}})" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function QuickTestImageUrlWithHttpMessages (operations As ICustomVisionTrainingClient, projectId As Guid, imageUrl As ImageUrl, Optional iterationId As Nullable(Of Guid) = Nothing, Optional store As Nullable(Of Boolean) = true, Optional customHeaders As Dictionary(Of String, List(Of String)) = Nothing) As HttpOperationResponse(Of ImagePrediction)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function QuickTestImageUrlWithHttpMessages (operations As ICustomVisionTrainingClient, projectId As Guid, imageUrl As ImageUrl, Optional iterationId As Nullable(Of Guid) = Nothing, Optional store As Nullable(Of Boolean) = True, Optional customHeaders As Dictionary(Of String, List(Of String)) = Nothing) As HttpOperationResponse(Of ImagePrediction)" />
       <MemberSignature Language="F#" Value="static member QuickTestImageUrlWithHttpMessages : Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient * Guid * Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImageUrl * Nullable&lt;Guid&gt; * Nullable&lt;bool&gt; * System.Collections.Generic.Dictionary&lt;string, System.Collections.Generic.List&lt;string&gt;&gt; -&gt; Microsoft.Rest.HttpOperationResponse&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt;" Usage="Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.CustomVisionTrainingClientExtensions.QuickTestImageUrlWithHttpMessages (operations, projectId, imageUrl, iterationId, store, customHeaders)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -7514,7 +7277,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.HttpOperationResponse&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt;</ReturnType>
@@ -7551,15 +7313,14 @@
       </Docs>
     </Member>
     <Member MemberName="QuickTestImageWithHttpMessages">
-      <MemberSignature Language="C#" Value="public static Microsoft.Rest.HttpOperationResponse&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt; QuickTestImageWithHttpMessages (this Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, Guid projectId, System.IO.Stream imageData, Guid? iterationId = default, bool? store = true, System.Collections.Generic.Dictionary&lt;string,System.Collections.Generic.List&lt;string&gt;&gt; customHeaders = default);" />
+      <MemberSignature Language="C#" Value="public static Microsoft.Rest.HttpOperationResponse&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt; QuickTestImageWithHttpMessages (this Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, Guid projectId, System.IO.Stream imageData, Guid? iterationId = default, bool? store = True, System.Collections.Generic.Dictionary&lt;string,System.Collections.Generic.List&lt;string&gt;&gt; customHeaders = default);" />
       <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Microsoft.Rest.HttpOperationResponse`1&lt;class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt; QuickTestImageWithHttpMessages(class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, valuetype System.Guid projectId, class System.IO.Stream imageData, valuetype System.Nullable`1&lt;valuetype System.Guid&gt; iterationId, valuetype System.Nullable`1&lt;bool&gt; store, class System.Collections.Generic.Dictionary`2&lt;string, class System.Collections.Generic.List`1&lt;string&gt;&gt; customHeaders) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.CustomVisionTrainingClientExtensions.QuickTestImageWithHttpMessages(Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient,System.Guid,System.IO.Stream,System.Nullable{System.Guid},System.Nullable{System.Boolean},System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.List{System.String}})" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function QuickTestImageWithHttpMessages (operations As ICustomVisionTrainingClient, projectId As Guid, imageData As Stream, Optional iterationId As Nullable(Of Guid) = Nothing, Optional store As Nullable(Of Boolean) = true, Optional customHeaders As Dictionary(Of String, List(Of String)) = Nothing) As HttpOperationResponse(Of ImagePrediction)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function QuickTestImageWithHttpMessages (operations As ICustomVisionTrainingClient, projectId As Guid, imageData As Stream, Optional iterationId As Nullable(Of Guid) = Nothing, Optional store As Nullable(Of Boolean) = True, Optional customHeaders As Dictionary(Of String, List(Of String)) = Nothing) As HttpOperationResponse(Of ImagePrediction)" />
       <MemberSignature Language="F#" Value="static member QuickTestImageWithHttpMessages : Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient * Guid * System.IO.Stream * Nullable&lt;Guid&gt; * Nullable&lt;bool&gt; * System.Collections.Generic.Dictionary&lt;string, System.Collections.Generic.List&lt;string&gt;&gt; -&gt; Microsoft.Rest.HttpOperationResponse&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.ImagePrediction&gt;" Usage="Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.CustomVisionTrainingClientExtensions.QuickTestImageWithHttpMessages (operations, projectId, imageData, iterationId, store, customHeaders)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -7594,7 +7355,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -7625,7 +7385,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -7658,7 +7417,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -7715,15 +7473,14 @@
       </Docs>
     </Member>
     <Member MemberName="TrainProject">
-      <MemberSignature Language="C#" Value="public static Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.Iteration TrainProject (this Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, Guid projectId, string trainingType = default, int? reservedBudgetInHours = 0, bool? forceTrain = false, string notificationEmailAddress = default, Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.TrainingParameters trainingParameters = default);" />
+      <MemberSignature Language="C#" Value="public static Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.Iteration TrainProject (this Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, Guid projectId, string trainingType = default, int? reservedBudgetInHours = 0, bool? forceTrain = False, string notificationEmailAddress = default, Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.TrainingParameters trainingParameters = default);" />
       <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.Iteration TrainProject(class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, valuetype System.Guid projectId, string trainingType, valuetype System.Nullable`1&lt;int32&gt; reservedBudgetInHours, valuetype System.Nullable`1&lt;bool&gt; forceTrain, string notificationEmailAddress, class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.TrainingParameters trainingParameters) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.CustomVisionTrainingClientExtensions.TrainProject(Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient,System.Guid,System.String,System.Nullable{System.Int32},System.Nullable{System.Boolean},System.String,Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.TrainingParameters)" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function TrainProject (operations As ICustomVisionTrainingClient, projectId As Guid, Optional trainingType As String = Nothing, Optional reservedBudgetInHours As Nullable(Of Integer) = 0, Optional forceTrain As Nullable(Of Boolean) = false, Optional notificationEmailAddress As String = Nothing, Optional trainingParameters As TrainingParameters = Nothing) As Iteration" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function TrainProject (operations As ICustomVisionTrainingClient, projectId As Guid, Optional trainingType As String = Nothing, Optional reservedBudgetInHours As Nullable(Of Integer) = 0, Optional forceTrain As Nullable(Of Boolean) = False, Optional notificationEmailAddress As String = Nothing, Optional trainingParameters As TrainingParameters = Nothing) As Iteration" />
       <MemberSignature Language="F#" Value="static member TrainProject : Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient * Guid * string * Nullable&lt;int&gt; * Nullable&lt;bool&gt; * string * Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.TrainingParameters -&gt; Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.Iteration" Usage="Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.CustomVisionTrainingClientExtensions.TrainProject (operations, projectId, trainingType, reservedBudgetInHours, forceTrain, notificationEmailAddress, trainingParameters)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -7788,15 +7545,14 @@
       </Docs>
     </Member>
     <Member MemberName="TrainProjectAsync">
-      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.Iteration&gt; TrainProjectAsync (this Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, Guid projectId, string trainingType = default, int? reservedBudgetInHours = 0, bool? forceTrain = false, string notificationEmailAddress = default, Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.TrainingParameters trainingParameters = default, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.Iteration&gt; TrainProjectAsync (this Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, Guid projectId, string trainingType = default, int? reservedBudgetInHours = 0, bool? forceTrain = False, string notificationEmailAddress = default, Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.TrainingParameters trainingParameters = default, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.Iteration&gt; TrainProjectAsync(class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, valuetype System.Guid projectId, string trainingType, valuetype System.Nullable`1&lt;int32&gt; reservedBudgetInHours, valuetype System.Nullable`1&lt;bool&gt; forceTrain, string notificationEmailAddress, class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.TrainingParameters trainingParameters, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.CustomVisionTrainingClientExtensions.TrainProjectAsync(Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient,System.Guid,System.String,System.Nullable{System.Int32},System.Nullable{System.Boolean},System.String,Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.TrainingParameters,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function TrainProjectAsync (operations As ICustomVisionTrainingClient, projectId As Guid, Optional trainingType As String = Nothing, Optional reservedBudgetInHours As Nullable(Of Integer) = 0, Optional forceTrain As Nullable(Of Boolean) = false, Optional notificationEmailAddress As String = Nothing, Optional trainingParameters As TrainingParameters = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Iteration)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function TrainProjectAsync (operations As ICustomVisionTrainingClient, projectId As Guid, Optional trainingType As String = Nothing, Optional reservedBudgetInHours As Nullable(Of Integer) = 0, Optional forceTrain As Nullable(Of Boolean) = False, Optional notificationEmailAddress As String = Nothing, Optional trainingParameters As TrainingParameters = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Iteration)" />
       <MemberSignature Language="F#" Value="static member TrainProjectAsync : Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient * Guid * string * Nullable&lt;int&gt; * Nullable&lt;bool&gt; * string * Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.TrainingParameters * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.Iteration&gt;" Usage="Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.CustomVisionTrainingClientExtensions.TrainProjectAsync (operations, projectId, trainingType, reservedBudgetInHours, forceTrain, notificationEmailAddress, trainingParameters, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -7863,15 +7619,14 @@
       </Docs>
     </Member>
     <Member MemberName="TrainProjectWithHttpMessages">
-      <MemberSignature Language="C#" Value="public static Microsoft.Rest.HttpOperationResponse&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.Iteration&gt; TrainProjectWithHttpMessages (this Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, Guid projectId, string trainingType = default, int? reservedBudgetInHours = 0, bool? forceTrain = false, string notificationEmailAddress = default, Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.TrainingParameters trainingParameters = default, System.Collections.Generic.Dictionary&lt;string,System.Collections.Generic.List&lt;string&gt;&gt; customHeaders = default);" />
+      <MemberSignature Language="C#" Value="public static Microsoft.Rest.HttpOperationResponse&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.Iteration&gt; TrainProjectWithHttpMessages (this Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, Guid projectId, string trainingType = default, int? reservedBudgetInHours = 0, bool? forceTrain = False, string notificationEmailAddress = default, Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.TrainingParameters trainingParameters = default, System.Collections.Generic.Dictionary&lt;string,System.Collections.Generic.List&lt;string&gt;&gt; customHeaders = default);" />
       <MemberSignature Language="ILAsm" Value=".method public static hidebysig class Microsoft.Rest.HttpOperationResponse`1&lt;class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.Iteration&gt; TrainProjectWithHttpMessages(class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient operations, valuetype System.Guid projectId, string trainingType, valuetype System.Nullable`1&lt;int32&gt; reservedBudgetInHours, valuetype System.Nullable`1&lt;bool&gt; forceTrain, string notificationEmailAddress, class Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.TrainingParameters trainingParameters, class System.Collections.Generic.Dictionary`2&lt;string, class System.Collections.Generic.List`1&lt;string&gt;&gt; customHeaders) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.CustomVisionTrainingClientExtensions.TrainProjectWithHttpMessages(Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient,System.Guid,System.String,System.Nullable{System.Int32},System.Nullable{System.Boolean},System.String,Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.TrainingParameters,System.Collections.Generic.Dictionary{System.String,System.Collections.Generic.List{System.String}})" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function TrainProjectWithHttpMessages (operations As ICustomVisionTrainingClient, projectId As Guid, Optional trainingType As String = Nothing, Optional reservedBudgetInHours As Nullable(Of Integer) = 0, Optional forceTrain As Nullable(Of Boolean) = false, Optional notificationEmailAddress As String = Nothing, Optional trainingParameters As TrainingParameters = Nothing, Optional customHeaders As Dictionary(Of String, List(Of String)) = Nothing) As HttpOperationResponse(Of Iteration)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function TrainProjectWithHttpMessages (operations As ICustomVisionTrainingClient, projectId As Guid, Optional trainingType As String = Nothing, Optional reservedBudgetInHours As Nullable(Of Integer) = 0, Optional forceTrain As Nullable(Of Boolean) = False, Optional notificationEmailAddress As String = Nothing, Optional trainingParameters As TrainingParameters = Nothing, Optional customHeaders As Dictionary(Of String, List(Of String)) = Nothing) As HttpOperationResponse(Of Iteration)" />
       <MemberSignature Language="F#" Value="static member TrainProjectWithHttpMessages : Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.ICustomVisionTrainingClient * Guid * string * Nullable&lt;int&gt; * Nullable&lt;bool&gt; * string * Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.TrainingParameters * System.Collections.Generic.Dictionary&lt;string, System.Collections.Generic.List&lt;string&gt;&gt; -&gt; Microsoft.Rest.HttpOperationResponse&lt;Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.Models.Iteration&gt;" Usage="Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training.CustomVisionTrainingClientExtensions.TrainProjectWithHttpMessages (operations, projectId, trainingType, reservedBudgetInHours, forceTrain, notificationEmailAddress, trainingParameters, customHeaders)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -7910,8 +7665,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -7947,8 +7700,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -7989,8 +7740,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -8031,7 +7780,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -8062,7 +7810,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -8095,7 +7842,6 @@
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -8129,8 +7875,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -8172,8 +7916,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -8219,8 +7961,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -8266,8 +8006,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -8305,8 +8043,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -8348,8 +8084,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -8391,8 +8125,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -8434,8 +8166,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -8481,8 +8211,6 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training</AssemblyName>
         <AssemblyVersion>0.13.0.0</AssemblyVersion>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <AssemblyVersion>2.0.0.0</AssemblyVersion>
         <AssemblyVersion>2.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>

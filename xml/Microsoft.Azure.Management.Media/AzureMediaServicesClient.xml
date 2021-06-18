@@ -6,9 +6,9 @@
   <TypeSignature Language="F#" Value="type AzureMediaServicesClient = class&#xA;    inherit ServiceClient&lt;AzureMediaServicesClient&gt;&#xA;    interface IAzureMediaServicesClient&#xA;    interface IDisposable&#xA;    interface IAzureClient" />
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-    <AssemblyVersion>2.0.1.0</AssemblyVersion>
-    <AssemblyVersion>3.0.3.0</AssemblyVersion>
     <AssemblyVersion>3.0.4.0</AssemblyVersion>
+    <AssemblyVersion>3.0.5.0</AssemblyVersion>
+    <AssemblyVersion>4.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Microsoft.Rest.ServiceClient&lt;Microsoft.Azure.Management.Media.AzureMediaServicesClient&gt;</BaseTypeName>
@@ -41,9 +41,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="handlers" Type="System.Net.Http.DelegatingHandler[]">
@@ -74,9 +74,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="credentials" Type="Microsoft.Rest.ServiceClientCredentials" />
@@ -114,9 +114,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="httpClient" Type="System.Net.Http.HttpClient" />
@@ -143,9 +143,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="rootHandler" Type="System.Net.Http.HttpClientHandler" />
@@ -180,9 +180,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="baseUri" Type="System.Uri" />
@@ -220,9 +220,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="credentials" Type="Microsoft.Rest.ServiceClientCredentials" />
@@ -256,9 +256,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="credentials" Type="Microsoft.Rest.ServiceClientCredentials" />
@@ -300,9 +300,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="baseUri" Type="System.Uri" />
@@ -344,9 +344,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="baseUri" Type="System.Uri" />
@@ -388,9 +388,9 @@
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="baseUri" Type="System.Uri" />
@@ -439,9 +439,9 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -463,9 +463,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.IAccountFiltersOperations</ReturnType>
@@ -473,30 +473,6 @@
       <Docs>
         <summary>
             Gets the IAccountFiltersOperations.
-            </summary>
-        <value>To be added.</value>
-        <remarks>To be added.</remarks>
-      </Docs>
-    </Member>
-    <Member MemberName="ApiVersion">
-      <MemberSignature Language="C#" Value="public string ApiVersion { get; }" />
-      <MemberSignature Language="ILAsm" Value=".property instance string ApiVersion" />
-      <MemberSignature Language="DocId" Value="P:Microsoft.Azure.Management.Media.AzureMediaServicesClient.ApiVersion" />
-      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property ApiVersion As String" />
-      <MemberSignature Language="F#" Value="member this.ApiVersion : string" Usage="Microsoft.Azure.Management.Media.AzureMediaServicesClient.ApiVersion" />
-      <MemberType>Property</MemberType>
-      <AssemblyInfo>
-        <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
-        <AssemblyVersion>3.0.4.0</AssemblyVersion>
-      </AssemblyInfo>
-      <ReturnValue>
-        <ReturnType>System.String</ReturnType>
-      </ReturnValue>
-      <Docs>
-        <summary>
-            The version of the API to be used with the client request.
             </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
@@ -511,9 +487,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.IAssetFiltersOperations</ReturnType>
@@ -535,9 +511,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.IAssetsOperations</ReturnType>
@@ -562,9 +538,9 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Uri</ReturnType>
@@ -586,9 +562,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.IContentKeyPoliciesOperations</ReturnType>
@@ -610,9 +586,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.ServiceClientCredentials</ReturnType>
@@ -634,9 +610,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Newtonsoft.Json.JsonSerializerSettings</ReturnType>
@@ -662,9 +638,9 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Boolean&gt;</ReturnType>
@@ -688,9 +664,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.IJobsOperations</ReturnType>
@@ -712,9 +688,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.ILiveEventsOperations</ReturnType>
@@ -736,9 +712,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.ILiveOutputsOperations</ReturnType>
@@ -760,9 +736,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.ILocationsOperations</ReturnType>
@@ -788,9 +764,9 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int32&gt;</ReturnType>
@@ -813,9 +789,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.IMediaservicesOperations</ReturnType>
@@ -837,9 +813,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.IOperations</ReturnType>
@@ -861,9 +837,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.IPrivateEndpointConnectionsOperations</ReturnType>
@@ -885,9 +861,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.IPrivateLinkResourcesOperations</ReturnType>
@@ -909,9 +885,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Newtonsoft.Json.JsonSerializerSettings</ReturnType>
@@ -933,9 +909,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.IStreamingEndpointsOperations</ReturnType>
@@ -957,9 +933,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.IStreamingLocatorsOperations</ReturnType>
@@ -981,9 +957,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.IStreamingPoliciesOperations</ReturnType>
@@ -1008,9 +984,9 @@
       </Implements>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -1032,9 +1008,9 @@
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Media</AssemblyName>
-        <AssemblyVersion>2.0.1.0</AssemblyVersion>
-        <AssemblyVersion>3.0.3.0</AssemblyVersion>
         <AssemblyVersion>3.0.4.0</AssemblyVersion>
+        <AssemblyVersion>3.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Media.ITransformsOperations</ReturnType>
